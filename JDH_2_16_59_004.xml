@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:40:20.969-04:00</Created>
+        <LastChange>2023-05-17T02:14:43.570+02:00</LastChange>
+        <TranskribusMetadata docId="464756" pageId="19206106" pageNr="4" tsid="121950137" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=LVWBVRHZNNZALVJZLDJXLDJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDJUFZZRVXBZBPAPTPGWUSXN" imageId="14809839"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_59_004.jpg" imageWidth="1414" imageHeight="2179">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330826625" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="34,77 34,2118 1371,2118 1371,77"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="25,188 263,219 493,192 609,229 805,221 917,161 981,202 1130,143 1114,64 1044,108 787,125 700,94 421,131 198,94 20,126"/>
+                <Baseline points="34,202 88,201 142,200 196,199 251,197 305,194 359,191 414,189 468,185 522,180 577,177 631,172 685,167 739,162 794,157 848,153 902,148 957,142 1011,137 1065,133 1120,127"/>
+                <TextEquiv>
+                    <Unicode>to the trouble of enquiring &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="28,337 311,344 377,303 775,337 1315,255 1311,185 1040,166 634,253 23,248"/>
+                <Baseline points="34,313 97,310 161,306 224,303 288,300 352,295 415,291 479,286 543,282 606,277 670,273 734,269 797,265 861,261 925,257 988,254 1052,251 1116,249 1179,246 1243,245 1307,244"/>
+                <TextEquiv>
+                    <Unicode>&amp; reprimanding against the grain.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="124,433 1381,363 1292,273 874,299 801,349 650,317 549,353 483,316 296,364 204,330 121,382"/>
+                <Baseline points="131,415 193,412 255,408 317,404 379,400 441,397 503,393 565,388 627,384 689,380 751,376 813,372 875,368 937,365 999,361 1061,356 1123,353 1185,349 1247,346 1309,343 1371,339"/>
+                <TextEquiv>
+                    <Unicode>I should like to impress upon him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="73,535 197,553 363,502 470,531 533,481 1303,476 1298,363 1109,440 1017,394 865,460 668,419 292,462 181,423 69,471"/>
+                <Baseline points="81,524 141,520 202,516 263,511 323,507 384,502 445,498 505,494 566,491 627,486 688,483 748,479 809,475 870,472 930,468 991,465 1052,461 1112,458 1173,455 1234,452 1295,448"/>
+                <TextEquiv>
+                    <Unicode>the fact that it is an affair for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="130,668 345,621 453,662 720,655 1074,559 1198,604 1323,581 1317,505 1043,486 712,520 603,586 373,538 122,560"/>
+                <Baseline points="135,633 193,630 252,627 311,623 370,619 429,614 488,610 547,604 606,600 665,595 724,590 782,586 841,581 900,577 959,573 1018,570 1077,567 1136,565 1195,564 1254,563 1313,563"/>
+                <TextEquiv>
+                    <Unicode>Hunts opinion to be final upon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="183,748 479,765 562,721 626,740 759,702 926,746 1029,661 1221,685 1215,598 1183,595 975,666 178,670"/>
+                <Baseline points="189,733 240,733 291,732 342,731 393,729 444,727 495,724 547,720 598,717 649,713 700,709 751,705 802,700 853,697 905,693 956,689 1007,685 1058,683 1109,680 1160,677 1212,676"/>
+                <TextEquiv>
+                    <Unicode>Though so fine a morning, the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="104,888 781,797 1283,786 1256,711 1078,722 1037,762 887,735 581,789 151,778 99,812"/>
+                <Baseline points="109,847 167,845 225,842 283,838 342,835 400,831 458,827 516,823 575,819 633,814 691,810 749,805 808,801 866,797 924,793 982,788 1041,784 1099,780 1157,776 1215,772 1274,769"/>
+                <TextEquiv>
+                    <Unicode>afternoon rained, &amp; it continued</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="141,974 249,941 398,969 469,928 638,964 1130,886 1189,910 1287,893 1281,798 1165,856 996,811 388,912 194,861 137,904"/>
+                <Baseline points="147,948 203,945 260,942 316,939 373,935 430,932 486,927 543,923 599,919 656,915 713,912 769,907 826,904 882,901 939,897 996,895 1052,892 1109,890 1165,888 1222,887 1279,887"/>
+                <TextEquiv>
+                    <Unicode>to rain most of the night. We</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="116,1072 367,1036 471,1059 822,995 1033,1012 1136,986 1129,896 489,981 180,965 111,1007"/>
+                <Baseline points="121,1041 171,1041 221,1040 271,1039 322,1036 372,1033 422,1030 473,1027 523,1023 573,1018 624,1014 674,1010 724,1005 774,1000 825,996 875,992 925,988 976,984 1026,980 1076,977 1127,974"/>
+                <TextEquiv>
+                    <Unicode>had torrential showers this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="112,1145 274,1134 349,1186 450,1122 522,1150 689,1108 1262,1110 1279,1027 1076,1012 938,1062 695,1073 558,1028 467,1086 307,1100 108,1078"/>
+                <Baseline points="120,1138 177,1135 235,1131 292,1128 350,1124 408,1121 465,1118 523,1114 581,1111 638,1108 696,1104 754,1101 811,1097 869,1094 927,1091 984,1087 1042,1084 1100,1080 1157,1077 1215,1074 1273,1070"/>
+                <TextEquiv>
+                    <Unicode>morning, &amp; a fine cold afternoon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="121,1253 318,1287 373,1242 580,1218 963,1240 1331,1179 1329,1142 1121,1104 985,1162 800,1130 570,1202 258,1197 181,1152 117,1177"/>
+                <Baseline points="129,1239 188,1238 248,1237 308,1235 367,1232 427,1229 487,1225 546,1222 606,1218 666,1213 726,1209 785,1205 845,1201 905,1196 964,1192 1024,1188 1084,1185 1143,1181 1203,1179 1263,1177 1323,1175"/>
+                <TextEquiv>
+                    <Unicode>It is a glorious night, &amp; if tomorrow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="144,1392 593,1322 1248,1334 1312,1310 1305,1213 208,1301 141,1341"/>
+                <Baseline points="150,1357 207,1353 265,1348 322,1344 380,1340 438,1335 495,1331 553,1327 610,1323 668,1320 726,1316 783,1312 841,1308 898,1304 956,1301 1014,1297 1071,1294 1129,1290 1186,1288 1244,1285 1302,1282"/>
+                <TextEquiv>
+                    <Unicode>is fine we shall take Stirling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="135,1493 683,1432 836,1480 1141,1435 1319,1471 1311,1344 1225,1325 1162,1364 907,1331 623,1397 314,1355 267,1392 128,1388"/>
+                <Baseline points="140,1461 198,1461 256,1460 314,1458 373,1455 431,1451 489,1447 548,1442 606,1437 664,1432 723,1427 781,1422 839,1417 897,1412 956,1408 1014,1405 1072,1402 1131,1400 1189,1399 1247,1399 1306,1400"/>
+                <TextEquiv>
+                    <Unicode>&amp; the Trossachs returning at night.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="741,1757 795,1734 947,1728 961,1710 1018,1702 1151,1703 1137,1588 1068,1599 1039,1588 1018,1610 964,1614 868,1590 805,1627 777,1663 730,1672"/>
+                <Baseline points="747,1740 773,1735 799,1730 826,1724 852,1719 879,1713 905,1709 931,1705 958,1701 984,1698 1011,1695 1037,1693 1063,1693 1090,1693 1116,1694 1143,1696"/>
+                <TextEquiv>
+                    <Unicode>JDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_312" custom="readingOrder {index:14;}">
+                <Coords points="329,1615 355,1614 381,1611 407,1608 433,1606 460,1604 486,1601 512,1601 538,1601 565,1603 583,1607 610,1607 707,1574 755,1586 758,1572 706,1559 607,1592 584,1592 567,1588 539,1586 512,1586 485,1586 459,1589 432,1591 406,1593 379,1596 354,1599 328,1600"/>
+                <Baseline points="329,1615 355,1614 381,1611 407,1608 433,1606 460,1604 486,1601 512,1601 538,1601 565,1603 583,1607 610,1607 707,1574 755,1586"/>
+                <TextEquiv>
+                    <Unicode>Ever affy ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="736,2102 761,2102 761,2032 736,2034"/>
+                <Baseline points="744,2093 754,2093"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>to the trouble of enquiring &amp;
+&amp; reprimanding against the grain.
+I should like to impress upon him
+the fact that it is an affair for
+Hunts opinion to be final upon.
+Though so fine a morning, the
+afternoon rained, &amp; it continued
+to rain most of the night. We
+had torrential showers this
+morning, &amp; a fine cold afternoon
+It is a glorious night, &amp; if tomorrow
+is fine we shall take Stirling
+&amp; the Trossachs returning at night.
+Ever aff
+JDHooker
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

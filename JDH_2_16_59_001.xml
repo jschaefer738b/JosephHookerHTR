@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:40:20.873-04:00</Created>
+        <LastChange>2023-05-17T02:13:14.016+02:00</LastChange>
+        <TranskribusMetadata docId="464756" pageId="19206103" pageNr="1" tsid="121950057" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=KWCGFEGXNEKSJNJRFLMVHJIO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNXSFCPZQDYOSIESCIUNBVXN" imageId="14809836"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_59_001.jpg" imageWidth="1398" imageHeight="2199">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330825978" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="155,50 155,2076 1341,2076 1341,50"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="653,236 739,211 765,210 790,209 816,207 841,206 867,204 892,203 918,202 943,200 969,198 994,196 1020,194 1045,191 1071,188 1069,173 1043,176 1019,179 993,181 968,183 942,185 917,187 891,188 866,189 840,191 815,192 789,194 764,195 737,196 649,221"/>
+                <Baseline points="653,236 739,211 765,210 790,209 816,207 841,206 867,204 892,203 918,202 943,200 969,198 994,196 1020,194 1045,191 1071,188"/>
+                <TextEquiv>
+                    <Unicode>Craigflower</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="909,346 1042,322 1114,348 1171,388 1226,383 1217,231 1155,245 1129,225 1111,239 1058,242 1011,213 959,237 902,232"/>
+                <Baseline points="915,331 940,329 965,326 990,324 1015,322 1040,321 1065,319 1090,318 1115,317 1140,316 1165,314 1190,312 1215,311"/>
+                <TextEquiv>
+                    <Unicode>Sunday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="781,469 891,469 921,488 991,453 1054,469 1087,455 1169,459 1226,420 1226,384 1171,388 1141,365 1102,377 965,351 905,386 879,369 831,383 809,407 780,401"/>
+                <Baseline points="788,444 813,447 838,449 864,450 889,452 914,452 940,452 965,452 990,452 1016,450 1041,449 1066,448 1092,445 1117,444 1142,442 1168,441 1193,439 1219,437"/>
+                <TextEquiv>
+                    <Unicode>Aug. 31. 79</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="155,572 178,569 228,606 262,575 327,572 356,552 443,580 514,554 544,563 576,539 636,535 634,444 595,458 527,436 434,478 342,478 288,470 244,427 151,425"/>
+                <Baseline points="161,551 187,547 213,545 239,543 265,542 291,541 317,541 343,541 369,541 395,541 421,541 447,541 473,541 499,541 525,540 551,538 577,536 603,533 629,529"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="415,703 523,664 669,722 754,664 867,709 1094,617 1238,624 1235,553 1200,537 1137,574 901,597 820,558 720,610 619,572 508,608 455,575 408,584"/>
+                <Baseline points="419,654 459,654 500,654 540,654 581,653 622,651 662,649 703,647 743,644 784,641 825,637 865,634 906,631 946,627 987,623 1028,620 1068,617 1109,615 1149,612 1190,610 1231,608"/>
+                <TextEquiv>
+                    <Unicode>Yesterday began with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="161,829 549,791 739,816 828,752 1211,737 1190,613 1040,705 536,724 464,758 154,726"/>
+                <Baseline points="167,804 218,803 270,800 322,798 374,795 426,793 477,789 529,786 581,782 633,778 685,774 736,770 788,766 840,761 892,757 944,752 995,748 1047,743 1099,738 1151,733 1203,728"/>
+                <TextEquiv>
+                    <Unicode>glorious weather, &amp; we took</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="154,936 283,946 363,908 498,948 615,900 723,949 912,864 1182,887 1271,851 1267,791 1070,824 1010,777 925,841 863,808 151,890"/>
+                <Baseline points="161,922 216,918 271,915 326,911 381,908 436,904 491,900 546,896 601,892 656,889 712,885 767,880 822,876 877,872 932,868 987,864 1042,860 1097,856 1152,852 1207,847 1263,843"/>
+                <TextEquiv>
+                    <Unicode>advantage of it to go to Edinburgh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="149,1060 351,1083 573,1017 1069,983 1190,1038 1275,1019 1267,909 843,974 748,934 592,1000 494,954 347,993 143,983"/>
+                <Baseline points="155,1046 210,1042 265,1038 321,1034 376,1030 432,1025 487,1021 543,1017 598,1014 654,1010 709,1005 764,1002 820,997 875,994 931,989 986,985 1042,981 1097,977 1153,973 1208,968 1264,964"/>
+                <TextEquiv>
+                    <Unicode>with Colvile, -- where I saw my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="159,1169 324,1175 391,1142 878,1167 953,1100 1118,1117 1235,1087 1233,1057 1074,1043 938,1081 643,1035 532,1080 472,1055 402,1110 154,1101"/>
+                <Baseline points="166,1161 219,1158 272,1153 325,1149 378,1145 431,1141 484,1136 537,1131 590,1127 643,1122 697,1118 750,1113 803,1109 856,1104 909,1102 962,1098 1015,1096 1068,1094 1121,1092 1174,1092 1228,1092"/>
+                <TextEquiv>
+                    <Unicode>sister, Mrs McGilvray -- also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="183,1289 449,1256 707,1276 835,1224 1057,1251 1163,1206 1282,1212 1279,1158 1122,1136 1067,1180 958,1135 880,1207 632,1162 434,1227 265,1194 178,1225"/>
+                <Baseline points="188,1268 242,1266 296,1262 351,1260 405,1256 459,1253 514,1249 568,1245 622,1241 677,1237 731,1234 785,1230 840,1225 894,1222 948,1219 1003,1215 1057,1213 1111,1210 1166,1207 1220,1206 1275,1204"/>
+                <TextEquiv>
+                    <Unicode>Balfour &amp; Dickson. The former</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="222,1391 630,1370 697,1405 801,1358 1254,1322 1267,1292 1076,1261 657,1313 217,1315"/>
+                <Baseline points="229,1382 280,1378 332,1375 383,1371 435,1368 487,1365 538,1361 590,1358 641,1354 693,1351 745,1348 796,1345 848,1341 899,1337 951,1334 1003,1331 1054,1327 1106,1323 1157,1318 1209,1314 1261,1310"/>
+                <TextEquiv>
+                    <Unicode>looks completely broken, &amp; is as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="253,1516 534,1461 621,1489 930,1418 1332,1435 1340,1352 1180,1396 1049,1325 926,1400 763,1415 662,1381 587,1430 418,1443 375,1412 249,1454"/>
+                <Baseline points="258,1475 314,1475 371,1473 428,1470 485,1467 541,1463 598,1459 655,1454 712,1449 769,1444 825,1439 882,1434 939,1429 996,1425 1053,1421 1109,1419 1166,1417 1223,1416 1280,1417 1337,1418"/>
+                <TextEquiv>
+                    <Unicode>yellow as a Guinea. Isaac had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="238,1604 955,1545 1160,1577 1244,1556 1236,1474 1167,1458 1077,1491 767,1475 604,1526 231,1519"/>
+                <Baseline points="245,1592 294,1591 343,1589 393,1586 442,1584 492,1579 541,1575 590,1570 640,1565 689,1560 739,1555 788,1550 837,1545 887,1540 936,1535 986,1531 1035,1528 1084,1524 1134,1522 1183,1520 1233,1519"/>
+                <TextEquiv>
+                    <Unicode>left home that morning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="248,1729 291,1717 382,1759 436,1712 506,1739 574,1694 667,1692 664,1648 604,1662 521,1651 452,1614 398,1639 296,1620 243,1645"/>
+                <Baseline points="254,1704 279,1704 304,1703 329,1702 355,1701 380,1700 405,1698 431,1696 456,1694 481,1693 507,1691 532,1689 557,1688 583,1686 608,1686 633,1685 659,1684"/>
+                <TextEquiv>
+                    <Unicode>for Glasgow.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="258,1841 1170,1799 1164,1705 1108,1699 916,1749 640,1725 553,1800 427,1742 252,1742"/>
+                <Baseline points="264,1831 308,1829 353,1826 398,1824 443,1821 488,1819 533,1816 577,1813 622,1810 667,1807 712,1804 757,1801 802,1798 847,1796 891,1792 936,1790 981,1788 1026,1785 1071,1783 1116,1782 1161,1780"/>
+                <TextEquiv>
+                    <Unicode>I asked Dickson about</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="178,1985 619,1918 943,1947 1349,1908 1345,1843 1039,1860 980,1824 588,1896 438,1839 306,1883 170,1851"/>
+                <Baseline points="183,1953 240,1949 298,1944 356,1940 414,1936 472,1932 530,1928 588,1925 646,1921 704,1918 762,1914 819,1912 877,1908 935,1906 993,1903 1051,1900 1109,1898 1167,1896 1225,1894 1283,1892 1341,1890"/>
+                <TextEquiv>
+                    <Unicode>W. Thomson, but I could not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="203,2072 999,2027 1288,2059 1287,1957 980,1986 619,1949 450,1998 201,1991"/>
+                <Baseline points="209,2049 262,2048 316,2048 369,2047 423,2045 477,2043 530,2041 584,2039 638,2037 691,2035 745,2034 799,2032 852,2030 906,2029 960,2028 1013,2027 1067,2027 1121,2027 1174,2028 1228,2030 1282,2033"/>
+                <TextEquiv>
+                    <Unicode>make out that he was so ill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>59
+raigflower
+Sunday
+Aug. 31. 79
+My dear Dyer
+Yesterday began with
+glorious weather, &amp; we took
+advantage of it to go to Edinburgh
+with Colvile, -- where I saw my
+sister, Mrs McGilvray -- also
+Balfour &amp; Dickson. The former
+looks completely broken, &amp; is as
+yellow as a Guinea. Isaac had
+left home that morning
+for Glasgow.
+I asked Dickson about
+W. Thomson, but I could not
+make out that he was so ill</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

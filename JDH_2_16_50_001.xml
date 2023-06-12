@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:33:12.713-04:00</Created>
+        <LastChange>2023-05-17T01:41:35.697+02:00</LastChange>
+        <TranskribusMetadata docId="464744" pageId="19205921" pageNr="1" tsid="121949626" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=RBNCMLWFCESXUUAEQLKAGSQK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BEKSGVDXJZNFATNEGUVZVORX" imageId="14809655"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_50_001.jpg" imageWidth="1374" imageHeight="2205">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330845018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="6,41 6,2134 1300,2134 1300,41"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="-3,176 684,262 846,187 1123,234 1308,216 1311,89 1122,130 958,71 444,127 335,89 -1,100"/>
+                <Baseline points="6,151 70,159 135,166 200,172 264,176 329,181 394,185 458,187 523,190 588,192 653,193 717,194 782,195 847,195 911,195 976,194 1041,193 1105,192 1170,191 1235,189 1300,187"/>
+                <TextEquiv>
+                    <Unicode>July 22/79 Glasgow Tudy 9.30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="329,366 485,352 562,396 621,346 727,322 1238,320 1235,263 903,270 817,214 695,274 630,250 480,293 412,246 326,300"/>
+                <Baseline points="336,346 380,344 425,341 469,339 514,337 559,335 603,333 648,331 693,329 737,328 782,326 827,324 871,322 916,321 961,319 1005,317 1050,316 1095,314 1139,313 1184,311 1229,310"/>
+                <TextEquiv>
+                    <Unicode>Address -- Manse --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="609,476 694,455 788,501 808,500 848,487 882,453 906,450 902,374 869,387 842,376 807,384 764,369 720,333 633,397 605,395"/>
+                <Baseline points="616,448 641,449 667,449 692,448 718,447 744,445 769,443 795,441 821,439 846,439 872,439 898,440"/>
+                <TextEquiv>
+                    <Unicode>Largs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="110,724 157,723 220,758 276,706 351,717 445,683 543,705 599,682 651,695 713,669 709,590 658,603 597,572 432,582 351,547 241,585 204,567 103,588"/>
+                <Baseline points="117,693 146,692 175,692 205,692 234,691 264,691 293,690 322,689 352,688 381,687 411,686 440,685 469,684 499,681 528,680 558,677 587,675 616,672 646,669 675,666 705,662"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="326,852 1265,780 1245,694 904,751 827,715 801,740 700,705 556,716 473,767 407,714 321,768"/>
+                <Baseline points="333,830 379,827 425,824 471,821 517,818 564,815 610,812 656,810 702,807 748,804 795,801 841,799 887,796 933,794 979,790 1026,788 1072,785 1118,781 1164,777 1210,773 1257,769"/>
+                <TextEquiv>
+                    <Unicode>Mrs Hooker has written</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="154,954 355,976 399,935 627,917 758,957 1005,905 1126,952 1284,896 1280,808 1186,854 846,820 363,890 149,852"/>
+                <Baseline points="160,931 215,931 271,931 327,929 383,927 439,925 494,923 550,920 606,917 662,913 718,909 773,907 829,904 885,901 941,898 997,896 1052,894 1108,893 1164,892 1220,892 1276,893"/>
+                <TextEquiv>
+                    <Unicode>begging us to stay at Largs for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="145,1068 296,1120 463,1034 981,1063 1072,1001 1266,1013 1282,932 1092,953 1035,917 796,970 541,955 359,1011 141,999"/>
+                <Baseline points="152,1051 208,1050 264,1048 320,1046 377,1043 433,1040 489,1037 545,1033 602,1029 658,1025 714,1021 770,1017 827,1013 883,1010 939,1007 995,1004 1052,1001 1108,999 1164,997 1220,997 1277,997"/>
+                <TextEquiv>
+                    <Unicode>a day or two after the funeral</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="181,1195 396,1157 571,1209 747,1138 946,1128 984,1155 1067,1117 1186,1122 1181,1067 1141,1054 1083,1082 771,1056 525,1106 454,1071 363,1137 173,1098"/>
+                <Baseline points="188,1176 237,1175 286,1173 336,1170 385,1166 435,1162 484,1157 533,1153 583,1148 632,1143 682,1138 731,1133 780,1128 830,1124 879,1120 929,1117 978,1113 1027,1111 1077,1109 1126,1109 1176,1109"/>
+                <TextEquiv>
+                    <Unicode>Jame Campbell being so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="172,1325 258,1287 794,1241 1235,1241 1271,1225 1265,1141 935,1192 652,1174 582,1215 396,1157 318,1220 164,1218"/>
+                <Baseline points="177,1286 231,1284 285,1281 339,1277 394,1273 448,1270 502,1266 556,1260 611,1256 665,1251 719,1246 773,1242 828,1237 882,1233 936,1228 990,1225 1045,1222 1099,1219 1153,1217 1207,1215 1262,1214"/>
+                <TextEquiv>
+                    <Unicode>perturbed that she is quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="182,1392 419,1410 519,1363 563,1385 1048,1311 1256,1342 1249,1238 1074,1287 927,1248 622,1329 178,1338"/>
+                <Baseline points="189,1384 241,1384 294,1382 347,1380 400,1377 453,1374 506,1369 559,1365 612,1360 665,1355 718,1350 770,1345 823,1340 876,1336 929,1332 982,1329 1035,1326 1088,1324 1141,1323 1194,1323 1247,1324"/>
+                <TextEquiv>
+                    <Unicode>anxious about him We</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="170,1497 726,1484 808,1447 984,1471 1068,1437 1133,1460 1248,1437 1245,1368 931,1361 686,1415 613,1372 364,1423 165,1405"/>
+                <Baseline points="178,1486 231,1482 284,1478 337,1474 390,1470 443,1466 496,1463 549,1460 602,1457 655,1454 708,1451 761,1448 814,1445 867,1442 920,1440 973,1437 1026,1435 1079,1433 1132,1431 1185,1429 1239,1427"/>
+                <TextEquiv>
+                    <Unicode>shall therefore go there this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="183,1636 373,1584 1210,1559 1270,1541 1265,1457 1069,1518 887,1485 823,1524 692,1499 622,1543 340,1549 294,1513 177,1541"/>
+                <Baseline points="188,1595 241,1591 295,1589 348,1585 402,1582 456,1579 509,1576 563,1573 617,1569 670,1566 724,1562 778,1558 831,1555 885,1552 939,1548 992,1545 1046,1541 1100,1539 1153,1535 1207,1532 1261,1529"/>
+                <TextEquiv>
+                    <Unicode>afternoon -- but shall not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="188,1715 307,1754 390,1705 600,1686 941,1723 1163,1659 1277,1671 1291,1597 957,1608 875,1645 644,1596 422,1673 289,1636 186,1674"/>
+                <Baseline points="196,1708 250,1706 304,1703 359,1700 413,1697 468,1694 522,1690 577,1687 631,1683 686,1679 740,1676 794,1673 849,1669 903,1666 958,1664 1012,1661 1067,1659 1121,1658 1176,1657 1230,1656 1285,1656"/>
+                <TextEquiv>
+                    <Unicode>stay over Friday, if so long</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="309,1836 562,1816 626,1848 692,1793 799,1840 879,1792 1163,1764 1295,1788 1292,1673 1237,1655 1152,1713 955,1714 899,1750 697,1710 603,1769 424,1712 305,1765"/>
+                <Baseline points="316,1815 364,1813 413,1810 461,1807 510,1805 559,1801 607,1798 656,1795 705,1792 753,1788 802,1785 851,1781 899,1778 948,1776 997,1773 1045,1771 1094,1769 1143,1767 1191,1766 1240,1766 1289,1766"/>
+                <TextEquiv>
+                    <Unicode>It was Glasgow weather</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="165,1942 1003,1853 1208,1866 1260,1845 1254,1769 882,1791 808,1843 505,1828 294,1883 159,1866"/>
+                <Baseline points="172,1916 228,1915 285,1914 342,1912 399,1909 455,1905 512,1901 569,1896 626,1891 683,1885 739,1879 796,1874 853,1868 910,1863 967,1858 1023,1853 1080,1849 1137,1846 1194,1843 1251,1841"/>
+                <TextEquiv>
+                    <Unicode>on our arrival last night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="238,2034 410,1993 497,2024 669,1978 860,2017 890,1996 934,2026 1025,1957 1158,1966 1154,1905 805,1932 721,1897 641,1946 548,1919 232,1955"/>
+                <Baseline points="245,2013 290,2011 335,2009 380,2006 425,2002 471,1999 516,1995 561,1991 606,1987 651,1983 697,1979 742,1975 787,1971 832,1968 877,1964 923,1961 968,1958 1013,1955 1058,1953 1103,1952 1149,1950"/>
+                <TextEquiv>
+                    <Unicode>but this morning is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_369" custom="readingOrder {index:16;}">
+                <Coords points="253,2110 280,2108 308,2106 336,2105 364,2103 392,2103 420,2102 448,2102 564,2106 590,2107 616,2107 642,2108 668,2107 694,2107 720,2107 746,2106 772,2105 798,2104 824,2102 850,2101 876,2099 902,2097 928,2094 954,2092 1046,2082 1074,2083 1102,2083 1130,2084 1158,2084 1186,2083 1214,2080 1242,2074 1239,2059 1212,2065 1185,2068 1158,2069 1130,2069 1102,2068 1074,2068 1045,2067 953,2077 927,2079 901,2082 875,2084 849,2086 823,2087 797,2089 771,2090 745,2091 720,2092 694,2092 668,2092 642,2093 616,2092 590,2092 565,2091 448,2087 420,2087 392,2088 363,2088 335,2090 307,2091 279,2093 252,2095"/>
+                <Baseline points="253,2110 280,2108 308,2106 336,2105 364,2103 392,2103 420,2102 448,2102 564,2106 590,2107 616,2107 642,2108 668,2107 694,2107 720,2107 746,2106 772,2105 798,2104 824,2102 850,2101 876,2099 902,2097 928,2094 954,2092 1046,2082 1074,2083 1102,2083 1130,2084 1158,2084 1186,2083 1214,2080 1242,2074"/>
+                <TextEquiv>
+                    <Unicode>fine Irequested that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+July 22/79 Glasgow Tudy 9.30
+Address -- Manse --
+Largs
+My dear Dyer
+Mrs Hooker has written
+begging us to stay at Largs for
+a day or two after the funeral
+Jame Campbell being so
+perturbed that she is quite
+anxious about him We
+shall therefore go there this
+afternoon -- but shall not
+stay over Friday, if so long
+It was Glasgow weather
+on our arrival last night
+but this morning is
+that
+Irequested
+fine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

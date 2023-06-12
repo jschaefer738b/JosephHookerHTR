@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:40:20.912-04:00</Created>
+        <LastChange>2020-09-04T04:08:24.979+02:00</LastChange>
+        <TranskribusMetadata docId="464756" pageId="19206104" pageNr="2" tsid="39191114" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=SITHNGKCCFWDNGRHXDCSBZHK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYJBNJZSPGWGNPEUXMNZDBNQ" imageId="14809837"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_59_002.jpg" imageWidth="1414" imageHeight="2179">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330826200" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="109,157 109,2050 1303,2050 1303,157"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="104,313 523,324 856,245 1096,283 1229,223 1225,166 882,152 721,209 511,193 434,239 289,187 99,235"/>
+                <Baseline points="109,277 164,276 220,276 275,274 331,272 387,269 442,265 498,263 553,259 609,255 665,251 720,246 776,242 831,238 887,234 943,230 998,226 1054,223 1109,220 1165,217 1221,215"/>
+                <TextEquiv>
+                    <Unicode>as to justify my talking of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="160,446 621,388 664,417 885,373 1248,376 1251,321 1167,296 1076,330 953,284 847,356 742,308 683,341 624,314 555,371 401,330 156,381"/>
+                <Baseline points="165,409 219,408 273,407 327,406 381,404 435,402 489,399 543,396 597,393 651,390 705,387 759,383 813,380 867,377 921,374 975,371 1029,368 1083,366 1137,364 1191,362 1245,361"/>
+                <TextEquiv>
+                    <Unicode>successor. Dickson had seen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="115,537 240,536 302,582 440,522 1197,531 1192,401 1136,398 963,467 700,430 549,485 481,448 411,490 267,497 170,449 113,480"/>
+                <Baseline points="122,523 175,522 228,522 281,521 335,519 388,517 441,516 495,514 548,511 601,508 655,506 708,503 761,501 814,498 868,496 921,493 974,491 1028,488 1081,487 1134,485 1188,484"/>
+                <TextEquiv>
+                    <Unicode>him quite lately, said he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="135,684 542,633 631,661 1053,610 1312,628 1307,543 1129,532 980,589 441,570 326,626 180,601 132,637"/>
+                <Baseline points="141,662 199,660 257,658 315,655 373,652 431,648 489,645 547,641 605,638 663,633 722,630 780,626 838,622 896,620 954,617 1012,614 1070,613 1128,612 1186,612 1244,612 1303,614"/>
+                <TextEquiv>
+                    <Unicode>was better, but much broken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="131,802 952,760 1202,793 1199,700 771,723 710,695 618,725 540,695 464,749 203,703 128,730"/>
+                <Baseline points="138,792 190,790 243,788 296,786 349,784 402,781 454,779 507,776 560,774 613,771 666,769 718,766 771,764 824,762 877,760 930,758 982,757 1035,755 1088,755 1141,754 1194,754"/>
+                <TextEquiv>
+                    <Unicode>His attack was convulsive,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="123,929 297,904 427,960 635,878 876,874 951,922 1072,849 1296,868 1291,770 784,833 565,807 395,865 119,844"/>
+                <Baseline points="130,904 187,902 245,900 303,897 361,894 419,891 477,887 534,883 592,879 650,876 708,871 766,868 824,864 882,861 939,858 997,856 1055,854 1113,853 1171,853 1229,853 1287,854"/>
+                <TextEquiv>
+                    <Unicode>&amp; probably connected with the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="155,1051 305,1031 369,1074 492,1018 612,1037 841,994 1174,1029 1266,1005 1262,938 1142,892 1036,947 867,920 777,978 585,941 487,1004 220,955 151,989"/>
+                <Baseline points="161,1026 215,1026 270,1025 325,1024 380,1022 435,1020 489,1017 544,1013 599,1010 654,1006 709,1002 763,999 818,995 873,992 928,988 983,985 1037,983 1092,981 1147,979 1202,979 1257,979"/>
+                <TextEquiv>
+                    <Unicode>kidneys, as he had had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="140,1151 377,1143 565,1192 721,1127 1200,1140 1197,1059 986,1092 801,1054 678,1109 428,1072 139,1109"/>
+                <Baseline points="147,1143 199,1142 251,1142 303,1140 355,1139 408,1138 460,1137 512,1135 564,1134 616,1132 669,1131 721,1129 773,1127 825,1125 877,1124 930,1122 982,1120 1034,1118 1086,1117 1138,1115 1191,1113"/>
+                <TextEquiv>
+                    <Unicode>symptoms of albuminuria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="120,1280 789,1263 877,1312 973,1260 1038,1277 1037,1202 897,1174 776,1229 634,1172 530,1218 394,1185 326,1237 119,1203"/>
+                <Baseline points="127,1265 172,1265 217,1264 262,1263 307,1262 352,1260 397,1259 443,1257 488,1256 533,1254 578,1253 623,1252 668,1251 713,1251 759,1251 804,1251 849,1251 894,1252 939,1254 984,1256 1030,1259"/>
+                <TextEquiv>
+                    <Unicode>some time previously.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="222,1420 390,1433 477,1400 585,1459 811,1407 1277,1399 1277,1355 1015,1278 902,1294 810,1362 616,1300 396,1361 288,1299 222,1322"/>
+                <Baseline points="230,1388 282,1388 334,1388 386,1388 438,1388 490,1389 542,1389 594,1390 646,1390 698,1390 750,1391 802,1391 854,1391 906,1391 958,1390 1010,1390 1062,1389 1114,1388 1166,1387 1218,1385 1270,1384"/>
+                <TextEquiv>
+                    <Unicode>I saw Sadler -- the gardens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="103,1555 683,1536 1000,1586 1174,1528 1294,1556 1293,1485 1017,1453 184,1464 103,1496"/>
+                <Baseline points="110,1529 168,1532 227,1534 286,1535 345,1535 404,1535 462,1534 521,1532 580,1530 639,1528 698,1526 756,1523 815,1521 874,1520 933,1519 992,1518 1050,1519 1109,1520 1168,1523 1227,1527 1286,1531"/>
+                <TextEquiv>
+                    <Unicode>are in good keep, &amp; very much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="103,1680 819,1677 880,1638 1225,1670 1240,1562 1043,1604 947,1562 864,1621 773,1569 680,1630 543,1594 420,1629 335,1583 101,1608"/>
+                <Baseline points="110,1661 166,1662 222,1662 278,1662 334,1661 391,1660 447,1658 503,1656 559,1654 615,1651 672,1649 728,1647 784,1645 840,1644 896,1643 953,1643 1009,1643 1065,1645 1121,1647 1177,1650 1234,1655"/>
+                <TextEquiv>
+                    <Unicode>has been done to them. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="117,1799 659,1808 876,1763 968,1802 1042,1752 1213,1744 1210,1672 1093,1709 988,1675 900,1721 662,1700 608,1744 433,1696 114,1730"/>
+                <Baseline points="123,1787 177,1785 231,1783 285,1781 339,1779 393,1776 447,1774 502,1771 556,1769 610,1766 664,1764 718,1762 772,1760 826,1757 881,1755 935,1753 989,1751 1043,1749 1097,1748 1151,1746 1206,1745"/>
+                <TextEquiv>
+                    <Unicode>Palm House was in first-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="127,1919 1262,1897 1260,1842 1149,1821 812,1809 707,1860 537,1817 126,1848"/>
+                <Baseline points="134,1893 192,1896 251,1897 310,1898 369,1898 428,1898 487,1897 546,1895 605,1894 664,1891 722,1889 781,1887 840,1885 899,1882 958,1880 1017,1879 1076,1878 1135,1877 1194,1877 1253,1877"/>
+                <TextEquiv>
+                    <Unicode>rate order! New tubs &amp; new</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="111,2049 271,2015 381,2030 494,2092 600,2035 842,2068 844,1992 721,1952 570,1987 359,1946 280,1974 114,1916"/>
+                <Baseline points="119,2012 154,2011 190,2010 226,2010 262,2010 298,2010 334,2011 369,2012 405,2012 441,2014 477,2015 513,2016 549,2018 585,2019 620,2020 656,2021 692,2022 728,2022 764,2022 800,2022 836,2022"/>
+                <TextEquiv>
+                    <Unicode>paint every--where.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>as to justify my talking of a&#13;
+successor. Dickson had seen&#13;
+him quite lately, said he&#13;
+was better, but much broken.&#13;
+His attack was convulsive,&#13;
+&amp; probably connected with the&#13;
+kidneys, as he had had&#13;
+symptoms of albuminuria&#13;
+some time previously.&#13;
+I saw Sadler -- the gardens&#13;
+are in good keep, &amp; very much&#13;
+has been done to them. The&#13;
+Palm House was in first-&#13;
+rate order! New tubs &amp; new&#13;
+paint every--where.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

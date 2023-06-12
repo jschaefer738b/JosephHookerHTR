@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:35:14.697-04:00</Created>
+        <LastChange>2023-05-17T02:00:12.927+02:00</LastChange>
+        <TranskribusMetadata docId="464748" pageId="19205936" pageNr="7" tsid="121949663" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=MOEQNVORALBEJIVETFETOADS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AYRJWGAJCRICKRRDUCZRKPFC" imageId="14809669"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_53_008.jpg" imageWidth="1543" imageHeight="2465">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330840395" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="86,195 86,2426 1503,2426 1503,195"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="126,287 151,284 176,282 201,279 226,278 251,276 276,274 301,274 326,273 351,272 376,272 401,272 426,273 463,257 512,258 561,258 610,258 659,256 708,254 757,252 806,249 855,245 904,243 954,240 1003,237 1052,235 1101,233 1150,231 1199,231 1248,231 1297,233 1346,235 1395,240 1445,245 1446,230 1397,225 1347,220 1298,218 1248,216 1199,216 1150,216 1100,218 1051,220 1002,222 953,225 903,228 854,230 805,234 756,237 707,239 658,241 610,243 561,243 512,243 460,242 423,258 401,257 376,257 351,257 325,258 301,259 275,259 250,261 225,263 200,264 175,267 150,269 124,272"/>
+                <Baseline points="126,287 151,284 176,282 201,279 226,278 251,276 276,274 301,274 326,273 351,272 376,272 401,272 426,273 463,257 512,258 561,258 610,258 659,256 708,254 757,252 806,249 855,245 904,243 954,240 1003,237 1052,235 1101,233 1150,231 1199,231 1248,231 1297,233 1346,235 1395,240 1445,245"/>
+                <TextEquiv>
+                    <Unicode>of life &amp; death that Smith should</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="115,387 725,401 838,346 963,408 1309,411 1429,376 1428,317 1126,285 1084,321 758,298 395,345 186,299 114,344"/>
+                <Baseline points="123,376 187,378 252,378 317,377 382,376 447,374 512,370 577,367 642,364 707,360 772,357 836,354 901,352 966,350 1031,349 1096,349 1161,351 1226,354 1291,359 1356,364 1421,373"/>
+                <TextEquiv>
+                    <Unicode>be relieved of duties which should</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="96,479 767,531 928,530 1067,461 1480,497 1479,428 1190,397 910,433 587,391 501,439 96,448"/>
+                <Baseline points="105,478 173,479 241,479 309,479 378,478 446,477 514,475 583,474 651,471 719,470 788,468 856,466 924,465 992,464 1061,463 1129,464 1197,465 1266,467 1334,470 1402,474 1471,480"/>
+                <TextEquiv>
+                    <Unicode>devolve on the Clerk of the W or his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="85,551 112,547 153,558 198,539 238,552 254,538 271,550 303,523 335,532 355,523 351,490 321,481 297,503 231,504 191,485 168,504 132,478 114,485 75,467"/>
+                <Baseline points="93,547 118,543 143,538 169,534 194,530 220,526 245,523 270,521 296,520 321,520 347,521"/>
+                <TextEquiv>
+                    <Unicode>foreman.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="133,742 239,666 1397,671 1422,575 984,605 876,566 131,643"/>
+                <Baseline points="141,674 204,674 268,672 332,671 395,669 459,667 523,665 586,662 650,660 714,658 778,656 841,654 905,653 969,652 1032,651 1096,651 1160,651 1223,653 1287,654 1351,657 1415,661"/>
+                <TextEquiv>
+                    <Unicode>works put out to contract than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_521" custom="readingOrder {index:5;}">
+                <Coords points="204,584 229,580 254,580 276,569 335,572 395,575 454,576 514,577 574,576 633,575 693,574 752,572 812,570 872,568 931,565 991,563 1050,561 1110,560 1170,559 1229,559 1289,559 1348,561 1408,563 1468,567 1469,552 1409,548 1349,546 1289,544 1229,544 1170,544 1110,545 1050,546 990,548 930,550 871,553 812,555 751,557 693,559 633,560 574,561 514,562 454,561 396,560 336,557 273,554 251,565 228,565 202,569"/>
+                <Baseline points="204,584 229,580 254,580 276,569 335,572 395,575 454,576 514,577 574,576 633,575 693,574 752,572 812,570 872,568 931,565 991,563 1050,561 1110,560 1170,559 1229,559 1289,559 1348,561 1408,563 1468,567"/>
+                <TextEquiv>
+                    <Unicode>I would rather see the whole of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;}">
+                <Coords points="147,843 382,776 1444,770 1442,710 1314,660 1061,711 840,681 646,755 144,739"/>
+                <Baseline points="153,790 217,789 281,787 345,785 409,784 473,782 537,780 601,778 665,776 729,774 794,772 858,770 922,768 986,766 1050,764 1114,762 1178,760 1242,758 1306,756 1370,754 1435,753"/>
+                <TextEquiv>
+                    <Unicode>go on as we do between Smith &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:7;}">
+                <Coords points="177,897 286,881 326,881 365,881 405,880 445,879 484,878 524,877 563,875 603,874 643,872 682,871 722,869 761,867 801,866 841,865 880,864 920,863 959,862 999,862 1039,862 1039,847 999,847 959,847 920,848 880,849 841,850 801,851 760,852 721,854 681,856 642,857 602,859 562,860 523,862 484,863 445,864 405,865 365,866 326,866 285,866 174,882"/>
+                <Baseline points="177,897 286,881 326,881 365,881 405,880 445,879 484,878 524,877 563,875 603,874 643,872 682,871 722,869 761,867 801,866 841,865 880,864 920,863 959,862 999,862 1039,862"/>
+                <TextEquiv>
+                    <Unicode>&amp; the C of the W Dept.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;}">
+                <Coords points="369,995 442,1012 473,1049 606,1039 759,1079 802,1066 817,916 787,905 697,955 614,932 565,962 525,944 459,969 373,950"/>
+                <Baseline points="378,991 404,997 430,1003 456,1009 482,1013 508,1017 534,1021 560,1024 587,1027 613,1029 639,1031 665,1032 691,1034 717,1034 743,1035 769,1035 796,1035"/>
+                <TextEquiv>
+                    <Unicode>Evr affy t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;}">
+                <Coords points="701,1272 768,1285 811,1263 908,1295 944,1269 983,1296 1072,1301 1155,1274 1206,1283 1191,1112 1010,1138 879,1069 807,1102 719,1185 693,1178"/>
+                <Baseline points="708,1259 733,1259 758,1259 784,1257 809,1256 835,1253 860,1250 886,1247 911,1244 937,1241 962,1238 988,1234 1013,1231 1039,1228 1064,1227 1090,1226 1115,1225 1141,1224 1166,1225 1192,1227"/>
+                <TextEquiv>
+                    <Unicode>JD Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:10;}">
+                <Coords points="155,1374 856,1385 902,1336 1037,1374 1222,1317 1372,1376 1431,1359 1426,1240 1296,1195 1186,1291 903,1321 819,1280 614,1305 385,1261 151,1295"/>
+                <Baseline points="163,1362 225,1363 288,1364 351,1364 414,1364 477,1363 540,1362 603,1360 666,1358 729,1355 792,1352 854,1349 917,1345 980,1341 1043,1337 1106,1333 1169,1328 1232,1323 1295,1318 1358,1313 1421,1308"/>
+                <TextEquiv>
+                    <Unicode>I hope you will enjoy your Sunday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:11;}">
+                <Coords points="167,1488 590,1450 840,1501 990,1459 1196,1472 1362,1401 1360,1368 1228,1321 810,1413 645,1372 163,1403"/>
+                <Baseline points="174,1465 236,1461 298,1457 360,1454 422,1451 484,1449 546,1448 608,1446 670,1445 732,1443 794,1441 856,1439 918,1437 980,1433 1042,1429 1104,1424 1166,1418 1228,1411 1290,1402 1353,1392"/>
+                <TextEquiv>
+                    <Unicode>out, kindest regards to the Brightwens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="92,1627 214,1598 324,1656 380,1605 529,1594 608,1650 735,1590 1232,1592 1430,1564 1427,1479 1305,1514 1218,1474 1049,1531 957,1488 827,1524 586,1490 476,1529 328,1477 86,1506"/>
+                <Baseline points="99,1608 165,1608 231,1607 297,1607 363,1605 429,1604 495,1602 561,1599 627,1597 693,1594 760,1591 826,1587 892,1584 958,1580 1024,1576 1090,1572 1156,1568 1222,1564 1288,1559 1354,1555 1421,1550"/>
+                <TextEquiv>
+                    <Unicode>From yours just arrived -- I quite </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:13;}">
+                <Coords points="77,1723 151,1763 446,1723 521,1756 752,1679 940,1715 1398,1690 1397,1638 1129,1601 931,1635 886,1595 804,1633 736,1591 667,1633 379,1605 263,1674 75,1631"/>
+                <Baseline points="86,1704 151,1703 216,1702 281,1701 346,1700 411,1699 476,1698 542,1697 607,1696 672,1695 737,1694 802,1692 867,1691 932,1689 998,1687 1063,1685 1128,1682 1193,1680 1258,1677 1323,1674 1389,1670"/>
+                <TextEquiv>
+                    <Unicode>approve the letter about Taylor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;}">
+                <Coords points="139,1834 349,1785 421,1819 1505,1764 1510,1701 1238,1683 1101,1746 753,1688 562,1714 516,1763 450,1722 362,1771 137,1770"/>
+                <Baseline points="147,1797 214,1797 282,1797 350,1796 418,1795 486,1793 553,1791 621,1788 689,1785 757,1781 825,1778 892,1774 960,1771 1028,1767 1096,1764 1164,1760 1231,1756 1299,1754 1367,1751 1435,1749 1503,1747"/>
+                <TextEquiv>
+                    <Unicode>going. You must sign it.  I think it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:15;}">
+                <Coords points="121,1889 672,1854 955,1896 1015,1836 1249,1882 1365,1848 1364,1805 1079,1777 415,1822 358,1785 184,1800 120,1853"/>
+                <Baseline points="129,1873 190,1870 251,1867 312,1864 374,1861 435,1859 496,1856 558,1854 619,1852 680,1850 742,1848 803,1846 864,1844 925,1842 987,1840 1048,1838 1109,1836 1171,1834 1232,1832 1293,1829 1355,1827"/>
+                <TextEquiv>
+                    <Unicode>would be misinterpreted if I did so.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:16;}">
+                <Coords points="166,1983 675,1956 796,1995 877,1942 995,1984 1452,1930 1446,1827 1250,1886 1015,1837 944,1907 893,1871 711,1918 447,1879 162,1912"/>
+                <Baseline points="173,1961 236,1960 299,1958 363,1956 426,1954 490,1952 553,1950 616,1947 680,1944 743,1942 807,1938 870,1934 933,1931 997,1927 1060,1922 1124,1917 1187,1913 1250,1907 1314,1901 1377,1895 1441,1889"/>
+                <TextEquiv>
+                    <Unicode>I think it should be headed "Neglect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:17;}">
+                <Coords points="152,2081 789,2014 1106,2059 1181,1994 1486,2015 1458,1913 1383,1965 935,1988 890,1952 805,2001 607,1961 148,1991"/>
+                <Baseline points="159,2045 224,2043 290,2042 356,2040 422,2037 488,2034 554,2031 619,2028 685,2024 751,2021 817,2017 883,2013 949,2009 1015,2005 1080,2002 1146,1998 1212,1994 1278,1992 1344,1989 1410,1986 1476,1984"/>
+                <TextEquiv>
+                    <Unicode>of Orders", &amp; I think it would strengthen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:18;}">
+                <Coords points="143,2160 718,2156 808,2102 909,2131 983,2097 1131,2135 1217,2074 1482,2106 1479,2035 1325,1994 983,2074 802,2031 708,2073 233,2056 141,2101"/>
+                <Baseline points="151,2127 217,2125 283,2123 349,2120 415,2117 481,2114 547,2111 613,2107 679,2104 745,2101 812,2098 878,2095 944,2092 1010,2090 1076,2087 1142,2086 1208,2084 1274,2083 1340,2083 1406,2083 1473,2084"/>
+                <TextEquiv>
+                    <Unicode>it if you added a passage saying that your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:19;}">
+                <Coords points="114,2217 304,2242 508,2182 1434,2171 1433,2133 1259,2081 1131,2135 983,2097 885,2162 591,2134 112,2173"/>
+                <Baseline points="123,2205 188,2203 253,2202 318,2200 383,2198 448,2195 513,2193 578,2190 643,2188 708,2185 774,2183 839,2180 904,2177 969,2175 1034,2172 1099,2169 1164,2166 1229,2163 1294,2160 1359,2158 1425,2154"/>
+                <TextEquiv>
+                    <Unicode>main object in writing was to show how</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:20;}">
+                <Coords points="138,2290 1323,2249 1320,2166 1233,2204 1183,2167 1123,2197 500,2197 283,2249 216,2203 135,2213"/>
+                <Baseline points="145,2270 203,2269 261,2267 320,2265 378,2263 437,2261 495,2259 553,2256 612,2254 670,2252 729,2249 787,2247 845,2245 904,2242 962,2240 1021,2238 1079,2236 1137,2235 1196,2233 1254,2232 1313,2230"/>
+                <TextEquiv>
+                    <Unicode>little idea the C of W. Dept had of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:21;}">
+                <Coords points="104,2368 925,2338 1049,2277 1482,2302 1502,2247 100,2293"/>
+                <Baseline points="111,2342 180,2340 249,2337 318,2335 387,2331 457,2329 526,2326 595,2322 664,2319 733,2316 803,2312 872,2309 941,2306 1010,2303 1079,2300 1149,2297 1218,2295 1287,2292 1356,2290 1425,2288 1495,2286"/>
+                <TextEquiv>
+                    <Unicode>serious nature of the Evil, &amp; of the anxiety &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:22;}">
+                <Coords points="140,2463 288,2403 554,2390 843,2442 976,2374 1440,2362 1460,2302 1098,2280 897,2344 135,2363"/>
+                <Baseline points="145,2401 210,2402 275,2402 341,2401 406,2400 472,2398 537,2396 602,2393 668,2390 733,2387 799,2382 864,2378 929,2374 995,2369 1060,2364 1126,2360 1191,2355 1256,2350 1322,2345 1387,2340 1453,2335"/>
+                <TextEquiv>
+                    <Unicode>worry it gave to the Officer, Y yourself &amp; Smith who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:23;}">
+                <Coords points="950,2458 1066,2434 1138,2451 1279,2429 1360,2446 1409,2429 1404,2353 1226,2367 1097,2358 1036,2379 945,2382"/>
+                <Baseline points="956,2416 981,2414 1007,2412 1033,2410 1059,2408 1085,2407 1111,2405 1137,2403 1163,2401 1189,2400 1215,2397 1241,2395 1267,2394 1293,2393 1319,2391 1345,2390 1371,2388 1397,2387"/>
+                <TextEquiv>
+                    <Unicode>cannot stand it. J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>death that Smith should
+of life &amp;
+be relieved of duties which should
+devolve on the Clerk of the W or his
+foreman.
+would rather see the whole of the
+I
+works put out to contract than
+go on as we do between Smith &amp;
+the C of the W Dept.
+
+Evr affy t
+JD Hooker
+I hope you will enjoy your Sunday
+out, kindest regards to the Brightwens.
+From yours just arrived -- I quite 
+approve the letter about Taylor
+going. You must sign it.  I think it
+would be misinterpreted if I did so.
+I think it should be headed "Neglect
+of Orders", &amp; I think it would strengthen
+it if you added a passage saying that your
+main object in writing was to show how
+little idea the C of W. Dept had of the
+serious nature of the Evil, &amp; of the anxiety &amp;
+worry it gave to the Officer, Y yourself &amp; Smith who
+cannot stand it. J.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

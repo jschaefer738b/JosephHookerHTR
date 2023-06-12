@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:33:56.415-04:00</Created>
+        <LastChange>2023-05-17T01:52:27.117+02:00</LastChange>
+        <TranskribusMetadata docId="464746" pageId="19205924" pageNr="1" tsid="121949642" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GTDMPIEFWXOARGGBIDXUSXNU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=THBUJAWAEWLGSVQIQEFMDRVK" imageId="14809657"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_51_001.jpg" imageWidth="1373" imageHeight="2209">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330841381" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="59,67 59,2100 1327,2100 1327,67"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="852,402 918,438 1027,374 1059,382 1093,416 1176,404 1264,361 1264,294 1189,269 1145,296 1085,283 1050,308 1017,293 987,303 917,262 853,278"/>
+                <Baseline points="860,356 886,353 912,351 939,349 965,348 992,348 1018,348 1044,349 1071,350 1097,350 1124,352 1150,353 1176,353 1203,354 1229,354 1256,353"/>
+                <TextEquiv>
+                    <Unicode>Aug 14/79.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="117,606 205,610 253,598 301,610 321,598 371,616 404,608 426,585 475,583 474,538 426,538 369,502 286,537 212,484 116,546"/>
+                <Baseline points="124,591 150,590 176,589 203,588 229,588 255,588 282,588 308,587 335,587 361,586 387,586 414,584 440,582 467,579"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="367,715 433,734 607,684 681,719 754,693 800,714 1010,687 1077,711 1074,597 995,647 866,649 811,619 759,643 688,607 659,632 553,636 457,595 366,670"/>
+                <Baseline points="375,707 409,705 444,703 479,701 513,700 548,699 583,697 617,696 652,695 687,694 722,693 756,693 791,692 826,691 860,691 895,690 930,689 964,689 999,688 1034,687 1069,687"/>
+                <TextEquiv>
+                    <Unicode>More last words</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="52,862 779,805 1094,828 1270,790 1269,754 1092,753 1041,714 978,754 581,780 204,750 50,809"/>
+                <Baseline points="59,849 119,842 179,837 239,832 299,827 360,823 420,820 480,817 540,815 600,813 661,811 721,809 781,807 841,805 901,803 962,800 1022,797 1082,794 1142,791 1202,787 1263,782"/>
+                <TextEquiv>
+                    <Unicode>I After I had written to Ferguson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="140,962 253,1009 379,932 538,973 687,912 1242,886 1219,826 1035,848 972,817 863,882 659,850 542,893 479,846 437,876 372,849 315,896 232,841 138,916"/>
+                <Baseline points="147,944 201,942 255,940 310,936 364,933 419,930 473,927 527,923 582,920 636,916 691,913 745,909 799,906 854,903 908,900 963,897 1017,894 1071,892 1126,891 1180,889 1235,888"/>
+                <TextEquiv>
+                    <Unicode>Lady H brought me the C.O.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="141,1094 616,1035 707,1075 767,1023 1282,1020 1297,987 1163,926 1030,990 813,965 777,999 584,999 521,964 479,997 390,962 299,1011 193,964 136,1000"/>
+                <Baseline points="147,1067 204,1063 261,1058 318,1054 375,1050 433,1045 490,1041 547,1037 604,1033 661,1029 719,1025 776,1022 833,1019 890,1016 947,1013 1005,1012 1062,1010 1119,1009 1176,1009 1233,1010 1291,1011"/>
+                <TextEquiv>
+                    <Unicode>from the Drawing room. I can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="165,1191 832,1139 1335,1160 1332,1082 882,1050 716,1069 632,1132 527,1099 163,1131"/>
+                <Baseline points="171,1169 228,1168 286,1167 344,1165 402,1163 460,1160 517,1158 575,1155 633,1153 691,1149 749,1147 806,1144 864,1142 922,1140 980,1139 1038,1138 1095,1137 1153,1138 1211,1139 1269,1141 1327,1144"/>
+                <TextEquiv>
+                    <Unicode>truly suppose that I took it up</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="175,1316 789,1317 891,1266 1275,1255 1272,1200 1177,1229 1056,1187 991,1224 564,1205 434,1265 341,1221 173,1274"/>
+                <Baseline points="181,1290 235,1290 289,1290 343,1290 398,1288 452,1287 506,1284 561,1281 615,1278 669,1275 724,1272 778,1269 832,1265 886,1262 941,1259 995,1257 1049,1255 1104,1253 1158,1252 1212,1252 1267,1252"/>
+                <TextEquiv>
+                    <Unicode>to show Sir W. I. Elphinstone or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="178,1430 322,1415 386,1464 524,1408 789,1439 828,1406 1262,1383 1259,1313 1211,1309 863,1356 531,1321 390,1372 234,1346 176,1372"/>
+                <Baseline points="185,1409 238,1408 291,1407 345,1405 398,1403 452,1402 505,1400 558,1398 612,1396 665,1393 719,1391 772,1389 825,1386 879,1384 932,1382 986,1379 1039,1377 1092,1375 1146,1374 1199,1372 1253,1370"/>
+                <TextEquiv>
+                    <Unicode>some of the Cingalese with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="186,1543 587,1544 707,1499 1010,1529 1064,1487 1238,1493 1235,1437 1140,1423 991,1463 762,1433 643,1477 455,1455 374,1498 183,1471"/>
+                <Baseline points="193,1526 244,1524 296,1522 348,1520 400,1517 452,1515 503,1513 555,1510 607,1508 659,1505 711,1503 762,1500 814,1498 866,1496 918,1493 970,1490 1021,1488 1073,1486 1125,1484 1177,1481 1229,1479"/>
+                <TextEquiv>
+                    <Unicode>whom we have been infested</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="211,1678 407,1628 700,1621 784,1660 894,1628 1015,1668 1114,1600 1294,1615 1291,1535 899,1583 676,1538 561,1601 360,1552 207,1583"/>
+                <Baseline points="217,1639 270,1634 323,1632 377,1628 430,1626 484,1624 537,1622 590,1620 644,1618 697,1616 751,1615 804,1613 857,1611 911,1609 964,1607 1018,1604 1071,1601 1124,1597 1178,1593 1231,1588 1285,1583"/>
+                <TextEquiv>
+                    <Unicode>of late. -- Perhaps my letter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="201,1768 303,1810 435,1738 666,1762 1295,1726 1293,1675 1137,1653 1072,1686 913,1648 812,1707 594,1674 347,1724 275,1688 199,1706"/>
+                <Baseline points="207,1746 261,1743 315,1742 369,1739 423,1737 477,1736 531,1734 585,1732 639,1730 693,1728 747,1727 801,1726 855,1724 909,1722 963,1721 1017,1719 1071,1718 1125,1716 1179,1715 1233,1713 1287,1712"/>
+                <TextEquiv>
+                    <Unicode>may still go, as I have added</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="199,1864 468,1852 577,1906 702,1845 788,1864 1055,1819 1151,1847 1206,1792 754,1755 657,1812 478,1754 304,1811 196,1800"/>
+                <Baseline points="206,1857 255,1854 305,1850 354,1847 404,1845 454,1843 503,1841 553,1839 603,1838 652,1836 702,1835 752,1833 801,1831 851,1830 901,1828 950,1826 1000,1824 1050,1822 1099,1819 1149,1816 1199,1813"/>
+                <TextEquiv>
+                    <Unicode>a P.S. to say the paper is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="243,2004 318,1967 424,1961 441,1948 463,1959 521,1955 519,1916 472,1926 412,1880 350,1929 298,1886 237,1891"/>
+                <Baseline points="249,1961 275,1960 301,1959 328,1958 354,1957 381,1955 407,1953 433,1952 460,1951 486,1949 513,1948"/>
+                <TextEquiv>
+                    <Unicode>found!.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="95,2095 1209,2066 1279,2050 1278,2014 1055,1955 792,2030 685,1989 491,2041 362,1977 236,2025 92,2009"/>
+                <Baseline points="101,2073 159,2073 218,2073 276,2073 335,2072 393,2070 452,2069 510,2066 569,2064 627,2061 686,2059 744,2056 803,2054 861,2051 920,2049 978,2047 1037,2045 1095,2044 1154,2043 1212,2043 1271,2043"/>
+                <TextEquiv>
+                    <Unicode>II. I have written to Palgrave</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>152
+Aug 14/79.
+Dear Dyer
+More last words
+I After I had written to Ferguson
+Lady H brought me the C.O.
+from the Drawing room. I can
+truly suppose that I took it up
+to show Sir W. I. Elphinstone or
+some of the Cingalese with
+whom we have been infested
+of late. -- Perhaps my letter
+may still go, as I have added
+a P.S. to say the paper is
+found.
+II. I have written to Palgrave</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

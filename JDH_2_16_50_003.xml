@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:33:13.181-04:00</Created>
+        <LastChange>2020-08-31T22:55:04.019+02:00</LastChange>
+        <TranskribusMetadata docId="464744" pageId="19205922" pageNr="2" tsid="38840620" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XTIIRLPSQQLIQFYUMCLGEIUP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TSLBLATHJEXOCNSCXMIXBKKA" imageId="14809656"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_50_003.jpg" imageWidth="1374" imageHeight="2205">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330845315" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="119,133 119,1202 1299,1202 1299,133"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="112,241 270,263 437,217 610,243 649,211 956,213 999,181 1087,215 1162,199 1160,142 403,119 230,192 110,191"/>
+                <Baseline points="119,229 170,226 222,223 274,221 326,220 377,218 429,217 481,216 533,215 584,214 636,213 688,212 740,210 791,209 843,208 895,206 947,204 998,202 1050,199 1102,196 1154,192"/>
+                <TextEquiv>
+                    <Unicode>Indeed we detested it,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="133,366 787,330 936,353 973,327 1050,361 1077,348 1074,256 796,311 669,271 473,319 285,275 130,284"/>
+                <Baseline points="140,356 186,354 232,352 279,350 325,349 372,347 418,345 465,343 511,342 558,340 604,339 650,337 697,336 743,335 790,334 836,333 883,332 929,331 976,330 1022,330 1069,329"/>
+                <TextEquiv>
+                    <Unicode>but some -how old</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="153,502 469,457 845,482 1039,409 1190,427 1175,331 1080,388 857,410 806,376 613,415 512,381 404,432 261,376 149,406"/>
+                <Baseline points="158,467 209,466 260,465 311,464 362,462 414,460 465,458 516,456 567,453 618,450 670,447 721,445 772,442 823,439 874,436 926,433 977,431 1028,429 1079,426 1130,424 1182,423"/>
+                <TextEquiv>
+                    <Unicode>associations cleave to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="160,626 655,582 772,615 901,556 1307,560 1305,518 1235,495 795,538 724,489 638,535 567,502 157,546"/>
+                <Baseline points="166,586 222,584 279,583 335,581 392,579 449,577 505,574 562,572 619,570 675,567 732,565 789,563 845,561 902,559 959,557 1015,556 1072,555 1129,553 1185,553 1242,552 1299,552"/>
+                <TextEquiv>
+                    <Unicode>it, &amp; well up in a curious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="174,744 643,698 890,757 1018,691 1124,719 1286,695 1285,650 1125,600 971,664 735,620 615,672 506,632 172,646"/>
+                <Baseline points="181,711 235,708 290,706 345,703 400,701 455,699 510,697 565,695 620,693 675,691 730,689 784,688 839,686 894,685 949,684 1004,683 1059,682 1114,681 1169,681 1224,680 1279,680"/>
+                <TextEquiv>
+                    <Unicode>manner at many turns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="369,898 519,878 651,933 810,845 839,863 873,836 933,861 1026,850 1021,778 931,764 797,802 742,770 570,835 446,762 362,802"/>
+                <Baseline points="375,887 407,885 439,884 471,882 503,881 536,879 568,877 600,875 632,873 664,871 697,869 729,867 761,864 793,862 825,860 858,857 890,854 922,852 954,848 986,845 1019,842"/>
+                <TextEquiv>
+                    <Unicode>Ever affy ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="550,1189 699,1159 815,1176 914,1142 1120,1155 1254,1125 1249,1061 1156,1015 1050,1044 839,985 774,1024 683,1011 623,1073 542,1094"/>
+                <Baseline points="555,1173 589,1171 624,1168 658,1166 693,1162 728,1159 762,1156 797,1152 831,1149 866,1146 901,1143 935,1140 970,1136 1004,1134 1039,1131 1074,1128 1108,1127 1143,1125 1177,1124 1212,1123 1247,1123"/>
+                <TextEquiv>
+                    <Unicode>JosD Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Indeed we detested it,&#13;
+but some -how old&#13;
+associations cleave to&#13;
+it, &amp; well up in a curious&#13;
+manner at many turns&#13;
+Ever affy ys&#13;
+JosD Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:38:21.592-04:00</Created>
+        <LastChange>2023-05-17T02:04:01.637+02:00</LastChange>
+        <TranskribusMetadata docId="464752" pageId="19205944" pageNr="1" tsid="121949731" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=VCTCYXQFNOJGYRIIDKJZWUJM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SEHWTCRPCIIAZNMFCELWLJZO" imageId="14809677"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_57_002.jpg" imageWidth="1433" imageHeight="2205">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330830799" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="155,453 155,2156 1350,2156 1350,453"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="160,536 1315,516 1314,442 1095,410 998,468 914,441 791,481 662,445 555,489 159,448"/>
+                <Baseline points="168,523 227,523 287,523 347,523 407,522 467,520 527,519 587,517 647,515 707,513 767,511 827,509 887,507 947,506 1007,505 1067,505 1127,505 1187,505 1247,506 1307,508"/>
+                <TextEquiv>
+                    <Unicode>It was quite right to put</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="159,648 693,629 802,677 898,620 1332,621 1281,564 1044,578 968,533 845,592 703,565 651,598 303,597 242,554 158,593"/>
+                <Baseline points="167,637 224,637 282,637 340,637 398,635 456,634 514,632 572,631 630,629 688,626 746,624 803,622 861,619 919,618 977,616 1035,614 1093,612 1151,611 1209,610 1267,610 1325,610"/>
+                <TextEquiv>
+                    <Unicode>the whole matter of the damages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="150,758 317,806 420,742 554,728 1069,722 1218,760 1321,732 1319,650 1240,681 1137,644 1028,702 863,653 149,713"/>
+                <Baseline points="157,751 214,750 272,748 330,747 388,745 446,744 504,742 561,741 619,739 677,738 735,736 793,735 851,733 909,732 966,730 1024,729 1082,728 1140,726 1198,725 1256,725 1314,724"/>
+                <TextEquiv>
+                    <Unicode>clearly to the Board, though</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="150,887 225,924 276,881 762,911 860,861 1135,900 1357,864 1208,786 1108,808 994,771 868,848 565,851 466,812 334,855 201,786 148,821"/>
+                <Baseline points="157,879 216,880 276,881 335,881 395,880 455,879 514,877 574,876 634,873 693,872 753,870 813,868 872,866 932,864 992,863 1051,862 1111,862 1171,863 1230,864 1290,865 1350,868"/>
+                <TextEquiv>
+                    <Unicode>they astound me. Still £2000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="149,1041 326,1018 457,1050 544,988 631,1045 823,983 1225,979 1222,917 1126,971 811,904 731,969 506,946 461,980 224,956 147,989"/>
+                <Baseline points="155,1025 208,1021 261,1017 314,1014 367,1011 420,1008 473,1005 526,1003 579,1000 632,998 686,996 739,994 792,993 845,991 898,989 951,988 1004,986 1057,985 1110,984 1163,982 1217,981"/>
+                <TextEquiv>
+                    <Unicode>should do a great deal. I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="177,1159 642,1151 700,1188 935,1114 1021,1139 1247,1108 1246,1075 1171,1067 781,1052 681,1085 548,1044 402,1109 175,1092"/>
+                <Baseline points="184,1140 236,1138 289,1136 342,1135 395,1134 447,1133 500,1132 553,1130 606,1129 658,1128 711,1127 764,1125 817,1124 869,1122 922,1120 975,1118 1028,1115 1080,1113 1133,1110 1186,1106 1239,1103"/>
+                <TextEquiv>
+                    <Unicode>suppose that 1/6 per square</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="165,1268 826,1296 879,1253 1125,1271 1313,1234 1311,1180 1171,1165 1018,1211 971,1177 788,1222 673,1191 586,1234 502,1180 451,1228 363,1180 164,1219"/>
+                <Baseline points="173,1254 229,1256 286,1257 342,1259 399,1259 456,1260 512,1260 569,1259 625,1259 682,1258 739,1257 795,1255 852,1253 908,1251 965,1249 1022,1247 1078,1243 1135,1241 1191,1238 1248,1234 1305,1231"/>
+                <TextEquiv>
+                    <Unicode>will be the approximate estimate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="187,1430 579,1407 616,1374 754,1435 819,1400 896,1425 1035,1359 1240,1359 1238,1291 908,1339 844,1307 720,1354 653,1315 531,1361 351,1302 184,1339"/>
+                <Baseline points="192,1383 244,1385 296,1387 348,1388 400,1389 452,1389 504,1389 556,1388 608,1387 660,1385 712,1384 764,1382 816,1379 868,1376 920,1373 972,1370 1024,1367 1076,1363 1128,1359 1180,1356 1233,1352"/>
+                <TextEquiv>
+                    <Unicode>for the frames &amp; 2/6 for P. H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="197,1537 658,1532 741,1484 1146,1453 1297,1488 1357,1452 1352,1386 1254,1425 1053,1383 958,1446 810,1415 717,1469 610,1424 533,1472 316,1433 192,1469"/>
+                <Baseline points="203,1519 260,1519 317,1518 374,1516 432,1514 489,1510 546,1506 603,1501 661,1496 718,1490 775,1485 832,1479 890,1474 947,1469 1004,1463 1061,1458 1119,1454 1176,1450 1233,1447 1290,1445 1348,1444"/>
+                <TextEquiv>
+                    <Unicode>&amp; T. H. If you have opportunity.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="169,1618 611,1572 839,1584 961,1549 1065,1575 1135,1539 1133,1506 1022,1471 935,1526 904,1504 788,1533 744,1504 662,1550 593,1522 505,1557 305,1555 273,1527 166,1556"/>
+                <Baseline points="176,1596 223,1595 271,1594 318,1592 366,1590 413,1588 461,1586 508,1583 556,1581 603,1577 651,1574 699,1571 746,1568 794,1564 841,1561 889,1558 936,1555 984,1551 1031,1548 1079,1545 1127,1543"/>
+                <TextEquiv>
+                    <Unicode>ask what other people pay.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="187,1684 389,1676 542,1713 946,1642 1208,1661 1206,1612 1037,1570 885,1577 781,1634 668,1587 613,1637 425,1605 323,1640 254,1596 186,1639"/>
+                <Baseline points="194,1665 244,1667 294,1668 344,1668 395,1668 445,1668 495,1667 545,1666 596,1665 646,1663 696,1661 746,1658 797,1656 847,1654 897,1651 947,1648 998,1645 1048,1641 1098,1639 1148,1635 1199,1632"/>
+                <TextEquiv>
+                    <Unicode>The idea of the B. House</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="157,1829 224,1787 753,1805 1114,1749 1297,1763 1294,1691 1176,1679 969,1743 892,1703 835,1746 738,1707 632,1759 507,1722 354,1761 208,1710 153,1732"/>
+                <Baseline points="163,1788 219,1786 275,1785 331,1784 388,1783 444,1781 500,1780 556,1779 613,1777 669,1776 725,1775 781,1773 838,1771 894,1768 950,1767 1006,1764 1063,1760 1119,1758 1175,1754 1231,1750 1288,1746"/>
+                <TextEquiv>
+                    <Unicode>Colonnade is excellent but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="165,1903 604,1916 994,1863 1209,1904 1294,1882 1292,1825 919,1837 813,1790 724,1848 644,1812 471,1872 162,1828"/>
+                <Baseline points="171,1889 226,1892 282,1894 338,1895 394,1895 450,1893 505,1891 561,1889 617,1886 673,1882 729,1878 784,1875 840,1871 896,1868 952,1866 1008,1863 1063,1862 1119,1862 1175,1863 1231,1864 1287,1868"/>
+                <TextEquiv>
+                    <Unicode>how about the India design?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="177,2034 1047,2006 1092,2046 1174,2020 1277,2056 1336,2046 1337,1975 1153,1927 1056,1966 986,1928 934,1965 735,1941 652,1987 441,1934 362,1996 244,1949 177,1973"/>
+                <Baseline points="184,2013 241,2014 298,2015 355,2015 413,2014 470,2013 527,2012 584,2011 642,2010 699,2009 756,2008 813,2007 871,2007 928,2007 985,2008 1042,2010 1100,2012 1157,2016 1214,2021 1271,2027 1329,2034"/>
+                <TextEquiv>
+                    <Unicode>It is Italian I think -- perhaps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:14;}">
+                <Coords points="181,2120 206,2122 231,2124 257,2126 282,2126 308,2127 333,2127 359,2126 384,2126 410,2125 435,2125 460,2124 486,2123 511,2122 537,2122 562,2121 588,2121 613,2121 639,2121 774,2129 799,2130 824,2130 850,2129 875,2129 900,2128 926,2127 951,2126 977,2125 1002,2125 1027,2124 1053,2122 1078,2122 1103,2121 1129,2121 1154,2121 1180,2121 1180,2106 1154,2106 1129,2106 1103,2106 1078,2107 1052,2107 1026,2109 1002,2110 977,2110 950,2111 925,2112 899,2113 875,2114 850,2114 824,2115 799,2115 775,2114 639,2106 613,2106 588,2106 562,2106 537,2107 511,2107 485,2108 459,2109 435,2110 410,2110 384,2111 359,2111 333,2112 308,2112 282,2111 258,2111 232,2109 207,2107 182,2105"/>
+                <Baseline points="181,2120 206,2122 231,2124 257,2126 282,2126 308,2127 333,2127 359,2126 384,2126 410,2125 435,2125 460,2124 486,2123 511,2122 537,2122 562,2121 588,2121 613,2121 639,2121 774,2129 799,2130 824,2130 850,2129 875,2129 900,2128 926,2127 951,2126 977,2125 1002,2125 1027,2124 1053,2122 1078,2122 1103,2121 1129,2121 1154,2121 1180,2121"/>
+                <TextEquiv>
+                    <Unicode>Fergusson can make it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>It was quite right to put
+the whole matter of the damages
+clearly to the Board, though
+they astound me. Still £2000
+should do a great deal. I
+suppose that 1/6 per square
+will be the approximate estimate
+for the frames &amp; 2/6 for P. H.
+&amp; T. H. If you have opportunity.
+ask what other people pay.
+The idea of the B. House
+Colonnade is excellent but
+how about the India design?
+It is Italian I think -- perhaps
+Fergusson can
+make it</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

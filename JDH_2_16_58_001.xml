@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:39:35.295-04:00</Created>
+        <LastChange>2023-05-17T02:07:32.371+02:00</LastChange>
+        <TranskribusMetadata docId="464754" pageId="19205995" pageNr="1" tsid="121949776" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XGQOZJMXWROTBRPBHFBMXVLS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DVIOQHNLVNOKOVOUAHVCWUXU" imageId="14809728"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_58_001.jpg" imageWidth="1341" imageHeight="2220">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330828249" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="88,62 88,2156 1295,2156 1295,62"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="655,135 680,150 744,145 795,171 887,126 985,147 1019,121 1085,126 1142,107 1011,66 955,91 875,95 831,68 779,78 740,50 653,79"/>
+                <Baseline points="662,126 688,126 714,126 740,126 766,126 793,125 819,124 845,123 871,122 898,121 924,120 950,119 976,118 1002,116 1029,116 1055,115 1081,114 1107,113 1134,113"/>
+                <TextEquiv>
+                    <Unicode>Dunfermline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="196,164 254,149 281,146 307,144 334,142 361,139 387,138 414,136 440,134 467,132 494,131 520,130 547,130 574,130 574,115 547,115 520,115 493,116 466,117 439,119 413,121 386,123 360,124 333,127 306,129 280,131 251,134 192,149"/>
+                <Baseline points="196,164 254,149 281,146 307,144 334,142 361,139 387,138 414,136 440,134 467,132 494,131 520,130 547,130 574,130"/>
+                <TextEquiv>
+                    <Unicode>Craigflower</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="812,239 855,230 874,246 920,228 935,240 975,222 1020,233 1059,259 1105,232 1101,177 1085,184 1044,167 990,166 970,180 903,123 824,206 809,206"/>
+                <Baseline points="818,228 843,227 868,226 893,225 919,224 944,222 969,219 994,218 1020,215 1045,212 1070,209 1096,206"/>
+                <TextEquiv>
+                    <Unicode>Sunday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="811,334 888,377 928,346 1015,317 1086,354 1155,330 1196,349 1243,341 1244,265 1230,260 1186,275 1152,261 1089,275 1007,261 934,286 867,242 813,251"/>
+                <Baseline points="819,324 845,321 871,320 897,318 923,318 949,318 975,319 1001,320 1027,321 1053,322 1079,323 1105,325 1131,325 1157,327 1183,327 1209,327 1235,327"/>
+                <TextEquiv>
+                    <Unicode>Aug 24/79.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="81,580 108,578 125,561 147,570 229,559 241,569 261,559 326,574 353,560 422,560 421,519 374,502 321,462 250,508 152,458 80,501"/>
+                <Baseline points="88,554 113,553 138,552 163,551 188,551 213,550 238,550 264,550 289,550 314,549 339,549 364,548 389,547 415,546"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="447,637 784,613 834,647 902,611 967,639 1064,605 1303,609 1300,536 1169,505 1093,515 999,587 868,565 573,585 507,544 445,576"/>
+                <Baseline points="453,618 495,618 537,618 579,618 621,618 663,618 705,617 747,616 789,615 831,614 874,613 916,612 958,610 1000,609 1042,607 1084,604 1126,602 1168,599 1210,596 1252,593 1295,589"/>
+                <TextEquiv>
+                    <Unicode>I received your despatch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="101,771 296,791 370,736 555,765 781,718 1285,748 1284,683 997,679 926,635 726,692 590,647 532,692 430,664 100,701"/>
+                <Baseline points="108,746 166,743 225,741 283,738 342,736 400,734 459,732 517,730 576,729 634,727 693,726 751,725 810,725 868,724 927,724 985,723 1044,724 1102,724 1161,724 1219,725 1278,726"/>
+                <TextEquiv>
+                    <Unicode>after this forenoon at Dunferm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="137,867 178,875 199,864 220,870 234,865 314,891 337,885 333,825 272,808 252,826 195,783 183,783 159,808 134,819"/>
+                <Baseline points="145,865 171,859 197,855 223,853 249,852 275,852 301,851 327,851"/>
+                <TextEquiv>
+                    <Unicode>line.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="179,970 421,949 511,1003 673,943 1189,923 1187,882 916,850 777,918 520,894 340,931 245,878 176,906"/>
+                <Baseline points="185,956 234,956 284,957 334,956 384,955 434,954 483,952 533,950 583,948 633,945 683,942 732,939 782,936 832,933 882,930 932,927 981,925 1031,922 1081,920 1131,918 1181,916"/>
+                <TextEquiv>
+                    <Unicode>I am very glad that you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="84,1069 1205,1037 1202,967 1135,949 914,1006 729,981 594,1028 82,1015"/>
+                <Baseline points="91,1056 146,1059 201,1060 256,1060 312,1060 367,1059 422,1058 478,1056 533,1054 588,1051 644,1049 699,1046 754,1042 809,1039 865,1036 920,1033 975,1030 1031,1027 1086,1025 1141,1023 1197,1021"/>
+                <TextEquiv>
+                    <Unicode>have answered Mitfords letter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="113,1186 566,1158 801,1192 885,1146 1115,1190 1234,1132 1233,1082 1129,1119 970,1074 646,1130 520,1088 444,1130 111,1115"/>
+                <Baseline points="119,1166 174,1166 229,1165 285,1163 340,1162 396,1160 451,1159 506,1157 562,1155 617,1153 673,1151 728,1149 783,1147 839,1145 894,1144 950,1142 1005,1140 1060,1139 1116,1138 1171,1136 1227,1135"/>
+                <TextEquiv>
+                    <Unicode>so well. It is useless hoping to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="103,1293 1207,1258 1232,1160 1108,1191 1018,1163 950,1229 857,1235 764,1175 660,1240 571,1200 101,1250"/>
+                <Baseline points="109,1270 164,1271 220,1270 276,1270 332,1269 388,1268 444,1266 500,1265 556,1263 612,1261 668,1259 723,1256 779,1254 835,1251 891,1249 947,1247 1003,1245 1059,1242 1115,1240 1171,1238 1227,1237"/>
+                <TextEquiv>
+                    <Unicode>disentangle him from Lessells.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="141,1410 224,1380 316,1440 419,1379 877,1353 973,1398 1139,1362 1137,1292 962,1274 673,1345 601,1299 548,1334 379,1316 284,1354 137,1314"/>
+                <Baseline points="147,1377 196,1377 245,1376 294,1375 343,1374 393,1372 442,1371 491,1369 540,1367 589,1365 639,1362 688,1360 737,1358 786,1357 835,1355 885,1354 934,1353 983,1352 1032,1351 1081,1351 1131,1352"/>
+                <TextEquiv>
+                    <Unicode>Yours (herewith returned) of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="142,1544 510,1480 827,1500 935,1458 1004,1501 1065,1456 1198,1449 1196,1380 1138,1412 1027,1389 904,1445 814,1424 772,1452 631,1404 506,1465 137,1440"/>
+                <Baseline points="147,1489 199,1489 251,1488 303,1487 355,1486 408,1485 460,1484 512,1482 564,1480 616,1478 669,1476 721,1473 773,1470 825,1468 877,1465 930,1462 982,1459 1034,1457 1086,1454 1138,1451 1191,1448"/>
+                <TextEquiv>
+                    <Unicode>Aug 22 in which you speak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="155,1609 346,1636 581,1583 738,1628 810,1574 1093,1595 1230,1564 1228,1527 1102,1549 892,1506 687,1549 514,1490 153,1569"/>
+                <Baseline points="162,1602 215,1600 268,1597 321,1595 374,1592 427,1590 480,1588 533,1586 586,1583 639,1581 692,1579 745,1578 798,1576 851,1574 904,1573 957,1572 1010,1571 1063,1570 1116,1570 1169,1570 1222,1570"/>
+                <TextEquiv>
+                    <Unicode>well of the energy &amp; resource of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="156,1726 394,1711 447,1738 683,1681 1210,1667 1208,1631 1063,1601 980,1642 848,1603 649,1673 497,1629 407,1676 369,1647 267,1674 209,1631 153,1657"/>
+                <Baseline points="163,1713 215,1711 267,1708 319,1706 371,1703 423,1700 475,1698 527,1696 579,1693 631,1690 683,1687 735,1685 787,1683 839,1681 891,1678 943,1675 995,1673 1047,1670 1099,1668 1151,1664 1203,1662"/>
+                <TextEquiv>
+                    <Unicode>Boards officers must have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="152,1833 290,1860 565,1798 1094,1809 1268,1790 1267,1750 1134,1716 1039,1777 921,1745 534,1782 481,1744 396,1789 150,1769"/>
+                <Baseline points="158,1820 213,1817 268,1815 323,1813 378,1811 433,1809 488,1807 544,1805 599,1804 654,1802 709,1800 764,1798 819,1797 874,1796 930,1794 985,1792 1040,1791 1095,1789 1150,1788 1205,1786 1261,1785"/>
+                <TextEquiv>
+                    <Unicode>crossed his, &amp; will show him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="181,1968 405,1973 478,1923 1267,1911 1185,1863 982,1847 690,1900 518,1903 413,1861 178,1879"/>
+                <Baseline points="187,1933 240,1933 294,1933 347,1932 401,1931 455,1929 508,1927 562,1925 615,1923 669,1921 723,1918 776,1916 830,1914 883,1912 937,1909 991,1907 1044,1905 1098,1904 1151,1902 1205,1901 1259,1900"/>
+                <TextEquiv>
+                    <Unicode>that you are not down on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="160,2065 551,2041 607,2068 973,2007 1117,2069 1164,2045 1160,1956 1110,1944 920,1996 786,1972 736,2005 554,1965 393,2009 156,1980"/>
+                <Baseline points="166,2050 215,2048 264,2046 314,2044 363,2042 413,2040 462,2038 512,2037 561,2035 611,2033 660,2031 709,2029 759,2027 808,2025 858,2023 907,2020 957,2018 1006,2015 1056,2012 1105,2009 1155,2005"/>
+                <TextEquiv>
+                    <Unicode>the Works Dept where they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="176,2143 403,2154 457,2135 495,2161 568,2132 644,2145 757,2127 756,2101 727,2106 693,2077 593,2104 533,2067 494,2098 417,2089 348,2109 310,2090 285,2105 257,2080 175,2101"/>
+                <Baseline points="183,2135 211,2135 239,2134 267,2133 296,2132 324,2132 352,2132 381,2132 409,2132 437,2132 466,2131 494,2131 522,2131 550,2130 579,2130 607,2129 635,2128 664,2127 692,2126 720,2124 749,2122"/>
+                <TextEquiv>
+                    <Unicode>deserve praise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dunfermline
+raigflower
+114
+Sunday
+Aug 24/79.
+Dear Dyer
+I received your despatch
+after this forenoon at Dunferm
+line.
+I am very glad that you
+have answered Mitfords letter
+so well. It is useless hoping to
+disentangle him from Lessells.
+Yours (herewith returned) of
+Aug 22 in which you speak
+well of the energy &amp; resource of
+Boards officers must have
+crossed his, &amp; will show him
+that you are not down on
+the Works Dept where they
+deserve praise.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:39:35.405-04:00</Created>
+        <LastChange>2023-05-17T02:12:08.047+02:00</LastChange>
+        <TranskribusMetadata docId="464754" pageId="19206001" pageNr="4" tsid="121949992" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=YNMYXMQTAGOGAJYJYHMIIESM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVUMRJNOISGOQNVFPIDVAKPL" imageId="14809734"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_58_004.jpg" imageWidth="1464" imageHeight="2194">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330829167" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="31,57 31,2192 1375,2192 1375,57"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="325,118 360,108 389,118 405,111 428,116 447,108 466,118 500,116 501,81 474,70 453,75 429,68 419,74 381,41 376,44 368,36 354,45 327,38"/>
+                <Baseline points="333,90 359,98 386,101 413,102 439,101 466,99 493,97"/>
+                <TextEquiv>
+                    <Unicode>have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="99,189 371,212 426,174 569,201 1101,139 1332,167 1376,159 1374,93 97,129"/>
+                <Baseline points="107,179 170,179 233,179 296,178 359,177 422,175 485,173 548,171 611,168 674,166 737,162 800,159 863,156 926,153 989,150 1052,147 1115,144 1178,142 1241,139 1304,137 1368,136"/>
+                <TextEquiv>
+                    <Unicode>was to shown an immense saving</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1140,206 1153,207 1162,198 1169,203 1199,198 1217,201 1231,192 1244,192 1242,140 1229,143 1205,140 1187,148 1182,143 1171,143 1155,152 1138,153"/>
+                <Baseline points="1147,193 1176,193 1205,192 1235,189"/>
+                <TextEquiv>
+                    <Unicode>the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;}">
+                <Coords points="24,303 325,319 383,278 471,312 948,248 1081,301 1247,296 1323,264 1321,207 877,235 782,189 579,246 299,211 22,251"/>
+                <Baseline points="31,287 95,285 159,283 223,281 287,279 351,277 415,274 480,271 544,269 608,266 672,263 736,260 800,258 864,255 929,251 993,249 1057,246 1121,244 1185,241 1249,239 1314,236"/>
+                <TextEquiv>
+                    <Unicode>as set off against the wages of very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_505" custom="readingOrder {index:4;}">
+                <Coords points="814,209 858,209 892,206 917,204 942,204 967,204 992,200 990,185 966,189 942,189 916,189 891,191 857,194 814,194"/>
+                <Baseline points="814,209 858,209 892,206 917,204 942,204 967,204 992,200"/>
+                <TextEquiv>
+                    <Unicode>higher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="88,396 1336,344 1332,257 1262,300 970,283 698,332 508,302 390,355 85,321"/>
+                <Baseline points="96,385 157,382 219,380 280,377 342,374 403,371 465,368 526,365 588,362 649,359 711,356 773,354 834,351 896,348 957,345 1019,343 1080,340 1142,338 1203,336 1265,334 1327,332"/>
+                <TextEquiv>
+                    <Unicode>superior workmen we proposed to get.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="627,415 637,414 642,419 645,418 650,421 665,406 670,408 681,405 676,358 660,360 656,365 648,366 644,372 634,369 631,373 623,374"/>
+                <Baseline points="634,406 672,402"/>
+                <TextEquiv>
+                    <Unicode>it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="396,434 480,420 515,421 539,432 568,411 591,422 621,412 618,377 555,375 533,382 499,366 453,392 431,379 392,394"/>
+                <Baseline points="403,423 429,420 455,418 481,416 507,413 533,411 559,409 585,407 612,406"/>
+                <TextEquiv>
+                    <Unicode>subsequent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="143,494 415,466 794,515 990,453 1347,464 1379,378 433,441 223,396 141,446"/>
+                <Baseline points="151,477 212,475 273,474 334,472 395,470 456,468 517,466 578,464 639,462 700,460 761,458 822,456 883,453 944,451 1005,448 1066,445 1127,442 1188,439 1249,435 1310,431 1372,427"/>
+                <TextEquiv>
+                    <Unicode>Smith's dread of the responsibility</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="109,590 479,575 625,621 700,558 968,586 1334,554 1333,514 1203,481 1040,537 842,498 709,534 639,505 106,534"/>
+                <Baseline points="116,582 176,581 237,580 297,578 358,577 418,575 479,573 539,571 600,569 660,566 721,564 781,561 842,558 902,556 963,553 1023,550 1084,547 1144,544 1205,541 1265,539 1326,536"/>
+                <TextEquiv>
+                    <Unicode>&amp; the wide difference between</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="904,613 934,607 973,630 998,610 1025,605 1050,611 1061,602 1072,612 1098,611 1118,599 1117,546 1089,563 1051,559 1036,574 996,577 983,570 970,584 942,560 902,568"/>
+                <Baseline points="912,606 940,603 968,602 996,601 1025,600 1053,600 1081,600 1110,600"/>
+                <TextEquiv>
+                    <Unicode>River's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="706,620 720,617 746,628 756,628 764,620 773,626 779,618 784,621 789,614 796,616 803,607 816,607 808,546 797,548 779,563 768,566 750,587 727,570 701,580"/>
+                <Baseline points="713,613 744,613 775,608 807,601"/>
+                <TextEquiv>
+                    <Unicode>P.H</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="109,697 312,671 484,720 524,685 1185,657 1183,592 876,632 831,593 775,632 670,606 605,645 406,604 215,660 107,629"/>
+                <Baseline points="116,676 169,675 222,674 275,673 328,672 381,671 434,671 487,670 540,669 593,668 646,667 699,665 752,664 805,662 858,659 911,657 964,654 1017,650 1070,647 1123,642 1177,637"/>
+                <TextEquiv>
+                    <Unicode>his &amp; Mr (on new Boiler mains)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="117,792 444,818 511,772 740,768 811,800 886,753 1004,775 1107,740 1211,772 1303,733 1301,684 1179,659 887,739 574,706 510,756 114,727"/>
+                <Baseline points="123,772 181,774 240,775 298,776 357,776 416,775 474,774 533,773 591,771 650,768 709,765 767,762 826,759 884,755 943,751 1002,746 1060,742 1119,737 1177,733 1236,728 1295,723"/>
+                <TextEquiv>
+                    <Unicode>estimate of the moneys required for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="110,888 1272,835 1270,793 1207,772 1053,816 979,773 882,832 718,802 585,839 108,840"/>
+                <Baseline points="117,871 174,871 231,871 289,870 346,869 403,868 461,866 518,864 575,862 633,859 690,857 747,853 805,850 862,847 919,843 977,840 1034,836 1091,832 1149,829 1206,826 1264,822"/>
+                <TextEquiv>
+                    <Unicode>maintenance &amp; repairs has no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="1269,882 1278,883 1297,872 1319,896 1329,894 1348,881 1358,882 1364,823 1350,822 1340,811 1327,806 1319,809 1315,803 1291,817 1276,815"/>
+                <Baseline points="1279,866 1315,871 1351,874"/>
+                <TextEquiv>
+                    <Unicode>has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:16;}">
+                <Coords points="781,889 808,885 835,881 856,880 866,880 866,865 856,865 834,866 806,870 779,874"/>
+                <Baseline points="781,889 808,885 835,881 856,880 866,880"/>
+                <TextEquiv>
+                    <Unicode>Kin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:17;}">
+                <Coords points="129,975 922,925 1383,948 1380,868 1313,896 1255,851 1103,896 715,883 595,934 431,890 380,930 127,917"/>
+                <Baseline points="137,955 198,960 260,963 322,963 384,963 446,961 508,958 570,954 632,950 694,946 756,940 817,936 879,932 941,929 1003,926 1065,924 1127,924 1189,925 1251,928 1313,933 1375,940"/>
+                <TextEquiv>
+                    <Unicode>doubt thrown Smith over, &amp; he exp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:18;}">
+                <Coords points="65,1022 227,1011 286,1037 313,1008 351,1019 494,993 535,1005 546,963 374,960 351,979 326,969 284,987 215,973 195,993 62,969"/>
+                <Baseline points="73,1014 98,1013 124,1012 150,1011 176,1010 202,1008 228,1007 254,1005 280,1004 306,1003 331,1001 357,1000 383,999 409,997 435,997 461,995 487,994 513,993 539,992"/>
+                <TextEquiv>
+                    <Unicode>ever since been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:19;}">
+                <Coords points="121,1090 1310,1022 1307,957 1196,950 1032,1008 936,964 640,1023 118,1013"/>
+                <Baseline points="128,1060 186,1061 245,1062 303,1061 362,1060 421,1059 479,1057 538,1055 597,1052 655,1049 714,1045 773,1042 831,1038 890,1034 949,1030 1007,1027 1066,1023 1125,1019 1183,1016 1242,1012 1301,1010"/>
+                <TextEquiv>
+                    <Unicode>reluctant to go into the matter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:20;}">
+                <Coords points="164,1192 365,1192 411,1152 722,1174 938,1117 1036,1152 1275,1109 1338,1140 1343,1061 1255,1099 1095,1063 818,1101 698,1075 586,1125 451,1073 159,1102"/>
+                <Baseline points="170,1168 228,1167 286,1165 345,1162 403,1160 462,1157 520,1154 578,1151 637,1147 695,1143 754,1139 812,1136 870,1132 929,1129 987,1124 1046,1121 1104,1119 1162,1116 1221,1114 1279,1112 1338,1111"/>
+                <TextEquiv>
+                    <Unicode>at all! This I must explain to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:21;}">
+                <Coords points="135,1283 429,1253 820,1281 994,1224 1320,1218 1318,1183 1092,1147 875,1208 131,1208"/>
+                <Baseline points="142,1267 200,1266 258,1265 317,1263 375,1261 434,1258 492,1255 551,1251 609,1248 668,1245 726,1241 784,1236 843,1232 901,1228 960,1224 1018,1221 1077,1217 1135,1214 1194,1212 1252,1209 1311,1207"/>
+                <TextEquiv>
+                    <Unicode>Mitford &amp; we must propose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:22;}">
+                <Coords points="144,1380 568,1387 956,1316 1336,1327 1333,1284 1191,1246 937,1305 783,1274 460,1334 403,1302 141,1326"/>
+                <Baseline points="151,1370 209,1369 268,1368 327,1366 386,1363 445,1359 503,1356 562,1351 621,1347 680,1343 739,1338 797,1333 856,1328 915,1324 974,1320 1033,1316 1091,1313 1150,1310 1209,1307 1268,1306 1327,1305"/>
+                <TextEquiv>
+                    <Unicode>what modifications we can.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:23;}">
+                <Coords points="131,1486 1278,1416 1247,1345 1172,1376 1110,1348 1057,1391 999,1366 965,1402 701,1411 626,1369 456,1428 279,1440 191,1403 127,1431"/>
+                <Baseline points="137,1472 193,1471 250,1469 306,1466 363,1463 420,1460 476,1456 533,1452 589,1448 646,1444 703,1439 759,1435 816,1430 872,1426 929,1421 986,1417 1042,1413 1099,1410 1155,1407 1212,1403 1269,1401"/>
+                <TextEquiv>
+                    <Unicode>These must however include</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:24;}">
+                <Coords points="130,1562 355,1590 626,1533 761,1554 1182,1495 1277,1522 1311,1509 1306,1413 1071,1486 779,1474 556,1516 508,1486 317,1527 207,1491 128,1528"/>
+                <Baseline points="137,1558 195,1557 253,1556 311,1554 370,1552 428,1549 486,1547 545,1543 603,1540 661,1536 720,1532 778,1528 836,1524 894,1520 953,1516 1011,1512 1069,1508 1128,1505 1186,1502 1244,1500 1303,1497"/>
+                <TextEquiv>
+                    <Unicode>dismissals &amp; replacements, &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:25;}">
+                <Coords points="128,1682 498,1698 777,1632 1282,1615 1276,1528 1130,1528 825,1607 390,1600 338,1639 180,1590 125,1624"/>
+                <Baseline points="135,1666 191,1666 248,1666 305,1665 362,1663 419,1661 476,1659 533,1656 590,1652 647,1649 704,1645 760,1640 817,1635 874,1631 931,1626 988,1621 1045,1616 1102,1610 1159,1605 1216,1601 1273,1595"/>
+                <TextEquiv>
+                    <Unicode>I cannot expect the Board to go</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:26;}">
+                <Coords points="123,1787 484,1792 573,1754 689,1788 747,1736 808,1764 909,1720 1212,1715 1329,1757 1324,1674 1246,1647 1178,1687 559,1692 411,1733 350,1696 120,1742"/>
+                <Baseline points="130,1776 189,1774 248,1772 308,1770 367,1766 426,1763 486,1760 545,1756 604,1752 664,1748 723,1743 782,1739 842,1734 901,1730 960,1725 1020,1721 1079,1717 1138,1714 1198,1710 1257,1706 1317,1703"/>
+                <TextEquiv>
+                    <Unicode>into the matter of the removal of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:27;}">
+                <Coords points="130,1885 521,1907 705,1843 928,1883 1048,1821 1157,1870 1250,1810 1246,1751 1166,1781 1062,1749 881,1801 779,1769 719,1813 578,1755 358,1848 247,1799 126,1819"/>
+                <Baseline points="137,1876 192,1874 247,1872 302,1869 357,1867 413,1865 468,1862 523,1860 578,1857 633,1854 689,1851 744,1848 799,1844 854,1839 909,1835 965,1829 1020,1823 1075,1817 1130,1810 1185,1803 1241,1794"/>
+                <TextEquiv>
+                    <Unicode>Taylor so befas the rubbishy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:28;}">
+                <Coords points="143,1977 1260,1917 1286,1851 1185,1872 1110,1840 972,1895 887,1868 556,1930 467,1892 343,1933 191,1911 141,1948"/>
+                <Baseline points="151,1967 207,1965 264,1964 320,1961 377,1959 433,1956 490,1953 546,1949 603,1946 659,1942 716,1939 772,1934 829,1930 885,1926 942,1921 998,1916 1055,1912 1111,1907 1168,1902 1224,1897 1281,1892"/>
+                <TextEquiv>
+                    <Unicode>subordinates are not disposed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:29;}">
+                <Coords points="152,2114 329,2047 407,2079 467,2057 631,2066 661,2042 861,2055 909,2013 745,1973 612,2027 456,1982 232,2034 187,2003 147,2019"/>
+                <Baseline points="157,2065 194,2064 231,2063 268,2063 306,2061 343,2060 380,2059 417,2058 455,2056 492,2054 529,2053 566,2052 604,2050 641,2048 678,2046 715,2044 753,2042 790,2040 827,2038 864,2035 902,2034"/>
+                <TextEquiv>
+                    <Unicode>of at the same time.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>have
+was to shown an immense saving
+the
+ther
+h
+as set off against the wages of very
+superior workmen we proposed to get.
+it
+subsequent
+Smith's dread of the responsibility
+&amp; the wide difference between
+River's
+P.H
+his &amp; Mr (on new Boiler mains)
+estimate of the moneys required for
+maintenance &amp; repairs has no
+has
+n
+Ki
+doubt thrown Smith over, &amp; he exp
+ever since been
+reluctant to go into the matter
+h
+at all! This I must explain to
+Mitford &amp; we must propose
+what modifications we can.
+These must however include
+dismissals &amp; replacements, &amp;
+I cannot expect the Board to go
+into the matter of the removal of
+Taylor so befas the rubbishy
+subordinates are not disposed
+of at the same time.
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

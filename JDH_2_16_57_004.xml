@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:38:21.685-04:00</Created>
+        <LastChange>2023-05-17T02:05:50.659+02:00</LastChange>
+        <TranskribusMetadata docId="464752" pageId="19205946" pageNr="3" tsid="121949738" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=YAKCRSWPGDPCRWVLNXOQFMLP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SGONNVUBBMPEBWEHSWTZASMP" imageId="14809679"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_57_004.jpg" imageWidth="1433" imageHeight="2205">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330831352" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="22,68 22,2142 1365,2142 1365,68"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="165,138 181,140 189,130 200,129 247,165 279,145 294,146 288,71 270,78 260,71 249,73 215,49 189,59 177,74 160,75"/>
+                <Baseline points="171,121 199,121 227,119 255,115 284,112"/>
+                <TextEquiv>
+                    <Unicode>long</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="13,209 140,283 294,208 536,183 823,169 942,230 990,187 1185,173 1181,84 843,133 665,94 241,173 139,133 12,183"/>
+                <Baseline points="22,215 79,213 137,211 195,208 253,205 310,202 368,199 426,196 484,193 541,189 599,186 657,183 715,180 772,178 830,175 888,172 946,170 1003,168 1061,166 1119,164 1177,163"/>
+                <TextEquiv>
+                    <Unicode>my memo will do. (but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="142,326 313,316 422,370 475,331 703,300 1170,309 1184,216 915,221 759,269 490,239 430,276 321,244 141,291"/>
+                <Baseline points="149,317 200,317 252,316 303,315 355,313 406,312 458,310 509,307 561,305 612,302 664,300 715,298 767,296 818,294 870,292 921,291 973,289 1024,288 1076,288 1127,288 1179,289"/>
+                <TextEquiv>
+                    <Unicode>not else) &amp; send both off.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="233,486 437,437 817,419 872,450 958,411 1257,408 1254,356 1183,343 1126,380 806,398 557,364 363,410 291,362 229,404"/>
+                <Baseline points="239,451 289,449 340,447 390,444 441,441 491,438 542,435 592,432 643,429 693,427 744,423 794,421 845,418 895,415 946,413 996,410 1047,408 1097,407 1148,405 1198,404 1249,403"/>
+                <TextEquiv>
+                    <Unicode>I am bothered again with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="101,574 1347,536 1343,450 1213,489 1007,447 905,503 727,515 595,460 499,522 413,484 97,494"/>
+                <Baseline points="109,564 170,564 232,563 293,561 355,558 416,555 478,551 539,547 601,543 662,538 724,535 785,530 847,526 908,523 970,520 1031,517 1093,515 1154,514 1216,514 1277,515 1339,517"/>
+                <TextEquiv>
+                    <Unicode>the post. There was none out</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="147,700 491,647 624,683 877,628 1134,656 1268,623 1264,543 1210,577 946,557 737,606 568,582 490,626 369,586 256,630 143,617"/>
+                <Baseline points="153,673 208,668 263,663 318,659 374,656 429,653 484,650 540,647 595,645 650,642 706,640 761,638 816,636 871,633 927,631 982,629 1037,626 1093,622 1148,619 1203,616 1259,611"/>
+                <TextEquiv>
+                    <Unicode>yesterday -- I assumed it went</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="136,814 1310,742 1306,686 1256,677 838,715 592,684 442,755 308,725 133,761"/>
+                <Baseline points="143,797 200,793 258,788 316,783 374,779 432,775 490,771 548,767 606,762 664,759 722,756 779,751 837,748 895,744 953,740 1011,736 1069,732 1127,728 1185,724 1243,719 1301,715"/>
+                <TextEquiv>
+                    <Unicode>at noon 1/2 to day as usual,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="161,922 702,867 827,908 951,852 1245,832 1253,771 981,828 895,788 744,832 677,801 607,841 155,837"/>
+                <Baseline points="167,906 221,900 275,896 329,891 383,886 437,882 491,878 545,875 599,871 653,867 708,864 762,861 816,857 870,854 924,850 978,845 1032,841 1086,836 1140,831 1194,824 1249,818"/>
+                <TextEquiv>
+                    <Unicode>but it goes at 10 1/4! so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="188,1061 842,973 1054,1024 1140,958 1372,941 1367,875 1226,865 1179,917 1084,887 992,933 936,906 436,975 378,942 181,963"/>
+                <Baseline points="193,1019 251,1018 310,1017 368,1015 427,1012 486,1007 544,1003 603,998 661,992 720,986 779,981 837,975 896,969 954,964 1013,960 1072,955 1130,952 1189,949 1247,947 1306,947 1365,947"/>
+                <TextEquiv>
+                    <Unicode>pray excuse necessary haste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="385,1180 520,1160 637,1193 700,1180 744,1213 820,1203 871,1165 988,1164 976,1049 884,1028 787,1091 649,1055 563,1108 457,1040 397,1094 375,1089"/>
+                <Baseline points="391,1164 420,1163 449,1161 478,1159 507,1157 537,1153 566,1151 595,1148 624,1145 653,1141 683,1138 712,1135 741,1131 770,1129 799,1125 829,1121 858,1118 887,1115 916,1113 945,1110 975,1107"/>
+                <TextEquiv>
+                    <Unicode>Ever affy ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="886,1378 947,1370 978,1343 1012,1357 1076,1345 1100,1323 1178,1345 1323,1342 1311,1219 1129,1187 1115,1199 1051,1174 882,1340"/>
+                <Baseline points="892,1365 918,1361 944,1357 971,1351 997,1348 1023,1343 1050,1340 1076,1336 1103,1332 1129,1329 1155,1327 1182,1326 1208,1325 1234,1325 1261,1326 1287,1328 1314,1331"/>
+                <TextEquiv>
+                    <Unicode>DHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="228,1601 264,1574 357,1593 431,1564 484,1591 737,1539 796,1563 927,1523 1057,1537 1171,1491 1165,1433 1108,1422 1050,1459 745,1470 669,1523 481,1460 216,1480"/>
+                <Baseline points="233,1578 279,1577 326,1575 372,1573 419,1570 465,1567 512,1563 558,1559 605,1555 651,1550 698,1545 744,1540 791,1534 837,1529 884,1524 930,1518 977,1512 1023,1507 1070,1501 1116,1496 1163,1491"/>
+                <TextEquiv>
+                    <Unicode>P.S. I cannot get the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="138,1701 1015,1653 1229,1622 1235,1566 1056,1545 853,1627 789,1574 753,1600 685,1565 551,1643 321,1652 231,1609 134,1650"/>
+                <Baseline points="145,1697 199,1692 253,1688 307,1684 362,1681 416,1677 470,1674 525,1670 579,1667 633,1663 688,1660 742,1657 796,1653 850,1649 905,1644 959,1640 1013,1635 1068,1630 1122,1624 1176,1617 1231,1610"/>
+                <TextEquiv>
+                    <Unicode>Memo on Cooke &amp; £200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="167,1820 318,1836 732,1771 851,1804 1092,1740 1340,1761 1335,1683 1205,1722 1033,1678 902,1728 789,1698 165,1780"/>
+                <Baseline points="175,1811 232,1807 290,1804 348,1798 406,1794 464,1789 521,1784 579,1778 637,1773 695,1768 753,1763 810,1759 868,1755 926,1751 984,1748 1042,1746 1099,1745 1157,1744 1215,1745 1273,1747 1331,1749"/>
+                <TextEquiv>
+                    <Unicode>completed &amp; corrected -- it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="187,1939 1186,1861 1223,1850 1218,1784 1175,1770 1091,1836 794,1842 665,1801 580,1867 181,1864"/>
+                <Baseline points="193,1922 244,1919 295,1916 346,1913 397,1909 448,1905 499,1901 550,1896 601,1892 652,1887 704,1882 755,1878 806,1873 857,1869 908,1865 959,1861 1010,1858 1061,1855 1112,1852 1163,1850 1215,1849"/>
+                <TextEquiv>
+                    <Unicode>shall go tomorrow. No</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="141,2032 698,1968 793,2004 843,1962 1319,1962 1317,1928 1130,1877 835,1944 686,1921 563,1973 351,1967 296,1929 137,1976"/>
+                <Baseline points="147,2016 205,2014 263,2012 321,2008 379,2004 438,1999 496,1995 554,1989 612,1984 670,1979 729,1974 787,1969 845,1965 903,1961 961,1957 1020,1954 1078,1952 1136,1950 1194,1949 1252,1949 1311,1950"/>
+                <TextEquiv>
+                    <Unicode>letters come today except we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="179,2137 443,2107 562,2147 728,2082 885,2116 963,2078 1249,2087 1246,2037 1152,1983 1021,1973 901,2040 758,2022 717,2058 609,2022 521,2067 449,2022 176,2075"/>
+                <Baseline points="185,2116 237,2116 290,2114 343,2112 396,2109 449,2106 501,2101 554,2097 607,2093 660,2088 713,2084 765,2080 818,2075 871,2073 924,2070 977,2068 1029,2067 1082,2068 1135,2069 1188,2072 1241,2076"/>
+                <TextEquiv>
+                    <Unicode>go to Dunfermline for them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>long
+my memo will do. (but
+not else) &amp; send both off.
+I am bothered again with
+the post. There was none out
+yesterday -- I assumed it went
+at noon 1/2 to day as usual,
+but it goes at 10 1/4! so
+pray excuse necessary haste.
+Ever affy ys
+DHooker
+P.S. I cannot get the
+Memo on Cooke &amp; £200
+completed &amp; corrected -- it
+shall go tomorrow. No
+letters come today except we
+go to Dunfermline for them.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

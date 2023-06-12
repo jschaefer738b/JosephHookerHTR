@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:36:01.341-04:00</Created>
+        <LastChange>2023-05-17T02:01:45.726+02:00</LastChange>
+        <TranskribusMetadata docId="464749" pageId="19205938" pageNr="2" tsid="121949671" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TLSXRBMILWVCVDMVFYIVGHTY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXJLFDUGEGGFFBAJEUJXJFSU" imageId="14809671"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_54_002.jpg" imageWidth="1418" imageHeight="2196">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330836732" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="63,408 63,2066 1312,2066 1312,408"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="106,495 1277,474 1255,382 1103,431 763,412 672,460 569,408 526,436 273,404 105,326"/>
+                <Baseline points="113,456 170,460 228,465 286,467 344,470 402,472 459,474 517,475 575,476 633,476 691,476 748,475 806,474 864,472 922,470 980,468 1037,465 1095,462 1153,459 1211,455 1269,451"/>
+                <TextEquiv>
+                    <Unicode> prefer it where it would help</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="117,593 465,626 743,598 853,644 977,594 1152,604 1185,519 1098,506 1027,558 935,514 848,575 730,534 574,571 482,524 396,574 116,504"/>
+                <Baseline points="125,588 177,589 230,590 282,591 335,592 388,593 440,594 493,595 545,595 598,596 651,596 703,596 756,595 808,594 861,593 914,591 966,588 1019,585 1071,581 1124,577 1177,572"/>
+                <TextEquiv>
+                    <Unicode>to draw the public off the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="102,704 172,732 231,710 322,731 413,702 535,721 603,700 658,709 658,671 597,669 558,637 524,668 393,646 313,684 101,653"/>
+                <Baseline points="109,704 136,705 163,706 190,706 217,706 244,706 271,706 298,706 325,706 352,705 380,705 407,704 434,704 461,703 488,703 515,702 542,702 569,701 596,701 623,701 651,702"/>
+                <TextEquiv>
+                    <Unicode>main routes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="56,851 303,874 412,841 597,883 743,875 844,814 1281,815 1261,724 1025,788 832,793 729,722 618,788 54,769"/>
+                <Baseline points="63,834 123,832 184,831 244,829 305,828 365,827 426,825 486,824 547,823 607,822 668,820 728,819 789,817 849,815 910,813 970,810 1031,806 1091,803 1152,799 1212,795 1273,789"/>
+                <TextEquiv>
+                    <Unicode>3 I never did like our white</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="116,964 262,976 345,937 591,983 702,918 1269,921 1291,856 1087,850 1016,898 779,863 561,908 113,879"/>
+                <Baseline points="123,935 181,935 239,934 297,934 355,933 413,932 471,931 529,930 587,929 645,927 704,926 762,923 820,921 878,919 936,917 994,915 1052,912 1110,909 1168,906 1226,903 1285,900"/>
+                <TextEquiv>
+                    <Unicode>glass-houses -- &amp; should be glad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="669,994 724,977 773,992 912,981 986,1008 1029,980 1093,1003 1148,978 1230,988 1230,946 1126,950 1079,914 1008,953 895,923 669,932"/>
+                <Baseline points="676,979 703,979 730,979 757,979 785,979 812,979 839,979 867,979 894,978 921,978 949,978 976,977 1003,977 1030,977 1058,976 1085,976 1112,975 1140,975 1167,974 1194,974 1222,973"/>
+                <TextEquiv>
+                    <Unicode>stone color, brown</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="152,1087 462,1056 687,1092 837,1042 1015,1091 1111,1036 1229,1047 1229,993 1057,985 1004,1018 916,979 755,1020 457,993 346,1027 218,990 151,1018"/>
+                <Baseline points="160,1045 213,1045 266,1046 319,1046 372,1047 425,1048 478,1048 531,1049 584,1049 637,1049 690,1049 743,1049 796,1048 849,1047 902,1046 955,1044 1008,1043 1061,1040 1114,1037 1167,1034 1221,1030"/>
+                <TextEquiv>
+                    <Unicode>of any shade of either blue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="280,1117 331,1117 354,1129 369,1120 396,1141 469,1113 484,1121 493,1112 513,1122 572,1119 572,1092 533,1080 513,1089 496,1078 425,1073 385,1086 336,1067 318,1073 280,1061"/>
+                <Baseline points="288,1110 313,1112 338,1113 363,1113 388,1114 413,1114 438,1113 463,1113 488,1112 513,1111 538,1111 564,1111"/>
+                <TextEquiv>
+                    <Unicode> or green</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="122,1192 589,1170 696,1211 777,1171 1064,1220 1229,1166 1227,1105 1182,1096 970,1140 598,1097 459,1146 121,1138"/>
+                <Baseline points="130,1184 184,1182 239,1180 293,1178 348,1176 402,1175 457,1173 511,1172 566,1171 620,1170 675,1170 730,1169 784,1168 839,1167 893,1166 948,1165 1002,1164 1057,1163 1111,1161 1166,1159 1221,1157"/>
+                <TextEquiv>
+                    <Unicode>or red introduced outside</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="116,1312 1028,1293 1223,1331 1222,1243 1116,1193 1009,1248 889,1224 678,1276 507,1226 430,1279 346,1244 115,1261"/>
+                <Baseline points="123,1293 177,1295 232,1296 286,1297 341,1297 396,1298 450,1298 505,1298 559,1297 614,1297 669,1296 723,1295 778,1293 832,1292 887,1290 942,1288 996,1287 1051,1285 1105,1283 1160,1280 1215,1278"/>
+                <TextEquiv>
+                    <Unicode>&amp; red or blue inside. Pray</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="157,1434 241,1421 310,1467 463,1431 520,1464 578,1428 710,1454 771,1422 1285,1415 1284,1366 1073,1327 780,1393 157,1373"/>
+                <Baseline points="165,1412 220,1417 276,1419 331,1422 387,1423 443,1423 498,1423 554,1422 609,1421 665,1419 721,1418 776,1416 832,1414 887,1412 943,1410 999,1409 1054,1408 1110,1407 1165,1408 1221,1409 1277,1410"/>
+                <TextEquiv>
+                    <Unicode>use your judgement. The red</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="166,1507 220,1533 295,1491 585,1483 656,1507 746,1477 843,1504 891,1477 955,1499 954,1453 861,1426 719,1458 671,1434 640,1462 586,1434 520,1466 474,1437 438,1468 363,1441 310,1466 271,1430 232,1458 165,1450"/>
+                <Baseline points="173,1487 211,1487 250,1488 289,1488 327,1487 366,1487 405,1486 443,1486 482,1485 521,1484 560,1484 598,1483 637,1482 676,1481 714,1480 753,1479 792,1478 830,1478 869,1477 908,1476 947,1476"/>
+                <TextEquiv>
+                    <Unicode>will suit our gravel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="81,1578 237,1548 305,1590 436,1547 547,1592 743,1546 1214,1529 1212,1469 1079,1440 1002,1513 737,1476 662,1524 583,1483 469,1527 295,1492 179,1536 79,1499"/>
+                <Baseline points="88,1547 146,1551 205,1554 264,1556 323,1557 382,1558 441,1558 500,1557 559,1556 618,1554 676,1552 735,1550 794,1547 853,1544 912,1541 971,1538 1030,1535 1089,1532 1148,1529 1207,1526"/>
+                <TextEquiv>
+                    <Unicode>4 I send Mr Noel's letters.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="90,1694 348,1731 677,1670 896,1667 959,1711 1055,1661 1320,1663 1318,1605 1242,1591 1067,1640 893,1585 667,1652 578,1608 482,1656 234,1613 89,1640"/>
+                <Baseline points="97,1683 157,1683 218,1683 279,1683 340,1682 400,1681 461,1680 522,1678 583,1677 643,1675 704,1673 765,1671 826,1669 886,1667 947,1665 1008,1663 1069,1660 1129,1658 1190,1656 1251,1654 1312,1651"/>
+                <TextEquiv>
+                    <Unicode>5 I shall offer to Miss North</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="170,1803 432,1831 851,1796 1053,1875 1295,1817 1295,1766 1023,1752 965,1709 804,1762 596,1718 447,1763 170,1730"/>
+                <Baseline points="178,1794 233,1795 289,1796 344,1797 400,1798 455,1798 511,1799 566,1799 622,1800 677,1800 733,1800 788,1801 844,1801 899,1801 955,1800 1010,1800 1066,1800 1121,1799 1177,1798 1232,1797 1288,1796"/>
+                <TextEquiv>
+                    <Unicode>to be at Kew on Friday 29.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="163,1928 318,1926 383,1965 432,1918 511,1921 668,1963 920,1889 1070,1960 1201,1913 1201,1831 1058,1876 827,1833 628,1891 511,1839 432,1892 287,1879 228,1829 163,1860"/>
+                <Baseline points="170,1914 221,1915 272,1916 323,1917 374,1918 425,1919 476,1919 528,1920 579,1921 630,1921 681,1922 732,1922 783,1921 834,1921 886,1920 937,1919 988,1917 1039,1915 1090,1912 1141,1909 1193,1906"/>
+                <TextEquiv>
+                    <Unicode>leaving this by the night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="154,2052 247,2036 352,2093 531,2048 727,2092 973,2036 1253,2075 1224,1980 759,2016 692,1959 574,2006 498,1954 361,2014 154,1959"/>
+                <Baseline points="162,2026 216,2032 270,2037 324,2040 378,2043 432,2044 486,2045 541,2045 595,2045 649,2044 703,2043 757,2042 811,2041 865,2040 920,2039 974,2038 1028,2038 1082,2038 1136,2039 1190,2040 1245,2042"/>
+                <TextEquiv>
+                    <Unicode>train of Thursday, &amp; returning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> prefer it where it would help
+to draw the public off the
+main routes.
+3 I never did like our white
+glass-houses -- &amp; should be glad
+stone color, brown
+of any shade of either blue
+ or green
+or red introduced outside
+&amp; red or blue inside. Pray
+use your judgement. The red
+will suit our gravel.
+4 I send Mr Noel's letters.
+5 I shall offer to Miss North
+to be at Kew on Friday 29.
+leaving this by the night
+train of Thursday, &amp; returning</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:37:01.669-04:00</Created>
+        <LastChange>2020-09-02T02:42:40.822+02:00</LastChange>
+        <TranskribusMetadata docId="464751" pageId="19205942" pageNr="1" tsid="38939283" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=INJWPYDFZNWLKMNHPCSCDPHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EJDPLPKMKDMPNLUTCXPMTCLN" imageId="14809675"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_56_001.jpg" imageWidth="1394" imageHeight="2210">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330832208" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="137,64 137,2103 1339,2103 1339,64"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1098,157 1122,153 1145,132 1154,136 1167,125 1180,128 1187,120 1209,120 1223,113 1219,54 1178,52 1150,31 1141,32 1129,24 1117,25 1102,36 1089,35"/>
+                <Baseline points="1103,121 1131,119 1159,116 1187,115 1215,113"/>
+                <TextEquiv>
+                    <Unicode>56</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="836,339 888,347 934,392 966,393 1022,351 1100,391 1231,368 1270,378 1273,301 1236,283 1109,261 968,278 902,233 840,239"/>
+                <Baseline points="843,341 869,336 895,332 921,330 948,328 974,327 1000,327 1026,328 1053,330 1079,332 1105,334 1131,337 1158,340 1184,344 1210,347 1236,351 1263,355"/>
+                <TextEquiv>
+                    <Unicode>Aug 22/79.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="130,568 309,558 385,588 460,554 508,565 508,510 437,502 368,457 298,512 241,498 208,467 182,492 129,509"/>
+                <Baseline points="137,559 163,556 189,554 215,553 241,553 267,553 293,553 319,554 345,554 371,555 397,555 423,554 449,553 475,552 501,549"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="326,701 667,704 1025,648 1105,686 1162,656 1222,672 1221,631 928,577 809,635 695,602 489,655 390,588 323,630"/>
+                <Baseline points="333,677 377,678 421,679 465,679 509,678 553,677 597,675 641,673 685,670 729,668 774,665 818,663 862,661 906,658 950,657 994,656 1038,655 1082,655 1126,655 1170,657 1215,659"/>
+                <TextEquiv>
+                    <Unicode>I am so glad that you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="131,804 356,821 1003,757 1063,801 1106,760 1179,784 1177,721 1112,692 1065,736 965,745 758,701 685,748 542,722 319,764 128,736"/>
+                <Baseline points="137,789 188,791 240,792 292,792 343,792 395,791 447,790 498,789 550,787 602,784 654,782 705,780 757,776 809,774 860,772 912,769 964,766 1015,764 1067,763 1119,762 1171,761"/>
+                <TextEquiv>
+                    <Unicode>have stuck to Trimen for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="163,901 1309,880 1297,800 994,790 900,845 809,805 686,854 584,811 365,880 218,820 161,839"/>
+                <Baseline points="170,900 226,899 283,897 339,895 396,892 453,890 509,886 566,884 622,881 679,878 736,875 792,872 849,870 905,867 962,865 1019,863 1075,862 1132,861 1188,861 1245,861 1302,862"/>
+                <TextEquiv>
+                    <Unicode>Ceylon &amp; Thwaites retirement.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="169,1028 638,988 867,1036 948,974 1055,967 1333,999 1343,922 1029,907 902,959 773,914 605,976 462,922 373,975 223,934 166,958"/>
+                <Baseline points="175,1012 233,1011 291,1010 349,1008 407,1005 466,1002 524,999 582,995 640,991 698,988 757,984 815,981 873,978 931,976 989,974 1048,973 1106,972 1164,973 1222,974 1280,977 1339,981"/>
+                <TextEquiv>
+                    <Unicode>I will have nothing to do with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="188,1108 335,1109 385,1146 697,1088 925,1124 1046,1071 1214,1079 1231,993 1113,1044 787,1020 682,1079 571,1037 523,1074 344,1043 293,1079 186,1072"/>
+                <Baseline points="195,1106 246,1105 298,1103 349,1102 401,1101 452,1099 504,1097 555,1096 607,1094 658,1092 710,1090 762,1087 813,1085 865,1082 916,1080 968,1077 1019,1073 1071,1070 1122,1067 1174,1063 1226,1059"/>
+                <TextEquiv>
+                    <Unicode>sending out a 3 Asst. to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="207,1228 664,1201 713,1232 865,1184 1280,1207 1277,1141 1159,1155 1067,1115 993,1152 614,1142 517,1190 453,1148 321,1177 265,1133 204,1176"/>
+                <Baseline points="213,1222 265,1219 318,1216 371,1214 424,1211 477,1208 530,1205 583,1203 636,1200 689,1196 742,1194 794,1191 847,1189 900,1186 953,1184 1006,1181 1059,1180 1112,1178 1165,1177 1218,1176 1271,1175"/>
+                <TextEquiv>
+                    <Unicode>Thwaites -- except such a are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="185,1338 1310,1307 1332,1267 1218,1207 1088,1257 772,1229 565,1297 456,1258 412,1301 324,1268 183,1293"/>
+                <Baseline points="191,1327 247,1326 304,1324 361,1322 417,1321 474,1319 531,1317 587,1314 644,1312 701,1310 758,1307 814,1305 871,1303 928,1300 984,1298 1041,1296 1098,1294 1154,1293 1211,1291 1268,1290 1325,1289"/>
+                <TextEquiv>
+                    <Unicode>volunteers &amp; the C.O. send him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="201,1469 1183,1406 1270,1440 1303,1424 1299,1335 858,1389 809,1356 676,1411 583,1351 492,1410 356,1364 199,1418"/>
+                <Baseline points="207,1441 261,1439 315,1438 370,1436 424,1434 479,1432 533,1431 587,1428 642,1426 696,1424 751,1422 805,1420 859,1418 914,1416 968,1413 1023,1411 1077,1409 1131,1408 1186,1406 1240,1404 1295,1403"/>
+                <TextEquiv>
+                    <Unicode>out on their sole responsibility.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="402,1563 769,1547 836,1592 890,1555 929,1575 1038,1534 1092,1564 1119,1540 1221,1545 1221,1522 1095,1466 881,1500 660,1488 550,1524 400,1454"/>
+                <Baseline points="409,1539 449,1541 489,1543 529,1543 570,1543 610,1542 650,1541 690,1540 731,1538 771,1536 811,1534 851,1532 892,1530 932,1529 972,1528 1012,1528 1053,1528 1093,1529 1133,1530 1173,1533 1214,1537"/>
+                <TextEquiv>
+                    <Unicode>I am drafting for your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="195,1657 1213,1640 1339,1622 1336,1545 1117,1547 1033,1597 721,1587 639,1627 437,1588 193,1612"/>
+                <Baseline points="202,1644 258,1645 314,1645 371,1645 427,1644 484,1644 540,1642 597,1641 653,1639 710,1637 766,1635 822,1633 879,1630 935,1627 992,1624 1048,1621 1105,1617 1161,1614 1218,1611 1274,1607 1331,1603"/>
+                <TextEquiv>
+                    <Unicode>revision an answer to Mitford's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="207,1763 407,1754 459,1785 506,1749 691,1772 1311,1726 1309,1673 1188,1686 1092,1644 972,1704 598,1714 461,1674 392,1721 206,1717"/>
+                <Baseline points="215,1754 269,1752 323,1751 378,1749 432,1747 487,1746 541,1744 595,1743 650,1741 704,1739 759,1738 813,1736 867,1734 922,1732 976,1730 1031,1728 1085,1726 1139,1723 1194,1721 1248,1718 1303,1715"/>
+                <TextEquiv>
+                    <Unicode>minute, &amp; will send it tomorrow.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="186,1873 314,1908 502,1857 1277,1867 1275,1780 1068,1818 791,1770 628,1824 460,1828 382,1778 185,1809"/>
+                <Baseline points="194,1870 247,1868 301,1866 355,1863 409,1861 463,1859 516,1857 570,1855 624,1853 678,1852 732,1850 785,1849 839,1847 893,1846 947,1846 1001,1845 1054,1845 1108,1845 1162,1846 1216,1847 1270,1848"/>
+                <TextEquiv>
+                    <Unicode>the £200 must be unreservedly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="219,1980 630,1964 834,2004 1250,1951 1248,1886 1161,1908 1092,1879 1000,1919 882,1882 794,1910 742,1884 685,1923 646,1889 560,1920 509,1892 422,1951 218,1927"/>
+                <Baseline points="226,1972 276,1971 327,1969 378,1968 429,1966 480,1964 530,1962 581,1959 632,1957 683,1955 734,1952 784,1951 835,1948 886,1947 937,1945 988,1943 1038,1942 1089,1942 1140,1941 1191,1942 1242,1942"/>
+                <TextEquiv>
+                    <Unicode>in our hands except in regard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="192,2116 370,2075 536,2117 880,2120 1005,2058 1288,2070 1286,1990 1169,2035 1056,1996 998,2031 940,1984 836,2045 190,2018"/>
+                <Baseline points="199,2079 253,2078 307,2078 361,2077 415,2076 469,2075 523,2074 577,2073 631,2072 685,2070 739,2069 793,2068 847,2066 901,2064 955,2063 1009,2061 1063,2059 1117,2057 1171,2055 1225,2053 1280,2052"/>
+                <TextEquiv>
+                    <Unicode>to what is given to Jackson &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>56&#13;
+Aug 22/79.&#13;
+Dear Dyer&#13;
+I am so glad that you&#13;
+have stuck to Trimen for&#13;
+Ceylon &amp; Thwaites retirement.&#13;
+I will have nothing to do with&#13;
+sending out a 3 Asst. to&#13;
+Thwaites -- except such a are&#13;
+volunteers &amp; the C.O. send him&#13;
+out on their sole responsibility.&#13;
+I am drafting for your&#13;
+revision an answer to Mitford's&#13;
+minute, &amp; will send it tomorrow.&#13;
+the £200 must be unreservedly&#13;
+in our hands except in regard&#13;
+to what is given to Jackson &amp;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

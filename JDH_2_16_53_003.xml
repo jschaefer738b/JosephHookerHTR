@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:35:14.436-04:00</Created>
+        <LastChange>2023-05-17T01:56:04.128+02:00</LastChange>
+        <TranskribusMetadata docId="464748" pageId="19205931" pageNr="2" tsid="121949651" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=JQDRITKFKXETOTEEWJCIURKU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFHFGMVLEEDXBOQJSNITDDUH" imageId="14809664"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_53_003.jpg" imageWidth="1587" imageHeight="2481">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330838910" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="77,68 77,2454 1523,2454 1523,68"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="152,287 335,245 843,269 919,205 1353,201 1349,129 1071,97 943,135 841,97 609,196 465,161 147,192"/>
+                <Baseline points="159,255 218,252 277,248 336,245 395,242 455,239 514,236 573,233 632,230 691,227 751,224 810,221 869,218 928,215 987,212 1047,208 1106,204 1165,201 1224,197 1283,193 1343,190"/>
+                <TextEquiv>
+                    <Unicode>good London House he makes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="68,357 279,409 523,336 1050,371 1240,308 1454,357 1449,217 1385,199 1215,280 618,249 66,301"/>
+                <Baseline points="77,357 145,352 213,347 281,343 350,339 418,336 486,333 555,330 623,327 691,325 760,323 828,320 896,318 964,316 1033,314 1101,312 1169,310 1238,308 1306,306 1374,303 1443,300"/>
+                <TextEquiv>
+                    <Unicode>himself very comfortable, &amp; no doubt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="106,504 783,424 834,462 973,424 1472,466 1524,428 1520,327 1254,385 1162,345 966,393 610,358 378,430 101,396"/>
+                <Baseline points="113,463 183,461 253,458 323,455 393,452 463,447 533,443 603,439 673,435 743,431 814,427 884,422 954,419 1024,416 1094,413 1164,411 1234,409 1304,408 1374,407 1444,407 1515,409"/>
+                <TextEquiv>
+                    <Unicode>thinks his well--spent life suitably</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="113,593 666,596 758,529 898,513 1336,539 1437,517 1434,443 1163,475 973,424 834,462 783,424 517,515 186,483 110,523"/>
+                <Baseline points="120,554 185,554 250,553 316,551 381,548 447,545 512,542 577,538 643,534 708,529 774,525 839,521 904,517 970,513 1035,510 1101,508 1166,506 1231,506 1297,506 1362,507 1428,510"/>
+                <TextEquiv>
+                    <Unicode>rewarded at last. He is 70 -- 80</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="125,691 426,655 673,694 922,614 1467,625 1414,545 1072,557 895,514 688,598 122,620"/>
+                <Baseline points="132,660 198,658 264,655 330,653 397,649 463,646 529,643 595,639 662,635 728,632 794,628 860,625 927,621 993,619 1059,616 1125,614 1192,612 1258,610 1324,609 1390,609 1457,609"/>
+                <TextEquiv>
+                    <Unicode>very affable indeed.  Lady William is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="165,730 189,723 196,725 201,719 230,735 258,726 254,669 246,669 236,679 229,675 220,676 206,686 195,676 178,684 171,679 162,679"/>
+                <Baseline points="173,715 198,715 223,712 248,712"/>
+                <TextEquiv>
+                    <Unicode>very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="156,779 735,796 1131,706 1298,749 1509,719 1504,628 1402,661 928,618 750,637 658,705 346,682 154,737"/>
+                <Baseline points="164,768 230,761 297,755 364,749 431,744 497,739 564,735 631,730 698,727 764,723 831,720 898,717 965,714 1031,712 1098,709 1165,707 1232,705 1298,704 1365,702 1432,701 1499,699"/>
+                <TextEquiv>
+                    <Unicode>a little woman, very plain -- quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="157,894 255,854 596,852 942,896 1109,822 1360,825 1355,722 1249,784 1157,729 989,725 918,795 794,767 647,819 380,779 251,837 152,778"/>
+                <Baseline points="164,864 223,861 282,859 341,855 401,853 460,849 519,846 579,843 638,840 697,837 757,834 816,831 875,829 934,826 994,824 1053,822 1112,820 1172,818 1231,817 1290,816 1350,815"/>
+                <TextEquiv>
+                    <Unicode>70, without a white hair in her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="110,988 664,956 914,998 1044,990 1126,909 1466,910 1461,835 1122,818 941,898 510,858 319,922 105,898"/>
+                <Baseline points="119,979 185,977 252,973 319,970 386,966 453,962 520,958 587,953 654,949 721,944 788,939 854,935 921,930 988,925 1055,921 1122,916 1189,912 1256,909 1323,906 1390,903 1457,900"/>
+                <TextEquiv>
+                    <Unicode>head (no false hair) &amp; hunted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="158,1122 564,1135 655,1057 1213,1085 1478,1049 1474,947 1395,910 1094,1006 653,957 430,1039 226,986 153,1012"/>
+                <Baseline points="165,1082 230,1078 295,1073 360,1070 425,1066 491,1062 556,1058 621,1055 686,1052 751,1049 817,1046 882,1044 947,1042 1012,1039 1077,1037 1143,1035 1208,1033 1273,1031 1338,1030 1403,1028 1469,1027"/>
+                <TextEquiv>
+                    <Unicode>passionately till 2 years ago when</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="164,1229 498,1234 584,1169 908,1181 1013,1142 1117,1179 1194,1134 1432,1184 1449,1053 1317,1104 1088,1069 160,1159"/>
+                <Baseline points="171,1196 234,1193 298,1190 362,1186 425,1183 489,1179 553,1175 616,1171 680,1167 744,1163 808,1159 871,1155 935,1151 999,1148 1062,1144 1126,1141 1190,1139 1253,1136 1317,1134 1381,1133 1445,1131"/>
+                <TextEquiv>
+                    <Unicode>she had a desperate throw. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="178,1334 256,1376 395,1312 569,1356 671,1282 958,1269 1085,1314 1490,1307 1485,1209 1344,1168 1283,1212 1193,1159 1019,1201 575,1173 479,1248 412,1215 174,1261"/>
+                <Baseline points="185,1302 249,1301 314,1298 379,1295 443,1292 508,1288 573,1284 637,1280 702,1275 767,1271 832,1267 896,1263 961,1259 1026,1255 1090,1252 1155,1249 1220,1247 1284,1246 1349,1245 1414,1246 1479,1247"/>
+                <TextEquiv>
+                    <Unicode>only people there were Lady Julia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="143,1446 394,1413 832,1455 935,1382 1107,1417 1203,1369 1429,1390 1442,1315 855,1275 707,1360 138,1366"/>
+                <Baseline points="151,1429 215,1426 279,1423 343,1419 408,1415 472,1410 536,1405 601,1401 665,1396 729,1392 794,1386 858,1382 922,1379 986,1375 1051,1372 1115,1369 1179,1367 1244,1366 1308,1366 1372,1366 1437,1367"/>
+                <TextEquiv>
+                    <Unicode>Wombwell of Yorkshire fame (a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="110,1570 187,1530 336,1567 416,1511 753,1573 940,1553 994,1494 1122,1471 1420,1473 1451,1396 1258,1367 1117,1417 962,1383 829,1457 764,1425 647,1464 491,1434 442,1480 301,1437 233,1479 104,1461"/>
+                <Baseline points="116,1533 182,1528 248,1525 315,1521 381,1517 448,1514 514,1510 581,1507 647,1504 714,1501 780,1498 846,1495 913,1492 979,1489 1046,1485 1112,1482 1179,1477 1245,1473 1312,1469 1378,1464 1445,1458"/>
+                <TextEquiv>
+                    <Unicode>dau of Earl of Jersey), Lord Moreton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="143,1668 555,1624 717,1657 762,1619 1084,1656 1193,1587 1436,1570 1433,1521 1335,1472 899,1582 380,1544 140,1612"/>
+                <Baseline points="151,1639 214,1639 278,1638 342,1637 406,1634 470,1633 533,1630 597,1627 661,1624 725,1620 789,1617 852,1613 916,1609 980,1604 1044,1601 1108,1596 1171,1591 1235,1586 1299,1582 1363,1577 1427,1572"/>
+                <TextEquiv>
+                    <Unicode>(Lord Ducie's son &amp; a Cattle breeder)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="156,1793 430,1792 560,1733 675,1786 740,1726 923,1719 1064,1773 1204,1731 1434,1748 1429,1673 1244,1619 995,1663 646,1646 544,1711 375,1693 312,1735 234,1694 151,1716"/>
+                <Baseline points="164,1771 230,1766 296,1760 362,1755 429,1749 495,1745 561,1739 627,1735 694,1730 760,1726 826,1721 892,1717 959,1714 1025,1711 1091,1708 1157,1706 1224,1705 1290,1703 1356,1703 1423,1703"/>
+                <TextEquiv>
+                    <Unicode>&amp; a queer Ross (Hereford) Parson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="142,1894 264,1918 702,1830 970,1876 1030,1818 1177,1873 1267,1812 1406,1861 1415,1753 1199,1731 1066,1795 857,1739 754,1752 675,1820 410,1788 355,1844 262,1800 138,1830"/>
+                <Baseline points="150,1879 216,1873 282,1868 348,1862 415,1857 481,1852 547,1847 613,1842 680,1838 746,1835 812,1830 878,1828 945,1824 1011,1822 1077,1819 1143,1817 1210,1815 1276,1813 1342,1812 1409,1811"/>
+                <TextEquiv>
+                    <Unicode>who knew a little of every thing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="464,1913 478,1913 506,1923 520,1921 542,1938 553,1938 555,1848 546,1848 537,1855 529,1849 523,1849 516,1856 499,1852 486,1862 478,1857 465,1857"/>
+                <Baseline points="473,1903 509,1902 545,1905"/>
+                <TextEquiv>
+                    <Unicode>too.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="168,1992 388,1963 567,1998 880,1926 1129,1970 1428,1930 1424,1862 1290,1842 1174,1875 893,1845 534,1931 451,1897 164,1916"/>
+                <Baseline points="176,1980 238,1974 300,1969 362,1965 424,1960 486,1956 548,1952 611,1947 673,1944 735,1940 797,1937 859,1934 921,1931 983,1928 1046,1926 1108,1924 1170,1922 1232,1921 1294,1920 1356,1919 1419,1918"/>
+                <TextEquiv>
+                    <Unicode>&amp; breeds &amp; looked to me like</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="136,2105 230,2083 329,2126 505,2074 661,2118 813,2060 894,2107 1090,2018 1344,2030 1339,1956 1292,1940 1158,1979 916,1962 796,2019 490,1988 321,2053 130,2007"/>
+                <Baseline points="144,2090 203,2087 263,2083 322,2080 382,2075 441,2071 501,2066 560,2062 620,2058 679,2053 739,2048 799,2044 858,2040 918,2036 977,2032 1037,2029 1096,2025 1156,2022 1215,2020 1275,2017 1335,2016"/>
+                <TextEquiv>
+                    <Unicode>a cross between an agent &amp; an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="134,2190 744,2193 882,2129 1367,2128 1376,2022 1267,2068 1074,2028 895,2107 761,2072 626,2136 534,2101 132,2157"/>
+                <Baseline points="143,2186 204,2184 266,2181 327,2178 389,2175 450,2170 512,2165 573,2160 635,2155 696,2150 758,2145 819,2140 881,2135 942,2131 1004,2127 1065,2123 1127,2120 1188,2117 1250,2115 1311,2115 1373,2115"/>
+                <TextEquiv>
+                    <Unicode>adventurer in that line, with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="145,2272 317,2308 405,2270 465,2308 546,2251 912,2258 1063,2304 1152,2226 1432,2227 1485,2171 1250,2130 1158,2196 976,2208 871,2134 759,2192 441,2175 318,2245 144,2244"/>
+                <Baseline points="153,2271 219,2269 285,2266 351,2263 418,2260 484,2257 550,2254 617,2250 683,2247 749,2244 816,2240 882,2237 948,2234 1014,2230 1081,2227 1147,2224 1213,2221 1280,2218 1346,2216 1412,2213 1479,2212"/>
+                <TextEquiv>
+                    <Unicode>nought of the Parson about him.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="148,2364 976,2360 1061,2322 1309,2390 1533,2326 1530,2248 1440,2275 1344,2231 983,2295 913,2259 146,2290"/>
+                <Baseline points="156,2362 224,2356 292,2351 361,2346 429,2342 497,2338 566,2334 634,2331 702,2328 771,2326 839,2323 907,2321 976,2320 1044,2318 1112,2317 1181,2316 1249,2316 1317,2316 1386,2316 1454,2316 1523,2316"/>
+                <TextEquiv>
+                    <Unicode>Not even the white tie:-- which prompts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="138,2437 355,2423 431,2472 673,2421 1338,2471 1476,2442 1475,2364 1426,2360 1314,2394 1137,2351 921,2386 823,2337 137,2358"/>
+                <Baseline points="147,2436 213,2432 279,2429 345,2426 411,2424 477,2422 543,2420 609,2419 675,2418 741,2417 807,2417 873,2417 939,2417 1005,2418 1071,2418 1137,2419 1203,2419 1269,2420 1335,2421 1401,2423 1467,2424"/>
+                <TextEquiv>
+                    <Unicode>me to say that a P without a white tie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+good London House he makes
+himself very comfortable, &amp; no doubt
+thinks his well--spent life suitably
+rewarded at last. He is 70 -- 80
+very affable indeed.  Lady William is
+very
+a little woman, very plain -- quite
+70, without a white hair in her
+head (no false hair) &amp; hunted
+passionately till 2 years ago when
+she had a desperate throw. The
+only people there were Lady Julia
+Wombwell of Yorkshire fame (a
+
+dau of Earl of Jersey), Lord Moreton
+(Lord Ducie's son &amp; a Cattle breeder)
+&amp; a queer Ross (Hereford) Parson
+who knew a little of every thing
+too.
+&amp; breeds &amp; looked to me like
+a cross between an agent &amp; an
+adventurer in that line, with
+nought of the Parson about him.
+Not even the white tie:-- which prompts
+me to say that a P without a white tie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

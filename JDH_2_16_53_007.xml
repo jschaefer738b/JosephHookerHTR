@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:35:14.615-04:00</Created>
+        <LastChange>2020-09-01T22:47:31.168+02:00</LastChange>
+        <TranskribusMetadata docId="464748" pageId="19205935" pageNr="6" tsid="38927750" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=IOJYEYDNGFOWATXPVINBYXJS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZANTQCNNOCFOBURLUNGCBDUN" imageId="14809668"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_53_007.jpg" imageWidth="1556" imageHeight="2469">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330840124" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="109,51 109,2392 1505,2392 1505,51"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1343,108 1362,113 1384,104 1406,118 1425,108 1448,112 1473,127 1495,123 1501,8 1482,9 1462,21 1417,17 1392,7 1362,18 1349,12"/>
+                <Baseline points="1352,97 1379,101 1406,101 1433,100 1460,102 1487,110"/>
+                <TextEquiv>
+                    <Unicode>108</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="164,225 418,186 719,184 845,227 965,174 1398,186 1382,102 1165,149 865,86 717,143 502,105 454,145 162,156"/>
+                <Baseline points="172,217 232,210 293,205 354,199 415,195 476,191 537,187 597,184 658,182 719,180 780,178 841,177 902,176 963,175 1023,174 1084,173 1145,173 1206,172 1267,171 1328,170 1389,169"/>
+                <TextEquiv>
+                    <Unicode>As to Macoun's Canada plants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="139,330 366,317 432,354 629,296 713,331 767,294 1341,304 1340,249 1145,199 1091,241 920,202 844,242 721,189 580,281 437,245 285,279 136,223"/>
+                <Baseline points="147,319 206,317 265,316 324,315 384,313 443,311 502,309 562,306 621,304 680,302 740,300 799,298 858,296 917,295 977,293 1036,292 1095,291 1155,291 1214,291 1273,291 1333,292"/>
+                <TextEquiv>
+                    <Unicode>I do suppose they are identical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="191,445 783,395 1119,413 1152,398 1150,348 1025,323 915,354 758,305 660,370 519,312 403,372 326,320 187,355"/>
+                <Baseline points="198,426 245,424 292,423 339,421 387,420 434,417 481,415 528,413 576,411 623,409 670,406 717,404 765,402 812,400 859,399 906,397 954,396 1001,395 1048,394 1095,394 1143,394"/>
+                <TextEquiv>
+                    <Unicode>with what he sent us.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="325,540 587,594 711,526 1039,507 1092,542 1220,529 1296,590 1352,544 1499,581 1497,451 1370,423 1113,419 1040,456 921,394 763,447 696,412 521,505 323,440"/>
+                <Baseline points="332,534 389,533 447,532 505,530 563,528 621,526 679,524 737,521 795,519 853,517 911,515 968,513 1026,512 1084,511 1142,510 1200,511 1258,512 1316,514 1374,517 1432,520 1490,525"/>
+                <TextEquiv>
+                    <Unicode>I am busy with the Report, it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="102,695 796,652 1132,697 1224,618 1374,614 1372,558 1288,588 1170,532 1039,596 653,580 572,625 347,589 99,627"/>
+                <Baseline points="109,655 171,656 234,657 297,657 360,656 423,654 486,652 548,649 611,646 674,642 737,639 800,635 863,632 926,629 988,626 1051,623 1114,621 1177,620 1240,619 1303,619 1366,621"/>
+                <TextEquiv>
+                    <Unicode>is a glorious doament. As to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="165,794 609,804 1112,723 1439,756 1513,738 1511,670 1341,629 1130,708 987,664 790,718 162,694"/>
+                <Baseline points="172,760 238,759 305,758 371,757 438,754 505,752 571,749 638,747 705,744 771,741 838,738 905,735 971,732 1038,730 1105,728 1171,726 1238,724 1305,723 1371,723 1438,723 1505,723"/>
+                <TextEquiv>
+                    <Unicode>Peacock's succulents. I do wish that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="170,891 761,860 960,897 1054,836 1136,893 1253,894 1327,833 1431,840 1427,740 1328,726 1099,808 830,792 760,834 638,791 468,830 167,816"/>
+                <Baseline points="178,869 240,870 302,870 364,870 427,868 489,867 551,864 613,861 676,858 738,854 800,850 862,847 925,844 987,840 1049,836 1111,834 1174,831 1236,830 1298,829 1360,828 1423,829"/>
+                <TextEquiv>
+                    <Unicode>P. would build an annex to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="181,988 729,956 788,1004 953,931 1275,921 1425,954 1464,949 1462,887 1324,835 1187,910 1037,843 798,931 628,884 557,931 246,908 179,945"/>
+                <Baseline points="189,972 252,973 315,973 378,971 442,969 505,966 568,962 632,958 695,953 758,948 822,944 885,940 948,936 1011,932 1075,929 1138,927 1201,926 1265,926 1328,927 1391,930 1455,935"/>
+                <TextEquiv>
+                    <Unicode>Succulent House for them. Binder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="164,1101 1405,1040 1401,968 1282,998 1217,962 1128,1015 886,943 792,1003 161,1044"/>
+                <Baseline points="172,1081 233,1080 294,1079 355,1077 416,1075 478,1072 539,1069 600,1066 661,1062 722,1058 784,1054 845,1051 906,1047 967,1043 1028,1040 1090,1037 1151,1035 1212,1033 1273,1032 1334,1032 1396,1032"/>
+                <TextEquiv>
+                    <Unicode>says that the Australian plants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="167,1203 1374,1166 1370,1084 1290,1074 985,1140 775,1139 666,1084 489,1150 342,1162 226,1112 165,1149"/>
+                <Baseline points="175,1195 234,1194 294,1193 353,1191 413,1189 472,1187 532,1183 591,1181 651,1177 710,1174 770,1170 829,1167 889,1164 948,1161 1008,1158 1067,1156 1127,1154 1186,1152 1246,1151 1305,1151 1365,1151"/>
+                <TextEquiv>
+                    <Unicode>have gone back since they left</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="178,1315 562,1314 958,1251 1458,1263 1456,1228 1309,1185 1202,1221 1023,1181 835,1231 763,1197 571,1263 362,1211 174,1239"/>
+                <Baseline points="186,1296 249,1296 312,1295 375,1293 438,1290 501,1287 564,1284 628,1279 691,1276 754,1271 817,1267 880,1263 943,1259 1006,1255 1070,1252 1133,1250 1196,1248 1259,1247 1322,1248 1385,1249 1449,1252"/>
+                <TextEquiv>
+                    <Unicode>the Octagon, &amp; Smith backs him,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="163,1394 461,1383 619,1449 708,1377 880,1359 1143,1393 1230,1336 1314,1389 1460,1357 1456,1279 1298,1261 1030,1316 792,1286 161,1366"/>
+                <Baseline points="170,1384 234,1385 298,1385 362,1384 426,1382 490,1379 554,1375 618,1371 682,1366 746,1361 810,1356 874,1352 938,1347 1002,1343 1066,1340 1130,1337 1194,1336 1258,1335 1322,1336 1386,1338 1451,1342"/>
+                <TextEquiv>
+                    <Unicode>on account of the irrepressible drip</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="188,1498 587,1472 706,1515 1014,1467 1111,1502 1354,1484 1416,1459 1414,1412 1200,1377 1033,1409 893,1382 623,1449 455,1400 286,1449 185,1432"/>
+                <Baseline points="195,1477 255,1478 316,1479 376,1478 437,1476 497,1474 558,1470 618,1467 679,1463 739,1460 800,1455 861,1451 921,1447 982,1443 1042,1440 1103,1437 1163,1435 1224,1433 1284,1433 1345,1433 1406,1434"/>
+                <TextEquiv>
+                    <Unicode>on the shelves of the centre building.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="189,1580 297,1615 871,1614 913,1572 1066,1562 1232,1616 1335,1558 1441,1576 1459,1517 946,1494 509,1548 312,1504 188,1539"/>
+                <Baseline points="198,1581 260,1587 323,1591 386,1593 448,1594 511,1593 574,1592 636,1589 699,1586 762,1583 825,1578 887,1574 950,1570 1013,1566 1075,1563 1138,1560 1201,1559 1263,1558 1326,1558 1389,1560 1452,1564"/>
+                <TextEquiv>
+                    <Unicode>Now I think I have exhausted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="139,1707 1098,1723 1184,1671 1266,1723 1472,1732 1470,1638 1342,1601 1261,1640 977,1594 917,1631 668,1604 604,1649 425,1620 298,1673 138,1666"/>
+                <Baseline points="147,1701 212,1700 278,1697 344,1695 410,1692 475,1688 541,1685 607,1682 673,1678 738,1675 804,1673 870,1670 936,1668 1001,1667 1067,1667 1133,1667 1199,1669 1264,1671 1330,1674 1396,1680 1462,1686"/>
+                <TextEquiv>
+                    <Unicode>our affairs for the present. If my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="171,1792 765,1787 986,1826 1086,1753 1415,1772 1413,1695 1279,1727 1184,1670 1098,1723 789,1702 446,1764 169,1720"/>
+                <Baseline points="180,1786 241,1786 302,1786 363,1785 425,1784 486,1782 547,1779 609,1776 670,1774 731,1771 793,1768 854,1765 915,1762 976,1761 1038,1759 1099,1757 1160,1757 1222,1757 1283,1758 1344,1760 1406,1763"/>
+                <TextEquiv>
+                    <Unicode>memo about Wilkie &amp;c does not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="200,1899 1433,1888 1430,1774 1373,1757 1105,1825 664,1792 608,1830 199,1825"/>
+                <Baseline points="209,1878 269,1878 330,1878 391,1878 452,1877 512,1876 573,1875 634,1874 695,1873 755,1871 816,1869 877,1868 938,1866 998,1864 1059,1863 1120,1861 1181,1860 1241,1859 1302,1858 1363,1857 1424,1856"/>
+                <TextEquiv>
+                    <Unicode>Answer its purpose I must write</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="157,2020 328,2030 449,1961 599,1986 666,2043 812,1976 1369,1997 1369,1907 1122,1892 999,1942 660,1886 574,1938 156,1870"/>
+                <Baseline points="165,1985 224,1980 284,1975 344,1971 404,1968 464,1967 523,1966 583,1965 643,1965 703,1965 763,1966 822,1967 882,1968 942,1968 1002,1969 1062,1969 1121,1969 1181,1968 1241,1966 1301,1964 1361,1961"/>
+                <TextEquiv>
+                    <Unicode>Mitford myself first a private</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="194,2107 499,2061 583,2124 709,2138 954,2057 1417,2094 1415,2002 1040,1974 809,1979 705,2053 433,1972 193,2047"/>
+                <Baseline points="202,2082 262,2079 322,2076 382,2073 443,2071 503,2068 563,2066 623,2065 684,2063 744,2062 804,2060 864,2059 925,2058 985,2057 1045,2057 1105,2056 1166,2055 1226,2055 1286,2055 1346,2055 1407,2054"/>
+                <TextEquiv>
+                    <Unicode>note, telling him that I will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="187,2206 323,2167 481,2213 868,2157 1004,2211 1161,2147 1267,2189 1435,2172 1434,2104 969,2076 794,2139 609,2132 499,2060 342,2125 185,2129"/>
+                <Baseline points="195,2167 256,2169 318,2170 379,2171 441,2170 503,2169 564,2167 626,2164 687,2162 749,2159 811,2156 872,2153 934,2150 995,2148 1057,2146 1119,2145 1180,2145 1242,2146 1303,2148 1365,2151 1427,2156"/>
+                <TextEquiv>
+                    <Unicode>not take responsibility for either</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="195,2279 883,2256 1379,2299 1407,2172 988,2166 889,2225 704,2163 633,2212 579,2179 439,2227 246,2198 194,2231"/>
+                <Baseline points="202,2262 261,2262 321,2262 381,2261 441,2260 501,2259 561,2257 620,2256 680,2254 740,2252 800,2250 860,2248 920,2247 980,2245 1039,2244 1099,2243 1159,2242 1219,2242 1279,2242 1339,2243 1399,2245"/>
+                <TextEquiv>
+                    <Unicode>SSmith or the Garden in the matter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="220,2389 461,2379 507,2405 608,2350 714,2344 713,2298 635,2284 577,2324 451,2283 423,2300 347,2260 293,2289 218,2279"/>
+                <Baseline points="227,2346 252,2349 277,2351 302,2353 327,2353 352,2354 377,2354 403,2354 428,2353 453,2352 478,2351 503,2350 528,2349 554,2348 579,2347 604,2346 629,2345 654,2344 679,2343 705,2343"/>
+                <TextEquiv>
+                    <Unicode>of building &amp;c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="779,2433 957,2423 1048,2355 1128,2371 1214,2344 1498,2387 1498,2316 1410,2292 1316,2327 1203,2284 954,2287 883,2256 779,2283"/>
+                <Baseline points="787,2363 822,2360 857,2356 892,2353 927,2349 962,2347 997,2345 1032,2343 1067,2342 1102,2341 1138,2341 1173,2341 1208,2342 1243,2343 1278,2345 1313,2348 1348,2350 1383,2354 1418,2358 1453,2363 1489,2369"/>
+                <TextEquiv>
+                    <Unicode>for that it is a matter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>108&#13;
+As to Macoun's Canada plants&#13;
+I do suppose they are identical&#13;
+with what he sent us.&#13;
+I am busy with the Report, it&#13;
+is a glorious doament. As to&#13;
+Peacock's succulents. I do wish that&#13;
+P. would build an annex to the&#13;
+Succulent House for them. Binder&#13;
+says that the Australian plants&#13;
+have gone back since they left&#13;
+the Octagon, &amp; Smith backs him,&#13;
+on account of the irrepressible drip&#13;
+on the shelves of the centre building.&#13;
+Now I think I have exhausted&#13;
+our affairs for the present. If my&#13;
+memo about Wilkie &amp;c does not&#13;
+Answer its purpose I must write&#13;
+Mitford myself first a private&#13;
+note, telling him that I will&#13;
+not take responsibility for either&#13;
+SSmith or the Garden in the matter&#13;
+of building &amp;c&#13;
+for that it is a matter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

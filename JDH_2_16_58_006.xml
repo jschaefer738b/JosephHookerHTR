@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:39:35.442-04:00</Created>
+        <LastChange>2023-05-17T02:12:33.640+02:00</LastChange>
+        <TranskribusMetadata docId="464754" pageId="19206003" pageNr="5" tsid="121950023" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TLJFNZXODWAPVSYSNWXCIAFX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TRUDQZOPGIDMDBLKPMYVMSRB" imageId="14809736"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_58_006.jpg" imageWidth="1472" imageHeight="2250">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330829497" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="146,134 146,560 1202,560 1202,134"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="139,208 216,232 518,179 1209,186 1208,134 1011,110 917,153 823,122 734,162 552,130 433,163 334,129 138,154"/>
+                <Baseline points="146,203 198,199 251,195 304,192 357,189 410,186 462,184 515,182 568,180 621,178 674,177 726,176 779,175 832,174 885,173 938,173 990,173 1043,173 1096,173 1149,173 1202,174"/>
+                <TextEquiv>
+                    <Unicode>We have been nowhere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="710,557 748,551 783,569 962,538 1021,552 1074,534 1150,543 1180,533 1176,470 1094,429 1024,447 959,407 934,409 857,438 742,530 709,532"/>
+                <Baseline points="716,550 741,548 766,546 792,544 817,541 842,539 868,536 893,534 919,532 944,529 969,527 995,525 1020,523 1046,522 1071,522 1096,522 1122,523 1147,524 1173,527"/>
+                <TextEquiv>
+                    <Unicode>JDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="454,315 480,315 506,315 532,316 559,317 585,318 611,320 638,321 664,322 690,323 717,324 743,323 769,323 796,321 971,303 996,300 1021,297 1047,295 1046,280 1020,282 994,285 969,288 795,306 768,308 743,308 717,309 691,308 665,307 639,306 612,305 586,303 560,302 533,301 506,300 480,300 454,300"/>
+                <Baseline points="454,315 480,315 506,315 532,316 559,317 585,318 611,320 638,321 664,322 690,323 717,324 743,323 769,323 796,321 971,303 996,300 1021,297 1047,295"/>
+                <TextEquiv>
+                    <Unicode>Ever affy ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="737,527 744,526 748,523 763,531 779,528 771,481 764,482 763,484 754,487 750,485 745,486 738,481 729,483"/>
+                <Baseline points="745,536 773,531"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>We have been nowhere.
+
+Everaffy
+JDHooker
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

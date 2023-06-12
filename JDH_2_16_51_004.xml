@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:33:56.570-04:00</Created>
+        <LastChange>2023-05-17T01:53:03.417+02:00</LastChange>
+        <TranskribusMetadata docId="464746" pageId="19205926" pageNr="3" tsid="121949645" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=POHNPUOKXOUZOQKQSYCYBJVT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUEAZLFMMPLAQTKKWNJJGWZU" imageId="14809659"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_51_004.jpg" imageWidth="1404" imageHeight="2194">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330841788" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="48,122 48,1382 1401,1382 1401,122"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="41,221 265,273 338,226 437,271 536,204 658,255 875,182 1045,223 1273,205 1318,185 1313,67 1020,125 730,75 615,141 560,103 405,165 146,145 39,180"/>
+                <Baseline points="48,221 111,218 174,214 237,211 300,208 363,204 426,201 489,198 552,195 615,192 679,189 742,186 805,184 868,182 931,180 994,179 1057,178 1120,178 1183,178 1246,178 1310,179"/>
+                <TextEquiv>
+                    <Unicode>wrong way! Just see what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="88,347 1219,327 1384,307 1381,216 545,294 208,256 87,313"/>
+                <Baseline points="96,340 163,336 230,331 297,327 365,323 432,320 499,317 567,314 634,312 701,310 769,308 836,306 903,305 971,303 1038,302 1105,300 1173,299 1240,298 1307,296 1375,295"/>
+                <TextEquiv>
+                    <Unicode>I have said, &amp; act as you think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="142,465 341,428 448,487 594,439 714,493 808,429 1012,477 1152,424 1274,442 1272,351 1198,332 1099,388 1004,349 783,408 533,393 475,349 370,407 318,372 140,373"/>
+                <Baseline points="150,441 205,440 261,438 317,437 373,436 428,435 484,434 540,433 596,432 651,431 707,430 763,429 819,428 874,426 930,425 986,423 1042,421 1097,420 1153,417 1209,415 1265,412"/>
+                <TextEquiv>
+                    <Unicode>best -- You may destroy the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="95,587 287,625 503,568 759,596 867,540 1233,554 1302,528 1300,470 1179,453 1028,505 929,443 833,523 677,476 540,543 398,498 304,537 173,459 91,488"/>
+                <Baseline points="103,564 162,565 222,565 281,565 341,564 400,563 460,562 519,561 579,558 638,556 698,554 757,551 817,548 876,545 936,542 995,539 1055,536 1114,533 1174,529 1233,526 1293,523"/>
+                <TextEquiv>
+                    <Unicode>letter of you like &amp; leave the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="102,716 637,668 688,700 824,653 1060,692 1225,648 1221,573 1057,612 785,586 715,621 514,588 301,648 170,591 97,617"/>
+                <Baseline points="109,691 164,689 219,686 275,683 330,681 385,678 441,675 496,672 551,669 607,666 662,663 717,660 773,657 828,655 883,653 939,650 994,647 1049,645 1105,643 1160,641 1216,639"/>
+                <TextEquiv>
+                    <Unicode>plants till I return, except</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="98,812 426,840 545,788 709,821 1010,755 1410,753 1409,709 1041,683 782,738 575,686 385,756 255,710 96,743"/>
+                <Baseline points="105,788 169,786 234,785 299,783 364,781 429,779 493,776 558,773 623,770 688,768 753,765 817,762 882,759 947,756 1012,754 1077,751 1141,749 1206,747 1271,744 1336,743 1401,741"/>
+                <TextEquiv>
+                    <Unicode>A Grays by the way. which he will.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="134,904 428,910 480,944 587,898 934,898 930,817 892,801 850,834 753,811 621,836 453,821 133,875"/>
+                <Baseline points="142,904 181,904 220,903 259,903 298,902 337,901 376,900 416,898 455,896 494,894 533,892 572,890 611,888 650,886 690,884 729,881 768,879 807,877 846,875 885,873 925,871"/>
+                <TextEquiv>
+                    <Unicode>is expecting I think.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="460,1059 635,1044 755,1106 831,1033 899,1049 948,1019 988,1024 982,956 916,925 855,947 747,939 656,990 614,992 540,933 455,996"/>
+                <Baseline points="467,1046 492,1046 518,1045 543,1044 569,1043 595,1041 620,1039 646,1037 671,1035 697,1032 723,1029 748,1027 774,1025 799,1022 825,1020 851,1018 876,1016 902,1014 927,1013 953,1012 979,1011"/>
+                <TextEquiv>
+                    <Unicode>Ever affy yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="705,1371 783,1349 837,1360 908,1328 1009,1330 1057,1359 1089,1340 1128,1358 1172,1344 1168,1246 1119,1235 1053,1181 977,1209 865,1159 793,1232 702,1258"/>
+                <Baseline points="713,1354 738,1350 763,1346 788,1344 813,1340 838,1336 863,1333 888,1331 913,1329 938,1327 963,1326 988,1325 1013,1325 1038,1326 1063,1328 1088,1331 1113,1335 1138,1339 1163,1346"/>
+                <TextEquiv>
+                    <Unicode>JDHooker.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wrong way! Just see what
+I have said, &amp; act as you think
+best -- You may destroy the
+letter of you like &amp; leave the
+plants till I return, except
+A Grays by the way. which he will.
+is expecting I think.
+Ever affy yrs
+JDHooker.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

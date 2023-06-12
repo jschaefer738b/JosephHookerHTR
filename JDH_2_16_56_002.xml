@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:37:01.710-04:00</Created>
+        <LastChange>2020-09-02T02:49:25.034+02:00</LastChange>
+        <TranskribusMetadata docId="464751" pageId="19205943" pageNr="2" tsid="38939526" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NVDYPNCTVPMNQIJHRUARIIPY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FVNSXLHKGZFBAYYBBVMKFGAJ" imageId="14809676"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_56_002.jpg" imageWidth="1378" imageHeight="2191">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330835433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="77,293 77,2104 1356,2104 1356,293"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="77,357 111,361 123,349 154,365 175,350 188,354 204,349 219,357 224,350 238,352 230,272 201,282 173,265 168,270 144,265 91,299 71,299"/>
+                <Baseline points="84,352 113,347 142,343 171,340 200,338 229,339"/>
+                <TextEquiv>
+                    <Unicode>that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="70,487 1061,438 1139,486 1224,434 1223,365 671,428 177,372 69,439"/>
+                <Baseline points="77,462 134,459 191,457 248,456 305,454 362,453 419,452 476,451 533,450 590,450 647,449 704,449 761,448 818,448 875,447 932,446 989,445 1046,444 1103,443 1160,441 1217,439"/>
+                <TextEquiv>
+                    <Unicode>the Board must approve of.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="137,584 478,593 548,643 704,572 924,602 1007,556 1227,567 1226,509 1133,484 865,518 738,482 661,544 530,512 471,550 384,512 339,542 197,490 136,520"/>
+                <Baseline points="145,574 198,573 252,572 306,572 359,571 413,571 467,570 520,570 574,569 628,569 682,568 735,567 789,566 843,565 896,563 950,561 1004,559 1057,556 1111,554 1165,550 1219,547"/>
+                <TextEquiv>
+                    <Unicode>I should say that £25 is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="138,702 1149,664 1321,698 1320,636 1215,607 1163,647 686,597 490,659 374,626 138,653"/>
+                <Baseline points="145,685 203,688 261,689 320,690 378,690 437,690 495,688 553,687 612,685 670,684 729,682 787,680 845,678 904,676 962,676 1021,675 1079,675 1137,676 1196,678 1254,680 1313,684"/>
+                <TextEquiv>
+                    <Unicode>abundance. He has not been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="135,856 433,867 546,824 596,849 692,807 930,798 1248,824 1248,773 1140,789 943,722 755,734 679,792 135,754"/>
+                <Baseline points="142,806 196,808 251,810 306,811 361,812 416,812 471,812 526,812 581,811 636,810 691,808 745,807 800,806 855,805 910,804 965,804 1020,803 1075,804 1130,804 1185,805 1240,807"/>
+                <TextEquiv>
+                    <Unicode>satisfactory of late at all -- is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="117,942 1238,933 1274,852 1175,893 1098,841 939,907 876,862 819,901 530,862 427,904 116,896"/>
+                <Baseline points="125,934 182,934 239,934 296,934 353,934 410,934 467,934 524,933 581,933 638,933 696,932 753,931 810,930 867,929 924,928 981,927 1038,925 1095,924 1152,922 1209,920 1267,918"/>
+                <TextEquiv>
+                    <Unicode>any how better under direct</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="123,989 130,989 134,985 137,987 144,980 159,979 165,973 174,972 172,937 163,938 160,941 152,940 139,950 131,946 121,947"/>
+                <Baseline points="130,970 166,968"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1002,1082 1040,1053 1147,1046 1175,1061 1190,1051 1200,1060 1218,1056 1214,979 1195,972 1146,991 1109,977 1086,982 1061,965 1045,980 1034,974 1026,984 997,982"/>
+                <Baseline points="1007,1050 1032,1049 1057,1048 1082,1047 1108,1045 1133,1044 1158,1043 1183,1042 1209,1040"/>
+                <TextEquiv>
+                    <Unicode>past</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="105,1080 174,1065 222,1092 329,1055 410,1083 446,1054 661,1062 708,1048 708,1021 532,1011 462,981 423,1010 317,1023 265,989 105,1040"/>
+                <Baseline points="113,1062 142,1060 171,1057 201,1055 230,1053 260,1052 289,1052 318,1051 348,1051 377,1051 407,1052 436,1052 465,1052 495,1053 524,1053 554,1054 583,1054 612,1054 642,1054 671,1053 701,1052"/>
+                <TextEquiv>
+                    <Unicode>pressure from us</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="404,1110 598,1089 684,1120 787,1090 960,1116 966,1046 810,1070 702,1047 613,1077 543,1062 464,1077 438,1060 404,1080"/>
+                <Baseline points="411,1096 438,1097 465,1099 493,1099 520,1100 547,1100 575,1101 602,1101 629,1100 657,1100 684,1100 711,1099 739,1099 766,1098 793,1098 821,1097 848,1096 875,1095 903,1094 930,1093 958,1093"/>
+                <TextEquiv>
+                    <Unicode>time of life &amp; work,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="129,1175 469,1208 627,1200 693,1158 951,1184 1177,1160 1193,1087 915,1121 788,1091 684,1121 597,1090 127,1116"/>
+                <Baseline points="137,1167 189,1167 242,1168 294,1167 347,1167 399,1167 452,1166 504,1165 557,1164 609,1163 662,1161 714,1160 767,1158 819,1157 872,1155 924,1153 977,1151 1029,1149 1082,1147 1134,1145 1187,1143"/>
+                <TextEquiv>
+                    <Unicode>his best a most important</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="137,1289 563,1304 628,1266 1078,1240 1364,1276 1362,1197 1249,1168 1111,1229 1025,1167 946,1228 816,1171 726,1217 619,1195 579,1233 243,1253 135,1202"/>
+                <Baseline points="144,1264 204,1270 265,1274 325,1276 386,1277 447,1276 507,1275 568,1271 628,1268 689,1264 750,1260 810,1257 871,1253 931,1250 992,1248 1053,1247 1113,1247 1174,1249 1234,1253 1295,1258 1356,1267"/>
+                <TextEquiv>
+                    <Unicode>consideration. Then too I think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="105,1395 641,1435 701,1386 895,1395 985,1347 1154,1369 1153,1300 1092,1295 932,1338 863,1307 805,1342 456,1323 414,1358 269,1299 104,1322"/>
+                <Baseline points="113,1378 164,1380 216,1383 268,1384 319,1385 371,1386 423,1386 474,1386 526,1386 578,1385 630,1384 681,1382 733,1381 785,1379 836,1377 888,1375 940,1373 991,1370 1043,1368 1095,1366 1147,1364"/>
+                <TextEquiv>
+                    <Unicode>he has not yet touched the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="109,1510 467,1508 518,1552 639,1556 846,1500 1239,1501 1314,1440 1145,1418 1064,1462 810,1449 723,1485 619,1429 483,1479 108,1465"/>
+                <Baseline points="117,1489 176,1495 236,1498 295,1501 355,1502 414,1504 474,1504 533,1503 593,1502 652,1501 712,1499 771,1497 831,1495 890,1493 950,1491 1009,1489 1069,1488 1128,1486 1188,1486 1247,1486 1307,1486"/>
+                <TextEquiv>
+                    <Unicode>maximum of his annual rise..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="154,1631 864,1634 1070,1677 1235,1660 1263,1598 499,1600 398,1551 309,1577 217,1501 158,1507"/>
+                <Baseline points="163,1606 217,1607 272,1609 326,1611 381,1612 435,1614 490,1616 544,1617 599,1619 653,1621 708,1623 762,1625 817,1626 871,1628 926,1630 980,1631 1035,1633 1089,1635 1144,1637 1198,1639 1253,1640"/>
+                <TextEquiv>
+                    <Unicode>I am sure we can well spend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="149,1743 284,1731 414,1770 488,1728 716,1762 883,1731 1103,1761 1143,1756 1143,1653 1011,1710 910,1674 835,1691 759,1641 605,1690 380,1648 327,1685 244,1649 148,1675"/>
+                <Baseline points="156,1725 205,1727 254,1728 303,1729 352,1729 401,1729 450,1729 499,1728 548,1728 597,1727 646,1726 695,1725 744,1724 793,1724 842,1724 891,1724 940,1724 989,1725 1038,1726 1087,1727 1136,1730"/>
+                <TextEquiv>
+                    <Unicode>the £175.- on Musem &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="86,1845 559,1844 642,1883 853,1852 909,1895 1044,1850 1242,1872 1244,1793 975,1802 862,1732 722,1816 566,1758 335,1803 156,1740 87,1771"/>
+                <Baseline points="93,1833 150,1833 207,1833 264,1834 321,1835 378,1835 435,1836 492,1837 549,1838 606,1839 664,1840 721,1841 778,1842 835,1843 892,1844 949,1845 1006,1846 1063,1846 1120,1846 1177,1846 1235,1846"/>
+                <TextEquiv>
+                    <Unicode>Herbarium &amp; Library. All of which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="92,1955 1000,1974 1231,1939 1078,1883 1002,1916 967,1881 929,1911 784,1888 682,1943 536,1890 92,1900"/>
+                <Baseline points="100,1937 156,1941 212,1945 268,1947 324,1950 381,1951 437,1952 493,1953 549,1954 605,1954 662,1953 718,1953 774,1952 830,1951 886,1950 943,1949 999,1948 1055,1947 1111,1946 1167,1945 1224,1944"/>
+                <TextEquiv>
+                    <Unicode>are involved in distribution</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1211,2002 1223,2010 1230,2008 1237,2012 1245,2009 1253,2013 1307,1906 1289,1897 1280,1898 1278,1893 1267,1890"/>
+                <Baseline points="1230,1981 1254,1993"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="137,2087 874,2084 980,2123 1236,2081 1237,2026 1133,2051 1029,2013 958,2064 617,2003 524,2062 412,2009 138,2012"/>
+                <Baseline points="145,2071 199,2073 253,2074 307,2075 361,2076 416,2077 470,2078 524,2078 578,2079 632,2079 687,2079 741,2080 795,2080 849,2080 903,2080 958,2080 1012,2080 1066,2081 1120,2081 1174,2081 1229,2082"/>
+                <TextEquiv>
+                    <Unicode>duplicates, purchases, fees to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>that&#13;
+the Board must approve of.&#13;
+I should say that £25 is&#13;
+abundance. He has not been&#13;
+satisfactory of late at all -- is&#13;
+any how better under direct&#13;
+&#13;
+past&#13;
+pressure from us&#13;
+time of life &amp; work,&#13;
+his best a most important&#13;
+consideration. Then too I think&#13;
+he has not yet touched the&#13;
+maximum of his annual rise..&#13;
+I am sure we can well spend&#13;
+the £175.- on Musem &amp;&#13;
+Herbarium &amp; Library. All of which&#13;
+are involved in distribution&#13;
+&#13;
+duplicates, purchases, fees to</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

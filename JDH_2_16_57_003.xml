@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-28T17:38:21.642-04:00</Created>
+        <LastChange>2023-05-17T02:05:01.189+02:00</LastChange>
+        <TranskribusMetadata docId="464752" pageId="19205945" pageNr="2" tsid="121949736" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=DZMYZWZSPHSMPTICUVTCPYGX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNOVAAVVJITAUTZCZCIHXRSY" imageId="14809678"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_57_003.jpg" imageWidth="1352" imageHeight="2210">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330831038" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,241 50,2191 1290,2191 1290,241"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="87,321 215,297 281,308 318,293 348,308 415,287 480,293 493,288 493,257 431,263 417,250 374,263 359,251 338,266 274,219 240,239 153,213 86,229"/>
+                <Baseline points="94,289 120,290 146,291 172,291 198,291 224,291 250,290 276,290 303,289 329,289 355,288 381,288 407,287 433,287 459,287 486,288"/>
+                <TextEquiv>
+                    <Unicode>Bactrian!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="159,462 658,375 831,436 901,390 1077,414 1180,388 1178,318 1148,312 1054,358 798,346 744,311 534,367 366,343 293,382 156,337"/>
+                <Baseline points="165,413 215,412 265,410 316,409 366,407 416,404 467,402 517,400 567,397 618,395 668,393 718,391 769,389 819,387 869,387 920,386 970,386 1020,387 1071,388 1121,391 1172,393"/>
+                <TextEquiv>
+                    <Unicode>Your letter to the C.O. in re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="44,564 240,536 305,566 419,522 826,553 906,513 1211,520 1211,480 1062,446 902,498 668,461 578,498 494,470 219,505 42,458"/>
+                <Baseline points="50,534 107,532 165,530 222,529 280,528 338,527 395,526 453,525 511,524 568,523 626,522 684,522 741,520 799,520 857,518 914,517 972,516 1030,514 1087,512 1145,510 1203,508"/>
+                <TextEquiv>
+                    <Unicode>Trimen is excellent. Also as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="88,674 475,695 1115,627 1276,654 1272,569 1105,546 1006,614 849,612 786,570 711,632 573,634 446,569 372,612 86,620"/>
+                <Baseline points="95,657 153,658 212,658 270,658 329,658 388,657 446,657 505,655 563,654 622,652 681,650 739,648 798,645 856,642 915,639 974,635 1032,632 1091,627 1149,623 1208,618 1267,612"/>
+                <TextEquiv>
+                    <Unicode>regards Syme. I quite think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="105,792 673,762 857,809 1081,737 1263,738 1260,683 1119,665 1046,716 737,742 677,716 436,756 304,708 204,767 102,732"/>
+                <Baseline points="112,783 169,782 226,780 283,779 340,777 397,776 454,775 512,774 569,772 626,770 683,769 740,766 797,764 854,760 912,757 969,753 1026,750 1083,745 1140,740 1197,734 1255,727"/>
+                <TextEquiv>
+                    <Unicode>we have made a good shot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="128,926 162,913 184,919 195,912 232,917 240,909 275,919 283,911 345,914 346,842 282,855 242,839 229,845 215,831 191,840 177,829 148,832 129,821"/>
+                <Baseline points="135,903 160,904 185,906 211,906 236,907 261,907 287,907 312,906 338,906"/>
+                <TextEquiv>
+                    <Unicode>there.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="153,1062 537,1070 683,1031 942,1070 1256,1035 1254,978 1201,965 813,998 670,947 563,958 482,1024 241,927 150,957"/>
+                <Baseline points="161,1047 215,1049 269,1049 324,1049 378,1048 432,1046 487,1043 541,1041 595,1038 650,1035 704,1033 758,1030 813,1027 867,1025 921,1023 976,1022 1030,1021 1084,1021 1139,1022 1193,1024 1248,1028"/>
+                <TextEquiv>
+                    <Unicode>I transmit Memo in answer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="65,1192 305,1229 1085,1153 1221,1194 1217,1115 1120,1095 761,1143 689,1110 63,1134"/>
+                <Baseline points="72,1181 129,1183 186,1185 243,1185 300,1185 357,1184 414,1182 471,1180 528,1178 585,1175 642,1172 699,1168 756,1165 813,1162 870,1159 927,1157 984,1154 1041,1152 1098,1151 1155,1150 1212,1150"/>
+                <TextEquiv>
+                    <Unicode>to Mitfords queries respecting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="86,1313 1141,1282 1139,1237 958,1193 869,1264 628,1212 544,1260 448,1211 277,1275 216,1235 84,1246"/>
+                <Baseline points="93,1301 145,1303 197,1303 249,1303 301,1302 353,1301 405,1300 457,1298 509,1295 561,1292 613,1290 665,1287 717,1284 769,1281 821,1279 873,1277 925,1275 977,1273 1029,1272 1081,1271 1133,1271"/>
+                <TextEquiv>
+                    <Unicode>Cooke &amp; the £200- please</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="92,1427 381,1419 470,1466 554,1400 867,1426 991,1381 1298,1425 1296,1346 991,1325 927,1358 769,1329 686,1376 363,1335 296,1389 91,1370"/>
+                <Baseline points="99,1415 158,1417 218,1417 277,1417 337,1415 396,1412 456,1409 515,1406 575,1402 634,1398 694,1395 754,1391 813,1389 873,1387 932,1386 992,1386 1051,1387 1111,1390 1170,1394 1230,1400 1290,1408"/>
+                <TextEquiv>
+                    <Unicode>read it very carefully &amp; suggest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="89,1595 157,1619 291,1553 497,1578 1234,1536 1220,1441 633,1530 552,1481 364,1512 319,1485 230,1535 86,1504"/>
+                <Baseline points="95,1554 151,1554 208,1554 264,1554 321,1554 377,1554 434,1553 490,1552 547,1551 603,1549 660,1548 716,1546 773,1543 829,1540 886,1537 942,1533 999,1530 1055,1526 1112,1520 1168,1515 1225,1509"/>
+                <TextEquiv>
+                    <Unicode>any alterations or improvements.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="289,1659 297,1649 303,1647 314,1644 323,1642 348,1641 374,1639 399,1638 424,1636 450,1634 475,1632 500,1629 526,1626 551,1622 576,1618 602,1614 600,1599 574,1603 549,1607 524,1611 498,1614 474,1617 449,1619 423,1621 398,1623 373,1624 347,1626 321,1627 310,1630 299,1633 288,1637 277,1649"/>
+                <Baseline points="289,1659 297,1649 303,1647 314,1644 323,1642 348,1641 374,1639 399,1638 424,1636 450,1634 475,1632 500,1629 526,1626 551,1622 576,1618 602,1614"/>
+                <TextEquiv>
+                    <Unicode> dated &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="123,1720 1034,1674 1219,1705 1214,1604 964,1645 878,1602 720,1663 622,1632 314,1685 178,1617 119,1635"/>
+                <Baseline points="130,1711 184,1709 238,1708 292,1706 346,1704 400,1702 454,1699 508,1696 562,1693 616,1690 670,1687 724,1684 778,1681 832,1678 886,1675 940,1673 994,1670 1048,1667 1102,1665 1156,1663 1210,1661"/>
+                <TextEquiv>
+                    <Unicode>I have signed it provisionally</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="163,1839 1198,1798 1195,1734 1131,1711 1026,1752 948,1712 889,1768 824,1731 574,1791 418,1743 288,1795 215,1759 160,1777"/>
+                <Baseline points="170,1830 221,1828 272,1826 323,1824 374,1822 425,1820 476,1818 527,1817 578,1814 629,1812 680,1810 731,1808 782,1805 833,1803 884,1801 935,1798 986,1795 1037,1793 1088,1790 1139,1787 1190,1784"/>
+                <TextEquiv>
+                    <Unicode>but have not dated the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="574,1885 623,1873 649,1893 674,1881 786,1899 838,1879 871,1894 915,1881 913,1808 780,1817 741,1808 664,1824 640,1814 612,1827 572,1819"/>
+                <Baseline points="581,1878 606,1880 631,1881 656,1882 681,1881 706,1881 731,1880 757,1878 782,1876 807,1875 832,1874 857,1873 882,1872 908,1871"/>
+                <TextEquiv>
+                    <Unicode>of receipt of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="129,1952 205,1950 280,1988 339,1949 516,1928 551,1946 629,1927 650,1920 649,1876 558,1885 468,1865 408,1905 338,1862 293,1898 239,1882 202,1909 128,1901"/>
+                <Baseline points="136,1936 161,1937 186,1937 212,1938 237,1938 262,1937 288,1937 313,1936 338,1935 364,1935 389,1933 414,1932 440,1931 465,1930 490,1929 516,1927 541,1926 566,1925 592,1924 617,1923 643,1921"/>
+                <TextEquiv>
+                    <Unicode>notification o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="298,2002 854,1931 1093,1967 1132,1930 1251,1925 1246,1865 1211,1889 1152,1848 1050,1864 988,1836 905,1912 764,1890 295,1967"/>
+                <Baseline points="304,1993 351,1989 398,1984 445,1978 492,1972 539,1967 586,1961 633,1955 680,1949 727,1944 774,1939 821,1934 868,1930 915,1926 962,1923 1009,1921 1056,1920 1103,1920 1150,1921 1197,1923 1244,1927"/>
+                <TextEquiv>
+                    <Unicode>memo dat Mitfords</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="154,2059 198,2059 242,2058 287,2058 331,2056 376,2055 420,2053 464,2052 509,2050 553,2048 598,2046 642,2044 686,2042 731,2041 775,2039 820,2038 864,2037 908,2036 953,2036 997,2036 1106,2089 1112,2076 1000,2021 953,2021 908,2021 864,2022 820,2023 774,2024 730,2026 685,2027 641,2029 597,2031 552,2033 508,2035 463,2037 419,2038 375,2040 330,2041 287,2043 242,2043 198,2044 154,2044"/>
+                <Baseline points="154,2059 198,2059 242,2058 287,2058 331,2056 376,2055 420,2053 464,2052 509,2050 553,2048 598,2046 642,2044 686,2042 731,2041 775,2039 820,2038 864,2037 908,2036 953,2036 997,2036 1106,2089"/>
+                <TextEquiv>
+                    <Unicode>official memo of Aug 20 /79</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_386" custom="readingOrder {index:18;}">
+                <Coords points="206,2158 232,2162 258,2164 284,2166 310,2167 336,2167 362,2168 388,2167 414,2167 440,2166 466,2165 492,2163 518,2162 544,2160 570,2159 679,2152 705,2157 732,2160 759,2160 786,2159 813,2158 905,2162 930,2160 956,2159 982,2158 1008,2159 1034,2159 1059,2160 1085,2160 1111,2160 1137,2158 1163,2157 1162,2142 1136,2143 1110,2145 1085,2145 1059,2145 1034,2144 1008,2144 982,2143 955,2144 929,2145 905,2147 813,2143 785,2144 759,2145 733,2145 707,2142 680,2137 569,2144 543,2145 517,2147 491,2148 465,2150 439,2151 414,2152 388,2152 362,2153 336,2152 310,2152 285,2151 259,2149 234,2147 208,2143"/>
+                <Baseline points="206,2158 232,2162 258,2164 284,2166 310,2167 336,2167 362,2168 388,2167 414,2167 440,2166 466,2165 492,2163 518,2162 544,2160 570,2159 679,2152 705,2157 732,2160 759,2160 786,2159 813,2158 905,2162 930,2160 956,2159 982,2158 1008,2159 1034,2159 1059,2160 1085,2160 1111,2160 1137,2158 1163,2157"/>
+                <TextEquiv>
+                    <Unicode>You can do this latter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bactrian!
+Your letter to the C.O. in re
+Trimen is excellent. Also as
+regards Syme. I quite think
+we have made a good shot
+there.
+I transmit Memo in answer
+to Mitfords queries respecting
+Cooke &amp; the £200- please
+read it very carefully &amp; suggest
+any alterations or improvements.
+ dated &amp;
+I have signed it provisionally
+but have not dated the
+of receipt of
+notification o
+memo dat Mitfords
+official memo of Aug 20
+this
+latter
+You can do</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
