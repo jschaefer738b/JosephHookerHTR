@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:41:36.327-04:00</Created>
+        <LastChange>2023-05-17T01:23:25.510+02:00</LastChange>
+        <TranskribusMetadata docId="437076" pageId="17691636" pageNr="2" tsid="121949460" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=QRFYHVVSAMAAUETXWJSAINCK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TLMTSDAWHPFQZNVQEJNYCOXY" imageId="13355379"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_42_003.jpg" imageWidth="1353" imageHeight="2229">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330857567" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="82,129 82,2172 1305,2172 1305,129"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="120,202 227,229 353,177 546,208 815,177 1136,195 1136,140 996,116 608,142 339,95 249,144 120,140"/>
+                <Baseline points="128,171 178,174 228,176 278,178 328,179 378,179 428,178 478,178 528,177 578,176 628,175 678,174 728,173 778,172 828,172 878,172 928,173 978,174 1028,177 1078,179 1128,184"/>
+                <TextEquiv>
+                    <Unicode>as far as my experience goes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="89,297 239,332 430,281 725,283 800,320 1059,298 1133,335 1205,291 1313,304 1313,236 1124,262 1014,218 89,242"/>
+                <Baseline points="97,282 157,282 217,282 278,282 338,281 399,280 459,278 519,277 580,276 640,275 701,274 761,274 821,274 882,275 942,276 1003,278 1063,281 1123,285 1184,290 1244,296 1305,303"/>
+                <TextEquiv>
+                    <Unicode>always symptomatic of disease of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="87,400 409,366 523,373 586,425 807,366 1104,370 1181,437 1236,415 1213,344 87,328"/>
+                <Baseline points="94,386 150,383 207,381 264,378 320,376 377,373 434,372 490,370 547,369 604,368 661,368 717,368 774,368 831,369 887,370 944,372 1001,374 1057,377 1114,380 1171,383 1228,388"/>
+                <TextEquiv>
+                    <Unicode>heart &amp; not of one disease only.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="292,430 320,430 330,441 367,428 377,439 452,428 467,440 490,431 546,436 546,405 513,407 488,386 452,398 396,398 359,368 292,401"/>
+                <Baseline points="300,426 326,425 352,424 379,424 405,423 432,423 458,423 485,424 511,425 538,426"/>
+                <TextEquiv>
+                    <Unicode>opinion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="140,518 190,539 255,477 577,457 1261,489 1270,436 1062,390 806,427 688,385 571,445 281,447 206,406 139,432"/>
+                <Baseline points="147,474 202,474 258,472 314,470 370,468 425,466 481,464 537,461 593,459 648,457 704,456 760,455 816,454 871,454 927,455 983,457 1039,459 1094,463 1150,469 1206,474 1262,482"/>
+                <TextEquiv>
+                    <Unicode>My sre is that the dilatation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="112,583 584,568 661,599 706,564 860,615 990,562 1118,587 1118,531 911,512 844,542 727,499 583,543 497,491 400,543 294,513 112,536"/>
+                <Baseline points="119,569 168,570 218,570 267,569 317,568 366,568 416,567 465,565 515,564 564,563 614,562 664,562 713,561 763,561 812,561 862,562 911,563 961,565 1010,567 1060,570 1110,574"/>
+                <TextEquiv>
+                    <Unicode>akes steady progress--as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="119,687 283,671 453,723 532,668 1216,695 1260,688 1261,635 1091,644 983,603 907,641 593,585 536,624 204,640 120,597"/>
+                <Baseline points="126,659 182,661 238,663 295,663 351,664 407,664 464,664 520,663 576,663 633,663 689,662 745,662 802,663 858,663 914,664 971,666 1027,668 1083,671 1140,675 1196,680 1253,686"/>
+                <TextEquiv>
+                    <Unicode>evidenced by the more frequent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="136,782 463,849 589,787 1209,788 1227,742 1014,739 956,700 632,740 549,717 497,756 135,706"/>
+                <Baseline points="143,775 196,776 250,777 304,777 358,777 412,777 465,775 519,774 573,773 627,772 681,770 734,769 788,768 842,767 896,767 950,767 1003,767 1057,769 1111,771 1165,773 1219,777"/>
+                <TextEquiv>
+                    <Unicode>attacks of palpitations &amp; other</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="148,903 292,879 852,888 862,833 757,843 700,810 584,847 538,826 373,860 147,816"/>
+                <Baseline points="156,875 190,877 225,879 260,879 295,880 330,880 365,880 400,879 435,878 470,877 505,876 539,875 574,874 609,873 644,872 679,872 714,871 749,872 784,872 819,873 854,875"/>
+                <TextEquiv>
+                    <Unicode>cardiac disturbance.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="151,987 575,975 677,1006 743,976 1147,972 1160,878 800,948 349,954 216,902 151,927"/>
+                <Baseline points="159,974 208,973 258,973 308,972 357,972 407,971 457,971 506,970 556,970 606,969 656,969 705,969 755,968 805,968 854,967 904,966 954,966 1003,965 1053,965 1103,964 1153,963"/>
+                <TextEquiv>
+                    <Unicode>I have never urged him to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="122,1078 406,1107 1174,1070 1309,1108 1309,1035 1116,1000 945,1049 762,1013 282,1051 122,1003"/>
+                <Baseline points="130,1063 188,1069 247,1072 305,1075 364,1076 423,1076 481,1076 540,1075 598,1074 657,1072 716,1070 774,1069 833,1068 891,1067 950,1067 1009,1067 1067,1069 1126,1071 1184,1076 1243,1082 1302,1089"/>
+                <TextEquiv>
+                    <Unicode>again examined because I feel such</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="119,1175 1180,1189 1200,1132 702,1140 622,1110 555,1152 345,1092 253,1124 119,1107"/>
+                <Baseline points="126,1160 179,1163 232,1166 285,1168 339,1169 392,1170 445,1170 499,1169 552,1169 605,1168 659,1167 712,1166 765,1165 818,1164 872,1164 925,1164 978,1165 1032,1167 1085,1169 1138,1173 1192,1177"/>
+                <TextEquiv>
+                    <Unicode>that the result would be so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="135,1286 228,1311 281,1275 792,1254 1310,1290 1290,1208 1219,1244 798,1179 512,1240 135,1240"/>
+                <Baseline points="143,1272 204,1273 265,1273 326,1272 387,1271 448,1269 509,1266 570,1264 631,1261 692,1259 753,1257 814,1255 875,1254 936,1253 997,1254 1058,1256 1119,1258 1180,1263 1241,1269 1302,1276"/>
+                <TextEquiv>
+                    <Unicode>unfavorable &amp; that it would greatly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="134,1385 1265,1391 1265,1349 1190,1323 1104,1341 921,1291 852,1344 742,1351 414,1316 134,1340"/>
+                <Baseline points="142,1375 197,1377 253,1379 309,1379 365,1379 421,1378 476,1377 532,1375 588,1374 644,1372 700,1370 755,1368 811,1367 867,1366 923,1366 979,1366 1034,1367 1090,1369 1146,1373 1202,1377 1258,1382"/>
+                <TextEquiv>
+                    <Unicode>alarm him &amp; do no possible good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="249,1494 1237,1465 1237,1435 1089,1415 927,1449 658,1423 605,1457 474,1397 249,1404"/>
+                <Baseline points="257,1477 305,1478 354,1478 402,1478 451,1477 500,1477 548,1476 597,1475 646,1474 694,1473 743,1472 792,1471 840,1471 889,1470 938,1470 986,1470 1035,1471 1084,1472 1132,1474 1181,1476 1230,1479"/>
+                <TextEquiv>
+                    <Unicode>Next to his sudden death I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="74,1566 531,1582 592,1622 756,1574 852,1614 963,1571 1174,1614 1305,1592 1305,1543 1134,1508 975,1547 869,1494 565,1538 482,1498 74,1513"/>
+                <Baseline points="82,1561 142,1564 203,1566 264,1568 325,1569 385,1569 446,1569 507,1569 568,1568 628,1567 689,1566 750,1565 811,1565 871,1565 932,1565 993,1567 1054,1568 1114,1571 1175,1575 1236,1579 1297,1585"/>
+                <TextEquiv>
+                    <Unicode>dread a longering dropsy - with years</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="77,1714 237,1670 418,1722 522,1672 780,1715 864,1674 997,1725 1098,1669 1271,1702 1272,1620 78,1624"/>
+                <Baseline points="85,1665 147,1665 209,1664 271,1664 333,1663 395,1663 457,1663 519,1663 581,1663 643,1663 705,1664 767,1665 829,1666 891,1667 953,1668 1015,1670 1077,1672 1139,1674 1201,1677 1264,1679"/>
+                <TextEquiv>
+                    <Unicode>of inability to do anything but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="113,1802 212,1824 274,1778 477,1771 551,1807 626,1768 1113,1781 1112,1687 1048,1683 995,1726 451,1708 112,1747"/>
+                <Baseline points="120,1772 169,1772 218,1771 267,1771 317,1770 366,1769 415,1768 464,1767 514,1766 563,1766 612,1765 661,1764 711,1764 760,1763 809,1763 858,1763 908,1763 957,1764 1006,1765 1055,1766 1105,1767"/>
+                <TextEquiv>
+                    <Unicode>drag about after his work.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="260,1895 1273,1882 1223,1838 1136,1863 1027,1814 951,1856 817,1804 626,1805 536,1852 261,1810"/>
+                <Baseline points="268,1872 317,1873 367,1874 417,1874 467,1875 517,1874 567,1874 616,1874 666,1873 716,1873 766,1872 816,1872 866,1872 916,1872 965,1872 1015,1872 1065,1874 1115,1875 1165,1878 1215,1880 1265,1883"/>
+                <TextEquiv>
+                    <Unicode>This is about all I can say</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="83,1983 1046,1976 1192,2042 1242,2015 1243,1904 962,1875 832,1938 600,1900 309,1950 176,1893 83,1911"/>
+                <Baseline points="91,1967 148,1968 205,1969 262,1969 319,1969 377,1969 434,1969 491,1969 548,1969 605,1968 663,1968 720,1968 777,1968 834,1968 891,1969 949,1969 1006,1971 1063,1972 1120,1975 1177,1977 1235,1980"/>
+                <TextEquiv>
+                    <Unicode>I have never lost an opportunity of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="81,2087 224,2077 309,2123 529,2069 1123,2076 1134,2009 971,2039 705,1996 374,2047 208,1998 80,2015"/>
+                <Baseline points="89,2062 140,2064 192,2065 244,2066 296,2066 348,2066 400,2067 452,2066 504,2066 556,2066 608,2065 659,2065 711,2064 763,2063 815,2063 867,2062 919,2061 971,2061 1023,2060 1075,2060 1127,2059"/>
+                <TextEquiv>
+                    <Unicode>gathering up al the information</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="151,2161 477,2187 587,2152 1081,2164 1180,2149 1179,2100 691,2081 581,2117 427,2092 150,2120"/>
+                <Baseline points="158,2149 208,2151 259,2152 310,2153 360,2153 411,2152 462,2152 512,2151 563,2149 614,2148 665,2147 715,2145 766,2144 817,2143 867,2142 918,2141 969,2141 1019,2141 1070,2142 1121,2143 1172,2145"/>
+                <TextEquiv>
+                    <Unicode>could get from him as to his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>as far as my experience goes,
+always symptomatic of disease of the
+heart &amp; not of one disease only.
+opinion
+My sre is that the dilatation
+akes steady progress--as
+evidenced by the more frequent
+attacks of palpitations &amp; other
+cardiac disturbance.
+I have never urged him to be
+again examined because I feel such
+that the result would be so
+unfavorable &amp; that it would greatly
+alarm him &amp; do no possible good
+Next to his sudden death I
+dread a longering dropsy - with years
+of inability to do anything but
+drag about after his work.
+This is about all I can say
+
+I have never lost an opportunity of
+gathering up al the information
+could get from him as to his</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

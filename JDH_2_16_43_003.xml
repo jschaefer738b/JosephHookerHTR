@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:43:01.984-04:00</Created>
+        <LastChange>2023-05-17T01:27:31.551+02:00</LastChange>
+        <TranskribusMetadata docId="437077" pageId="17691641" pageNr="3" tsid="121949601" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=SAGZEFSKHDKRYHVSNCJJCBCY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IICDXJBFGZJXRSWBHMULFVEF" imageId="13355384"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_43_003.jpg" imageWidth="1347" imageHeight="2154">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330856145" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="11,703 11,841 63,841 63,703"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="6,767 23,770 27,775 42,764 73,767 67,689 52,689 32,713 18,708 11,716 2,717"/>
+                <Baseline points="11,745 37,745 63,741"/>
+                <TextEquiv>
+                    <Unicode>up</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="17,836 25,836 27,833 34,837 36,833 40,835 45,833 52,838 62,839 58,784 46,786 27,807 24,804 15,805"/>
+                <Baseline points="24,822 54,820"/>
+                <TextEquiv>
+                    <Unicode>t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>up
+t</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="49,50 49,2076 1312,2076 1312,50"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="44,184 131,127 1241,98 1240,61 39,54"/>
+                <Baseline points="49,124 108,122 167,120 226,117 285,115 345,112 404,109 463,106 522,104 581,101 641,98 700,97 759,94 818,92 877,90 937,88 996,87 1055,85 1114,84 1173,84 1233,84"/>
+                <TextEquiv>
+                    <Unicode>Gumbletons garden contains many</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="81,237 816,157 1186,183 1181,88 1091,129 900,97 842,144 687,119 621,158 465,132 209,179 130,141 78,173"/>
+                <Baseline points="87,193 141,194 196,195 250,195 305,194 359,192 414,190 468,187 523,184 577,181 632,177 686,174 741,170 795,166 850,163 904,160 959,158 1013,156 1068,154 1122,153 1177,153"/>
+                <TextEquiv>
+                    <Unicode>fome stanks &amp; hirls, but - the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="90,294 592,279 656,319 821,260 997,289 1286,251 1259,178 1184,230 88,238"/>
+                <Baseline points="97,278 156,277 215,276 274,275 333,274 392,272 451,270 510,268 569,265 628,263 687,261 746,258 805,256 864,253 923,250 982,248 1041,245 1100,243 1159,241 1218,238 1277,236"/>
+                <TextEquiv>
+                    <Unicode>specimens are young &amp; small. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="99,394 1247,339 1244,269 1186,253 1053,305 827,276 638,326 583,297 510,335 97,336"/>
+                <Baseline points="106,370 162,368 219,365 275,363 332,361 389,358 445,355 502,352 559,349 615,346 672,343 729,340 785,338 842,335 899,333 955,330 1012,329 1069,327 1125,326 1182,325 1239,325"/>
+                <TextEquiv>
+                    <Unicode>general character of this vegetation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="80,502 167,459 423,475 1098,410 1271,448 1237,339 1008,403 852,372 582,412 464,380 380,430 279,398 218,439 75,411"/>
+                <Baseline points="87,473 145,466 204,461 263,456 321,451 380,448 439,443 497,440 556,437 615,434 674,431 732,428 791,426 850,422 908,420 967,417 1026,414 1084,411 1143,407 1202,404 1261,399"/>
+                <TextEquiv>
+                    <Unicode>you know from description -- nothing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="126,562 993,491 1240,539 1254,414 1179,460 869,476 803,444 762,486 638,495 315,468 261,513 124,519"/>
+                <Baseline points="133,541 188,539 244,536 300,533 356,530 412,527 468,523 523,519 579,516 635,512 691,508 747,505 803,502 859,498 914,496 970,493 1026,490 1082,489 1138,487 1194,486 1250,485"/>
+                <TextEquiv>
+                    <Unicode>can the exceed its luxuriance of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="131,619 317,635 481,597 818,640 998,576 1194,563 1045,499 983,547 889,531 814,566 658,535 494,581 129,566"/>
+                <Baseline points="138,613 190,612 242,610 295,608 347,606 400,605 452,602 505,600 557,598 610,596 662,593 714,591 767,588 819,586 872,583 924,581 977,578 1029,576 1082,574 1134,572 1187,571"/>
+                <TextEquiv>
+                    <Unicode>its kind -- but ony of its kind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="565,692 632,672 693,712 850,654 1150,651 1200,695 1249,672 1320,696 1319,605 1177,627 1065,586 874,643 564,616"/>
+                <Baseline points="572,665 609,667 646,669 683,670 720,669 757,667 794,665 831,662 868,659 905,656 942,653 979,651 1016,649 1053,649 1090,649 1127,650 1164,654 1201,659 1238,666 1275,675 1312,687"/>
+                <TextEquiv>
+                    <Unicode>a bachelor, a Bibliomaniac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="83,725 330,687 411,702 444,684 479,688 478,666 406,654 375,627 186,636 78,615"/>
+                <Baseline points="89,701 114,701 139,701 165,700 190,699 216,696 241,694 267,691 292,689 318,687 343,685 369,685 394,685 420,687 445,690 471,695"/>
+                <TextEquiv>
+                    <Unicode>Gumbleton is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="70,768 216,724 342,759 405,717 548,724 649,699 637,670 478,701 334,686 219,711 66,709"/>
+                <Baseline points="75,736 103,735 131,734 160,733 188,731 216,730 245,727 273,725 301,723 330,721 358,719 386,716 415,714 443,713 471,710 500,708 528,707 556,705 585,704 613,702 642,702"/>
+                <TextEquiv>
+                    <Unicode>to a certain point</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="100,806 416,766 534,817 764,746 1146,761 1206,742 1204,707 654,697 512,742 463,712 287,760 223,723 97,754"/>
+                <Baseline points="106,787 160,784 215,780 269,776 324,773 378,769 433,765 487,761 542,757 596,754 651,750 706,747 760,745 815,741 869,739 924,736 978,734 1033,733 1087,732 1142,731 1197,730"/>
+                <TextEquiv>
+                    <Unicode>&amp; has heaps of expensive modern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="103,890 407,833 567,857 1279,809 1277,740 962,794 747,758 537,806 480,773 329,838 99,838"/>
+                <Baseline points="110,874 168,868 226,861 284,856 342,850 401,845 459,841 517,836 575,832 633,828 692,824 750,821 808,817 866,814 924,811 983,808 1041,806 1099,803 1157,800 1215,798 1274,796"/>
+                <TextEquiv>
+                    <Unicode>China. his enthusiasm for plants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="84,974 214,1009 393,940 613,968 669,918 1280,877 1276,825 1201,799 1126,858 634,861 575,901 467,878 82,939"/>
+                <Baseline points="90,956 149,953 208,949 267,945 326,941 385,936 444,931 503,927 562,922 621,916 680,911 739,905 798,901 857,895 916,890 975,886 1034,881 1093,878 1152,874 1211,870 1271,867"/>
+                <TextEquiv>
+                    <Unicode>is only equalled by his ignorance. He</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="78,1046 778,977 1221,978 1217,929 1037,915 928,948 692,921 618,977 416,956 214,1010 74,992"/>
+                <Baseline points="84,1024 140,1024 196,1023 253,1021 309,1018 366,1015 422,1011 478,1006 535,1002 591,997 648,992 704,987 760,981 817,976 873,972 930,967 986,964 1042,961 1099,957 1155,956 1212,955"/>
+                <TextEquiv>
+                    <Unicode>has not the remotest conception of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="92,1132 961,1048 1287,1061 1284,1024 1121,986 793,1044 88,1065"/>
+                <Baseline points="98,1112 157,1109 216,1106 275,1102 334,1098 393,1094 452,1089 511,1084 570,1079 629,1075 688,1070 747,1065 806,1061 865,1058 924,1055 983,1052 1042,1050 1101,1049 1160,1048 1219,1049 1278,1050"/>
+                <TextEquiv>
+                    <Unicode>even Genus &amp; species -- does not know</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="80,1208 994,1143 1280,1190 1277,1117 1150,1075 1061,1121 693,1128 584,1088 354,1150 185,1121 78,1160"/>
+                <Baseline points="87,1191 146,1189 205,1186 264,1183 323,1180 383,1175 442,1171 501,1167 560,1162 619,1158 679,1154 738,1150 797,1148 856,1145 915,1144 975,1143 1034,1144 1093,1145 1152,1148 1211,1152 1271,1158"/>
+                <TextEquiv>
+                    <Unicode>a Composite from a Grass or an Umbell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="120,1300 471,1277 533,1236 1212,1238 1220,1162 1089,1199 631,1176 233,1245 114,1201"/>
+                <Baseline points="125,1271 179,1267 234,1264 288,1261 343,1257 397,1253 452,1249 506,1244 561,1240 615,1236 670,1232 725,1228 779,1225 834,1222 888,1220 943,1218 997,1217 1052,1217 1106,1218 1161,1219 1216,1222"/>
+                <TextEquiv>
+                    <Unicode>from either &amp; I believe could not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="117,1360 260,1376 475,1322 599,1355 1078,1291 1216,1344 1289,1326 1285,1242 1179,1228 115,1316"/>
+                <Baseline points="124,1345 181,1342 239,1339 297,1335 355,1332 413,1329 470,1325 528,1322 586,1319 644,1315 702,1312 759,1309 817,1306 875,1303 933,1301 991,1299 1048,1297 1106,1295 1164,1294 1222,1293 1280,1293"/>
+                <TextEquiv>
+                    <Unicode>comprehend it if pointed out. Nothing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="83,1439 260,1459 476,1403 564,1444 724,1398 876,1426 1088,1377 1275,1401 1271,1328 1077,1318 624,1368 476,1321 328,1393 192,1359 80,1387"/>
+                <Baseline points="90,1425 148,1424 207,1422 266,1419 325,1417 383,1414 442,1411 501,1407 560,1403 618,1399 677,1395 736,1392 795,1388 853,1384 912,1381 971,1378 1030,1375 1088,1373 1147,1371 1206,1370 1265,1369"/>
+                <TextEquiv>
+                    <Unicode>can exceed his kindness &amp; anxiety</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="52,1520 1214,1478 1211,1413 1158,1408 1012,1453 929,1421 832,1448 779,1410 660,1462 517,1433 351,1475 300,1441 225,1486 49,1451"/>
+                <Baseline points="60,1514 117,1511 174,1508 231,1505 289,1503 346,1500 403,1497 461,1494 518,1491 575,1488 633,1485 690,1482 747,1479 804,1477 862,1475 919,1472 976,1470 1034,1468 1091,1466 1148,1465 1206,1463"/>
+                <TextEquiv>
+                    <Unicode>to make as happy. He appears to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="72,1613 403,1616 1047,1536 1158,1567 1235,1543 1232,1487 1088,1525 521,1507 367,1569 69,1565"/>
+                <Baseline points="78,1592 135,1592 192,1591 250,1589 307,1587 365,1584 422,1581 480,1577 537,1574 595,1569 652,1565 709,1561 767,1557 824,1552 882,1549 939,1545 997,1542 1054,1540 1112,1538 1169,1537 1227,1537"/>
+                <TextEquiv>
+                    <Unicode>regarded by the Bagwells as a son,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="95,1692 507,1658 613,1688 676,1645 1077,1608 1268,1634 1264,1565 1183,1555 1066,1595 951,1560 792,1616 730,1585 585,1624 514,1595 91,1622"/>
+                <Baseline points="101,1670 158,1669 216,1667 274,1664 332,1661 390,1658 448,1654 506,1650 564,1646 622,1642 680,1638 737,1634 795,1630 853,1626 911,1622 969,1619 1027,1616 1085,1614 1143,1612 1201,1611 1259,1610"/>
+                <TextEquiv>
+                    <Unicode>&amp;they call him by his &amp;tian name,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="84,1752 164,1778 376,1729 1235,1708 918,1654 488,1702 401,1666 82,1693"/>
+                <Baseline points="91,1736 147,1735 204,1734 261,1733 318,1731 375,1728 431,1726 488,1722 545,1719 602,1716 659,1713 715,1710 772,1709 829,1706 886,1705 943,1704 999,1704 1056,1705 1113,1706 1170,1709 1227,1713"/>
+                <TextEquiv>
+                    <Unicode>laugh at his eccentricities &amp; ignorance</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="75,1858 358,1803 654,1832 851,1791 1016,1857 1088,1804 1277,1837 1276,1773 843,1738 722,1785 557,1780 422,1743 74,1800"/>
+                <Baseline points="81,1826 140,1824 199,1822 259,1820 318,1817 378,1813 437,1810 496,1807 556,1804 615,1801 675,1799 734,1797 793,1796 853,1795 912,1796 972,1797 1031,1800 1090,1803 1150,1809 1209,1815 1269,1823"/>
+                <TextEquiv>
+                    <Unicode>&amp; praise his great goodness of heart,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="77,1925 477,1900 574,1940 804,1880 1228,1921 1228,1846 1020,1877 965,1838 678,1829 556,1868 436,1820 256,1872 77,1856"/>
+                <Baseline points="85,1898 141,1897 198,1896 255,1895 312,1893 368,1891 425,1889 482,1887 539,1886 595,1884 652,1883 709,1882 766,1882 822,1883 879,1884 936,1886 993,1889 1049,1893 1106,1898 1163,1905 1220,1913"/>
+                <TextEquiv>
+                    <Unicode>charity &amp; love of good works in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="78,1988 168,2013 261,1984 312,1998 389,1978 554,1993 556,1915 511,1935 409,1930 366,1951 282,1923 78,1955"/>
+                <Baseline points="85,1982 110,1982 136,1981 162,1980 188,1979 213,1979 239,1978 265,1977 291,1977 317,1976 342,1976 368,1975 394,1975 420,1975 445,1975 471,1974 497,1974 523,1975 549,1975"/>
+                <TextEquiv>
+                    <Unicode>neighbourhood.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;}">
+                <Coords points="79,2074 1138,2070 1253,2055 1251,1964 961,2015 782,1986 684,2027 632,1984 525,2022 321,1990 234,2030 77,1988"/>
+                <Baseline points="85,2058 143,2057 201,2056 259,2055 317,2054 375,2053 433,2052 491,2051 549,2050 607,2049 665,2048 723,2047 781,2047 839,2046 897,2045 955,2044 1013,2043 1071,2042 1129,2041 1187,2039 1245,2038"/>
+                <TextEquiv>
+                    <Unicode>To day  Tuesday Gimbleton will take</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gumbletons garden contains many
+s
+fome stanks &amp; hirls, but - the
+specimens are young &amp; small. The
+general character of this vegetation
+you know from description -- nothing
+can the exceed its luxuriance of
+its kind -- but ony of its kind
+a bachelor, a Bibliomaniac
+Gumbleton is
+to a certain point
+&amp; has heaps of expensive modern
+China. his enthusiasm for plants
+is only equalled by his ignorance. He
+has not the remotest conception of
+even Genus &amp; species -- does not know
+a Composite from a Grass or an Umbell
+from either &amp; I believe could not
+comprehend it if pointed out. Nothing
+can exceed his kindness &amp; anxiety
+to make as happy. He appears to be
+regarded by the Bagwells as a son,
+&amp;they call him by his &amp;tian name,
+laugh at his eccentricities &amp; ignorance
+&amp; praise his great goodness of heart,
+charity &amp; love of good works in the
+neighbourhood.
+To day  Tuesday Gimbleton will take</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

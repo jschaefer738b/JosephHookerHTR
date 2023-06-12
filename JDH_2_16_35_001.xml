@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:58:12.178-04:00</Created>
+        <LastChange>2023-05-16T17:59:22.797+02:00</LastChange>
+        <TranskribusMetadata docId="423587" pageId="16858817" pageNr="1" tsid="121937679" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TRDTYWQTNTBUOYGCLNVXCPYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBDTQQGCPCELMPVGSHNLDQYY" imageId="12610329"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_35_001.jpg" imageWidth="1381" imageHeight="2155">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330884253" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="88,92 88,2094 1320,2094 1320,92"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="579,186 705,155 910,175 961,150 1075,220 1137,174 1170,185 1172,88 1116,70 992,100 944,72 774,75 735,50 581,72"/>
+                <Baseline points="587,144 615,145 644,145 673,146 702,146 731,147 759,147 788,147 817,147 846,148 875,148 903,148 932,149 961,149 990,150 1019,150 1047,151 1076,152 1105,153 1134,154 1163,156"/>
+                <TextEquiv>
+                    <Unicode>Skye Sept 21./76.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="134,461 183,457 293,405 333,413 368,396 403,420 498,419 569,398 570,369 498,366 450,323 352,369 273,336 259,344 195,300 136,311"/>
+                <Baseline points="142,396 168,396 194,396 220,396 247,396 273,396 299,397 325,397 352,398 378,399 404,399 430,399 457,399 483,399 509,399 535,398 562,398"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="276,520 442,558 794,520 1248,549 1283,534 1285,438 1127,492 975,460 530,480 360,440 277,474"/>
+                <Baseline points="284,512 333,512 383,512 432,513 482,513 531,514 581,514 630,515 680,516 729,516 779,517 829,518 878,519 928,520 977,521 1027,522 1076,523 1126,525 1175,526 1225,527 1275,529"/>
+                <TextEquiv>
+                    <Unicode>I hope you do not think that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="94,618 1327,642 1328,580 1201,563 1023,601 768,555 699,592 96,554"/>
+                <Baseline points="102,605 162,605 223,605 284,606 345,606 406,607 467,608 528,609 589,610 650,611 711,613 771,614 832,616 893,618 954,620 1015,621 1076,623 1137,625 1198,627 1259,629 1320,630"/>
+                <TextEquiv>
+                    <Unicode>I am never more to appear at Kew:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="101,704 221,755 343,712 768,709 1147,754 1196,731 1197,663 553,644 430,690 376,653 241,673 172,642 101,672"/>
+                <Baseline points="109,698 163,700 217,701 271,702 325,704 379,705 433,706 487,707 541,708 595,709 649,710 703,710 757,711 811,711 865,711 919,711 973,711 1027,710 1081,710 1135,709 1189,708"/>
+                <TextEquiv>
+                    <Unicode>the fact is that the exceptionally</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="114,843 279,803 1307,820 1327,733 1187,713 909,783 487,742 291,777 184,735 114,773"/>
+                <Baseline points="122,796 181,797 241,797 301,797 361,798 421,798 481,798 540,798 600,798 660,798 720,798 780,798 840,798 900,798 959,798 1019,798 1079,798 1139,798 1199,797 1259,797 1319,797"/>
+                <TextEquiv>
+                    <Unicode>fine weather in this most fickle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="129,938 297,899 786,912 924,881 1235,927 1246,826 1154,872 1034,839 129,855"/>
+                <Baseline points="137,890 192,890 247,890 302,890 357,889 412,889 467,888 522,888 577,888 632,887 687,887 742,887 797,886 852,886 907,887 962,887 1017,887 1072,888 1127,889 1182,891 1238,892"/>
+                <TextEquiv>
+                    <Unicode>of climates has tempted me to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="95,989 738,983 848,1029 928,986 1169,980 1319,1019 1318,928 1247,917 1061,945 1007,914 864,960 445,920 95,944"/>
+                <Baseline points="102,977 162,976 222,976 283,976 343,976 404,976 464,977 525,977 585,977 646,977 706,977 766,977 827,976 887,976 948,976 1008,975 1069,975 1129,974 1190,972 1250,971 1311,970"/>
+                <TextEquiv>
+                    <Unicode>make all the use I can of the opportunity</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="80,1102 348,1080 418,1115 499,1069 604,1118 706,1064 837,1064 1014,1108 1087,1067 1302,1076 1302,1027 408,1043 164,1004 80,1035"/>
+                <Baseline points="88,1067 148,1067 208,1067 269,1066 329,1066 389,1065 450,1065 510,1064 570,1064 631,1063 691,1063 751,1062 812,1062 872,1062 932,1062 993,1063 1053,1064 1113,1065 1174,1066 1234,1068 1295,1070"/>
+                <TextEquiv>
+                    <Unicode>it affords of seeing a country which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="90,1173 806,1144 1239,1182 1280,1168 1279,1083 961,1129 845,1090 90,1144"/>
+                <Baseline points="97,1159 155,1159 214,1158 273,1158 332,1157 390,1156 449,1155 508,1155 567,1154 625,1153 684,1152 743,1152 802,1151 860,1151 919,1150 978,1150 1037,1150 1095,1151 1154,1151 1213,1152 1272,1153"/>
+                <TextEquiv>
+                    <Unicode>is not much worth two visits (if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="88,1258 207,1290 839,1230 1039,1281 1111,1236 1303,1271 1302,1184 1206,1160 88,1214"/>
+                <Baseline points="96,1239 159,1242 222,1243 285,1244 348,1244 411,1243 474,1242 537,1241 600,1239 663,1238 727,1236 790,1235 853,1234 916,1234 979,1234 1042,1236 1105,1238 1168,1240 1231,1244 1295,1250"/>
+                <TextEquiv>
+                    <Unicode>one!).  Much as I had heard of 'Skye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="81,1334 1214,1340 1202,1267 1151,1301 777,1256 639,1307 590,1273 237,1309 171,1264 81,1285"/>
+                <Baseline points="89,1325 144,1326 200,1327 256,1327 312,1327 368,1327 424,1327 479,1327 535,1326 591,1326 647,1325 703,1325 759,1324 815,1323 870,1323 926,1322 982,1321 1038,1321 1094,1320 1150,1320 1206,1320"/>
+                <TextEquiv>
+                    <Unicode>the inaccessible' I expected great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="82,1422 221,1461 406,1405 577,1444 958,1403 1146,1426 1261,1380 1115,1338 869,1382 763,1338 707,1371 504,1343 328,1393 212,1350 81,1388"/>
+                <Baseline points="90,1417 148,1416 206,1415 264,1414 322,1413 380,1411 438,1410 497,1408 555,1406 613,1405 671,1403 729,1402 787,1401 845,1400 904,1399 962,1399 1020,1398 1078,1398 1136,1399 1194,1400 1253,1401"/>
+                <TextEquiv>
+                    <Unicode>things &amp; though perhaps I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="89,1516 561,1498 767,1531 907,1496 1026,1545 1112,1505 1241,1532 1241,1476 1093,1435 913,1475 630,1449 590,1481 490,1426 283,1472 89,1452"/>
+                <Baseline points="97,1497 153,1498 210,1498 267,1498 324,1498 381,1498 438,1498 494,1497 551,1497 608,1497 665,1496 722,1496 779,1496 836,1496 892,1496 949,1496 1006,1496 1063,1497 1120,1498 1177,1499 1234,1500"/>
+                <TextEquiv>
+                    <Unicode>no right to be disappointed (seeing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="86,1597 640,1611 736,1579 858,1627 953,1590 1261,1605 1274,1544 86,1548"/>
+                <Baseline points="93,1585 151,1586 210,1586 269,1586 327,1585 386,1585 445,1585 503,1584 562,1583 621,1583 680,1582 738,1582 797,1581 856,1581 914,1581 973,1581 1032,1581 1090,1582 1149,1582 1208,1583 1267,1585"/>
+                <TextEquiv>
+                    <Unicode>how incredulous I am of descriptions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="127,1710 293,1681 436,1737 875,1669 1114,1720 1282,1670 1282,1606 799,1664 677,1618 127,1645"/>
+                <Baseline points="134,1672 191,1672 248,1673 305,1673 362,1674 419,1675 476,1676 533,1677 590,1678 647,1679 704,1679 761,1680 818,1681 875,1681 932,1681 989,1681 1046,1680 1103,1679 1160,1678 1217,1676 1274,1674"/>
+                <TextEquiv>
+                    <Unicode>of scenery) yet I am so. The island</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="122,1790 1212,1773 1173,1705 955,1735 864,1694 588,1749 500,1713 122,1740"/>
+                <Baseline points="130,1775 183,1773 237,1771 291,1770 344,1768 398,1767 452,1766 505,1766 559,1765 613,1765 667,1765 720,1765 774,1765 828,1766 881,1766 935,1767 989,1767 1042,1768 1096,1769 1150,1769 1204,1770"/>
+                <TextEquiv>
+                    <Unicode>is a huge bog with the exception</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="391,1818 428,1819 440,1812 476,1827 505,1814 539,1826 540,1772 491,1785 481,1777 456,1782 432,1763 420,1774 392,1777"/>
+                <Baseline points="399,1807 425,1805 452,1806 478,1807 505,1809 532,1808"/>
+                <TextEquiv>
+                    <Unicode>main</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="102,1920 200,1865 308,1902 431,1862 1210,1877 1269,1867 1270,1810 1206,1838 934,1793 768,1843 646,1812 546,1840 201,1791 102,1833"/>
+                <Baseline points="110,1859 167,1860 225,1860 282,1861 340,1861 398,1861 455,1861 513,1860 570,1860 628,1860 686,1860 743,1860 801,1859 858,1859 916,1859 974,1860 1031,1860 1089,1861 1146,1861 1204,1862 1262,1864"/>
+                <TextEquiv>
+                    <Unicode>of its few points of interest which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="103,1982 267,1970 363,2022 488,1961 1275,1971 1196,1906 1149,1932 975,1886 844,1933 686,1869 576,1920 104,1920"/>
+                <Baseline points="111,1956 168,1957 226,1957 284,1958 342,1957 400,1957 457,1957 515,1956 573,1956 631,1955 689,1955 746,1954 804,1954 862,1954 920,1954 978,1955 1035,1956 1093,1957 1151,1959 1209,1960 1267,1963"/>
+                <TextEquiv>
+                    <Unicode>consist of two specks on its surface</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="124,2051 722,2119 895,2067 1295,2098 1308,2018 1037,1992 951,2035 668,1997 341,2031 125,1999"/>
+                <Baseline points="132,2040 190,2045 248,2048 307,2051 365,2053 423,2055 482,2056 540,2057 598,2057 657,2058 715,2058 773,2058 832,2059 890,2059 948,2060 1007,2061 1065,2062 1123,2065 1182,2067 1240,2071 1299,2075"/>
+                <TextEquiv>
+                    <Unicode>characterised by very remarkable rock</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Skye Sept 21./76.&#13;
+My dear Dyer&#13;
+I hope you do not think that&#13;
+I am never more to appear at Kew:&#13;
+the fact is that the exceptionally&#13;
+fine weather in this most fickle&#13;
+of climates has tempted me to&#13;
+make all the use I can of the opportunity&#13;
+it affords of seeing a country which&#13;
+is not much worth two visits (if&#13;
+one!).  Much as I had heard of 'Skye&#13;
+the inaccessible' I expected great&#13;
+things &amp; though perhaps I have&#13;
+no right to be disappointed (seeing&#13;
+how incredulous I am of descriptions&#13;
+of scenery) yet I am so. The island&#13;
+is a huge bog with the exception&#13;
+main&#13;
+of its few points of interest which&#13;
+consist of two specks on its surface&#13;
+characterised by very remarkable rock</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

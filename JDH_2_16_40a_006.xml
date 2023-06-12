@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:36:49.474-04:00</Created>
+        <LastChange>2023-05-17T01:11:28.057+02:00</LastChange>
+        <TranskribusMetadata docId="437074" pageId="17691628" pageNr="5" tsid="121949203" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=WGARJCGIYMKGSAWYVHEKFUPG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CMPKNLOKWZYVMYWRKJGGCDWD" imageId="13355371"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_40a_006.jpg" imageWidth="1544" imageHeight="2439">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330865235" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="28,79 28,2397 1503,2397 1503,79"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="120,132 244,170 618,106 788,161 893,123 982,177 1129,118 1386,146 1385,57 1312,24 919,66 455,16 120,94"/>
+                <Baseline points="129,133 191,130 253,127 316,125 378,123 441,121 503,120 565,119 628,118 690,118 753,117 815,117 877,117 940,118 1002,118 1065,119 1127,119 1189,120 1252,120 1314,121 1377,121"/>
+                <TextEquiv>
+                    <Unicode>will be that he publish in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="59,261 219,289 263,247 323,234 433,292 536,231 658,280 659,193 577,133 500,119 387,211 183,181 120,125 59,152"/>
+                <Baseline points="68,225 97,225 126,225 155,226 184,226 213,226 242,226 271,227 300,227 329,227 359,227 388,228 417,228 446,228 475,228 504,228 533,228 562,227 591,227 620,226 650,225"/>
+                <TextEquiv>
+                    <Unicode>Linnean according</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="926,263 979,251 1002,269 1058,259 1086,271 1142,235 1352,254 1380,242 1380,162 1277,170 1228,153 1155,176 1085,129 964,197 927,196"/>
+                <Baseline points="935,248 960,247 986,245 1011,244 1037,243 1062,243 1088,243 1114,242 1139,243 1165,243 1190,243 1216,244 1242,245 1267,246 1293,247 1318,248 1344,249 1370,250"/>
+                <TextEquiv>
+                    <Unicode>to his own</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="115,344 259,350 340,310 396,358 508,364 506,282 474,267 426,292 334,261 299,269 269,248 216,290 188,292 149,270 114,276"/>
+                <Baseline points="124,326 150,324 177,323 203,322 230,321 257,321 283,320 310,320 337,320 363,319 390,319 417,319 443,318 470,317 497,316"/>
+                <TextEquiv>
+                    <Unicode>sweet will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="926,330 969,339 1033,310 1097,337 1132,336 1162,318 1193,341 1226,333 1298,378 1303,254 1241,239 1185,260 1146,244 1085,272 1063,260 928,276"/>
+                <Baseline points="935,320 960,320 986,321 1011,321 1037,321 1062,321 1088,322 1113,323 1139,324 1164,324 1190,326 1215,328 1241,330 1266,332 1292,335"/>
+                <TextEquiv>
+                    <Unicode>as to his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="108,424 391,471 557,418 669,474 816,424 907,477 1024,413 1232,407 1493,461 1493,400 1360,328 704,390 108,345"/>
+                <Baseline points="116,404 184,409 252,413 321,415 389,416 458,416 526,415 594,413 663,412 731,410 800,408 868,407 936,405 1005,405 1073,405 1142,407 1210,410 1278,415 1347,421 1415,429 1484,439"/>
+                <TextEquiv>
+                    <Unicode>bothering you on the official correspondence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="109,521 482,552 636,520 803,574 928,504 1230,516 1230,411 1090,460 976,434 901,478 719,443 667,473 583,442 109,472"/>
+                <Baseline points="118,497 173,501 228,505 283,507 338,509 394,510 449,511 504,511 559,510 614,509 670,509 725,507 780,506 835,505 890,504 946,504 1001,503 1056,504 1111,504 1166,506 1222,508"/>
+                <TextEquiv>
+                    <Unicode>on the subject, it is intolerable.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="132,641 415,620 493,669 793,669 1081,609 1440,609 1417,546 1083,591 734,542 674,576 575,523 434,571 346,532 131,558"/>
+                <Baseline points="141,611 205,614 270,617 334,618 399,619 463,620 528,620 592,619 657,618 721,617 786,616 850,615 915,613 979,612 1044,610 1108,609 1173,608 1237,607 1302,607 1366,608 1431,609"/>
+                <TextEquiv>
+                    <Unicode>The Railway disturbances have not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="70,742 610,702 1010,750 1156,720 1280,765 1439,738 1440,682 1244,693 1125,644 801,688 70,662"/>
+                <Baseline points="79,703 146,704 214,706 281,707 349,707 416,708 484,709 551,709 619,710 686,710 754,711 822,711 889,712 957,712 1024,713 1092,714 1159,714 1227,715 1294,716 1362,718 1430,719"/>
+                <TextEquiv>
+                    <Unicode>affected us, &amp; indeed we have had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="64,808 219,841 283,800 809,796 1371,867 1373,780 1311,752 634,718 395,779 65,762"/>
+                <Baseline points="74,791 138,794 203,796 267,798 332,799 396,799 461,800 525,800 590,800 654,800 719,800 783,800 848,801 912,802 977,804 1041,807 1106,809 1170,813 1235,818 1299,824 1364,831"/>
+                <TextEquiv>
+                    <Unicode>no let or hindance hitherto of any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="77,905 1360,948 1382,851 1203,879 844,813 749,849 621,801 295,863 80,807"/>
+                <Baseline points="87,888 151,889 215,889 279,890 343,891 408,892 472,893 536,894 600,896 664,897 729,899 793,900 857,903 921,905 985,907 1050,911 1114,914 1178,917 1242,921 1306,926 1371,931"/>
+                <TextEquiv>
+                    <Unicode>Kind -- as to Indians I have not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="85,1031 287,992 339,1021 376,991 446,1018 500,1064 544,1030 545,909 476,919 434,906 340,960 255,978 118,931 86,947"/>
+                <Baseline points="95,987 120,989 146,991 172,992 198,993 224,994 250,995 276,995 302,996 327,996 353,996 379,996 405,996 431,995 457,995 483,994 509,992 535,991"/>
+                <TextEquiv>
+                    <Unicode>seen a score</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="736,1023 1294,1013 1402,1050 1446,1029 1494,1048 1496,1011 1426,963 1315,986 1237,943 1112,984 1009,917 934,958 810,912 739,934"/>
+                <Baseline points="745,1004 782,1004 819,1004 856,1005 893,1005 930,1005 967,1006 1004,1007 1041,1008 1078,1008 1116,1009 1153,1011 1190,1012 1227,1014 1264,1015 1301,1017 1338,1020 1375,1022 1412,1026 1449,1028 1487,1032"/>
+                <TextEquiv>
+                    <Unicode>them altogether; we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="522,1055 668,1043 787,1086 1034,1047 1237,1119 1388,1078 1445,1124 1511,1113 1498,1040 1464,1062 1157,1011 707,1017 636,966 525,983"/>
+                <Baseline points="532,1044 580,1045 629,1046 677,1047 726,1047 774,1048 823,1048 871,1049 920,1049 968,1050 1017,1051 1066,1053 1114,1055 1163,1057 1211,1059 1260,1063 1308,1067 1357,1071 1405,1077 1454,1083 1503,1091"/>
+                <TextEquiv>
+                    <Unicode>(that had gorged itself &amp; could scarce move);</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="72,1104 377,1147 801,1094 1249,1134 1352,1185 1488,1157 1489,1120 1051,1049 504,1070 383,993 243,1070 75,1028"/>
+                <Baseline points="82,1084 151,1086 221,1087 291,1089 361,1091 431,1092 501,1094 571,1095 641,1097 711,1099 781,1101 850,1103 920,1106 990,1109 1060,1112 1130,1116 1200,1121 1270,1126 1340,1132 1410,1138 1480,1145"/>
+                <TextEquiv>
+                    <Unicode>have killed but one rattlesnake seen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="18,1188 386,1236 686,1194 835,1250 1419,1219 1406,1161 1069,1158 1017,1115 809,1174 531,1111 369,1150 20,1131"/>
+                <Baseline points="28,1171 97,1176 166,1181 235,1185 304,1188 373,1190 442,1191 511,1193 580,1194 649,1194 719,1195 788,1195 857,1196 926,1197 995,1198 1064,1200 1133,1202 1202,1205 1271,1209 1340,1214 1410,1220"/>
+                <TextEquiv>
+                    <Unicode>seen one grizzly bear (in confinement at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="52,1287 207,1320 305,1292 373,1340 543,1290 712,1339 833,1283 1241,1293 1241,1221 1187,1205 1106,1261 904,1223 804,1261 636,1197 424,1249 52,1210"/>
+                <Baseline points="60,1269 118,1272 177,1275 235,1277 294,1278 353,1279 411,1280 470,1281 528,1281 587,1281 646,1281 704,1281 763,1280 821,1280 880,1280 939,1280 997,1280 1056,1280 1114,1281 1173,1282 1232,1283"/>
+                <TextEquiv>
+                    <Unicode>a Railway station) -- had no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="63,1376 581,1421 827,1354 1098,1403 1256,1362 1424,1385 1455,1294 63,1331"/>
+                <Baseline points="71,1360 139,1362 208,1364 277,1366 346,1368 415,1369 483,1370 552,1370 621,1371 690,1371 759,1371 827,1371 896,1370 965,1369 1034,1369 1103,1367 1171,1366 1240,1365 1309,1363 1378,1361 1447,1359"/>
+                <TextEquiv>
+                    <Unicode>earthguages here yet &amp; altogether had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="79,1492 535,1476 825,1528 945,1454 1044,1526 1125,1465 1355,1484 1356,1409 945,1366 817,1432 686,1393 605,1434 515,1388 79,1422"/>
+                <Baseline points="88,1456 150,1455 213,1453 276,1452 339,1451 402,1451 465,1451 528,1451 591,1452 654,1452 717,1453 779,1454 842,1455 905,1456 968,1457 1031,1457 1094,1458 1157,1458 1220,1459 1283,1458 1346,1458"/>
+                <TextEquiv>
+                    <Unicode>a hum-drum life of very hard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="96,1586 176,1569 321,1586 360,1568 440,1600 487,1581 568,1599 617,1590 617,1527 544,1506 426,1492 321,1528 273,1491 168,1513 96,1494"/>
+                <Baseline points="104,1557 129,1557 154,1559 179,1559 204,1560 230,1561 255,1561 280,1561 305,1561 330,1561 356,1561 381,1561 406,1561 431,1561 456,1561 482,1561 507,1561 532,1560 557,1560 582,1560 608,1560"/>
+                <TextEquiv>
+                    <Unicode>work indeed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="125,1682 612,1672 667,1704 1037,1657 1105,1696 1282,1644 1369,1695 1367,1620 1247,1561 1106,1615 998,1546 863,1546 788,1610 671,1629 122,1587"/>
+                <Baseline points="132,1655 193,1658 254,1661 316,1662 377,1662 438,1662 500,1661 561,1660 622,1658 684,1655 745,1653 806,1651 868,1648 929,1646 990,1644 1052,1641 1113,1640 1174,1639 1236,1639 1297,1639 1359,1641"/>
+                <TextEquiv>
+                    <Unicode>San Francisco is a horrid place</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="69,1772 398,1770 449,1808 513,1758 998,1786 1142,1742 1388,1786 1386,1701 1281,1645 1096,1713 68,1702"/>
+                <Baseline points="78,1748 143,1750 208,1751 273,1752 338,1752 403,1752 468,1752 533,1752 598,1752 663,1751 728,1750 793,1749 858,1747 923,1745 988,1743 1053,1741 1118,1738 1183,1736 1248,1733 1313,1730 1378,1727"/>
+                <TextEquiv>
+                    <Unicode>&amp; the country about it vile looking --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="106,1851 463,1840 581,1886 643,1842 1351,1863 1337,1781 821,1800 629,1764 449,1810 106,1770"/>
+                <Baseline points="115,1839 176,1838 237,1837 299,1836 360,1835 422,1835 483,1834 544,1834 606,1834 667,1835 729,1835 790,1836 851,1836 913,1837 974,1838 1036,1839 1097,1839 1158,1840 1220,1841 1281,1841 1343,1842"/>
+                <TextEquiv>
+                    <Unicode>bare red hills all around: still</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="54,1940 334,1998 584,1925 920,1975 1030,1926 1385,1946 1385,1894 1109,1851 1055,1902 894,1858 55,1873"/>
+                <Baseline points="64,1932 129,1929 195,1927 260,1925 326,1923 392,1922 457,1921 523,1920 589,1920 654,1920 720,1920 786,1920 851,1921 917,1922 983,1923 1048,1924 1114,1926 1180,1927 1245,1929 1311,1932 1377,1934"/>
+                <TextEquiv>
+                    <Unicode>the quantity of interesting herbaceous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="59,2055 1040,2032 1135,2081 1249,2027 1374,2050 1375,1956 1275,1989 1191,1941 1046,1987 813,1943 675,1988 533,1949 451,2008 282,1964 198,1990 145,1947 60,1976"/>
+                <Baseline points="68,2032 132,2031 197,2030 262,2029 327,2029 392,2028 457,2028 522,2028 587,2027 652,2027 717,2027 781,2027 846,2028 911,2028 976,2029 1041,2029 1106,2030 1171,2031 1236,2032 1301,2033 1366,2034"/>
+                <TextEquiv>
+                    <Unicode>plants one sees is astonishing, &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="86,2152 1421,2131 1421,2075 1326,2040 1136,2084 1000,2042 891,2101 756,2037 586,2064 467,2022 356,2100 87,2051"/>
+                <Baseline points="96,2121 161,2121 227,2122 293,2122 359,2122 425,2123 490,2123 556,2124 622,2124 688,2125 754,2126 819,2126 885,2127 951,2129 1017,2130 1083,2131 1148,2132 1214,2133 1280,2135 1346,2137 1412,2139"/>
+                <TextEquiv>
+                    <Unicode>in spring the whole country is said to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="74,2253 600,2208 826,2211 874,2255 1072,2202 1191,2276 1307,2219 1427,2227 1428,2155 1354,2195 1235,2151 1170,2194 1050,2130 945,2132 889,2184 723,2129 632,2188 74,2150"/>
+                <Baseline points="83,2206 149,2207 216,2208 283,2209 350,2209 417,2209 483,2209 550,2209 617,2209 684,2208 751,2208 817,2208 884,2208 951,2208 1018,2209 1085,2210 1151,2211 1218,2212 1285,2214 1352,2217 1419,2220"/>
+                <TextEquiv>
+                    <Unicode>be enamelled with flowers (which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="86,2320 784,2283 1375,2316 1473,2289 1474,2249 87,2255"/>
+                <Baseline points="96,2283 164,2284 232,2285 301,2286 369,2286 438,2287 506,2288 574,2289 643,2290 711,2291 780,2292 848,2292 916,2293 985,2294 1053,2294 1122,2295 1190,2296 1258,2296 1327,2296 1395,2296 1464,2296"/>
+                <TextEquiv>
+                    <Unicode>I can well believe) where nothing but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="104,2361 327,2401 683,2370 1284,2412 1336,2404 1337,2362 1215,2310 1132,2354 958,2311 851,2350 778,2304 622,2340 502,2294 398,2337 104,2329"/>
+                <Baseline points="113,2357 173,2359 234,2361 295,2362 356,2363 416,2364 477,2365 538,2366 599,2366 659,2367 720,2367 781,2368 842,2368 902,2369 963,2369 1024,2370 1085,2371 1145,2373 1206,2375 1267,2376 1328,2379"/>
+                <TextEquiv>
+                    <Unicode>red earth &amp; dust is now to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>will be that he publish in the
+Linnean according
+to his own
+sweet will
+as to his
+bothering you on the official correspondence
+on the subject, it is intolerable.
+The Railway disturbances have not
+affected us, &amp; indeed we have had
+no let or hindance hitherto of any
+Kind -- as to Indians I have not
+seen a score
+them altogether; we
+(that had gorged itself &amp; could scarce move);
+have killed but one rattlesnake seen
+seen one grizzly bear (in confinement at
+a Railway station) -- had no
+earthguages here yet &amp; altogether had
+a hum-drum life of very hard
+
+work indeed.
+San Francisco is a horrid place
+&amp; the country about it vile looking --
+bare red hills all around: still
+the quantity of interesting herbaceous
+plants one sees is astonishing, &amp;
+in spring the whole country is said to
+be enamelled with flowers (which
+I can well believe) where nothing but
+red earth &amp; dust is now to be</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

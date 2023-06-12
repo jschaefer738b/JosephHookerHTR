@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:04:45.907-04:00</Created>
+        <LastChange>2023-05-16T17:50:58.777+02:00</LastChange>
+        <TranskribusMetadata docId="423574" pageId="16857588" pageNr="5" tsid="121937020" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=AOKCLSXPSXCOXWOWIZVQMHFS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BMICFYZVLCTFOKXCMCOTHMLW" imageId="12609149"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_25_008.jpg" imageWidth="1392" imageHeight="2136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330898446" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="96,47 96,2107 1330,2107 1330,47"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="89,186 1321,158 1291,80 1135,120 600,101 514,141 351,75 234,127 87,106"/>
+                <Baseline points="96,179 156,177 217,175 278,172 339,170 400,168 461,165 521,162 582,160 643,157 704,154 765,152 826,150 887,149 947,147 1008,147 1069,146 1130,147 1191,147 1252,149 1313,151"/>
+                <TextEquiv>
+                    <Unicode>aa V. P. on several occasions so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="147,294 1020,251 1233,282 1231,229 1013,223 918,159 829,220 719,187 659,243 292,205 146,260"/>
+                <Baseline points="155,285 208,284 262,283 315,281 369,278 422,276 476,273 529,270 583,267 636,264 690,261 743,259 797,256 850,254 904,253 957,252 1011,252 1064,253 1118,254 1171,257 1225,260"/>
+                <TextEquiv>
+                    <Unicode>as to attend the Linnean:-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="157,415 566,360 1231,365 1238,303 1130,327 983,291 896,333 648,307 534,351 354,315 276,351 153,310"/>
+                <Baseline points="164,388 217,386 270,384 324,382 377,379 431,376 484,373 537,370 591,367 644,365 698,362 751,360 804,358 858,355 911,354 965,353 1018,352 1071,352 1125,353 1178,355 1232,357"/>
+                <TextEquiv>
+                    <Unicode>for obvious reasons I could</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="153,494 1193,441 1106,388 890,423 723,382 655,444 496,408 407,461 301,419 150,450"/>
+                <Baseline points="159,485 210,486 261,486 312,485 364,483 415,481 466,478 518,475 569,471 620,468 672,464 723,461 774,457 825,454 877,452 928,450 979,448 1031,448 1082,449 1133,451 1185,453"/>
+                <TextEquiv>
+                    <Unicode>not do this last winter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="239,603 403,562 524,573 607,630 723,557 927,603 993,563 1121,578 1201,547 1199,496 1130,465 1043,522 888,486 716,530 514,503 378,541 290,490 236,511"/>
+                <Baseline points="245,566 292,567 339,568 387,568 434,567 482,566 529,565 576,563 624,561 671,559 719,556 766,554 813,552 861,550 908,548 956,546 1003,544 1050,543 1098,542 1145,542 1193,542"/>
+                <TextEquiv>
+                    <Unicode>Your notion of rallying the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="100,670 208,664 268,706 407,666 872,712 933,650 1213,641 1175,571 864,616 738,584 611,630 553,590 217,625 99,600"/>
+                <Baseline points="107,656 161,658 216,659 271,660 326,660 381,660 436,660 491,660 546,659 601,658 656,657 710,656 765,655 820,654 875,653 930,652 985,650 1040,649 1095,648 1150,647 1205,646"/>
+                <TextEquiv>
+                    <Unicode>Biological side of Zoology to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="128,757 984,788 1308,757 1308,717 1063,693 436,731 128,679"/>
+                <Baseline points="136,747 194,750 252,752 310,753 368,754 427,754 485,754 543,753 601,752 659,752 718,751 776,750 834,749 892,749 950,749 1009,749 1067,750 1125,752 1183,754 1241,757 1300,761"/>
+                <TextEquiv>
+                    <Unicode>Linnean is advocated strongly in one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="963,825 1010,831 1052,854 1087,855 1111,840 1144,850 1179,841 1199,847 1247,825 1246,784 1219,785 1194,772 1170,794 1140,787 1123,796 1095,780 1049,813 962,799"/>
+                <Baseline points="970,836 997,838 1024,840 1051,840 1078,839 1105,838 1132,837 1159,835 1186,833 1213,832 1240,832"/>
+                <TextEquiv>
+                    <Unicode>Most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="156,885 208,848 307,842 360,862 583,833 869,850 869,791 837,778 581,821 443,774 371,806 271,769 226,802 156,790"/>
+                <Baseline points="164,835 198,836 233,837 268,838 303,838 338,838 373,838 408,838 443,838 478,838 513,838 547,838 582,837 617,837 652,837 687,837 722,837 757,837 792,837 827,838 862,839"/>
+                <TextEquiv>
+                    <Unicode>of Bentham's addresses.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="126,969 220,952 286,992 353,957 408,987 497,944 871,923 1025,975 1092,922 1216,945 1216,870 676,910 564,858 426,898 197,872 125,907"/>
+                <Baseline points="133,944 186,943 240,942 294,941 348,940 402,939 455,937 509,936 563,934 617,932 671,931 724,929 778,928 832,927 886,926 940,926 993,926 1047,926 1101,927 1155,928 1209,930"/>
+                <TextEquiv>
+                    <Unicode>unhappily this is trending to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:10;}">
+                <Coords points="647,886 673,887 699,887 725,887 752,885 778,882 804,880 830,877 857,875 883,873 909,871 935,870 962,870 991,873 1033,877 1034,862 992,858 963,855 935,855 908,856 882,858 856,860 829,862 803,865 777,867 751,870 724,872 699,872 673,872 648,871"/>
+                <Baseline points="647,886 673,887 699,887 725,887 752,885 778,882 804,880 830,877 857,875 883,873 909,871 935,870 962,870 991,873 1033,877"/>
+                <TextEquiv>
+                    <Unicode>"side" of Zoology</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="139,1046 786,1024 960,1074 1059,1019 1319,1051 1319,989 1143,945 1071,998 985,965 760,1005 635,964 486,997 228,947 138,974"/>
+                <Baseline points="147,1035 205,1035 263,1035 321,1034 379,1034 438,1033 496,1032 554,1030 612,1029 670,1028 729,1027 787,1026 845,1025 903,1024 961,1023 1020,1023 1078,1023 1136,1023 1194,1024 1252,1025 1311,1026"/>
+                <TextEquiv>
+                    <Unicode>the Royal &amp; I am sitting between</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="146,1158 283,1122 1140,1127 1198,1118 1197,1036 1085,1087 845,1062 787,1101 662,1035 511,1084 455,1056 275,1101 203,1058 145,1091"/>
+                <Baseline points="153,1130 204,1130 256,1130 308,1129 360,1128 412,1128 464,1127 516,1126 568,1125 620,1124 672,1123 723,1122 775,1121 827,1120 879,1119 931,1118 983,1117 1035,1116 1087,1115 1139,1115 1191,1114"/>
+                <TextEquiv>
+                    <Unicode>two stools. There should be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="145,1240 224,1221 340,1272 507,1209 731,1204 839,1242 947,1203 1142,1247 1256,1227 1256,1140 964,1168 840,1133 738,1189 589,1143 527,1172 144,1158"/>
+                <Baseline points="152,1214 206,1216 261,1217 316,1218 371,1218 426,1218 480,1218 535,1217 590,1216 645,1215 700,1214 754,1212 809,1211 864,1211 919,1210 974,1210 1028,1210 1083,1211 1138,1213 1193,1214 1248,1217"/>
+                <TextEquiv>
+                    <Unicode>plenty for both, but not for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="167,1337 507,1313 582,1347 654,1309 739,1347 828,1294 930,1295 1338,1357 1338,1305 1009,1226 813,1279 621,1236 167,1261"/>
+                <Baseline points="174,1325 231,1324 289,1321 347,1319 405,1316 463,1313 520,1311 578,1308 636,1305 694,1303 752,1302 809,1301 867,1301 925,1302 983,1304 1041,1307 1098,1312 1156,1319 1214,1326 1272,1336 1330,1347"/>
+                <TextEquiv>
+                    <Unicode>both &amp; the Zoology &amp; Microscopical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="164,1420 609,1413 1269,1471 1255,1352 1002,1401 847,1342 631,1366 509,1335 425,1389 348,1343 165,1349"/>
+                <Baseline points="172,1406 226,1407 281,1409 335,1410 390,1411 444,1411 499,1412 553,1412 608,1413 662,1413 717,1413 771,1414 826,1414 880,1415 935,1415 989,1416 1044,1417 1098,1418 1153,1420 1207,1421 1262,1423"/>
+                <TextEquiv>
+                    <Unicode>Societies too. What we really</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="147,1521 733,1521 812,1568 925,1516 1107,1539 1108,1464 1026,1439 814,1480 756,1448 516,1449 467,1491 353,1454 311,1488 147,1469"/>
+                <Baseline points="154,1512 201,1515 248,1517 295,1518 343,1519 390,1519 437,1518 484,1518 532,1517 579,1516 626,1515 673,1514 721,1513 768,1513 815,1514 862,1515 910,1517 957,1520 1004,1524 1051,1529 1099,1536"/>
+                <TextEquiv>
+                    <Unicode>want is to embody the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="156,1620 366,1650 1019,1617 1311,1665 1312,1604 1134,1527 689,1606 501,1557 377,1594 242,1528 157,1546"/>
+                <Baseline points="164,1610 221,1616 278,1620 335,1622 392,1624 449,1625 506,1625 563,1624 620,1623 677,1623 734,1621 791,1620 848,1620 905,1619 962,1620 1019,1621 1076,1623 1133,1627 1190,1631 1247,1637 1304,1645"/>
+                <TextEquiv>
+                    <Unicode>Microscopical with the Linnean,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="160,1749 547,1717 661,1783 764,1711 892,1758 970,1718 1306,1746 1306,1671 1155,1647 1090,1686 989,1640 647,1668 383,1634 326,1680 160,1648"/>
+                <Baseline points="168,1721 224,1722 281,1721 337,1721 394,1720 450,1719 507,1717 563,1715 620,1714 676,1713 733,1712 790,1711 846,1710 903,1710 959,1711 1016,1712 1072,1714 1129,1716 1185,1720 1242,1724 1299,1730"/>
+                <TextEquiv>
+                    <Unicode>but the tendency to differentiation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="1202,1783 1217,1786 1233,1779 1241,1787 1287,1793 1311,1807 1332,1809 1343,1747 1303,1751 1297,1744 1265,1740 1252,1728 1239,1728 1220,1740 1210,1738"/>
+                <Baseline points="1211,1772 1240,1776 1269,1781 1298,1786 1327,1792"/>
+                <TextEquiv>
+                    <Unicode>think?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="97,1813 425,1813 506,1873 709,1805 887,1861 991,1814 1309,1838 1309,1806 1051,1785 984,1736 827,1788 363,1741 250,1741 174,1792 98,1769"/>
+                <Baseline points="105,1814 164,1815 224,1815 284,1815 344,1814 404,1814 464,1813 523,1812 583,1811 643,1810 703,1810 763,1810 823,1810 883,1811 942,1812 1002,1814 1062,1817 1122,1820 1182,1825 1242,1830 1302,1837"/>
+                <TextEquiv>
+                    <Unicode>is too strong for us I fear what do you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="184,1921 397,1967 505,1902 1032,1905 1215,1969 1280,1928 1280,1842 1218,1873 1165,1835 1102,1874 988,1833 820,1883 584,1844 446,1883 262,1822 184,1868"/>
+                <Baseline points="191,1909 245,1909 299,1909 353,1908 407,1907 461,1906 515,1905 569,1905 623,1904 677,1903 731,1902 785,1902 839,1902 893,1902 947,1902 1001,1903 1055,1905 1109,1907 1163,1909 1217,1912 1272,1916"/>
+                <TextEquiv>
+                    <Unicode>Lastly if it was a matter affecting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="88,1996 1058,1992 1301,2036 1302,1964 1263,1957 1207,1987 567,1923 477,1970 366,1941 276,1973 158,1916 89,1939"/>
+                <Baseline points="96,1989 155,1990 215,1990 275,1991 335,1991 395,1991 455,1991 515,1991 575,1991 635,1991 695,1992 754,1992 814,1993 874,1995 934,1996 994,1999 1054,2001 1114,2004 1174,2009 1234,2014 1294,2018"/>
+                <TextEquiv>
+                    <Unicode>Currey alone I would not wonder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="97,2077 245,2107 481,2077 539,2113 1009,2075 1315,2118 1316,2030 986,2006 98,2044"/>
+                <Baseline points="105,2075 165,2075 225,2075 285,2075 345,2074 405,2074 465,2073 526,2073 586,2073 646,2073 706,2073 766,2073 826,2073 886,2074 947,2075 1007,2076 1067,2078 1127,2080 1187,2082 1247,2085 1308,2089"/>
+                <TextEquiv>
+                    <Unicode>at your being disposed to leave the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+aa V. P. on several occasions so
+as to attend the Linnean:-
+for obvious reasons I could
+not do this last winter.
+Your notion of rallying the
+Biological side of Zoology to the
+Linnean is advocated strongly in one
+Most
+of Bentham's addresses.
+y
+"side" of Zoolo
+unhappily this is trending to
+the Royal &amp; I am sitting between
+two stools. There should be
+plenty for both, but not for
+both &amp; the Zoology &amp; Microscopical
+Societies too. What we really
+want is to embody the
+Microscopical with the Linnean,
+but the tendency to differentiation
+think?
+is too strong for us I fear what do you
+Lastly if it was a matter affecting
+Currey alone I would not wonder
+at your being disposed to leave the</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:51:36.923-04:00</Created>
+        <LastChange>2020-08-28T04:04:37.513+02:00</LastChange>
+        <TranskribusMetadata docId="437084" pageId="17691675" pageNr="1" tsid="38502603" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=BMVUORMVLTOTERFWGVEZJCJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QVBGRQKPKLVSZJDYTTFAUVOW" imageId="13355418"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_49_002.jpg" imageWidth="1353" imageHeight="2219">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330846096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="41,161 41,2121 1297,2121 1297,161"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="133,249 1234,222 1232,165 1144,147 804,182 721,156 628,196 479,167 429,209 354,172 275,213 131,180"/>
+                <Baseline points="140,241 194,240 248,239 302,238 357,236 411,235 465,234 519,232 574,230 628,229 682,227 736,224 791,222 845,220 899,218 953,216 1008,213 1062,211 1116,208 1170,206 1225,204"/>
+                <TextEquiv>
+                    <Unicode>was to keep him as curator</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="154,403 302,359 660,369 711,339 894,380 1228,328 1248,259 769,326 149,302"/>
+                <Baseline points="160,370 214,365 268,362 322,358 376,356 430,353 484,352 539,350 593,349 647,348 701,347 755,345 809,343 863,341 918,338 972,335 1026,331 1080,327 1134,321 1188,314 1243,306"/>
+                <TextEquiv>
+                    <Unicode>&amp; put some one in as assistant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="148,488 847,451 991,490 1250,439 1248,373 1182,357 1003,421 923,386 630,432 414,392 147,434"/>
+                <Baseline points="156,472 210,469 264,468 318,466 373,464 427,462 481,461 536,460 590,458 644,457 699,455 753,454 807,453 861,451 916,449 970,448 1024,446 1079,443 1133,441 1187,438 1242,435"/>
+                <TextEquiv>
+                    <Unicode>that it appeared to me, to Mr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="115,619 266,570 773,566 832,597 916,546 1237,538 1234,479 1199,472 1015,513 910,471 793,511 694,484 317,530 110,510"/>
+                <Baseline points="121,569 176,569 231,568 287,567 342,566 397,564 453,563 508,560 563,559 619,556 674,554 729,551 785,548 840,546 895,544 951,541 1006,539 1061,536 1117,534 1172,532 1228,530"/>
+                <TextEquiv>
+                    <Unicode>Curndale &amp; to others (I did not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="125,701 727,655 823,696 1196,688 1238,674 1236,594 1099,605 1048,568 965,615 613,639 236,578 123,622"/>
+                <Baseline points="131,665 188,666 246,667 304,667 362,666 420,666 478,665 535,664 593,663 651,661 709,660 767,658 825,655 882,653 940,650 998,648 1056,644 1114,641 1172,638 1230,634"/>
+                <TextEquiv>
+                    <Unicode>mention your name) as the only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="149,810 541,771 723,786 789,829 974,791 1254,827 1251,724 1031,686 918,688 870,731 146,686"/>
+                <Baseline points="156,774 210,773 264,772 319,771 373,770 428,769 482,768 536,767 591,766 645,765 700,763 754,762 808,761 863,760 917,759 972,758 1026,757 1080,755 1135,754 1189,753 1244,751"/>
+                <TextEquiv>
+                    <Unicode>possible prospect of prolonging</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="123,936 904,868 1233,924 1251,827 971,792 881,843 600,810 535,869 340,829 278,871 180,835 120,866"/>
+                <Baseline points="129,893 184,895 240,896 296,896 352,895 408,894 463,892 519,889 575,886 631,883 687,880 742,877 798,874 854,871 910,869 966,867 1021,865 1077,865 1133,865 1189,866 1245,868"/>
+                <TextEquiv>
+                    <Unicode>his life -- that we thought of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="150,1026 409,1049 481,1011 640,1030 977,981 1079,1013 1197,988 1194,915 944,959 849,909 694,973 565,926 486,980 327,993 146,934"/>
+                <Baseline points="157,1018 208,1018 260,1017 311,1016 363,1014 415,1012 466,1009 518,1006 569,1003 621,1000 673,996 724,993 776,989 827,987 879,984 931,981 982,979 1034,978 1085,977 1137,978 1189,978"/>
+                <TextEquiv>
+                    <Unicode>Taylors or Bakers house for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="128,1149 1104,1086 1274,1125 1271,1045 1233,1029 815,1085 676,1037 471,1045 408,1088 126,1085"/>
+                <Baseline points="136,1133 192,1132 248,1130 305,1127 361,1125 418,1122 474,1119 531,1117 587,1113 644,1111 700,1108 756,1105 813,1102 869,1100 926,1097 982,1095 1039,1093 1095,1092 1152,1091 1208,1090 1265,1089"/>
+                <TextEquiv>
+                    <Unicode>him &amp; that there was no idea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="953,1172 965,1173 971,1167 989,1176 997,1171 1014,1170 1022,1176 1031,1173 1039,1183 1053,1184 1058,1115 1042,1119 1032,1112 1024,1117 1009,1107 1002,1108 993,1098 988,1102 981,1099 964,1112 957,1111"/>
+                <Baseline points="961,1160 989,1162 1018,1164 1047,1166"/>
+                <TextEquiv>
+                    <Unicode>him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="130,1246 301,1255 373,1300 445,1244 576,1229 745,1282 919,1226 1226,1242 1222,1127 988,1198 899,1134 812,1196 756,1168 129,1193"/>
+                <Baseline points="138,1240 194,1239 251,1238 308,1237 365,1235 421,1233 478,1231 535,1229 592,1226 649,1224 705,1221 762,1219 819,1217 876,1215 933,1213 989,1212 1046,1211 1103,1211 1160,1212 1217,1213"/>
+                <TextEquiv>
+                    <Unicode>at all of removing him from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="119,1362 260,1414 413,1348 651,1386 744,1323 1072,1356 1284,1329 1281,1232 1041,1297 860,1254 777,1301 664,1260 334,1317 268,1267 117,1291"/>
+                <Baseline points="127,1347 184,1348 242,1348 299,1348 357,1347 414,1346 472,1345 529,1343 587,1340 644,1338 702,1336 759,1333 817,1330 874,1328 932,1326 989,1323 1047,1322 1104,1320 1162,1319 1219,1319 1277,1319"/>
+                <TextEquiv>
+                    <Unicode>the curatorship. In that I &amp; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="129,1496 350,1452 1306,1434 1233,1377 1099,1402 1037,1360 967,1401 802,1362 752,1402 584,1390 527,1433 125,1381"/>
+                <Baseline points="135,1463 193,1462 251,1461 309,1460 367,1458 425,1456 483,1454 541,1451 599,1449 657,1446 716,1443 774,1441 832,1438 890,1436 948,1434 1006,1431 1064,1429 1122,1428 1180,1426 1238,1425 1297,1424"/>
+                <TextEquiv>
+                    <Unicode>Board considered that his value</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="303,1522 334,1518 344,1525 349,1518 370,1534 395,1518 403,1522 414,1515 429,1516 425,1459 410,1465 391,1455 385,1461 362,1459 346,1473 339,1468 299,1470"/>
+                <Baseline points="311,1512 338,1510 366,1508 393,1506 421,1504"/>
+                <TextEquiv>
+                    <Unicode>ship</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="34,1600 252,1569 357,1610 696,1554 829,1585 991,1529 1068,1569 1274,1513 1251,1454 332,1539 29,1494"/>
+                <Baseline points="41,1566 102,1567 163,1568 224,1567 286,1567 347,1565 408,1563 470,1560 531,1557 592,1554 654,1550 715,1546 776,1542 837,1538 899,1534 960,1530 1021,1526 1083,1523 1144,1519 1205,1516 1267,1513"/>
+                <TextEquiv>
+                    <Unicode>for head -ship alone, would justify</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="145,1677 541,1703 618,1663 1038,1630 1304,1698 1300,1588 1205,1569 1025,1615 902,1573 833,1620 143,1631"/>
+                <Baseline points="152,1668 209,1668 266,1668 323,1666 380,1665 437,1663 494,1660 551,1657 608,1654 665,1652 723,1648 780,1646 837,1644 894,1641 951,1640 1008,1638 1065,1638 1122,1638 1179,1639 1236,1641 1294,1644"/>
+                <TextEquiv>
+                    <Unicode>us in keeping him on, even supposing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="116,1803 1291,1775 1289,1712 1199,1673 1142,1712 1037,1684 943,1741 762,1694 115,1741"/>
+                <Baseline points="124,1785 181,1783 239,1781 297,1779 355,1777 413,1775 471,1774 529,1772 587,1770 645,1768 703,1767 760,1765 818,1764 876,1762 934,1761 992,1760 1050,1758 1108,1758 1166,1757 1224,1756 1282,1756"/>
+                <TextEquiv>
+                    <Unicode>he could not walk. He then</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="134,1917 321,1893 469,1927 542,1889 729,1944 842,1881 1253,1868 1251,1807 1119,1804 790,1842 547,1813 430,1865 132,1846"/>
+                <Baseline points="141,1892 196,1892 251,1892 306,1891 361,1890 417,1889 472,1887 527,1886 582,1884 637,1882 693,1880 748,1878 803,1875 858,1873 913,1871 969,1868 1024,1866 1079,1863 1134,1861 1189,1859 1245,1857"/>
+                <TextEquiv>
+                    <Unicode>opened out on Curndale more</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="129,2005 330,2002 402,2036 594,1984 690,2010 966,1970 1191,1987 1188,1909 1154,1899 857,1952 542,1908 318,1964 127,1925"/>
+                <Baseline points="136,1994 188,1993 240,1991 293,1990 345,1989 397,1987 450,1985 502,1983 554,1982 607,1980 659,1979 711,1977 764,1975 816,1973 868,1972 921,1970 973,1969 1025,1967 1078,1966 1130,1964 1183,1963"/>
+                <TextEquiv>
+                    <Unicode>violently than ever, who he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="136,2118 1199,2095 1197,2035 1060,2010 980,2054 648,2033 592,2067 476,2033 275,2075 133,2018"/>
+                <Baseline points="144,2100 196,2098 248,2096 301,2094 353,2093 405,2091 458,2090 510,2089 562,2087 615,2086 667,2085 719,2083 772,2081 824,2080 876,2078 929,2076 981,2074 1033,2072 1086,2069 1138,2067 1191,2063"/>
+                <TextEquiv>
+                    <Unicode>blamed for deceiving us &amp; so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>was to keep him as curator&#13;
+&amp; put some one in as assistant&#13;
+that it appeared to me, to Mr&#13;
+Curndale &amp; to others (I did not&#13;
+mention your name) as the only&#13;
+possible prospect of prolonging&#13;
+his life -- that we thought of&#13;
+Taylors or Bakers house for&#13;
+him &amp; that there was no idea&#13;
+him&#13;
+at all of removing him from&#13;
+the curatorship. In that I &amp; the&#13;
+Board considered that his value&#13;
+ship&#13;
+for head -ship alone, would justify&#13;
+us in keeping him on, even supposing&#13;
+he could not walk. He then&#13;
+opened out on Curndale more&#13;
+violently than ever, who he&#13;
+blamed for deceiving us &amp; so</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

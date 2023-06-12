@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:41:36.285-04:00</Created>
+        <LastChange>2020-08-26T02:37:01.791+02:00</LastChange>
+        <TranskribusMetadata docId="437076" pageId="17691635" pageNr="1" tsid="38267305" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=IHPADISXXSHEIRGVALCHOLFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BOMGXMDWFAVDBCEHMSSWPLDQ" imageId="13355378"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_42_002.jpg" imageWidth="1350" imageHeight="2214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330857319" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="131,421 131,2145 1321,2145 1321,421"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="124,487 1037,468 1147,495 1175,491 1175,394 997,451 890,408 368,447 124,410"/>
+                <Baseline points="131,468 182,471 234,473 286,475 338,476 390,477 441,478 493,478 545,479 597,479 649,479 700,478 752,478 804,477 856,477 908,476 959,476 1011,475 1063,475 1115,474 1167,474"/>
+                <TextEquiv>
+                    <Unicode>could not be moved -- he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="124,606 974,619 1137,595 1137,528 124,535"/>
+                <Baseline points="132,582 181,584 231,586 281,588 331,589 381,590 431,590 481,591 531,591 581,591 631,590 680,590 730,589 780,589 830,588 880,587 930,586 980,586 1030,585 1080,584 1130,584"/>
+                <TextEquiv>
+                    <Unicode>then had paroxysm after</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="154,734 254,703 355,748 414,699 546,760 649,723 807,745 898,703 1242,712 1242,639 1064,620 967,690 154,653"/>
+                <Baseline points="162,703 215,702 269,702 322,702 376,702 430,702 483,703 537,703 590,703 644,703 698,704 751,704 805,704 858,704 912,704 966,704 1019,704 1073,704 1126,703 1180,703 1234,702"/>
+                <TextEquiv>
+                    <Unicode>paroxysm of agony. I had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="143,826 1272,815 1271,749 1019,776 949,731 863,766 367,748 300,777 236,738 143,773"/>
+                <Baseline points="151,816 206,817 262,817 318,817 373,817 429,817 485,816 540,815 596,814 652,813 708,811 763,810 819,809 875,808 930,807 986,806 1042,806 1097,805 1153,805 1209,806 1265,807"/>
+                <TextEquiv>
+                    <Unicode>Paget, Walshe &amp; another</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="140,956 284,983 366,927 523,975 795,929 871,982 1025,925 1329,954 1329,888 1177,898 1068,836 874,893 714,848 654,893 559,859 141,883"/>
+                <Baseline points="148,928 206,928 265,927 323,927 382,926 441,926 499,925 558,925 617,925 675,925 734,925 793,925 851,925 910,925 969,926 1027,927 1086,928 1145,929 1203,931 1262,933 1321,935"/>
+                <TextEquiv>
+                    <Unicode>physician (I forget who) to examine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="157,1066 565,1034 811,1092 923,1012 1211,1060 1210,973 1156,962 1026,1010 843,967 723,1004 388,981 296,1017 221,956 157,978"/>
+                <Baseline points="165,1031 219,1032 274,1032 329,1033 383,1033 438,1032 493,1032 547,1031 602,1030 657,1029 711,1028 766,1027 821,1026 875,1026 930,1025 985,1025 1039,1025 1094,1026 1149,1027 1204,1028"/>
+                <TextEquiv>
+                    <Unicode>him most carefully &amp; they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="131,1170 303,1134 493,1172 743,1134 1192,1164 1231,1157 1232,1088 1160,1075 1080,1122 966,1080 756,1118 131,1090"/>
+                <Baseline points="138,1132 192,1133 246,1135 300,1136 355,1137 409,1137 463,1138 518,1138 572,1138 626,1137 681,1137 735,1137 789,1137 843,1137 898,1137 952,1137 1006,1138 1061,1138 1115,1140 1169,1141 1224,1143"/>
+                <TextEquiv>
+                    <Unicode>were unanimous about his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="139,1252 349,1234 495,1295 658,1263 739,1301 955,1245 1018,1275 1248,1260 1263,1176 1170,1221 838,1177 546,1218 140,1181"/>
+                <Baseline points="146,1230 201,1233 256,1235 312,1236 367,1238 423,1239 478,1239 533,1240 589,1240 644,1240 700,1241 755,1241 810,1241 866,1241 921,1241 977,1242 1032,1243 1087,1243 1143,1245 1198,1247 1254,1248"/>
+                <TextEquiv>
+                    <Unicode>heart being greatly enlarged, &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="134,1352 756,1372 876,1324 1126,1364 1125,1293 967,1272 722,1306 133,1280"/>
+                <Baseline points="141,1336 189,1335 238,1334 287,1334 336,1334 385,1333 434,1333 483,1333 532,1333 581,1333 630,1333 678,1333 727,1333 776,1332 825,1332 874,1331 923,1329 972,1328 1021,1326 1070,1324 1119,1321"/>
+                <TextEquiv>
+                    <Unicode>they said it would surely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="135,1437 312,1434 435,1480 800,1424 1199,1439 1230,1401 1090,1370 1031,1407 895,1405 801,1364 632,1401 446,1361 258,1404 192,1356 135,1365"/>
+                <Baseline points="142,1426 196,1427 250,1427 304,1427 358,1427 412,1427 466,1427 520,1427 574,1427 628,1427 682,1427 736,1427 790,1427 844,1427 898,1427 952,1427 1006,1428 1060,1428 1114,1429 1168,1430 1222,1431"/>
+                <TextEquiv>
+                    <Unicode>eventually kill him. Since</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="138,1526 752,1527 1275,1607 1276,1494 969,1509 920,1467 825,1511 729,1458 519,1492 139,1458"/>
+                <Baseline points="146,1519 202,1519 258,1519 314,1520 370,1521 426,1521 482,1522 538,1523 594,1524 650,1525 707,1526 763,1527 819,1528 875,1529 931,1530 987,1531 1043,1532 1099,1532 1155,1533 1211,1533 1268,1533"/>
+                <TextEquiv>
+                    <Unicode>that time he has had many</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="149,1642 412,1614 726,1697 787,1642 1104,1654 1144,1636 1145,1580 804,1621 683,1566 611,1603 519,1573 411,1597 355,1559 150,1589"/>
+                <Baseline points="156,1623 205,1623 254,1624 303,1625 352,1626 401,1627 450,1629 499,1630 548,1632 597,1633 646,1635 695,1637 744,1638 793,1640 842,1641 891,1641 940,1642 989,1642 1038,1642 1087,1642 1136,1641"/>
+                <TextEquiv>
+                    <Unicode>attacks, usually of violent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="147,1741 655,1719 845,1777 989,1724 1109,1770 1214,1735 1214,1684 1141,1663 975,1690 769,1661 663,1698 551,1663 377,1687 147,1658"/>
+                <Baseline points="154,1721 206,1721 259,1720 311,1720 364,1720 417,1719 469,1719 522,1718 574,1718 627,1718 680,1718 732,1718 785,1718 837,1719 890,1719 943,1720 995,1722 1048,1723 1100,1725 1153,1727 1206,1730"/>
+                <TextEquiv>
+                    <Unicode>palpetation &amp; half syncope</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="142,1835 1241,1853 1274,1776 1039,1799 764,1753 646,1801 143,1742"/>
+                <Baseline points="150,1812 205,1813 261,1815 317,1816 373,1817 429,1818 484,1819 540,1820 596,1820 652,1821 708,1822 763,1822 819,1823 875,1824 931,1825 987,1825 1042,1827 1098,1828 1154,1830 1210,1831 1266,1833"/>
+                <TextEquiv>
+                    <Unicode>without pain at all (in most </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="157,1942 947,1917 1297,1977 1298,1897 1033,1897 881,1844 765,1881 651,1835 555,1870 360,1850 315,1886 159,1861"/>
+                <Baseline points="165,1908 221,1908 277,1908 333,1908 390,1909 446,1909 502,1910 558,1911 615,1913 671,1914 727,1915 783,1917 840,1918 896,1919 952,1921 1008,1922 1065,1923 1121,1924 1177,1924 1233,1925 1290,1925"/>
+                <TextEquiv>
+                    <Unicode>cases). His pulse too is, in my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="160,2036 448,2013 619,2087 714,2019 1318,2067 1319,1989 1001,1951 776,1993 594,1946 426,2000 161,1940"/>
+                <Baseline points="168,2019 225,2021 282,2023 339,2024 396,2024 453,2023 510,2023 568,2022 625,2020 682,2019 739,2018 796,2018 853,2017 910,2018 968,2019 1025,2021 1082,2024 1139,2027 1196,2032 1253,2039 1311,2047"/>
+                <TextEquiv>
+                    <Unicode>opinion, that of dilatation of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="637,2120 764,2164 838,2125 1292,2124 1292,2090 1173,2087 1138,2062 1079,2079 1021,2045 938,2092 770,2076 713,2041 637,2085"/>
+                <Baseline points="645,2106 677,2108 709,2109 741,2110 773,2111 805,2111 837,2111 869,2110 901,2110 933,2110 965,2109 997,2109 1029,2109 1061,2109 1093,2109 1125,2110 1157,2111 1189,2113 1221,2115 1253,2118 1285,2122"/>
+                <TextEquiv>
+                    <Unicode>Angina pectoris is,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="155,2135 198,2129 218,2139 253,2122 288,2129 314,2118 343,2133 367,2124 395,2139 484,2140 487,2055 374,2047 255,2061 207,2034 181,2055 158,2052"/>
+                <Baseline points="164,2110 190,2112 216,2114 242,2115 268,2116 294,2116 321,2117 347,2117 373,2118 399,2119 425,2119 451,2121 478,2123"/>
+                <TextEquiv>
+                    <Unicode>Ventricles.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>could not be moved -- he&#13;
+then had paroxysm after&#13;
+paroxysm of agony. I had&#13;
+Paget, Walshe &amp; another&#13;
+physician (I forget who) to examine&#13;
+him most carefully &amp; they&#13;
+were unanimous about his&#13;
+heart being greatly enlarged, &amp;&#13;
+they said it would surely&#13;
+eventually kill him. Since&#13;
+that time he has had many&#13;
+attacks, usually of violent&#13;
+palpetation &amp; half syncope&#13;
+without pain at all (in most &#13;
+cases). His pulse too is, in my&#13;
+opinion, that of dilatation of the&#13;
+Angina pectoris is,&#13;
+Ventricles.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:48:48.987-04:00</Created>
+        <LastChange>2020-08-28T03:18:07.906+02:00</LastChange>
+        <TranskribusMetadata docId="437082" pageId="17691670" pageNr="2" tsid="38502272" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=OBTUGQDDWPRWXEOQWQIXTOMO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WHHCAZOGLXPYEDZKYPYPPOFL" imageId="13355413"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_47_002.jpg" imageWidth="1368" imageHeight="2212">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330851749" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="56,196 56,2153 1295,2153 1295,196"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="867,267 938,285 1009,230 1062,258 1134,247 1202,268 1259,250 1260,167 1098,158 1059,193 996,179 946,192 918,178 868,200"/>
+                <Baseline points="875,242 900,241 925,241 950,241 975,241 1000,241 1025,242 1050,242 1076,242 1101,243 1126,243 1151,243 1176,243 1201,243 1226,243 1252,243"/>
+                <TextEquiv>
+                    <Unicode>&amp; of Sir W.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="83,285 226,284 274,259 334,295 432,253 507,259 548,285 601,276 595,160 508,182 450,143 410,144 335,206 181,181 79,214"/>
+                <Baseline points="90,274 115,273 140,272 165,270 190,269 215,268 240,266 265,265 290,263 315,261 341,260 366,259 391,257 416,256 441,255 466,253 491,252 516,250 541,248 566,247 592,246"/>
+                <TextEquiv>
+                    <Unicode>late Speaker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="809,373 867,358 893,372 917,360 949,371 979,362 1164,376 1164,329 1125,337 1048,303 984,328 905,301 809,329"/>
+                <Baseline points="816,357 842,357 868,357 894,356 920,356 946,356 972,356 999,356 1025,356 1051,357 1077,357 1103,358 1129,358 1156,359"/>
+                <TextEquiv>
+                    <Unicode>who was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="80,414 198,376 242,388 271,371 404,365 433,382 479,370 476,310 408,303 352,354 296,320 204,343 115,295 76,316"/>
+                <Baseline points="87,387 112,382 138,379 164,376 189,373 215,372 241,370 266,370 292,369 318,369 343,368 369,368 395,367 420,366 446,364 472,362"/>
+                <TextEquiv>
+                    <Unicode>Denison &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="117,494 620,454 1235,470 1233,395 1059,429 924,375 840,423 755,376 631,438 478,383 116,433"/>
+                <Baseline points="125,479 180,478 235,476 290,475 345,473 400,471 455,469 510,467 565,465 620,463 676,461 731,460 786,458 841,457 896,456 951,456 1006,455 1061,455 1116,455 1171,456 1227,457"/>
+                <TextEquiv>
+                    <Unicode>P. S. to both. -- Mrs Stewart or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1059,533 1081,520 1116,542 1156,519 1170,522 1189,516 1202,525 1212,516 1227,515 1227,488 1201,495 1171,487 1138,489 1097,463 1072,486 1058,487"/>
+                <Baseline points="1066,516 1091,515 1117,515 1142,515 1168,515 1193,514 1219,513"/>
+                <TextEquiv>
+                    <Unicode>knows</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="156,602 278,592 360,649 435,575 570,568 652,622 768,580 837,629 944,583 1217,588 1216,554 1011,481 921,535 847,491 718,542 364,509 294,543 221,502 156,530"/>
+                <Baseline points="163,583 215,581 267,579 319,577 372,576 424,575 476,574 529,573 581,573 633,572 686,572 738,572 790,573 842,573 895,573 947,574 999,574 1052,575 1104,575 1156,576 1209,576"/>
+                <TextEquiv>
+                    <Unicode>Stuart) who everybody knows,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="106,696 131,704 193,674 319,707 374,680 466,693 503,674 567,678 566,653 543,656 472,608 437,643 396,629 360,649 319,634 273,650 231,632 199,652 167,630 143,647 104,644"/>
+                <Baseline points="113,690 139,688 165,686 191,683 217,681 244,679 270,678 296,676 322,675 349,674 375,673 401,672 427,671 454,671 480,671 506,670 532,670 559,671"/>
+                <TextEquiv>
+                    <Unicode>&amp; sundries.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="243,815 325,833 529,773 872,757 1174,797 1170,695 1138,688 1047,720 750,689 615,754 504,702 239,691"/>
+                <Baseline points="249,788 294,786 340,784 386,783 432,781 478,779 523,777 569,775 615,774 661,772 707,770 752,768 798,767 844,765 890,764 936,763 981,762 1027,761 1073,760 1119,759 1165,759"/>
+                <TextEquiv>
+                    <Unicode>I forgot in time to ask</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="96,904 225,895 335,942 563,867 652,891 908,859 1131,905 1164,899 1161,792 963,839 683,783 585,828 394,814 331,867 268,829 94,862"/>
+                <Baseline points="103,891 155,892 208,892 260,892 313,891 366,890 418,888 471,886 524,884 576,881 629,879 682,876 734,873 787,871 840,869 892,867 945,865 998,865 1050,864 1103,864 1156,865"/>
+                <TextEquiv>
+                    <Unicode>Smith for the Dahlia roots</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="119,1023 1196,1010 1194,907 993,960 751,910 595,922 533,966 462,910 242,963 117,903"/>
+                <Baseline points="127,1001 180,1001 233,1000 286,1000 339,999 392,998 445,997 498,995 551,994 604,992 658,990 711,989 764,988 817,986 870,985 923,984 976,983 1029,982 1082,982 1135,981 1189,982"/>
+                <TextEquiv>
+                    <Unicode>(single) for Lady Ducie, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="166,1124 251,1149 386,1117 607,1137 695,1104 1124,1113 1131,1015 1070,1051 925,1038 887,1077 759,1038 657,1063 450,1037 325,1085 262,1040 165,1081"/>
+                <Baseline points="174,1122 221,1119 269,1115 316,1112 364,1110 412,1107 459,1106 507,1104 554,1103 602,1101 650,1100 697,1099 745,1098 792,1098 840,1097 888,1096 935,1096 983,1096 1030,1095 1078,1095 1126,1095"/>
+                <TextEquiv>
+                    <Unicode>it will do when I get</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="176,1246 270,1222 337,1229 360,1211 417,1227 430,1220 424,1128 325,1157 266,1161 253,1149 226,1147 171,1168"/>
+                <Baseline points="183,1229 209,1225 235,1223 262,1220 288,1219 315,1217 341,1216 368,1215 394,1214 421,1213"/>
+                <TextEquiv>
+                    <Unicode>back --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="188,1356 644,1300 979,1332 1053,1285 1150,1286 1148,1248 1043,1213 979,1262 885,1242 563,1289 270,1223 183,1261"/>
+                <Baseline points="195,1334 242,1331 289,1328 336,1324 384,1322 431,1318 478,1316 526,1314 573,1311 620,1308 668,1306 715,1303 762,1301 809,1298 857,1296 904,1293 951,1290 999,1287 1046,1283 1093,1281 1141,1277"/>
+                <TextEquiv>
+                    <Unicode>Please send me a few</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="138,1464 263,1423 1233,1397 1230,1344 1103,1341 1062,1304 977,1343 855,1323 798,1363 698,1318 325,1391 134,1388"/>
+                <Baseline points="144,1431 198,1428 252,1424 306,1421 360,1417 414,1414 468,1411 522,1407 576,1404 630,1401 684,1399 738,1396 792,1394 846,1392 900,1389 954,1387 1008,1385 1062,1383 1116,1380 1170,1379 1224,1377"/>
+                <TextEquiv>
+                    <Unicode>good colored Parrottia leaves</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="165,1543 824,1493 1199,1509 1216,1442 993,1419 886,1480 746,1421 654,1488 394,1447 240,1515 163,1507"/>
+                <Baseline points="172,1534 223,1531 275,1528 327,1524 379,1522 431,1518 483,1514 535,1512 587,1509 639,1506 691,1503 742,1501 794,1499 846,1497 898,1496 950,1495 1002,1495 1054,1495 1106,1495 1158,1497 1210,1499"/>
+                <TextEquiv>
+                    <Unicode>in a letter or box -- Ld D is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="872,1556 905,1545 917,1551 955,1542 1000,1543 1009,1552 1024,1555 1024,1507 1009,1511 992,1501 973,1501 944,1510 937,1503 926,1506 910,1491 899,1502 872,1502"/>
+                <Baseline points="879,1540 906,1541 934,1541 961,1540 989,1540 1017,1540"/>
+                <TextEquiv>
+                    <Unicode>&amp; trees</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="137,1642 446,1647 583,1604 756,1635 994,1584 1236,1608 1234,1576 1118,1542 816,1530 768,1567 638,1533 496,1587 135,1603"/>
+                <Baseline points="143,1629 197,1631 251,1631 305,1630 360,1628 414,1625 468,1621 522,1617 577,1612 631,1607 685,1602 739,1598 794,1594 848,1590 902,1588 956,1587 1011,1587 1065,1589 1119,1592 1173,1597 1228,1604"/>
+                <TextEquiv>
+                    <Unicode>mad about his garden as is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="123,1763 180,1765 207,1747 248,1763 338,1744 388,1760 407,1747 477,1761 528,1751 526,1698 376,1707 317,1671 286,1664 253,1685 201,1652 154,1691 120,1680"/>
+                <Baseline points="130,1744 156,1744 182,1745 208,1745 234,1744 260,1744 286,1743 312,1743 338,1741 364,1740 390,1739 416,1738 442,1737 468,1736 494,1736 520,1735"/>
+                <TextEquiv>
+                    <Unicode>Ld Somers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="498,1843 551,1827 587,1846 678,1833 747,1866 776,1846 821,1851 892,1890 960,1828 1009,1813 1002,1710 955,1708 873,1760 788,1737 730,1753 587,1701 543,1746 492,1754"/>
+                <Baseline points="505,1835 531,1836 557,1836 583,1835 609,1834 635,1833 661,1831 687,1830 713,1827 739,1826 766,1823 792,1821 818,1819 844,1816 870,1814 896,1813 922,1812 948,1811 974,1811 1001,1811"/>
+                <TextEquiv>
+                    <Unicode>Ever affy yours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="869,2014 910,2022 945,2000 1070,2028 1148,2027 1233,1998 1303,2004 1300,1951 1185,1899 1095,1905 985,1845 925,1899 864,1906"/>
+                <Baseline points="877,2012 903,2009 929,2006 955,2003 981,2000 1007,1998 1033,1996 1059,1994 1086,1993 1112,1992 1138,1992 1164,1991 1190,1991 1216,1991 1242,1992 1268,1992 1295,1993"/>
+                <TextEquiv>
+                    <Unicode>JD Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="48,2159 533,2159 595,2120 1218,2145 1268,2140 1269,2056 976,2022 903,2066 647,2083 464,2018 323,2090 226,2014 49,2024"/>
+                <Baseline points="56,2099 116,2106 176,2112 236,2116 296,2120 357,2122 417,2124 477,2124 537,2125 597,2124 658,2124 718,2123 778,2122 838,2121 898,2121 959,2121 1019,2121 1079,2122 1139,2124 1199,2127 1260,2131"/>
+                <TextEquiv>
+                    <Unicode>P.S. I saw Hodgson at the station</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&amp; of Sir W.&#13;
+late Speaker&#13;
+who was&#13;
+Denison &amp;&#13;
+P. S. to both. -- Mrs Stewart or&#13;
+knows&#13;
+Stuart) who everybody knows,&#13;
+&amp; sundries.&#13;
+I forgot in time to ask&#13;
+Smith for the Dahlia roots&#13;
+(single) for Lady Ducie, but&#13;
+it will do when I get&#13;
+back --&#13;
+Please send me a few&#13;
+good colored Parrottia leaves&#13;
+in a letter or box -- Ld D is&#13;
+&amp; trees&#13;
+mad about his garden as is&#13;
+Ld Somers.&#13;
+Ever affy yours&#13;
+JD Hooker&#13;
+P.S. I saw Hodgson at the station</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

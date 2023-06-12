@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:04:45.730-04:00</Created>
+        <LastChange>2023-05-16T17:43:44.832+02:00</LastChange>
+        <TranskribusMetadata docId="423574" pageId="16857584" pageNr="1" tsid="121936763" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=FJDHFBWBCZWXEJRMYJMQUEGH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHKNKDDNFAXIWXCKJMWUILDW" imageId="12609145"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_25_002.jpg" imageWidth="1384" imageHeight="2142">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330897444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="120,105 120,2092 1336,2092 1336,105"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="139,163 267,173 355,143 648,167 692,145 826,186 876,145 921,156 903,112 736,115 584,76 535,106 432,82 139,123"/>
+                <Baseline points="146,156 184,156 222,156 261,155 299,155 337,154 376,153 414,152 452,152 491,151 529,150 567,149 606,148 644,148 682,147 721,147 759,146 797,146 836,146 874,147 913,147"/>
+                <TextEquiv>
+                    <Unicode>much the other way.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="151,256 542,246 674,317 773,226 894,260 1290,245 1245,181 1116,176 662,219 554,182 324,211 224,173 151,219"/>
+                <Baseline points="159,249 215,250 271,250 327,249 383,248 439,247 495,245 552,244 608,242 664,241 720,239 776,237 832,236 888,235 945,234 1001,234 1057,234 1113,235 1169,236 1225,239 1282,242"/>
+                <TextEquiv>
+                    <Unicode>I shall certainly remonstrate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="136,369 1135,321 1307,357 1304,276 1074,268 1024,304 931,269 576,320 271,272 134,326"/>
+                <Baseline points="143,349 200,350 258,351 316,350 374,349 432,348 489,346 547,343 605,341 663,338 721,335 778,333 836,330 894,327 952,325 1010,323 1067,322 1125,321 1183,321 1241,321 1299,322"/>
+                <TextEquiv>
+                    <Unicode>with Allman about sending</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="148,484 886,423 1268,476 1318,450 1316,383 1015,396 914,346 838,384 748,357 639,397 580,364 502,404 390,375 275,422 200,385 147,412"/>
+                <Baseline points="155,453 212,453 270,452 328,450 386,448 443,445 501,443 559,440 617,437 674,435 732,432 790,430 848,428 905,427 963,427 1021,427 1079,428 1136,430 1194,433 1252,438 1310,443"/>
+                <TextEquiv>
+                    <Unicode>his paper to the Royal: what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="165,571 1265,559 1256,472 1198,518 1105,484 996,527 410,481 165,507"/>
+                <Baseline points="172,550 226,548 280,547 334,546 389,545 443,545 497,544 551,544 606,544 660,544 714,544 768,544 823,545 877,545 931,544 985,544 1040,544 1094,543 1148,542 1202,540 1257,538"/>
+                <TextEquiv>
+                    <Unicode>will be regarded as a snub</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="153,683 1307,652 1306,615 1166,569 986,592 894,560 740,617 541,611 454,569 151,579"/>
+                <Baseline points="159,653 216,653 273,652 330,652 387,651 444,650 501,649 558,649 615,647 672,646 729,645 786,644 843,643 900,642 957,641 1014,640 1071,639 1128,638 1185,637 1242,637 1299,636"/>
+                <TextEquiv>
+                    <Unicode>to the Linnean. Though I am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="146,762 1130,735 1281,768 1281,700 982,682 862,714 792,676 747,709 478,714 428,674 333,723 145,683"/>
+                <Baseline points="153,746 209,745 265,745 321,744 377,744 433,743 489,743 545,742 601,742 657,741 713,741 769,740 825,740 881,739 937,739 993,739 1049,739 1105,739 1161,740 1217,740 1274,741"/>
+                <TextEquiv>
+                    <Unicode>sure he does not intend it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="146,878 877,857 1068,910 1134,861 1301,863 1301,802 1133,834 1052,796 963,833 798,795 724,827 672,784 558,844 476,848 395,794 146,829"/>
+                <Baseline points="154,860 211,860 268,859 325,859 382,859 439,858 496,858 553,857 610,857 667,856 724,856 781,856 838,855 895,855 952,855 1009,855 1066,855 1123,856 1180,856 1237,857 1294,858"/>
+                <TextEquiv>
+                    <Unicode>as such. Bentham may not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="135,994 519,961 562,994 734,968 859,1015 966,967 1147,971 1217,1017 1265,993 1265,935 1118,942 1058,903 979,944 785,915 678,945 617,900 519,947 464,907 135,920"/>
+                <Baseline points="143,970 198,970 254,970 310,970 365,969 421,969 477,969 532,968 588,968 644,968 700,967 755,967 811,967 867,967 922,967 978,967 1034,967 1089,967 1145,967 1201,967 1257,968"/>
+                <TextEquiv>
+                    <Unicode>quite like the idea of turning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="142,1079 737,1088 772,1060 1123,1090 1141,1023 1030,1045 915,997 796,1048 671,1034 614,986 532,1031 208,995 142,1029"/>
+                <Baseline points="150,1066 199,1067 248,1067 297,1067 346,1067 396,1067 445,1067 494,1067 543,1067 592,1067 642,1067 691,1067 740,1067 789,1067 838,1067 888,1067 937,1068 986,1068 1035,1068 1084,1069 1134,1070"/>
+                <TextEquiv>
+                    <Unicode>the Council Room into a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="140,1182 271,1171 360,1216 521,1166 958,1160 1175,1202 1241,1162 1344,1177 1344,1096 1154,1142 1023,1093 935,1141 865,1104 660,1149 210,1095 140,1127"/>
+                <Baseline points="148,1156 207,1158 266,1160 326,1161 385,1162 445,1163 504,1163 563,1164 623,1164 682,1164 742,1163 801,1163 860,1162 920,1162 979,1161 1039,1161 1098,1160 1157,1160 1217,1160 1276,1160 1336,1159"/>
+                <TextEquiv>
+                    <Unicode>meeting room. but I am quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="135,1270 394,1296 1238,1264 1203,1209 1080,1241 976,1206 665,1239 396,1207 306,1242 135,1204"/>
+                <Baseline points="143,1262 197,1266 251,1268 306,1270 360,1270 414,1271 469,1270 523,1270 577,1268 632,1267 686,1266 740,1264 795,1263 849,1262 903,1261 958,1260 1012,1260 1066,1261 1121,1262 1175,1264 1230,1267"/>
+                <TextEquiv>
+                    <Unicode>sure he will not oppose it,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="116,1379 1289,1375 1144,1302 1053,1322 977,1286 787,1354 451,1294 356,1340 301,1299 204,1330 117,1303"/>
+                <Baseline points="123,1362 184,1363 245,1365 306,1366 367,1367 428,1368 489,1368 550,1368 611,1368 672,1368 733,1368 794,1368 855,1368 916,1368 977,1369 1038,1369 1099,1370 1160,1371 1221,1372 1282,1374"/>
+                <TextEquiv>
+                    <Unicode>or be "dis-pleased". Let Allman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:13;}">
+                <Coords points="393,1412 420,1412 447,1412 473,1410 500,1410 528,1412 555,1413 583,1416 585,1401 556,1398 529,1397 501,1395 472,1395 446,1397 420,1397 393,1397"/>
+                <Baseline points="393,1412 420,1412 447,1412 473,1410 500,1410 528,1412 555,1413 583,1416"/>
+                <TextEquiv>
+                    <Unicode>Matter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="113,1498 1251,1483 1282,1412 1165,1452 751,1395 680,1443 521,1414 444,1448 182,1387 112,1423"/>
+                <Baseline points="120,1471 177,1472 235,1472 293,1473 351,1473 408,1472 466,1471 524,1471 582,1470 639,1468 697,1467 755,1467 813,1466 870,1465 928,1465 986,1465 1044,1466 1101,1467 1159,1469 1217,1471 1275,1474"/>
+                <TextEquiv>
+                    <Unicode>put this from the chair in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="136,1590 1241,1586 1228,1507 1021,1537 934,1505 840,1558 678,1480 587,1536 137,1526"/>
+                <Baseline points="144,1572 198,1571 252,1571 307,1571 361,1571 416,1571 470,1572 525,1572 579,1573 634,1573 688,1574 742,1575 797,1575 851,1576 906,1576 960,1576 1015,1576 1069,1576 1124,1576 1178,1575 1233,1574"/>
+                <TextEquiv>
+                    <Unicode>Council; &amp; I hope that the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="146,1698 283,1688 358,1732 543,1679 585,1707 732,1669 855,1698 1209,1682 1158,1634 940,1624 903,1652 794,1610 146,1637"/>
+                <Baseline points="154,1675 206,1678 258,1681 311,1683 363,1684 416,1685 468,1685 520,1685 573,1684 625,1684 678,1683 730,1682 782,1681 835,1680 887,1679 940,1678 992,1677 1044,1677 1097,1677 1149,1677 1202,1677"/>
+                <TextEquiv>
+                    <Unicode>trial of it will be carried.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="325,1803 579,1823 675,1794 786,1821 1024,1797 1229,1828 1224,1729 1009,1778 944,1743 808,1778 754,1747 664,1778 613,1745 525,1780 400,1713 326,1739"/>
+                <Baseline points="332,1792 376,1794 421,1796 465,1798 510,1799 554,1800 599,1801 643,1801 688,1801 732,1801 777,1801 821,1801 866,1801 910,1801 955,1801 999,1801 1044,1802 1088,1802 1133,1803 1177,1805 1222,1806"/>
+                <TextEquiv>
+                    <Unicode>I am so vexed with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="139,1903 396,1937 563,1881 762,1926 839,1890 1289,1907 1290,1866 1030,1832 738,1860 627,1816 533,1868 463,1829 416,1861 139,1839"/>
+                <Baseline points="147,1890 203,1889 260,1889 317,1888 374,1888 430,1887 487,1887 544,1887 601,1887 657,1888 714,1888 771,1888 828,1889 884,1889 941,1890 998,1891 1055,1891 1111,1892 1168,1893 1225,1894 1282,1895"/>
+                <TextEquiv>
+                    <Unicode>myself for having disheartened</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="146,2010 610,1980 707,2024 974,1984 1183,2012 1183,1970 1066,1944 993,1971 920,1933 856,1958 782,1932 728,1968 509,1925 449,1957 354,1922 257,1959 146,1935"/>
+                <Baseline points="153,1988 204,1988 255,1988 306,1988 357,1988 408,1988 459,1988 511,1989 562,1989 613,1989 664,1990 715,1991 766,1991 817,1991 869,1992 920,1992 971,1992 1022,1993 1073,1993 1124,1992 1176,1992"/>
+                <TextEquiv>
+                    <Unicode>you the other night, &amp; am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="139,2073 336,2116 429,2068 1249,2097 1250,2020 1195,2007 1022,2057 140,2018"/>
+                <Baseline points="146,2056 200,2059 255,2061 310,2063 365,2065 420,2067 474,2068 529,2069 584,2070 639,2071 694,2072 748,2072 803,2073 858,2073 913,2074 968,2074 1022,2074 1077,2075 1132,2075 1187,2075 1242,2075"/>
+                <TextEquiv>
+                    <Unicode>myself much concerned that I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>much the other way.
+I shall certainly remonstrate
+with Allman about sending
+his paper to the Royal: what
+will be regarded as a snub
+to the Linnean. Though I am
+sure he does not intend it
+as such. Bentham may not
+quite like the idea of turning
+the Council Room into a
+meeting room. but I am quite
+sure he will not oppose it,
+or be "dis-pleased". Let Allman
+M
+atter
+put this from the chair in the
+Council; &amp; I hope that the
+trial of it will be carried.
+I am so vexed with
+myself for having disheartened
+you the other night, &amp; am
+myself much concerned that I</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

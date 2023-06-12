@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:43:01.948-04:00</Created>
+        <LastChange>2023-05-17T01:26:05.453+02:00</LastChange>
+        <TranskribusMetadata docId="437077" pageId="17691640" pageNr="2" tsid="121949573" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=IDIHNDLDUMBCEHFVXGLIOSAM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLQLRCLNVXMCXZGWNCZHQCTL" imageId="13355383"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_43_002.jpg" imageWidth="1420" imageHeight="2154">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330855939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="113,30 113,2055 1339,2055 1339,30"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="922,112 946,109 985,79 1006,77 1036,90 1053,75 1074,75 1085,64 1112,67 1110,17 1066,26 1060,20 919,14"/>
+                <Baseline points="928,68 953,69 978,68 1003,68 1029,67 1054,66 1079,65 1105,63"/>
+                <TextEquiv>
+                    <Unicode>by boat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="109,279 397,265 468,304 576,242 813,240 878,281 946,248 1044,280 1098,228 1220,236 1218,181 981,213 785,173 721,217 578,222 383,179 240,240 107,240"/>
+                <Baseline points="115,265 169,264 224,263 279,261 334,259 389,257 444,255 499,253 554,251 609,249 664,246 718,244 773,242 828,239 883,237 938,235 993,233 1048,231 1103,229 1158,227 1213,226"/>
+                <TextEquiv>
+                    <Unicode>day, Saturday, weather gloomy &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="123,160 172,162 222,162 271,162 321,162 370,161 420,159 469,157 519,155 568,152 618,149 668,147 717,145 767,142 816,140 866,138 915,137 965,136 1014,135 1064,135 1114,136 1123,130 1150,129 1178,131 1206,134 1234,137 1262,139 1290,139 1290,124 1263,124 1235,122 1208,119 1179,116 1150,114 1118,116 1110,122 1064,120 1014,120 965,121 915,122 866,123 815,125 766,127 716,130 667,132 617,134 567,137 518,140 468,142 419,144 370,146 321,147 271,147 222,147 172,147 124,145"/>
+                <Baseline points="123,160 172,162 222,162 271,162 321,162 370,161 420,159 469,157 519,155 568,152 618,149 668,147 717,145 767,142 816,140 866,138 915,137 965,136 1014,135 1064,135 1114,136 1123,130 1150,129 1178,131 1206,134 1234,137 1262,139 1290,139"/>
+                <TextEquiv>
+                    <Unicode>and so back to Muckross next</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="121,359 678,356 771,320 1164,356 1307,327 1306,260 835,255 687,314 408,326 199,253 118,290"/>
+                <Baseline points="127,340 185,342 244,344 303,344 361,344 420,343 479,341 537,340 596,337 655,335 714,332 772,329 831,327 890,324 948,322 1007,319 1066,318 1124,317 1183,316 1242,316 1301,317"/>
+                <TextEquiv>
+                    <Unicode>a little rain at night &amp; after</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="124,447 238,437 316,484 386,428 698,453 1167,413 1166,367 845,399 730,356 621,401 478,364 403,397 123,390"/>
+                <Baseline points="131,429 182,429 233,429 285,429 336,429 388,428 439,428 490,427 542,427 593,426 645,425 696,424 747,423 799,422 850,420 902,419 953,417 1004,415 1056,413 1107,411 1159,409"/>
+                <TextEquiv>
+                    <Unicode>debating between Glengariff &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="106,545 251,525 318,564 532,519 675,556 807,528 1047,551 1209,516 1209,478 1011,496 714,454 596,508 425,460 316,493 105,462"/>
+                <Baseline points="113,533 167,532 221,531 276,530 330,529 385,528 439,526 494,525 548,524 603,523 657,522 711,521 766,520 820,519 875,518 929,518 984,518 1038,518 1093,518 1147,518 1202,519"/>
+                <TextEquiv>
+                    <Unicode>Cork decided on the latter, arriving</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="137,742 1272,690 1270,624 1037,661 663,633 601,682 321,682 134,637"/>
+                <Baseline points="143,712 199,712 255,711 311,710 367,709 423,708 479,707 535,706 591,705 647,703 703,702 759,700 815,699 871,697 927,695 983,693 1039,691 1095,689 1151,687 1207,685 1264,682"/>
+                <TextEquiv>
+                    <Unicode>Queenstown in afternoon &amp; car to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_509" custom="readingOrder {index:7;}">
+                <Coords points="142,632 191,630 241,628 290,627 340,625 390,623 439,621 489,619 539,618 588,616 638,614 688,612 737,610 787,609 837,607 886,605 936,604 986,602 1035,600 1085,599 1135,597 1160,603 1195,595 1230,594 1230,579 1193,580 1160,588 1136,582 1085,584 1035,585 985,587 936,589 886,590 836,592 787,594 737,595 687,597 637,599 587,601 539,603 489,604 438,606 389,608 339,610 290,612 241,613 190,615 141,617"/>
+                <Baseline points="142,632 191,630 241,628 290,627 340,625 390,623 439,621 489,619 539,618 588,616 638,614 688,612 737,610 787,609 837,607 886,605 936,604 986,602 1035,600 1085,599 1135,597 1160,603 1195,595 1230,594"/>
+                <TextEquiv>
+                    <Unicode>about midday. Took tram to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="142,849 393,806 591,848 727,790 1033,769 1338,797 1296,706 1245,753 1077,752 991,705 918,754 711,725 503,771 194,733 139,767"/>
+                <Baseline points="148,803 207,803 266,802 325,801 384,800 443,798 502,795 561,792 620,789 679,786 739,783 798,781 857,778 916,775 975,773 1034,771 1093,770 1152,770 1211,770 1270,772 1330,774"/>
+                <TextEquiv>
+                    <Unicode>Gumbletons -- found him in his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="121,926 1163,879 1161,836 1015,811 594,866 402,835 288,874 117,831"/>
+                <Baseline points="127,903 178,901 229,899 281,896 332,894 384,892 435,889 486,887 538,885 589,883 641,881 692,879 743,877 795,875 846,873 898,871 949,870 1000,868 1052,866 1103,865 1155,863"/>
+                <TextEquiv>
+                    <Unicode>Garden; &amp; after an enthusiastic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="990,917 1014,911 1045,930 1070,922 1092,935 1143,905 1174,923 1214,913 1334,948 1346,946 1348,888 1260,897 1214,859 1096,887 1067,878 1044,890 1024,872 991,875"/>
+                <Baseline points="997,917 1023,916 1049,915 1075,915 1102,914 1128,914 1154,914 1181,914 1207,915 1233,916 1260,919 1286,922 1312,926 1339,932"/>
+                <TextEquiv>
+                    <Unicode>to see garden at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="168,1001 827,967 1004,998 1078,963 1124,994 1222,968 1221,913 1007,937 882,887 817,935 693,946 166,932"/>
+                <Baseline points="175,988 227,987 279,986 331,984 383,983 435,981 487,980 539,978 591,976 643,974 695,972 747,971 799,969 851,968 903,966 955,965 1007,964 1059,963 1111,962 1163,961 1215,961"/>
+                <TextEquiv>
+                    <Unicode> hours went with him next</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="136,1109 567,1053 657,1093 787,1049 1109,1106 1309,1041 1307,979 1056,1019 959,977 791,1020 674,984 133,1033"/>
+                <Baseline points="142,1082 200,1077 258,1072 316,1068 374,1064 432,1061 490,1058 548,1055 606,1053 664,1051 722,1049 780,1048 838,1047 896,1046 954,1045 1012,1045 1070,1045 1128,1044 1186,1044 1244,1044 1302,1044"/>
+                <TextEquiv>
+                    <Unicode>property, Mr Bagwell's (formerly M.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="149,1213 263,1157 637,1146 856,1196 1024,1140 1316,1126 1189,1082 1132,1119 918,1089 881,1118 695,1076 147,1132"/>
+                <Baseline points="155,1163 212,1161 270,1159 327,1157 385,1154 443,1152 500,1149 558,1147 616,1144 673,1142 731,1140 789,1138 846,1136 904,1135 962,1135 1019,1135 1077,1136 1135,1137 1192,1139 1250,1142 1308,1146"/>
+                <TextEquiv>
+                    <Unicode>for somewhere in Tipperary) where I now</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_510" custom="readingOrder {index:14;}">
+                <Coords points="164,1260 205,1257 246,1254 288,1251 329,1248 371,1245 412,1243 453,1240 495,1237 536,1234 578,1232 619,1230 660,1228 702,1226 743,1225 785,1223 826,1222 867,1222 909,1221 950,1221 992,1222 1125,1210 1152,1210 1180,1212 1207,1215 1235,1215 1235,1200 1208,1200 1181,1197 1153,1195 1124,1195 992,1207 950,1206 909,1206 867,1207 826,1207 784,1208 742,1210 701,1211 659,1213 618,1215 577,1217 535,1219 494,1222 452,1225 411,1228 370,1230 328,1233 287,1236 245,1239 204,1242 163,1245"/>
+                <Baseline points="164,1260 205,1257 246,1254 288,1251 329,1248 371,1245 412,1243 453,1240 495,1237 536,1234 578,1232 619,1230 660,1228 702,1226 743,1225 785,1223 826,1222 867,1222 909,1221 950,1221 992,1222 1125,1210 1152,1210 1180,1212 1207,1215 1235,1215"/>
+                <TextEquiv>
+                    <Unicode>write. At Mr Bagwell's the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:15;}">
+                <Coords points="141,1353 423,1322 706,1362 864,1303 1246,1317 1272,1261 1103,1232 971,1273 823,1230 650,1285 489,1292 424,1254 139,1304"/>
+                <Baseline points="148,1328 203,1327 259,1325 315,1323 371,1320 427,1318 483,1315 539,1312 595,1310 651,1307 707,1304 762,1302 818,1300 874,1298 930,1296 986,1295 1042,1295 1098,1294 1154,1295 1210,1296 1266,1298"/>
+                <TextEquiv>
+                    <Unicode>inevitable rivalry for our persons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_511" custom="readingOrder {index:16;}">
+                <Coords points="476,1274 487,1274 512,1272 542,1266 573,1265 604,1264 604,1249 573,1250 540,1251 510,1257 486,1259 476,1259"/>
+                <Baseline points="476,1274 487,1274 512,1272 542,1266 573,1265 604,1264"/>
+                <TextEquiv>
+                    <Unicode>Irish</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+                <Coords points="141,1431 766,1427 1029,1386 1229,1442 1226,1309 693,1371 140,1353"/>
+                <Baseline points="148,1420 201,1419 255,1418 308,1417 362,1414 416,1411 469,1407 523,1404 577,1400 630,1396 684,1394 738,1391 791,1389 845,1388 899,1388 952,1390 1006,1392 1060,1396 1113,1402 1167,1409 1221,1419"/>
+                <TextEquiv>
+                    <Unicode>took place &amp; we settled it by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+                <Coords points="139,1544 250,1527 328,1556 406,1492 1091,1475 1127,1426 1069,1402 936,1435 863,1405 816,1445 711,1423 646,1452 574,1413 454,1448 355,1423 135,1473"/>
+                <Baseline points="145,1504 193,1503 242,1501 291,1498 340,1496 389,1493 437,1490 486,1488 535,1485 584,1481 633,1478 681,1475 730,1472 779,1469 828,1466 877,1464 925,1461 974,1459 1023,1457 1072,1455 1121,1454"/>
+                <TextEquiv>
+                    <Unicode>accepting Mr &amp; Mrs Bagwells</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+                <Coords points="124,1600 467,1574 523,1618 672,1545 814,1544 886,1584 972,1531 1091,1568 1238,1538 1161,1465 1059,1463 977,1519 737,1485 685,1525 580,1505 540,1549 398,1514 329,1556 122,1563"/>
+                <Baseline points="131,1589 188,1584 246,1581 304,1576 362,1571 420,1568 478,1564 535,1560 593,1556 651,1553 709,1550 767,1547 825,1544 882,1541 940,1539 998,1537 1056,1535 1114,1533 1172,1531 1230,1530"/>
+                <TextEquiv>
+                    <Unicode>invitation for two days beginning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:20;}">
+                <Coords points="153,1684 249,1669 337,1718 408,1651 503,1681 555,1643 645,1674 854,1634 915,1682 1018,1680 1099,1631 1245,1635 1241,1537 1167,1575 1070,1562 1012,1608 650,1578 375,1626 221,1599 151,1635"/>
+                <Baseline points="160,1674 213,1667 267,1661 321,1656 375,1652 429,1647 483,1644 537,1641 591,1638 645,1636 699,1633 752,1632 806,1630 860,1629 914,1628 968,1627 1022,1626 1076,1626 1130,1625 1184,1624 1238,1624"/>
+                <TextEquiv>
+                    <Unicode>Sunday mg &amp; returning for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:21;}">
+                <Coords points="138,1770 333,1746 419,1792 624,1732 835,1773 1010,1708 1285,1726 1290,1632 1156,1686 800,1663 629,1718 443,1667 369,1724 306,1691 136,1721"/>
+                <Baseline points="145,1760 202,1755 259,1751 316,1747 373,1743 430,1740 487,1737 544,1734 601,1731 658,1729 715,1727 772,1725 829,1723 886,1721 943,1719 1000,1717 1057,1714 1114,1712 1171,1709 1228,1706 1285,1703"/>
+                <TextEquiv>
+                    <Unicode>night to Cork. At Cork I found</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:22;}">
+                <Coords points="123,1861 1322,1820 1319,1766 1030,1790 951,1735 646,1803 119,1777"/>
+                <Baseline points="129,1846 188,1842 247,1840 306,1837 365,1834 425,1831 484,1828 543,1825 602,1823 661,1821 721,1819 780,1816 839,1814 898,1812 957,1810 1017,1807 1076,1805 1135,1803 1194,1800 1253,1798 1313,1796"/>
+                <TextEquiv>
+                    <Unicode>the Brady who went to Morocco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:23;}">
+                <Coords points="141,1964 458,1923 606,1953 730,1926 867,1971 1049,1911 1176,1967 1319,1928 1318,1850 1163,1881 1011,1837 921,1885 642,1851 557,1901 339,1891 271,1840 139,1901"/>
+                <Baseline points="148,1934 206,1932 264,1930 322,1928 380,1925 439,1924 497,1922 555,1920 613,1918 671,1917 730,1915 788,1914 846,1913 904,1912 962,1911 1021,1910 1079,1910 1137,1910 1195,1909 1253,1910 1312,1910"/>
+                <TextEquiv>
+                    <Unicode>&amp; Liversidge Prof of Geology at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:24;}">
+                <Coords points="138,2084 252,2081 286,2059 332,2084 383,2039 672,2024 670,1973 581,1972 563,1955 514,2002 444,1975 358,2017 204,1951 134,1976"/>
+                <Baseline points="143,2037 169,2037 195,2037 221,2037 247,2036 273,2036 299,2036 325,2035 351,2034 377,2034 404,2033 430,2032 456,2031 482,2030 508,2028 534,2027 560,2026 586,2024 612,2022 638,2021 665,2019"/>
+                <TextEquiv>
+                    <Unicode>Sydney N. S. W.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>by boat
+next
+and so back to Muckross
+day, Saturday, weather gloomy &amp;
+a little rain at night &amp; after
+debating between Glengariff &amp;
+Cork decided on the latter, arriving
+to
+about midday. Took tram
+Queenstown in afternoon &amp; car to
+Gumbletons -- found him in his
+Garden; &amp; after an enthusiastic
+to see garden at
+ hours went with him next
+property, Mr Bagwell's (formerly M.P.
+for somewhere in Tipperary) where I now
+the
+write. At Mr Bagwell's
+ish
+Ir
+inevitable rivalry for our persons
+took place &amp; we settled it by
+accepting Mr &amp; Mrs Bagwells
+invitation for two days beginning
+Sunday mg &amp; returning for the
+night to Cork. At Cork I found
+the Brady who went to Morocco
+&amp; Liversidge Prof of Geology at
+Sydney N. S. W.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:34:31.229-04:00</Created>
+        <LastChange>2023-05-17T00:09:19.874+02:00</LastChange>
+        <TranskribusMetadata docId="437073" pageId="17691619" pageNr="3" tsid="121948656" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=OFYTSAIBGAVZPAVLVUOEATPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PPPXKGPDBPYACNLIPWGHGXMN" imageId="13355362"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_40_003.jpg" imageWidth="1529" imageHeight="2427">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330867590" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="97,68 97,2337 1482,2337 1482,68"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="888,119 916,117 944,115 973,115 1001,114 1030,114 1058,114 1086,114 1115,114 1143,114 1172,114 1200,114 1228,113 1257,113 1285,111 1314,109 1342,107 1370,116 1398,112 1427,112 1480,113 1480,106 1427,104 1397,105 1371,109 1343,100 1313,102 1284,104 1257,106 1228,106 1200,107 1172,107 1143,107 1115,107 1086,107 1058,107 1030,107 1001,107 973,108 944,108 915,110 887,112"/>
+                <Baseline points="888,119 916,117 944,115 973,115 1001,114 1030,114 1058,114 1086,114 1115,114 1143,114 1172,114 1200,114 1228,113 1257,113 1285,111 1314,109 1342,107 1370,116 1398,112 1427,112 1480,113"/>
+                <TextEquiv>
+                    <Unicode>Of other plants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="50,89 115,85 142,99 186,79 279,83 323,71 350,84 369,78 368,44 230,23 212,22 175,49 48,33"/>
+                <Baseline points="109,164 140,162 171,159 202,157 233,155 264,154 295,153 326,152 357,151 388,150 419,149 450,148 481,148 512,147 543,146 574,145 605,143 636,142 667,140 698,138 729,135"/>
+                <TextEquiv>
+                    <Unicode>East of the R. M</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="45,136 446,124 525,143 608,129 644,152 734,112 734,90 671,77 561,93 466,75 379,103 44,92"/>
+                <Baseline points="97,251 165,252 233,252 301,252 369,251 438,249 506,247 574,246 642,243 710,241 779,239 847,236 915,234 983,232 1051,231 1120,230 1188,229 1256,228 1324,229 1392,230 1461,232"/>
+                <TextEquiv>
+                    <Unicode>I have collected as diligently &amp; largely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="695,382 738,382 763,382 789,381 814,380 840,379 865,377 937,382 938,367 865,362 839,364 813,365 788,366 763,367 738,367 695,367"/>
+                <Baseline points="695,382 738,382 763,382 789,381 814,380 840,379 865,377 937,382"/>
+                <TextEquiv>
+                    <Unicode>of 4000 ft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:4;}">
+                <Coords points="116,363 148,362 180,360 213,358 245,357 278,356 310,354 342,352 375,351 407,349 440,348 472,347 504,345 537,344 569,342 602,340 634,337 666,336 699,333 731,331 764,328 848,334 875,335 902,336 929,336 956,337 983,337 1010,336 1037,336 1064,336 1091,335 1118,335 1145,335 1172,335 1199,335 1226,335 1253,336 1280,337 1307,339 1334,341 1361,344 1388,347 1390,332 1363,329 1335,326 1308,324 1281,322 1254,321 1226,320 1199,320 1172,320 1145,320 1118,320 1091,320 1064,321 1037,321 1010,321 983,322 956,322 929,321 902,321 876,320 849,319 764,313 730,316 698,318 665,321 633,322 601,325 568,327 536,329 503,330 471,332 440,333 406,334 374,336 341,337 309,339 277,341 245,342 212,343 179,345 147,347 116,348"/>
+                <Baseline points="116,363 148,362 180,360 213,358 245,357 278,356 310,354 342,352 375,351 407,349 440,348 472,347 504,345 537,344 569,342 602,340 634,337 666,336 699,333 731,331 764,328 848,334 875,335 902,336 929,336 956,337 983,337 1010,336 1037,336 1064,336 1091,335 1118,335 1145,335 1172,335 1199,335 1226,335 1253,336 1280,337 1307,339 1334,341 1361,344 1388,347"/>
+                <TextEquiv>
+                    <Unicode>as I can -- &amp; have some 500 sp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="64,249 185,233 227,259 346,225 443,250 545,225 745,254 740,190 605,199 572,178 547,201 519,184 429,215 369,191 325,209 282,183 187,207 96,177 64,194"/>
+                <Baseline points="138,463 205,465 272,465 339,465 406,463 474,460 541,457 608,454 675,451 742,448 810,445 877,443 944,441 1011,440 1078,441 1146,443 1213,447 1280,453 1347,461 1414,471 1482,483"/>
+                <TextEquiv>
+                    <Unicode>from all Elevations up to 14000 ft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="58,304 253,295 297,312 328,294 360,315 533,282 700,292 703,219 612,255 514,238 427,274 99,251 57,269"/>
+                <Baseline points="125,587 188,588 252,588 316,588 380,588 444,587 507,585 571,584 635,582 699,579 763,577 826,574 890,572 954,570 1018,567 1082,565 1145,563 1209,561 1273,559 1337,558 1401,557"/>
+                <TextEquiv>
+                    <Unicode>Here we are going into the Mts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="60,351 161,347 250,381 395,343 477,376 736,346 735,301 615,291 389,303 355,330 287,308 205,330 110,294 59,304"/>
+                <Baseline points="129,686 195,691 262,694 329,696 395,697 462,697 529,696 595,695 662,692 729,690 796,686 862,683 929,679 996,676 1062,672 1129,669 1196,667 1262,665 1329,665 1396,665 1463,666"/>
+                <TextEquiv>
+                    <Unicode>East of us (the Wahasatch) (E of Salt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="48,440 135,444 294,405 380,421 439,402 724,404 722,364 665,352 618,370 577,349 471,391 400,351 336,351 206,396 45,358"/>
+                <Baseline points="104,829 170,829 237,828 304,827 371,826 437,824 504,821 571,818 638,815 704,813 771,809 838,806 905,803 971,801 1038,799 1105,797 1172,796 1238,795 1305,795 1372,796 1439,798"/>
+                <TextEquiv>
+                    <Unicode>Lake) which will give us a glimpse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="74,496 174,459 260,475 350,456 419,483 467,461 684,464 698,408 515,433 230,421 72,444"/>
+                <Baseline points="155,954 216,950 278,945 340,941 402,938 463,935 525,932 587,929 649,927 710,925 772,923 834,921 896,919 957,917 1019,915 1081,914 1143,912 1204,910 1266,908 1328,907 1390,905"/>
+                <TextEquiv>
+                    <Unicode>of W. Colorado vegetation &amp; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="55,548 736,519 724,489 619,470 552,498 524,476 416,499 354,469 298,511 53,501"/>
+                <Baseline points="117,1066 184,1064 251,1062 318,1060 386,1057 453,1054 520,1052 588,1049 655,1047 722,1044 790,1042 857,1039 924,1037 991,1035 1059,1033 1126,1031 1193,1029 1261,1028 1328,1026 1395,1025 1463,1024"/>
+                <TextEquiv>
+                    <Unicode>perhaps we shall find Pinus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="58,589 126,605 206,578 634,583 679,567 678,540 575,523 431,554 296,529 169,569 57,562"/>
+                <Baseline points="125,1167 186,1165 247,1164 308,1161 370,1160 431,1158 492,1156 554,1154 615,1151 676,1149 738,1147 799,1145 860,1143 921,1141 983,1139 1044,1137 1105,1135 1167,1133 1228,1131 1289,1129 1351,1127"/>
+                <TextEquiv>
+                    <Unicode>monophylla which replaces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="59,653 393,623 736,646 735,605 666,585 561,599 483,576 390,606 307,583 191,623 100,595 58,607"/>
+                <Baseline points="126,1276 192,1274 259,1272 326,1270 393,1267 460,1265 527,1262 593,1260 660,1258 727,1256 794,1255 861,1253 928,1252 995,1251 1061,1251 1128,1250 1195,1251 1262,1251 1329,1252 1396,1254 1463,1256"/>
+                <TextEquiv>
+                    <Unicode>Edulis &amp; extends W. to Nevada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="484,693 503,685 515,692 534,680 569,695 594,686 621,693 651,683 684,693 699,687 699,667 643,640 623,648 592,632 549,648 514,635 484,636"/>
+                <Baseline points="977,1362 1002,1363 1028,1364 1054,1365 1080,1366 1106,1366 1131,1366 1157,1366 1183,1366 1209,1366 1235,1366 1260,1366 1286,1366 1312,1366 1338,1366 1364,1366 1390,1367"/>
+                <TextEquiv>
+                    <Unicode>Nevada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="73,706 92,698 225,701 264,687 281,701 320,698 332,695 331,671 283,667 259,678 200,669 166,681 127,653 71,660"/>
+                <Baseline points="154,1396 179,1396 204,1396 229,1396 254,1395 279,1395 304,1395 329,1394 354,1393 379,1393 405,1392 430,1391 455,1390 480,1389 505,1387 530,1386 555,1385 580,1383 605,1382 630,1379 656,1378"/>
+                <TextEquiv>
+                    <Unicode>This done we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="328,719 352,726 398,710 417,722 475,713 492,729 508,715 538,711 579,724 579,693 524,687 451,701 382,664 327,679"/>
+                <Baseline points="665,1431 690,1428 716,1426 741,1424 767,1423 792,1422 818,1421 843,1422 869,1422 894,1422 920,1423 945,1424 971,1424 996,1425 1022,1425 1047,1425 1073,1424 1098,1423 1124,1421 1150,1419"/>
+                <TextEquiv>
+                    <Unicode>Taxodium grove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684256264050_726" custom="readingOrder {index:16;}">
+                <Coords points="626,708 634,716 656,702 667,706 673,704 673,761 667,761 652,748 637,748 635,750 627,748 625,746 625,709"/>
+                <Baseline points="1250,1485 1254,1485 1282,1485 1310,1485 1339,1485"/>
+                <TextEquiv>
+                    <Unicode>the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:17;} textStyle {offset:15; length:10;strikethrough:true;}">
+                <Coords points="65,773 108,763 154,786 190,755 266,759 312,737 364,758 436,749 549,774 565,768 564,713 491,729 401,709 351,726 275,699 240,721 135,699 64,705"/>
+                <Baseline points="139,1526 188,1522 237,1516 286,1512 335,1510 384,1507 433,1505 483,1503 532,1502 581,1501 630,1501 679,1500 728,1500 777,1500 827,1500 876,1499 925,1499 974,1498 1023,1497 1072,1495 1122,1493"/>
+                <TextEquiv>
+                    <Unicode>getting to the Calendar  by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+                <Coords points="165,789 198,795 229,783 249,795 265,791 274,797 290,784 338,781 337,737 316,749 288,738 258,765 249,760 230,769 214,764 204,768 190,756 164,776"/>
+                <Baseline points="339,1571 364,1569 389,1568 414,1568 439,1568 465,1569 490,1570 515,1570 540,1570 566,1570 591,1568 616,1566 641,1562 667,1557"/>
+                <TextEquiv>
+                    <Unicode>Carson &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_570" custom="readingOrder {index:19;}">
+                <Coords points="145,1651 170,1648 196,1646 222,1645 248,1645 273,1646 299,1648 325,1650 351,1653 376,1656 402,1658 428,1661 454,1664 479,1666 505,1667 531,1668 557,1668 586,1641 611,1640 636,1638 662,1637 687,1635 713,1634 738,1632 764,1631 789,1630 814,1630 840,1630 865,1630 891,1631 916,1632 942,1635 941,1645 966,1643 992,1640 1018,1638 1043,1635 1069,1632 1095,1629 1121,1626 1146,1623 1172,1621 1198,1618 1224,1616 1249,1613 1275,1611 1301,1608 1327,1606 1352,1605 1378,1604 1404,1603 1430,1603 1430,1588 1404,1588 1377,1589 1351,1590 1326,1591 1300,1593 1274,1596 1248,1598 1223,1601 1197,1603 1171,1606 1145,1608 1119,1611 1093,1614 1067,1617 1041,1620 1017,1623 991,1625 965,1628 956,1630 958,1622 917,1617 892,1616 865,1615 840,1615 814,1615 789,1615 763,1616 737,1617 712,1619 686,1620 661,1622 635,1623 610,1625 580,1627 552,1654 531,1653 506,1652 480,1651 455,1649 430,1646 403,1643 377,1641 353,1638 326,1635 300,1633 274,1631 248,1630 222,1630 195,1631 169,1633 143,1636"/>
+                <Baseline points="145,1651 170,1648 196,1646 222,1645 248,1645 273,1646 299,1648 325,1650 351,1653 376,1656 402,1658 428,1661 454,1664 479,1666 505,1667 531,1668 557,1668 586,1641 611,1640 636,1638 662,1637 687,1635 713,1634 738,1632 764,1631 789,1630 814,1630 840,1630 865,1630 891,1631 916,1632 942,1635 941,1645 966,1643 992,1640 1018,1638 1043,1635 1069,1632 1095,1629 1121,1626 1146,1623 1172,1621 1198,1618 1224,1616 1249,1613 1275,1611 1301,1608 1327,1606 1352,1605 1378,1604 1404,1603 1430,1603"/>
+                <TextEquiv>
+                    <Unicode>rear by Silver city (off the line</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:20;}">
+                <Coords points="393,858 404,858 413,851 422,858 428,855 430,856 434,856 431,823 427,823 420,818 413,825 409,826 407,829 391,832"/>
+                <Baseline points="794,1700 826,1693 858,1694"/>
+                <TextEquiv>
+                    <Unicode>by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:21;}">
+                <Coords points="75,906 699,876 697,822 640,854 501,824 439,858 375,841 344,860 282,843 230,869 184,849 73,856"/>
+                <Baseline points="157,1762 218,1764 280,1765 341,1765 403,1765 465,1765 526,1764 588,1762 649,1761 711,1758 773,1756 834,1754 896,1751 957,1748 1019,1745 1081,1742 1142,1739 1204,1736 1265,1733 1327,1731 1389,1727"/>
+                <TextEquiv>
+                    <Unicode>of rail). &amp; so by Calavera &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:22;}">
+                <Coords points="61,956 196,960 283,933 380,959 474,924 740,925 739,899 658,865 558,909 408,909 357,887 259,921 90,896 60,917"/>
+                <Baseline points="129,1874 196,1873 263,1871 330,1870 397,1868 464,1866 531,1865 598,1863 665,1861 732,1860 800,1858 867,1856 934,1854 1001,1852 1068,1849 1135,1847 1202,1844 1269,1842 1336,1839 1403,1836 1471,1833"/>
+                <TextEquiv>
+                    <Unicode>Mariposa to San Francisco. There</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:23;}">
+                <Coords points="92,998 255,1016 295,999 409,1008 486,979 611,998 698,982 697,942 599,963 539,927 461,931 420,962 345,966 283,933 214,968 121,948 91,968"/>
+                <Baseline points="193,1979 252,1978 312,1977 372,1976 432,1974 492,1973 551,1972 611,1971 671,1970 731,1968 791,1967 850,1966 910,1965 970,1964 1030,1963 1090,1962 1149,1961 1209,1960 1269,1959 1329,1958 1389,1957"/>
+                <TextEquiv>
+                    <Unicode>I hope to visit the Red wood</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:24;}">
+                <Coords points="78,1054 187,1065 220,1040 261,1061 402,1062 487,1033 658,1041 674,1015 585,984 545,1016 468,999 433,1016 416,1003 346,1020 315,1005 286,1027 165,1022 114,997 77,1014"/>
+                <Baseline points="165,2088 223,2087 282,2085 341,2083 400,2081 458,2079 517,2077 576,2075 635,2073 693,2071 752,2068 811,2067 870,2065 928,2064 987,2062 1046,2062 1105,2061 1163,2061 1222,2061 1281,2062 1340,2063"/>
+                <TextEquiv>
+                    <Unicode>Taxodium &amp;c) district to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:25;}">
+                <Coords points="76,1116 195,1101 401,1125 487,1086 692,1078 690,1032 469,1038 427,1068 315,1053 232,1073 152,1054 73,1077"/>
+                <Baseline points="159,2211 219,2209 280,2207 341,2205 402,2202 463,2199 523,2196 584,2193 645,2190 706,2187 767,2183 827,2179 888,2176 949,2171 1010,2167 1071,2163 1131,2160 1192,2155 1253,2152 1314,2147 1375,2144"/>
+                <TextEquiv>
+                    <Unicode>North &amp; Monterey to the South</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:26;}">
+                <Coords points="79,1171 419,1168 480,1194 579,1165 689,1173 723,1163 723,1135 613,1113 422,1138 359,1117 216,1144 137,1111 79,1118"/>
+                <Baseline points="168,2320 231,2319 295,2318 358,2317 422,2317 485,2316 549,2315 612,2315 676,2314 739,2314 803,2313 867,2313 930,2312 994,2312 1057,2311 1121,2311 1184,2310 1248,2310 1311,2309 1375,2308 1439,2308"/>
+                <TextEquiv>
+                    <Unicode>&amp; then home by end of September.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Of ther plant!
+last of the R. M
+I hae ollected an diligeitey &amp; langed
+so soo the
+he Tean -- &amp; have
+of 4880 7
+from all glevatien up to Stattegh
+Here we are going soto the ti
+last of as fthe Wahoptoh) (&amp; if sep
+Lake (which will give as a glonser
+of W Iolorade negulation &amp; t
+perhaps we shall fiind Reons
+morrophythen which replaces
+edules &amp; extends M to Nevadea
+Nevader
+a
+This done we
+Sxodum grove
+the
+getting to the xlender by
+Carson &amp;
+Off the tine
+Ever city
+reas by I
+by
+of milf &amp; so y Calanis &amp;
+Manpose to Lam Fracesce. Theme
+I hope to riit the Red wood
+&amp;
+Taxodun &amp; (destrect to the
+oikh &amp; Hosting to the Hook
+&amp; then some yend of Septuuritiel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

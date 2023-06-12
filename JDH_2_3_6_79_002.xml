@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-03T20:08:38.480-04:00</Created>
+        <LastChange>2020-07-18T23:10:39.925+02:00</LastChange>
+        <TranskribusMetadata docId="429660" pageId="17279189" pageNr="2" tsid="34835139" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=QLKNHZOORJCRWZDZGXMFSNSY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DUJYLMEFSUMSCIMFPNWWFHPY" imageId="12991729"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_3_6_79_002.jpg" imageWidth="1440" imageHeight="2164">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330874141" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="138,261 138,2093 1294,2093 1294,261"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="161,358 240,322 496,342 845,300 1292,317 1300,259 881,245 635,292 159,250"/>
+                <Baseline points="167,312 223,314 279,316 336,316 392,317 448,316 505,316 561,315 617,313 674,312 730,310 786,308 843,306 899,304 955,303 1012,301 1068,300 1124,300 1181,300 1237,300 1294,301"/>
+                <TextEquiv>
+                    <Unicode>fowarded as soon as I hear further</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="220,427 694,436 998,403 1079,430 1150,410 1149,355 750,375 702,349 642,387 439,394 261,333 218,355"/>
+                <Baseline points="227,414 272,416 318,417 364,417 410,417 456,417 501,416 547,415 593,414 639,413 685,411 730,410 776,408 822,406 868,405 914,404 959,403 1005,403 1051,403 1097,403 1143,404"/>
+                <TextEquiv>
+                    <Unicode>The Director was for sending the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="136,537 925,491 1087,525 1308,472 978,422 722,484 655,445 608,483 135,479"/>
+                <Baseline points="143,499 200,503 257,506 314,507 371,509 428,509 485,509 542,508 599,507 656,505 713,503 770,501 827,499 884,497 941,495 998,493 1055,492 1112,491 1169,491 1226,491 1284,492"/>
+                <TextEquiv>
+                    <Unicode>ornineals as a gift to Paris, &amp; our having copies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="148,605 1145,596 1136,533 952,565 739,535 656,573 405,542 227,563 148,530"/>
+                <Baseline points="155,588 204,589 253,590 302,590 351,590 400,590 449,590 498,590 547,589 596,589 646,588 695,587 744,587 793,586 842,585 891,584 940,584 989,583 1038,582 1087,582 1137,582"/>
+                <TextEquiv>
+                    <Unicode>made. -- this as an acknowledgement of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="170,701 1167,662 1235,707 1262,632 168,641"/>
+                <Baseline points="177,685 230,687 284,688 338,689 392,689 446,688 500,687 554,686 608,684 662,682 716,681 769,679 823,677 877,675 931,673 985,671 1039,670 1093,668 1147,668 1201,668 1255,668"/>
+                <TextEquiv>
+                    <Unicode>the loan of the specimens -- but I think they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="166,799 1107,794 1286,754 1127,700 863,754 619,723 165,758"/>
+                <Baseline points="172,788 227,787 282,786 337,786 393,785 448,784 503,783 559,782 614,781 669,779 725,778 780,776 835,774 890,772 946,771 1001,769 1056,766 1112,764 1167,761 1222,758 1278,755"/>
+                <TextEquiv>
+                    <Unicode>are well paid by the 6 months hard labor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="150,906 1296,887 1295,837 1088,817 822,858 671,820 149,836"/>
+                <Baseline points="157,879 213,880 270,881 326,881 383,881 440,881 496,881 553,880 609,880 666,879 723,878 779,877 836,876 892,874 949,873 1006,872 1062,871 1119,869 1175,868 1232,867 1289,866"/>
+                <TextEquiv>
+                    <Unicode>I have had in Olegisfying depicting drawing,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="137,976 336,977 409,1009 484,976 634,976 634,939 578,955 480,916 407,954 360,934 261,947 236,927 137,932"/>
+                <Baseline points="145,972 170,972 195,972 221,972 246,972 271,972 297,972 322,972 347,972 373,972 398,972 424,972 449,972 474,972 500,972 525,972 550,971 576,971 601,970 627,969"/>
+                <TextEquiv>
+                    <Unicode>&amp; describing then --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="154,1067 574,1085 703,1046 802,1094 984,1039 1186,1053 1184,1003 1053,981 935,1028 152,997"/>
+                <Baseline points="160,1062 210,1062 261,1062 312,1062 363,1062 414,1061 465,1060 516,1059 567,1058 618,1057 669,1056 719,1054 770,1053 821,1052 872,1050 923,1048 974,1047 1025,1045 1076,1043 1127,1041 1178,1040"/>
+                <TextEquiv>
+                    <Unicode>Am I to be allwed any more Icones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="984,1103 991,1102 1003,1091 1010,1097 1024,1095 1035,1102 1065,1094 1074,1099 1094,1092 1090,1050 1076,1054 1066,1051 1047,1062 1039,1057 1036,1061 1025,1059 1010,1046 1003,1047 990,1039 978,1040"/>
+                <Baseline points="990,1092 1022,1091 1054,1089 1086,1082"/>
+                <TextEquiv>
+                    <Unicode>Part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="155,1175 1210,1135 1235,1059 1159,1103 680,1129 453,1094 369,1134 328,1103 152,1115"/>
+                <Baseline points="161,1161 214,1160 267,1159 321,1158 374,1157 428,1156 481,1154 535,1153 588,1151 642,1149 695,1147 748,1145 802,1142 855,1140 909,1137 962,1134 1016,1132 1069,1129 1123,1125 1176,1123 1230,1119"/>
+                <TextEquiv>
+                    <Unicode>plates? -- I expected in whole number at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="158,1263 459,1247 656,1284 744,1240 1236,1208 1234,1171 1128,1185 1017,1145 940,1208 630,1178 500,1215 392,1181 317,1238 155,1196"/>
+                <Baseline points="164,1252 217,1252 270,1251 323,1250 377,1249 430,1248 483,1246 536,1244 590,1242 643,1240 696,1237 749,1234 803,1232 856,1228 909,1226 962,1223 1016,1220 1069,1216 1122,1213 1175,1210 1229,1207"/>
+                <TextEquiv>
+                    <Unicode>least I will gladly subscribe £20 00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="140,1348 221,1354 237,1345 256,1356 296,1327 305,1327 303,1285 239,1289 224,1301 217,1298 195,1318 167,1303 138,1304"/>
+                <Baseline points="147,1334 172,1334 197,1333 222,1331 247,1330 272,1330 298,1331"/>
+                <TextEquiv>
+                    <Unicode>in aid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="192,1467 379,1503 567,1448 881,1430 942,1471 1042,1427 1134,1439 1164,1404 1046,1370 980,1407 920,1375 559,1416 395,1386 310,1414 251,1369 189,1397"/>
+                <Baseline points="199,1455 246,1456 294,1455 342,1455 390,1454 438,1453 486,1452 534,1450 582,1449 630,1447 678,1445 725,1442 773,1440 821,1438 869,1436 917,1433 965,1431 1013,1428 1061,1426 1109,1424 1157,1422"/>
+                <TextEquiv>
+                    <Unicode>Lecom writes that he may have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="132,1562 832,1561 1121,1536 1169,1482 703,1511 524,1486 232,1531 129,1496"/>
+                <Baseline points="138,1556 189,1554 240,1551 291,1549 343,1546 394,1544 445,1542 496,1540 548,1539 599,1537 650,1535 701,1534 753,1532 804,1530 855,1528 906,1526 958,1524 1009,1521 1060,1518 1111,1515 1163,1512"/>
+                <TextEquiv>
+                    <Unicode>received more plants recently from China</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="142,1664 1194,1616 1192,1548 751,1598 593,1565 443,1609 243,1576 139,1604"/>
+                <Baseline points="148,1641 202,1640 257,1638 312,1637 366,1635 421,1633 476,1631 530,1629 585,1626 640,1623 694,1620 749,1617 804,1614 858,1611 913,1608 968,1605 1022,1601 1077,1598 1132,1594 1187,1590"/>
+                <TextEquiv>
+                    <Unicode>&amp; Indo China, &amp;asks my authority to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="146,1737 501,1758 592,1707 670,1731 913,1688 1186,1718 1222,1710 1219,1626 1160,1664 978,1640 928,1675 832,1640 589,1694 143,1665"/>
+                <Baseline points="153,1726 206,1726 259,1725 312,1724 365,1722 418,1720 471,1718 524,1715 577,1712 630,1709 683,1706 736,1703 789,1700 842,1697 895,1694 948,1692 1001,1690 1054,1689 1107,1688 1160,1688 1214,1688"/>
+                <TextEquiv>
+                    <Unicode>send them (for examination, I suppose)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="176,1823 1188,1797 1156,1739 1082,1773 869,1742 795,1779 175,1759"/>
+                <Baseline points="183,1809 232,1807 282,1806 332,1804 382,1803 432,1802 482,1801 531,1800 581,1799 631,1798 681,1798 731,1797 781,1796 831,1796 880,1795 930,1794 980,1793 1030,1793 1080,1792 1130,1790 1180,1789"/>
+                <TextEquiv>
+                    <Unicode>For I should of course, ask them to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="154,1907 1144,1917 1231,1899 1231,1829 954,1878 915,1844 567,1876 510,1843 283,1875 154,1843"/>
+                <Baseline points="161,1895 214,1897 267,1898 320,1899 373,1899 426,1899 479,1899 532,1898 585,1898 638,1897 692,1897 745,1896 798,1896 851,1895 904,1895 957,1895 1010,1895 1063,1895 1116,1896 1169,1898 1223,1900"/>
+                <TextEquiv>
+                    <Unicode>be sent to Kew direct. shall I do so?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="148,1989 496,2024 1002,1977 1264,2014 1263,1947 1037,1913 975,1960 458,1931 329,1961 148,1927"/>
+                <Baseline points="155,1975 210,1979 265,1983 320,1985 375,1987 430,1987 485,1988 540,1987 595,1986 650,1985 705,1984 760,1982 815,1981 870,1979 925,1977 980,1976 1035,1975 1090,1975 1145,1975 1200,1975 1256,1977"/>
+                <TextEquiv>
+                    <Unicode>he does not say that there are any Impatiens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="147,2085 164,2096 208,2087 298,2100 384,2096 413,2080 506,2083 506,2053 486,2057 426,2019 334,2038 313,2021 278,2036 149,2028"/>
+                <Baseline points="155,2064 181,2065 207,2067 234,2069 260,2070 286,2071 313,2071 339,2072 366,2073 392,2074 418,2074 445,2074 471,2074 498,2074"/>
+                <TextEquiv>
+                    <Unicode>amongst them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fowarded as soon as I hear further&#13;
+The Director was for sending the&#13;
+ornineals as a gift to Paris, &amp; our having copies&#13;
+made. -- this as an acknowledgement of&#13;
+the loan of the specimens -- but I think they&#13;
+are well paid by the 6 months hard labor&#13;
+I have had in Olegisfying depicting drawing,&#13;
+&amp; describing then --&#13;
+Am I to be allwed any more Icones&#13;
+Part&#13;
+plates? -- I expected in whole number at&#13;
+least I will gladly subscribe £20 00&#13;
+in aid&#13;
+Lecom writes that he may have&#13;
+received more plants recently from China&#13;
+&amp; Indo China, &amp;asks my authority to&#13;
+send them (for examination, I suppose)&#13;
+For I should of course, ask them to&#13;
+be sent to Kew direct. shall I do so?&#13;
+he does not say that there are any Impatiens&#13;
+amongst them.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

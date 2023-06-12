@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-03T20:08:38.556-04:00</Created>
+        <LastChange>2023-05-16T18:48:12.395+02:00</LastChange>
+        <TranskribusMetadata docId="429660" pageId="17279190" pageNr="3" tsid="121940258" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=KBTURRCDJKVEVCFZXEOIPJZM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XHMEXCUABPHWQOMLZGDTOATH" imageId="12991730"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_3_6_79_003.jpg" imageWidth="1306" imageHeight="2135">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330874340" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="528,88 528,247 712,247 712,88"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="523,191 560,204 591,234 612,236 657,266 699,233 717,238 717,133 653,135 633,148 561,128 523,144"/>
+                <Baseline points="528,189 554,193 580,195 606,197 633,197 659,195 685,192 712,188"/>
+                <TextEquiv>
+                    <Unicode>Ev yr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ev yr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="787,200 1069,232 1073,322 769,345"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="770,322 809,321 837,314 869,311 902,310 955,299 980,298 1003,296 1030,294 1050,294 1072,295 1073,280 1051,279 1029,279 1001,281 979,283 953,284 900,295 868,296 834,299 807,306 769,307"/>
+                <Baseline points="770,322 809,321 837,314 869,311 902,310 955,299 980,298 1003,296 1030,294 1050,294 1072,295"/>
+                <TextEquiv>
+                    <Unicode>JosDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

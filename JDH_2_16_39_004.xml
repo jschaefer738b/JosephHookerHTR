@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T23:04:20.283-04:00</Created>
+        <LastChange>2023-05-16T18:28:53.978+02:00</LastChange>
+        <TranskribusMetadata docId="423591" pageId="16858839" pageNr="3" tsid="121939834" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=PZVOWOLJTGGXMSJRXJMIMKAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTITDAUCUPWYBPAAPTQYGNAG" imageId="12610351"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_39_004.jpg" imageWidth="1365" imageHeight="2226">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330875578" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="76,145 76,2142 1309,2142 1309,145"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="70,237 319,273 527,206 697,248 758,205 1207,208 1204,135 981,101 783,149 537,102 315,197 65,121"/>
+                <Baseline points="76,225 132,225 188,225 244,223 300,222 356,220 412,217 469,214 525,212 581,208 637,206 693,202 749,199 805,196 862,194 918,192 974,190 1030,189 1086,188 1142,188 1199,188"/>
+                <TextEquiv>
+                    <Unicode>to let Carless bring in his bad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="96,325 245,348 309,313 810,283 1187,294 1183,219 1136,207 989,212 930,258 817,229 643,271 585,231 521,284 401,238 345,294 275,251 95,294"/>
+                <Baseline points="103,315 156,316 210,317 264,316 318,314 372,313 425,310 479,307 533,304 587,300 641,297 694,293 748,289 802,285 856,281 910,279 963,275 1017,273 1071,271 1125,269 1179,269"/>
+                <TextEquiv>
+                    <Unicode>stuff till Smith shut the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="106,449 309,411 575,430 693,390 769,443 1034,355 1270,363 1266,308 1220,292 1156,325 988,297 796,358 657,317 433,382 311,395 222,352 101,378"/>
+                <Baseline points="111,420 168,419 226,418 283,415 341,412 398,409 456,405 513,401 571,397 628,392 686,387 744,383 801,378 859,374 916,370 974,366 1031,362 1089,360 1146,357 1204,355 1262,354"/>
+                <TextEquiv>
+                    <Unicode>gates in the faces of the carts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="192,569 363,588 516,520 637,541 749,503 959,521 1044,469 1233,476 1199,397 1134,445 985,417 835,469 704,436 650,484 517,443 411,497 273,435 185,446"/>
+                <Baseline points="196,527 247,525 298,524 350,522 401,519 453,516 504,513 556,509 607,506 659,502 710,498 761,495 813,491 864,488 916,484 967,482 1019,479 1070,477 1122,475 1173,474 1225,473"/>
+                <TextEquiv>
+                    <Unicode>Gregory has just left; he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="92,644 608,653 689,613 1092,602 1076,525 915,577 566,560 421,606 341,578 90,610"/>
+                <Baseline points="98,634 147,636 196,637 245,637 295,636 344,634 393,632 443,629 492,626 541,621 591,618 640,614 689,610 738,606 788,602 837,599 886,597 936,595 985,594 1034,594 1084,594"/>
+                <TextEquiv>
+                    <Unicode>is quite disposed to take</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="94,773 1248,697 1249,625 940,634 615,711 378,673 297,724 162,683 91,734"/>
+                <Baseline points="100,758 157,754 214,751 271,748 329,744 386,740 443,737 501,733 558,729 615,724 673,720 730,716 787,712 844,708 902,703 959,700 1016,696 1074,692 1131,689 1188,685 1246,681"/>
+                <TextEquiv>
+                    <Unicode>Morris &amp; I am to write him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="91,875 306,846 372,888 509,840 1210,811 1209,730 841,749 704,800 424,764 382,799 211,782 88,821"/>
+                <Baseline points="98,854 153,851 208,849 264,847 319,843 374,841 430,837 485,834 540,831 596,828 651,825 706,822 762,819 817,816 872,813 928,811 983,808 1038,806 1094,804 1149,803 1205,801"/>
+                <TextEquiv>
+                    <Unicode>a letter for him to take to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="102,998 886,903 959,939 1224,920 1220,850 1085,884 988,850 742,917 545,877 293,929 187,866 97,902"/>
+                <Baseline points="108,968 163,966 218,964 274,962 329,960 385,957 440,953 496,950 551,946 607,943 662,939 717,936 773,932 828,929 884,926 939,923 995,920 1050,918 1106,915 1161,914 1217,913"/>
+                <TextEquiv>
+                    <Unicode>C.O. about him. He will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="93,1077 331,1058 435,1103 516,1053 918,1040 978,1003 1208,1060 1275,1027 1271,966 1171,985 1105,940 1061,975 841,955 762,1004 569,970 517,1008 359,983 210,1043 90,1028"/>
+                <Baseline points="100,1074 158,1070 216,1066 274,1061 333,1057 391,1054 449,1049 508,1045 566,1041 624,1037 683,1033 741,1030 799,1027 857,1023 916,1021 974,1018 1032,1016 1091,1014 1149,1012 1207,1011 1266,1011"/>
+                <TextEquiv>
+                    <Unicode>write to Ceylon to treat Hartog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="149,1175 311,1168 374,1204 536,1147 1267,1121 1265,1091 1093,1048 972,1110 847,1068 670,1118 386,1099 322,1138 145,1099"/>
+                <Baseline points="156,1167 211,1165 266,1162 321,1159 376,1156 431,1153 486,1150 542,1146 597,1143 652,1140 707,1137 762,1133 817,1130 872,1127 928,1124 983,1122 1038,1119 1093,1116 1148,1114 1203,1112 1259,1110"/>
+                <TextEquiv>
+                    <Unicode>liberally &amp; send him home</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="100,1283 489,1295 642,1255 812,1303 925,1238 1262,1246 1258,1145 1147,1187 967,1164 891,1209 799,1166 536,1228 98,1227"/>
+                <Baseline points="107,1274 164,1274 221,1272 279,1271 336,1268 394,1265 451,1262 508,1258 566,1254 623,1251 681,1246 738,1243 795,1239 853,1236 910,1234 968,1232 1025,1231 1082,1230 1140,1231 1197,1233 1255,1235"/>
+                <TextEquiv>
+                    <Unicode>with enough to pay his debts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="132,1396 372,1371 433,1411 687,1350 1011,1356 1181,1345 1180,1320 868,1289 711,1335 391,1338 241,1294 129,1328"/>
+                <Baseline points="139,1370 190,1370 242,1370 294,1369 346,1368 397,1366 449,1364 501,1362 553,1359 604,1357 656,1354 708,1352 760,1349 811,1347 863,1345 915,1343 967,1341 1018,1340 1070,1339 1122,1338 1174,1338"/>
+                <TextEquiv>
+                    <Unicode>Morris is quite set upon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="149,1514 1205,1442 1214,1386 955,1375 858,1420 776,1380 632,1433 457,1407 362,1450 198,1420 145,1447"/>
+                <Baseline points="154,1472 206,1472 259,1472 312,1471 365,1469 417,1467 470,1465 523,1462 576,1458 628,1455 681,1451 734,1448 787,1444 839,1441 892,1438 945,1435 998,1433 1050,1431 1103,1430 1156,1429 1209,1429"/>
+                <TextEquiv>
+                    <Unicode>going.  &amp; will I think quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="97,1600 126,1600 151,1583 173,1592 191,1579 245,1597 267,1579 286,1585 296,1577 318,1579 315,1536 280,1527 266,1526 251,1541 222,1549 185,1544 150,1526 116,1538 92,1528"/>
+                <Baseline points="103,1583 128,1580 154,1579 180,1577 206,1575 232,1574 258,1571 284,1569 310,1566"/>
+                <TextEquiv>
+                    <Unicode>suit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="142,1693 446,1655 637,1717 787,1648 1304,1649 1301,1569 1234,1547 822,1619 762,1576 615,1628 260,1585 140,1632"/>
+                <Baseline points="149,1670 206,1669 263,1668 320,1666 378,1664 435,1662 492,1659 550,1657 607,1654 664,1651 722,1648 779,1645 836,1643 893,1640 951,1637 1008,1635 1065,1632 1123,1630 1180,1628 1237,1627 1295,1625"/>
+                <TextEquiv>
+                    <Unicode>I have nearly done 3 months</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="117,1814 1046,1730 1231,1748 1196,1652 1066,1657 981,1707 902,1675 782,1733 719,1690 471,1727 386,1689 329,1723 193,1696 114,1740"/>
+                <Baseline points="123,1778 178,1777 233,1776 288,1775 343,1772 398,1770 453,1768 508,1765 563,1762 618,1760 673,1756 728,1753 783,1750 838,1747 893,1743 948,1740 1003,1737 1058,1734 1113,1731 1168,1729 1223,1727"/>
+                <TextEquiv>
+                    <Unicode>Bot. Mag &amp; will ask Oliver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="137,1918 318,1913 397,1963 729,1856 1316,1842 1312,1770 1016,1783 978,1753 890,1821 196,1800 132,1832"/>
+                <Baseline points="143,1887 201,1888 259,1887 317,1886 376,1883 434,1880 492,1876 551,1872 609,1868 667,1863 726,1858 784,1854 842,1850 900,1846 959,1842 1017,1838 1075,1836 1134,1834 1192,1834 1250,1834 1309,1836"/>
+                <TextEquiv>
+                    <Unicode>to look after it -- as heretofore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:17;}">
+                <Coords points="877,2131 936,2109 980,2126 1039,2112 1097,2129 1195,2109 1292,2152 1295,2004 1225,2028 1186,1991 1115,1986 1060,2026 1021,2018 974,1977 904,2036 879,2038"/>
+                <Baseline points="885,2112 910,2110 935,2109 960,2109 985,2108 1010,2109 1035,2109 1060,2110 1085,2111 1110,2112 1135,2113 1160,2114 1185,2115 1210,2116 1235,2116 1260,2117 1286,2116"/>
+                <TextEquiv>
+                    <Unicode>JosDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_398" custom="readingOrder {index:18;}">
+                <Coords points="339,2009 365,2008 391,2007 417,2005 443,2003 469,2002 495,2000 521,1998 547,1996 573,1994 599,1992 625,1990 651,1987 677,1985 703,1983 729,1981 755,1979 781,1977 807,1974 834,1973 913,1974 1018,1959 1033,1959 1033,1944 1017,1944 912,1959 834,1958 806,1959 780,1962 754,1964 728,1966 702,1968 676,1970 650,1972 624,1975 598,1977 572,1979 546,1981 520,1983 494,1985 468,1987 442,1988 416,1990 390,1992 364,1993 338,1994"/>
+                <Baseline points="339,2009 365,2008 391,2007 417,2005 443,2003 469,2002 495,2000 521,1998 547,1996 573,1994 599,1992 625,1990 651,1987 677,1985 703,1983 729,1981 755,1979 781,1977 807,1974 834,1973 913,1974 1018,1959 1033,1959"/>
+                <TextEquiv>
+                    <Unicode>Evr affectionately ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>to let Carless bring in his bad
+stuff till Smith shut the
+gates in the faces of the carts.
+Gregory has just left; he
+is quite disposed to take
+Morris &amp; I am to write him
+a letter for him to take to
+C.O. about him. He will
+write to Ceylon to treat Hartog
+liberally &amp; send him home
+with enough to pay his debts.
+Morris is quite set upon
+going.  &amp; will I think quite
+suit.
+I have nearly done 3 months
+Bot. Mag &amp; will ask Oliver
+to look after it -- as heretofore.
+
+Evr affetey
+JosDHooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

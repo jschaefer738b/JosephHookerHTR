@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:39:38.440-04:00</Created>
+        <LastChange>2023-05-17T01:18:06.615+02:00</LastChange>
+        <TranskribusMetadata docId="437075" pageId="17691632" pageNr="2" tsid="121949260" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=KKZKVVGLKMBIWEQBTMLFCHIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FZCHXERPTBPLRVJIYHUGZLGL" imageId="13355375"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_41_003.jpg" imageWidth="1556" imageHeight="2426">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330862343" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="93,69 93,2380 1493,2380 1493,69"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="104,159 808,124 1105,160 1209,108 1465,112 1463,36 1242,72 1009,31 824,75 378,38 102,94"/>
+                <Baseline points="112,149 179,145 246,141 313,138 381,134 448,131 515,129 582,126 650,124 717,121 784,119 851,117 919,115 986,114 1053,112 1120,110 1188,109 1255,108 1322,106 1389,105 1457,104"/>
+                <TextEquiv>
+                    <Unicode>Nat Hist at the Central Park &amp; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="121,234 189,236 258,236 326,235 395,234 464,231 532,228 601,223 669,220 738,215 807,211 875,206 944,202 1012,199 1081,196 1150,195 1218,194 1287,195 1355,196 1387,197 1412,203 1415,188 1388,182 1355,181 1287,180 1218,179 1150,180 1081,181 1011,184 943,187 874,191 806,196 737,200 668,205 600,208 531,213 463,216 395,219 326,220 258,221 189,221 121,219"/>
+                <Baseline points="121,234 189,236 258,236 326,235 395,234 464,231 532,228 601,223 669,220 738,215 807,211 875,206 944,202 1012,199 1081,196 1150,195 1218,194 1287,195 1355,196 1387,197 1412,203"/>
+                <TextEquiv>
+                    <Unicode>Park itself; briefly meeting (through</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="99,380 465,331 619,382 886,300 1336,300 1422,342 1493,326 1491,265 1375,221 1119,277 823,233 723,276 95,285"/>
+                <Baseline points="106,338 174,338 243,337 312,335 381,333 450,329 519,326 587,322 656,318 725,315 794,311 863,307 932,303 1001,301 1069,298 1138,297 1207,296 1276,296 1345,298 1414,300 1483,304"/>
+                <TextEquiv>
+                    <Unicode>Grays forthought) Bickmore the head</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="751,375 770,372 783,377 818,363 864,379 902,367 900,301 887,300 877,311 854,306 841,319 830,311 802,307 775,329 749,328"/>
+                <Baseline points="759,361 786,359 813,357 840,356 867,355 894,356"/>
+                <TextEquiv>
+                    <Unicode>that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="116,504 199,451 588,427 901,496 1144,425 1446,462 1469,340 1340,379 1199,344 113,386"/>
+                <Baseline points="122,444 189,443 256,440 323,439 390,436 457,433 524,430 591,427 658,424 725,421 792,418 859,416 926,414 993,412 1060,410 1127,410 1194,410 1261,411 1328,412 1395,415 1462,418"/>
+                <TextEquiv>
+                    <Unicode>of one &amp; Olmstead of the other. At</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="93,559 345,587 1095,541 1447,586 1465,482 1388,460 1311,513 1170,455 851,499 716,464 578,500 443,472 324,527 253,485 92,511"/>
+                <Baseline points="102,556 169,558 237,559 305,559 372,558 440,556 508,555 575,553 643,550 711,547 779,545 846,543 914,541 982,540 1049,539 1117,540 1185,542 1252,544 1320,548 1388,554 1456,561"/>
+                <TextEquiv>
+                    <Unicode>3 PM I took the train to here, where</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="113,692 959,723 1165,653 1458,678 1473,609 1325,563 900,597 714,549 578,638 450,583 298,641 110,616"/>
+                <Baseline points="121,679 188,680 255,679 322,679 389,677 457,675 524,672 591,670 658,667 725,663 793,661 860,657 927,655 994,652 1061,650 1129,648 1196,647 1263,647 1330,648 1397,649 1465,652"/>
+                <TextEquiv>
+                    <Unicode>I spent today (Sunday) &amp; go on tomorrow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="100,801 1345,756 1361,669 1165,653 993,723 408,702 97,739"/>
+                <Baseline points="107,775 169,776 231,776 294,775 356,775 419,774 481,772 543,771 606,769 668,767 731,765 793,762 855,760 918,757 980,754 1043,751 1105,749 1167,746 1230,743 1292,739 1355,736"/>
+                <TextEquiv>
+                    <Unicode>to Boston &amp; Cambridge. Here are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="116,933 321,898 421,935 764,848 1382,862 1452,848 1449,749 1227,750 1138,819 869,784 618,829 537,787 278,845 207,806 114,857"/>
+                <Baseline points="123,874 189,875 255,875 321,874 387,873 453,871 519,869 585,866 651,863 717,859 783,856 849,853 915,850 981,847 1047,844 1113,842 1179,840 1245,839 1311,838 1377,838 1443,839"/>
+                <TextEquiv>
+                    <Unicode>Marsh, Dana &amp; Brewer from the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="116,1037 355,977 450,1045 653,999 846,1041 971,991 1408,987 1406,920 1276,858 1169,926 993,883 639,933 539,893 412,948 180,919 114,963"/>
+                <Baseline points="124,992 187,989 251,985 315,981 379,978 442,974 506,971 570,968 634,965 697,962 761,960 825,957 889,956 952,954 1016,952 1080,952 1144,951 1207,951 1271,951 1335,951 1399,952"/>
+                <TextEquiv>
+                    <Unicode>first &amp; last of whom (Dana I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="290,1043 301,1045 314,1037 323,1041 330,1040 348,1031 368,1032 366,987 335,992 321,978 288,983"/>
+                <Baseline points="298,1028 328,1026 358,1026"/>
+                <TextEquiv>
+                    <Unicode>yet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="147,1121 961,1108 1062,1070 1167,1108 1274,1049 1426,1110 1497,1091 1495,1000 1425,1034 1348,995 1101,1035 662,1001 603,1042 145,1030"/>
+                <Baseline points="155,1074 221,1076 288,1077 354,1077 421,1077 488,1076 554,1074 621,1072 687,1070 754,1068 821,1066 887,1063 954,1061 1020,1060 1087,1058 1153,1057 1220,1057 1287,1057 1353,1058 1420,1061 1487,1064"/>
+                <TextEquiv>
+                    <Unicode>not seen)I have got some most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="130,1202 490,1226 968,1161 1466,1218 1463,1097 1315,1131 1063,1069 684,1137 129,1128"/>
+                <Baseline points="138,1185 203,1184 269,1183 335,1181 401,1179 467,1177 533,1175 599,1173 665,1171 731,1168 797,1166 862,1164 928,1162 994,1161 1060,1159 1126,1159 1192,1159 1258,1159 1324,1160 1390,1162 1456,1164"/>
+                <TextEquiv>
+                    <Unicode>valuable information. -- Marsh is busy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="128,1296 1485,1278 1484,1245 1277,1207 127,1230"/>
+                <Baseline points="136,1283 203,1284 270,1283 337,1283 404,1281 471,1279 538,1277 605,1275 672,1273 739,1270 806,1268 873,1267 940,1266 1007,1265 1074,1265 1141,1267 1208,1269 1275,1272 1342,1276 1409,1282 1476,1289"/>
+                <TextEquiv>
+                    <Unicode>with the huge Dinosaurs which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="101,1389 843,1367 1501,1418 1502,1304 1423,1292 1291,1336 102,1306"/>
+                <Baseline points="110,1373 179,1375 248,1376 317,1376 386,1376 455,1375 524,1374 593,1372 662,1371 731,1369 801,1368 870,1368 939,1367 1008,1368 1077,1369 1146,1372 1215,1375 1284,1380 1353,1386 1422,1394 1492,1404"/>
+                <TextEquiv>
+                    <Unicode>have been discovered at 9000 ft elev. in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="120,1501 284,1471 429,1535 554,1468 727,1540 808,1481 1377,1485 1389,1389 972,1393 856,1440 732,1393 220,1390 120,1438"/>
+                <Baseline points="129,1471 191,1470 254,1468 316,1467 379,1466 441,1466 504,1466 566,1466 629,1467 691,1467 754,1468 817,1468 879,1469 942,1469 1004,1469 1067,1469 1129,1469 1192,1468 1254,1467 1317,1466 1380,1464"/>
+                <TextEquiv>
+                    <Unicode>the Rocky Mts. &amp; of which I think I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="126,1584 322,1618 527,1572 1385,1586 1384,1489 1189,1543 1033,1476 771,1555 562,1473 385,1557 125,1492"/>
+                <Baseline points="134,1574 196,1576 258,1577 320,1578 382,1579 444,1579 506,1579 568,1578 630,1578 692,1577 755,1576 817,1574 879,1573 941,1572 1003,1570 1065,1569 1127,1568 1189,1567 1251,1566 1313,1565 1376,1564"/>
+                <TextEquiv>
+                    <Unicode>told you I had seen bones at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="143,1713 376,1684 591,1755 686,1689 1427,1696 1427,1646 1222,1579 1153,1618 893,1603 762,1656 605,1618 383,1651 264,1585 143,1596"/>
+                <Baseline points="152,1681 215,1682 278,1683 341,1683 405,1683 468,1684 531,1684 595,1684 658,1683 721,1683 785,1683 848,1683 911,1683 974,1683 1038,1683 1101,1683 1164,1683 1228,1683 1291,1683 1354,1683 1418,1684"/>
+                <TextEquiv>
+                    <Unicode>Arkansas Canon &amp; which it appears</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:18;}">
+                <Coords points="1040,1611 1073,1610 1106,1609 1126,1607 1164,1609 1165,1594 1126,1592 1105,1594 1073,1595 1040,1596"/>
+                <Baseline points="1040,1611 1073,1610 1106,1609 1126,1607 1164,1609"/>
+                <TextEquiv>
+                    <Unicode>bones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="163,1821 1203,1777 1397,1805 1396,1698 1318,1690 1252,1755 1142,1721 1015,1746 957,1706 714,1762 548,1753 463,1698 361,1755 163,1769"/>
+                <Baseline points="171,1791 231,1790 292,1788 353,1788 414,1787 475,1786 536,1786 597,1785 658,1785 719,1784 780,1784 840,1784 901,1783 962,1783 1023,1782 1084,1782 1145,1781 1206,1780 1267,1779 1328,1777 1389,1776"/>
+                <TextEquiv>
+                    <Unicode>were procured for Marsh. This</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="253,1868 304,1839 374,1852 453,1837 540,1847 595,1831 668,1860 711,1845 710,1802 684,1792 622,1807 597,1787 555,1813 411,1794 383,1810 300,1796 252,1808"/>
+                <Baseline points="262,1837 287,1837 313,1837 339,1836 365,1836 391,1836 416,1835 442,1835 468,1834 494,1834 520,1833 546,1833 571,1832 597,1830 623,1830 649,1829 675,1827 701,1825"/>
+                <TextEquiv>
+                    <Unicode>(if it was a beast)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="106,1962 801,1878 1435,1931 1433,1838 1230,1789 1118,1841 879,1810 744,1863 104,1855"/>
+                <Baseline points="113,1901 178,1900 244,1898 309,1896 375,1893 441,1891 506,1890 572,1888 638,1886 703,1884 769,1883 835,1881 900,1880 966,1878 1032,1877 1097,1876 1163,1875 1229,1873 1294,1872 1360,1871 1426,1870"/>
+                <TextEquiv>
+                    <Unicode>beast must have been 70 ft. long</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="115,2004 345,2043 530,1998 660,2036 710,1997 1232,2024 1389,2010 1388,1936 462,1962 297,1928 114,1961"/>
+                <Baseline points="124,1993 186,1995 249,1996 312,1996 375,1996 438,1996 501,1996 563,1995 626,1994 689,1993 752,1992 815,1990 878,1989 941,1988 1003,1987 1066,1986 1129,1985 1192,1985 1255,1984 1318,1985 1381,1985"/>
+                <TextEquiv>
+                    <Unicode>&amp; Marsh identifies it sits with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="114,2118 583,2117 583,2092 469,2039 410,2058 318,2022 273,2022 228,2052 177,2024 114,2033"/>
+                <Baseline points="123,2105 148,2106 173,2107 198,2107 223,2107 248,2107 273,2107 298,2107 323,2106 349,2105 374,2105 399,2104 424,2104 449,2104 474,2104 499,2105 524,2106 549,2108 575,2110"/>
+                <TextEquiv>
+                    <Unicode>the Wealden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="165,2196 545,2251 634,2197 828,2217 965,2172 1345,2236 1342,2108 1303,2102 1131,2156 619,2094 164,2137"/>
+                <Baseline points="173,2185 231,2189 289,2192 347,2194 405,2196 463,2196 521,2197 580,2196 638,2195 696,2194 754,2192 812,2190 870,2187 928,2185 987,2182 1045,2179 1103,2177 1161,2174 1219,2171 1277,2168 1336,2166"/>
+                <TextEquiv>
+                    <Unicode>Brewer (a Dutchman, originally</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="84,2301 304,2328 419,2283 719,2323 964,2266 1308,2254 1306,2180 775,2244 625,2206 528,2265 83,2229"/>
+                <Baseline points="93,2275 153,2277 213,2278 273,2279 334,2280 394,2280 454,2280 515,2280 575,2280 635,2279 696,2278 756,2277 816,2275 876,2273 937,2271 997,2269 1057,2266 1118,2262 1178,2259 1238,2254 1299,2250"/>
+                <TextEquiv>
+                    <Unicode>Brouwer), is a sharp Botanist who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_539" custom="readingOrder {index:26;}">
+                <Coords points="137,2358 168,2360 200,2362 231,2363 263,2363 295,2363 326,2363 358,2363 390,2362 421,2362 453,2361 485,2359 516,2358 548,2357 580,2356 611,2355 643,2354 675,2353 706,2353 738,2353 770,2353 844,2341 872,2342 901,2343 929,2343 958,2344 987,2344 1015,2343 1044,2343 1072,2342 1101,2342 1130,2341 1158,2340 1187,2340 1215,2339 1244,2338 1273,2338 1301,2337 1330,2337 1358,2337 1387,2337 1416,2337 1416,2322 1387,2322 1358,2322 1330,2322 1301,2322 1273,2323 1244,2323 1214,2324 1187,2325 1158,2325 1129,2326 1101,2327 1072,2327 1044,2328 1015,2328 987,2329 958,2329 929,2328 901,2328 873,2327 843,2326 769,2338 738,2338 706,2338 675,2338 643,2339 611,2340 580,2341 548,2342 516,2343 484,2344 452,2346 421,2347 390,2347 358,2348 326,2348 295,2348 263,2348 231,2348 201,2347 169,2345 138,2343"/>
+                <Baseline points="137,2358 168,2360 200,2362 231,2363 263,2363 295,2363 326,2363 358,2363 390,2362 421,2362 453,2361 485,2359 516,2358 548,2357 580,2356 611,2355 643,2354 675,2353 706,2353 738,2353 770,2353 844,2341 872,2342 901,2343 929,2343 958,2344 987,2344 1015,2343 1044,2343 1072,2342 1101,2342 1130,2341 1158,2340 1187,2340 1215,2339 1244,2338 1273,2338 1301,2337 1330,2337 1358,2337 1387,2337 1416,2337"/>
+                <TextEquiv>
+                    <Unicode>accompanied one of the Paupir Surveys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nat Hist at the Central Park &amp; the
+Park itself; briefly meeting (through
+Grays forthought) Bickmore the head
+that
+of one &amp; Olmstead of the other. At
+3 PM I took the train to here, where
+I spent today (Sunday) &amp; go on tomorrow
+to Boston &amp; Cambridge. Here are
+Marsh, Dana &amp; Brewer from the
+first &amp; last of whom (Dana I have
+yet
+not seen)I have got some most
+valuable information. -- Marsh is busy
+with the huge Dinosaurs which
+have been discovered at 9000 ft elev. in
+the Rocky Mts. &amp; of which I think I
+told you I had seen bones at
+es
+bo
+Arkansas Canon &amp; which bones it appears
+were procured for Marsh. This
+(if it was a beast)
+beast must have been 70 ft. long
+&amp; Marsh identifies it sits with
+the Wealden
+Brewer (a Dutchman, originally
+Brouwer), is a sharp Botanist who
+the Paupir Surveys
+accompanied one of</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

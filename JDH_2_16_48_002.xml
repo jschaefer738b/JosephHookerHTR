@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:50:19.258-04:00</Created>
+        <LastChange>2020-08-28T03:54:35.499+02:00</LastChange>
+        <TranskribusMetadata docId="437083" pageId="17691674" pageNr="2" tsid="38502561" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=PYJGBQSBYRGOTQLPZJGVOCHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LWTIQELIDASGVIIYAORKGNIE" imageId="13355417"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_48_002.jpg" imageWidth="1360" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330850598" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="163,235 163,1505 1247,1505 1247,235"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="187,318 429,342 488,313 548,345 1092,291 1090,234 957,224 909,246 774,219 639,286 443,234 304,267 184,229"/>
+                <Baseline points="193,315 237,316 282,316 326,316 371,316 416,315 460,314 505,313 549,311 594,310 639,308 683,306 728,304 772,302 817,300 862,299 906,297 951,295 995,294 1040,292 1085,291"/>
+                <TextEquiv>
+                    <Unicode>at the Glasgow necropolis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="178,466 557,436 724,466 892,411 1030,429 1218,391 785,349 651,387 583,354 434,368 331,425 175,415"/>
+                <Baseline points="183,445 234,445 286,444 337,442 389,440 440,438 492,435 543,432 595,429 646,425 698,423 749,419 801,417 852,413 904,411 955,410 1007,408 1058,407 1110,406 1161,406 1213,407"/>
+                <TextEquiv>
+                    <Unicode>near the High Church -- an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="157,579 451,566 631,612 835,549 1242,530 1252,481 1076,447 1009,501 719,488 381,540 154,514"/>
+                <Baseline points="163,566 217,567 271,568 325,569 379,568 434,567 488,566 542,564 596,561 650,559 705,556 759,552 813,549 867,546 921,542 976,539 1030,536 1084,532 1138,529 1192,525 1247,523"/>
+                <TextEquiv>
+                    <Unicode>enormous way from our house.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="231,698 387,717 501,679 807,684 1034,648 1148,683 1154,579 1058,624 958,581 842,651 581,609 453,658 227,635"/>
+                <Baseline points="237,691 282,689 328,688 373,687 419,685 465,683 510,681 556,679 602,677 647,675 693,673 739,670 784,668 830,665 876,662 921,659 967,656 1013,653 1058,650 1104,646 1150,643"/>
+                <TextEquiv>
+                    <Unicode>We go down on Monday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="223,826 537,833 1037,779 1172,819 1247,802 1244,734 1156,714 1074,746 1019,712 759,761 589,736 504,775 444,744 220,768"/>
+                <Baseline points="229,808 279,808 329,807 380,806 430,805 481,803 531,802 582,800 632,798 683,795 733,793 783,790 834,787 884,785 935,782 985,778 1036,776 1086,773 1137,770 1187,767 1238,765"/>
+                <TextEquiv>
+                    <Unicode>at about 111 &amp; shall stay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="225,975 609,961 906,911 1031,925 1043,844 992,873 833,849 743,908 604,855 222,926"/>
+                <Baseline points="231,949 271,951 312,953 352,953 393,953 433,952 474,951 514,949 555,947 595,943 636,940 676,937 717,934 757,930 798,926 838,923 879,919 919,916 960,913 1000,910 1041,908"/>
+                <TextEquiv>
+                    <Unicode>at the Royal Hotel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="256,1112 373,1141 457,1116 511,1121 576,1077 663,1068 685,1081 759,1061 758,1035 595,1035 541,1011 501,1043 450,1024 415,1054 292,1005 249,1015"/>
+                <Baseline points="261,1090 286,1091 312,1091 338,1090 364,1089 390,1088 416,1087 442,1084 468,1082 494,1080 519,1078 545,1076 571,1074 597,1071 623,1070 649,1067 675,1066 701,1064 727,1064 753,1064"/>
+                <TextEquiv>
+                    <Unicode>George's Square.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="460,1279 511,1252 671,1295 730,1281 771,1310 817,1307 910,1207 932,1203 916,1140 875,1175 818,1184 735,1155 689,1185 636,1192 533,1147 450,1164"/>
+                <Baseline points="464,1250 489,1249 515,1249 541,1248 566,1247 592,1245 618,1243 643,1241 669,1240 695,1237 720,1234 746,1232 772,1229 797,1226 823,1223 849,1220 874,1217 900,1214 926,1211"/>
+                <TextEquiv>
+                    <Unicode>Ev affey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="758,1480 841,1463 905,1476 936,1453 1000,1478 1126,1448 1193,1461 1185,1345 1125,1326 1032,1344 998,1317 940,1322 890,1282 850,1276 788,1338 748,1341"/>
+                <Baseline points="764,1474 790,1471 816,1468 842,1465 869,1462 895,1458 921,1455 948,1452 974,1450 1000,1448 1027,1446 1053,1444 1079,1443 1106,1443 1132,1444 1158,1445 1185,1448"/>
+                <TextEquiv>
+                    <Unicode>J D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>at the Glasgow necropolis,&#13;
+near the High Church -- an&#13;
+enormous way from our house.&#13;
+We go down on Monday&#13;
+at about 111 &amp; shall stay&#13;
+at the Royal Hotel,&#13;
+George's Square.&#13;
+Ev affey&#13;
+J D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

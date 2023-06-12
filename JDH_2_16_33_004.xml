@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:55:30.464-04:00</Created>
+        <LastChange>2023-05-16T17:58:29.643+02:00</LastChange>
+        <TranskribusMetadata docId="423585" pageId="16858814" pageNr="4" tsid="121937644" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ANPVNFVWQHAVXGVOUJTTJFKQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FJRKGZCPPIESPTWNSTFIAPKY" imageId="12610326"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_33_004.jpg" imageWidth="1190" imageHeight="1823">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330893077" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="87,68 87,643 1096,643 1096,68"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="81,144 163,129 245,177 326,129 544,143 621,115 718,160 891,97 1090,113 1089,73 977,26 874,68 670,44 438,100 307,53 80,84"/>
+                <Baseline points="87,121 136,123 186,124 236,125 286,125 336,125 386,124 435,122 485,120 535,118 585,116 635,114 685,112 735,110 784,108 834,106 884,104 934,103 984,103 1034,103 1084,104"/>
+                <TextEquiv>
+                    <Unicode>hardly do anything in town</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="114,233 371,225 454,253 584,208 1052,209 1103,197 1099,112 972,173 782,182 682,148 634,178 531,134 430,176 351,156 112,189"/>
+                <Baseline points="120,230 168,228 217,226 266,224 315,221 364,219 412,217 461,214 510,212 559,209 608,207 656,204 705,202 754,201 803,199 852,198 900,197 949,196 998,196 1047,196 1096,197"/>
+                <TextEquiv>
+                    <Unicode>&amp; at the Association in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="101,355 136,336 170,348 195,327 236,342 276,328 311,338 337,319 400,343 472,313 494,323 493,291 393,276 357,306 295,286 250,306 193,299 155,275 114,291 98,284"/>
+                <Baseline points="106,331 131,330 156,329 182,328 207,328 233,327 258,326 284,325 309,324 335,323 360,322 386,321 411,319 437,318 462,316 488,314"/>
+                <TextEquiv>
+                    <Unicode>same day.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="198,472 237,447 510,456 542,438 673,447 758,488 925,443 924,401 841,368 785,398 686,359 520,382 486,416 388,397 326,423 247,358 195,366"/>
+                <Baseline points="204,452 239,451 275,449 311,447 346,446 382,444 418,443 453,442 489,441 525,439 561,438 596,437 632,436 668,435 703,434 739,433 775,433 810,432 846,431 882,431 918,430"/>
+                <TextEquiv>
+                    <Unicode>Ever mostsincerely yours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="470,665 540,636 617,638 671,673 770,644 816,650 841,629 975,645 973,595 894,546 861,541 826,566 775,528 718,537 677,518 615,563 573,538 514,599 468,608"/>
+                <Baseline points="475,633 500,632 526,632 552,630 578,629 604,629 630,627 656,626 682,625 708,624 734,623 760,623 786,621 812,621 838,620 864,620 890,619 916,619 942,618 968,618"/>
+                <TextEquiv>
+                    <Unicode>Jos. D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hardly do anything in town&#13;
+&amp; at the Association in the&#13;
+same day.&#13;
+Ever mostsincerely yours&#13;
+Jos. D. Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

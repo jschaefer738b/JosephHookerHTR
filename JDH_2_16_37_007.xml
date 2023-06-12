@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T23:01:25.082-04:00</Created>
+        <LastChange>2020-07-07T01:37:49.766+02:00</LastChange>
+        <TranskribusMetadata docId="423589" pageId="16858830" pageNr="4" tsid="33601645" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=WPHKWCXBJGKRHQBTEYXHYIOK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XZMOIJOKUAWSKTWXBRJAPZYX" imageId="12610342"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_37_007.jpg" imageWidth="1380" imageHeight="2175">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330879505" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="35,67 35,2096 1334,2096 1334,67"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="84,135 316,124 394,175 695,119 856,168 1052,109 1334,137 1332,57 990,15 709,95 465,51 83,66"/>
+                <Baseline points="91,127 152,127 214,127 276,126 337,125 399,124 461,122 522,121 584,119 646,118 708,117 769,115 831,113 893,112 954,111 1016,110 1078,110 1139,109 1201,109 1263,109 1325,110"/>
+                <TextEquiv>
+                    <Unicode>will be early informed by Thwaites -- it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="61,256 1112,212 1182,245 1266,235 1265,195 1125,159 850,188 658,148 568,190 327,152 60,218"/>
+                <Baseline points="68,238 127,238 187,237 246,236 306,235 365,233 425,231 484,229 544,227 603,224 663,222 722,220 782,218 841,216 901,215 960,214 1020,214 1079,214 1139,214 1198,216 1258,218"/>
+                <TextEquiv>
+                    <Unicode>is better that he should leave</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="87,351 1247,332 1245,270 1099,235 945,288 716,287 669,247 569,300 408,261 324,312 85,285"/>
+                <Baseline points="94,332 151,331 208,330 265,328 323,327 380,325 437,323 494,322 552,320 609,318 666,316 723,315 781,313 838,312 895,311 952,310 1010,309 1067,308 1124,308 1181,308 1239,308"/>
+                <TextEquiv>
+                    <Unicode>at once than hang on if he is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="63,439 116,437 158,461 213,427 286,441 328,416 422,441 587,440 630,423 629,377 482,393 299,357 273,385 213,361 162,395 61,381"/>
+                <Baseline points="71,427 98,429 126,430 153,431 181,431 209,431 236,430 264,429 291,428 319,426 347,425 374,424 402,422 429,421 457,419 485,418 512,417 540,416 567,416 595,416 623,417"/>
+                <TextEquiv>
+                    <Unicode>not to succeed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="119,550 917,496 1301,518 1298,456 1050,417 931,453 771,415 492,492 116,475"/>
+                <Baseline points="126,534 184,533 242,531 300,529 359,527 417,524 475,522 533,519 592,516 650,514 708,510 766,508 825,504 883,502 941,499 999,496 1058,493 1116,491 1174,489 1232,487 1291,485"/>
+                <TextEquiv>
+                    <Unicode>I am aghast at the Linnean</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="75,656 1342,598 1339,530 1290,521 1216,561 601,520 474,596 72,582"/>
+                <Baseline points="81,624 143,623 206,622 268,620 331,618 394,615 456,613 519,609 582,607 644,604 707,600 770,598 832,595 895,592 958,590 1020,588 1083,586 1146,585 1208,585 1271,585 1334,586"/>
+                <TextEquiv>
+                    <Unicode>proceeding. I feel persuaded that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="80,727 407,746 841,683 1267,710 1264,621 1127,619 1044,667 778,625 700,677 631,644 557,681 416,648 252,694 137,646 79,675"/>
+                <Baseline points="88,717 146,718 205,718 263,718 322,717 380,715 439,713 497,711 556,708 614,705 673,702 732,700 790,697 849,694 907,692 966,690 1024,689 1083,689 1141,689 1200,689 1259,691"/>
+                <TextEquiv>
+                    <Unicode>Edgeworth's work was worthless</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="69,833 579,842 635,795 835,782 1141,813 1148,719 929,709 783,768 643,730 567,775 506,746 390,786 176,741 66,779"/>
+                <Baseline points="75,812 128,813 181,813 235,813 288,811 342,810 395,808 448,805 502,803 555,800 609,796 662,794 715,791 769,788 822,785 876,783 929,781 982,780 1036,779 1089,779 1143,779"/>
+                <TextEquiv>
+                    <Unicode>&amp; that it is his brain that is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="94,922 245,956 551,876 607,923 689,889 791,934 1031,856 1220,935 1297,907 1294,836 1031,814 578,852 471,820 329,878 91,845"/>
+                <Baseline points="102,909 161,909 220,907 279,905 339,903 398,900 457,896 517,893 576,889 635,885 695,882 754,878 813,874 872,872 932,870 991,868 1050,868 1110,868 1169,869 1228,872 1288,876"/>
+                <TextEquiv>
+                    <Unicode>wrong. &amp; that probably not one of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="69,1014 296,1001 421,1045 572,991 716,1032 800,975 1328,998 1310,935 1049,910 652,918 535,968 66,947"/>
+                <Baseline points="77,1006 139,1007 201,1007 263,1005 325,1003 387,1000 449,996 511,992 573,988 635,984 698,980 760,975 822,973 884,970 946,968 1008,967 1070,968 1132,970 1194,973 1256,978 1319,985"/>
+                <TextEquiv>
+                    <Unicode>his drawings is truly accurate, whilst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="95,1115 645,1138 965,1059 1251,1074 1250,1030 979,997 722,1056 656,1024 559,1068 93,1049"/>
+                <Baseline points="103,1094 160,1095 217,1095 274,1095 331,1094 388,1092 445,1090 502,1087 559,1084 616,1081 673,1077 730,1074 787,1071 844,1068 901,1065 958,1063 1015,1061 1072,1060 1129,1059 1186,1060 1243,1061"/>
+                <TextEquiv>
+                    <Unicode>no inconsiderable number are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="76,1230 771,1226 853,1179 978,1228 1042,1171 1210,1220 1265,1179 1231,1114 1021,1154 891,1117 786,1160 74,1161"/>
+                <Baseline points="84,1201 142,1201 201,1201 259,1200 318,1199 377,1198 435,1196 494,1194 553,1192 611,1189 670,1187 729,1184 787,1181 846,1179 905,1176 963,1174 1022,1172 1081,1170 1139,1168 1198,1167 1257,1166"/>
+                <TextEquiv>
+                    <Unicode>simple chimaeras -- having nothing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="61,1325 683,1326 845,1274 1119,1269 1219,1312 1214,1218 1154,1194 838,1262 587,1238 457,1280 323,1236 59,1292"/>
+                <Baseline points="69,1315 126,1317 183,1317 240,1316 297,1315 354,1313 411,1310 468,1307 525,1303 582,1299 639,1295 696,1291 753,1286 810,1283 867,1278 924,1274 981,1271 1038,1269 1095,1266 1152,1264 1209,1264"/>
+                <TextEquiv>
+                    <Unicode>in the remotest degree resembling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="79,1424 631,1401 756,1453 916,1380 1225,1379 1222,1319 996,1282 800,1357 398,1335 297,1394 168,1328 76,1368"/>
+                <Baseline points="85,1408 141,1409 198,1410 254,1410 311,1410 368,1409 424,1407 481,1405 537,1403 594,1399 651,1397 707,1394 764,1390 820,1386 877,1383 934,1379 990,1376 1047,1373 1103,1370 1160,1367 1217,1364"/>
+                <TextEquiv>
+                    <Unicode>them except amongst diatoms,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="64,1546 1250,1499 1222,1418 931,1470 807,1428 677,1471 514,1436 471,1475 181,1433 62,1482"/>
+                <Baseline points="71,1520 129,1519 188,1518 246,1517 305,1515 363,1514 422,1512 480,1510 539,1508 597,1507 656,1504 714,1502 773,1500 831,1498 890,1495 948,1493 1007,1490 1065,1487 1124,1485 1182,1482 1241,1479"/>
+                <TextEquiv>
+                    <Unicode>Radiolarians &amp; God knows what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="100,1634 665,1637 801,1588 911,1637 1075,1586 1192,1607 1190,1560 1065,1522 984,1571 753,1531 648,1567 530,1535 98,1582"/>
+                <Baseline points="107,1619 160,1618 214,1617 268,1615 322,1614 376,1612 429,1610 483,1608 537,1606 591,1603 645,1601 698,1599 752,1597 806,1594 860,1592 914,1590 967,1588 1021,1586 1075,1583 1129,1581 1183,1580"/>
+                <TextEquiv>
+                    <Unicode>organisms that he may have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="86,1726 698,1746 823,1690 1067,1720 1208,1706 1237,1632 84,1673"/>
+                <Baseline points="93,1713 149,1713 206,1712 263,1710 320,1709 377,1707 434,1705 491,1703 548,1701 605,1699 662,1697 718,1695 775,1693 832,1692 889,1691 946,1690 1003,1690 1060,1690 1117,1691 1174,1693 1231,1695"/>
+                <TextEquiv>
+                    <Unicode>seen in wood-cuts of Science gossip,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="27,1769 115,1763 160,1790 176,1773 218,1758 249,1780 261,1778 273,1766 292,1767 290,1715 251,1712 217,1732 206,1724 194,1732 180,1720 61,1723 36,1745 26,1743"/>
+                <Baseline points="35,1761 62,1759 90,1757 117,1756 145,1755 172,1754 200,1753 227,1752 255,1751 283,1750"/>
+                <TextEquiv>
+                    <Unicode>subsequently</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="104,1846 358,1818 410,1857 550,1800 907,1780 1241,1797 1240,1761 1101,1710 877,1769 661,1736 102,1774"/>
+                <Baseline points="111,1805 167,1805 223,1805 279,1804 335,1803 391,1802 447,1800 503,1798 559,1797 615,1795 672,1793 728,1791 784,1789 840,1787 896,1786 952,1785 1008,1783 1064,1783 1120,1783 1176,1783 1233,1784"/>
+                <TextEquiv>
+                    <Unicode>dreamt of, &amp; had on the brain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="75,1917 752,1876 870,1903 943,1872 1064,1922 1156,1883 1153,1792 743,1861 501,1840 403,1870 342,1835 245,1883 164,1849 74,1876"/>
+                <Baseline points="83,1903 136,1900 189,1898 242,1895 296,1893 349,1891 402,1889 455,1887 509,1885 562,1884 615,1882 668,1880 722,1878 775,1876 828,1874 881,1872 935,1870 988,1868 1041,1865 1094,1863 1148,1860"/>
+                <TextEquiv>
+                    <Unicode>when his eye was vacantly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="75,2013 233,2041 303,1988 504,2014 560,1972 948,1951 1127,1981 1208,1966 1206,1913 1073,1936 984,1893 735,1945 587,1904 528,1950 383,1930 313,1961 246,1928 73,1960"/>
+                <Baseline points="83,1997 138,1994 194,1991 250,1988 306,1985 362,1982 417,1979 473,1975 529,1973 585,1970 641,1968 696,1965 752,1963 808,1961 864,1960 920,1959 975,1958 1031,1957 1087,1957 1143,1958 1199,1958"/>
+                <TextEquiv>
+                    <Unicode>gazing at a pollen cell under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="69,2085 618,2055 742,2094 856,2061 1050,2112 1154,2065 1222,2094 1220,2007 1049,1979 968,2023 721,1988 655,2044 540,2016 213,2052 157,2010 69,2053"/>
+                <Baseline points="77,2077 133,2076 190,2075 247,2074 304,2073 361,2071 417,2069 474,2067 531,2065 588,2063 645,2061 701,2060 758,2058 815,2057 872,2057 929,2057 985,2057 1042,2058 1099,2060 1156,2063 1213,2066"/>
+                <TextEquiv>
+                    <Unicode>the microsscope. In fact they are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>will be early informed by Thwaites -- it&#13;
+is better that he should leave&#13;
+at once than hang on if he is&#13;
+not to succeed&#13;
+I am aghast at the Linnean&#13;
+proceeding. I feel persuaded that&#13;
+Edgeworth's work was worthless&#13;
+&amp; that it is his brain that is&#13;
+wrong. &amp; that probably not one of&#13;
+his drawings is truly accurate, whilst&#13;
+no inconsiderable number are&#13;
+simple chimaeras -- having nothing&#13;
+in the remotest degree resembling&#13;
+them except amongst diatoms,&#13;
+Radiolarians &amp; God knows what&#13;
+organisms that he may have&#13;
+seen in wood-cuts of Science gossip,&#13;
+subsequently&#13;
+dreamt of, &amp; had on the brain&#13;
+when his eye was vacantly&#13;
+gazing at a pollen cell under&#13;
+the microsscope. In fact they are</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

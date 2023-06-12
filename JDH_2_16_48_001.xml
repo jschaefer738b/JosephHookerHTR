@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:50:19.200-04:00</Created>
+        <LastChange>2023-05-17T01:37:40.411+02:00</LastChange>
+        <TranskribusMetadata docId="437083" pageId="17691673" pageNr="1" tsid="121949621" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GBFMOOQGYWMKSGSEVBUBRXZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXRZSJZILSBAWROHCOHYMTHF" imageId="13355416"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_48_001.jpg" imageWidth="1362" imageHeight="2236">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330850301" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="89,42 89,2128 1304,2128 1304,42"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="723,201 809,186 855,205 886,189 948,213 1074,200 1074,107 1057,99 1020,118 954,124 863,104 818,125 765,85 723,98"/>
+                <Baseline points="730,169 755,168 781,167 807,166 833,165 859,165 885,164 911,164 937,164 963,164 989,165 1015,166 1041,168 1067,171"/>
+                <TextEquiv>
+                    <Unicode>July 19.79</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="688,348 814,328 919,375 995,345 1078,380 1147,336 1176,339 1168,254 1074,219 993,263 917,243 826,253 778,225 679,257"/>
+                <Baseline points="693,336 719,335 745,333 771,330 797,327 824,325 850,322 876,319 902,317 929,314 955,311 981,308 1007,305 1033,303 1060,300 1086,299 1112,297 1138,296 1165,295"/>
+                <TextEquiv>
+                    <Unicode>Saturday mg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="102,662 174,660 216,632 234,645 285,632 388,648 419,671 505,631 537,637 534,563 470,570 404,522 335,564 216,540 138,614 101,628"/>
+                <Baseline points="108,647 134,645 160,643 187,641 213,640 239,638 266,636 292,636 319,634 345,633 371,632 398,631 424,630 450,629 477,629 503,628 530,627"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="116,917 977,811 1163,856 1156,779 1029,766 952,803 837,779 765,821 533,781 349,836 193,809 111,854"/>
+                <Baseline points="120,892 171,889 223,885 274,882 326,877 378,873 429,869 481,864 532,859 584,855 636,849 687,845 739,840 790,836 842,832 894,828 945,824 997,821 1048,818 1100,816 1152,815"/>
+                <TextEquiv>
+                    <Unicode>that Willielma died very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:4;}">
+                <Coords points="89,806 114,803 139,800 165,798 190,795 216,794 241,791 267,789 292,785 318,781 343,775 369,768 381,758 425,754 469,751 513,748 557,746 602,743 646,740 690,738 734,735 778,733 823,730 867,728 911,725 955,723 999,720 1044,717 1088,714 1132,710 1176,707 1220,703 1265,698 1263,683 1218,688 1175,692 1131,695 1087,699 1043,702 998,705 954,708 910,710 866,713 822,715 777,718 733,720 689,723 645,725 601,728 556,731 512,733 468,736 424,739 375,744 362,755 339,760 315,766 290,770 265,774 240,776 215,779 189,780 164,783 138,785 112,788 87,791"/>
+                <Baseline points="89,806 114,803 139,800 165,798 190,795 216,794 241,791 267,789 292,785 318,781 343,775 369,768 381,758 425,754 469,751 513,748 557,746 602,743 646,740 690,738 734,735 778,733 823,730 867,728 911,725 955,723 999,720 1044,717 1088,714 1132,710 1176,707 1220,703 1265,698"/>
+                <TextEquiv>
+                    <Unicode>to il We have just heard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="158,1018 314,987 437,1028 594,959 880,935 1039,980 1103,950 1228,971 1244,882 1078,867 930,920 762,878 665,928 153,952"/>
+                <Baseline points="162,993 215,989 269,985 323,981 377,977 431,973 485,969 539,964 593,961 647,956 701,952 754,948 808,945 862,941 916,938 970,935 1024,931 1078,929 1132,927 1186,925 1240,923"/>
+                <TextEquiv>
+                    <Unicode>suddenly &amp; without suffering,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="171,1113 410,1089 524,1141 612,1078 743,1109 809,1045 930,1077 1148,1034 1169,984 1084,1012 993,973 743,977 691,1031 538,998 166,1054"/>
+                <Baseline points="176,1095 225,1092 274,1090 324,1086 373,1083 423,1079 472,1076 522,1072 571,1067 621,1063 670,1059 719,1055 769,1051 818,1047 868,1043 917,1040 967,1036 1016,1032 1066,1029 1115,1026 1165,1024"/>
+                <TextEquiv>
+                    <Unicode>&amp; the letter (from Isabella) is so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="192,1202 289,1234 446,1177 1025,1179 1200,1142 1196,1075 904,1133 628,1100 561,1140 189,1140"/>
+                <Baseline points="198,1187 247,1185 297,1183 347,1181 397,1179 446,1176 496,1174 546,1170 596,1168 645,1165 695,1162 745,1159 795,1155 844,1152 894,1149 944,1146 994,1144 1043,1141 1093,1139 1143,1137 1193,1136"/>
+                <TextEquiv>
+                    <Unicode>confused that we cannot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="208,1331 418,1303 493,1327 625,1281 1181,1240 1160,1198 955,1229 906,1202 770,1214 647,1256 534,1213 425,1258 320,1239 203,1271"/>
+                <Baseline points="213,1315 261,1313 309,1309 357,1306 405,1301 453,1298 501,1293 549,1289 597,1284 645,1279 694,1275 742,1271 790,1267 838,1262 886,1259 934,1255 982,1252 1030,1249 1078,1246 1126,1244 1175,1242"/>
+                <TextEquiv>
+                    <Unicode>gather from what cause</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="156,1430 1231,1375 1226,1308 1141,1330 1054,1300 744,1368 153,1376"/>
+                <Baseline points="162,1421 215,1419 268,1416 321,1413 374,1410 427,1406 480,1402 533,1398 586,1394 639,1389 692,1385 745,1380 798,1376 851,1373 904,1369 957,1365 1010,1363 1063,1361 1116,1360 1169,1359 1223,1359"/>
+                <TextEquiv>
+                    <Unicode>indeed none is mentioned.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="195,1552 535,1507 637,1530 792,1476 888,1506 1011,1467 1156,1473 1139,1402 1068,1454 764,1421 543,1489 261,1450 191,1487"/>
+                <Baseline points="200,1524 247,1524 294,1523 342,1522 389,1519 437,1516 484,1513 532,1509 579,1505 627,1501 674,1497 721,1492 769,1488 816,1483 864,1480 911,1476 959,1474 1006,1471 1054,1469 1101,1468 1149,1467"/>
+                <TextEquiv>
+                    <Unicode>She had quite time to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="214,1632 832,1599 964,1547 1311,1549 1305,1482 1232,1481 1164,1523 895,1501 764,1559 693,1532 629,1567 553,1529 211,1598"/>
+                <Baseline points="220,1616 274,1615 328,1614 382,1611 436,1608 491,1604 545,1600 599,1595 653,1590 707,1584 762,1579 816,1574 870,1568 924,1563 978,1559 1033,1555 1087,1551 1141,1548 1195,1547 1249,1546 1304,1546"/>
+                <TextEquiv>
+                    <Unicode>see her husband &amp; bid him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="212,1768 327,1729 506,1764 609,1720 698,1747 1055,1703 1223,1727 1258,1665 1124,1643 785,1685 676,1638 556,1671 453,1647 374,1697 207,1671"/>
+                <Baseline points="217,1745 268,1742 320,1738 372,1736 424,1732 476,1729 527,1726 579,1723 631,1719 683,1717 735,1714 786,1712 838,1710 890,1707 942,1706 994,1704 1045,1703 1097,1702 1149,1702 1201,1702 1253,1703"/>
+                <TextEquiv>
+                    <Unicode>good bye, &amp; to leave a message</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="235,1898 355,1847 420,1877 788,1830 1266,1840 1262,1765 1187,1748 1099,1785 987,1756 905,1794 837,1755 759,1803 677,1770 488,1814 231,1803"/>
+                <Baseline points="240,1867 290,1862 341,1859 392,1854 443,1851 494,1847 545,1844 596,1840 647,1837 698,1835 749,1832 799,1830 850,1828 901,1826 952,1824 1003,1822 1054,1821 1105,1820 1156,1820 1207,1820 1258,1820"/>
+                <TextEquiv>
+                    <Unicode>her brot mother who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="197,1995 631,1973 753,2016 942,1950 1183,1957 1178,1861 876,1936 743,1907 551,1943 473,1917 376,1949 195,1937"/>
+                <Baseline points="204,1984 252,1983 301,1982 349,1980 398,1978 446,1977 495,1975 543,1973 592,1971 640,1969 689,1967 738,1965 786,1963 835,1960 883,1958 932,1955 980,1953 1029,1951 1077,1947 1126,1945 1175,1942"/>
+                <TextEquiv>
+                    <Unicode>was not sleeping in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="201,2118 1273,2101 1271,2044 1074,2014 905,2018 815,2061 636,2001 462,2077 200,2035"/>
+                <Baseline points="208,2102 260,2102 313,2101 366,2101 419,2100 472,2098 525,2097 577,2096 630,2094 683,2093 736,2091 789,2090 842,2088 895,2087 947,2087 1000,2086 1053,2086 1106,2086 1159,2086 1212,2088 1265,2089"/>
+                <TextEquiv>
+                    <Unicode>house. She is to be buried</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+July 19.79
+Saturday mg.
+Dear Dyer
+We have just heard
+to il
+that Willielma died very
+suddenly &amp; without suffering,
+&amp; the letter (from Isabella) is so
+confused that we cannot
+gather from what cause
+indeed none is mentioned.
+She had quite time to
+see her husband &amp; bid him
+good bye, &amp; to leave a message
+her brot mother who
+was not sleeping in the
+house. She is to be buried</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

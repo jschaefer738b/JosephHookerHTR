@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:48:49.028-04:00</Created>
+        <LastChange>2020-08-28T03:40:56.124+02:00</LastChange>
+        <TranskribusMetadata docId="437082" pageId="17691671" pageNr="3" tsid="38502470" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=CUIJMAMRCQXBWXKYHUJYVTWX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TLYXWAKDBLUKFTHZIOGJVXBD" imageId="13355414"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_47_003.jpg" imageWidth="1359" imageHeight="2224">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330851960" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="95,106 95,1546 1313,1546 1313,106"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="93,203 810,194 1113,155 1082,85 1003,121 612,85 398,114 331,161 90,107"/>
+                <Baseline points="101,191 151,189 201,187 251,185 301,183 352,181 402,180 452,178 502,177 552,175 603,173 653,171 703,169 753,168 803,165 854,163 904,161 954,158 1004,155 1054,152 1105,148"/>
+                <TextEquiv>
+                    <Unicode>he was to take the next</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="91,328 197,294 429,341 514,296 903,272 1153,319 1302,300 1301,230 1102,193 946,262 467,212 261,258 90,217"/>
+                <Baseline points="99,297 158,295 218,293 278,291 338,290 397,288 457,287 517,285 577,284 636,283 696,282 756,281 816,281 875,281 935,281 995,281 1055,282 1114,283 1174,284 1234,286 1294,288"/>
+                <TextEquiv>
+                    <Unicode>train for Chippenham -- I thought</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="88,424 606,387 713,441 835,398 1136,407 1135,349 519,346 439,386 344,327 87,328"/>
+                <Baseline points="95,406 146,406 198,405 249,405 301,404 353,402 404,401 456,400 508,398 559,397 611,396 663,395 714,394 766,394 818,393 869,394 921,394 973,396 1024,398 1076,400 1128,403"/>
+                <TextEquiv>
+                    <Unicode>he looked in a very critical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="156,517 1211,490 1210,438 1123,420 946,455 891,428 736,460 494,428 408,467 329,431 155,450"/>
+                <Baseline points="164,509 218,506 273,503 328,500 382,498 437,496 492,494 546,493 601,491 656,490 710,489 765,488 820,487 874,487 929,486 984,486 1038,486 1093,486 1148,485 1203,485"/>
+                <TextEquiv>
+                    <Unicode>state. Scarlet with watery</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="115,641 312,593 547,602 682,655 868,593 1265,610 1263,540 1167,517 925,523 848,567 590,529 220,567 161,536 114,576"/>
+                <Baseline points="122,612 178,609 235,607 292,604 349,602 405,599 462,597 519,594 576,592 632,590 689,588 746,587 803,586 859,585 916,585 973,585 1030,585 1086,586 1143,588 1200,590 1257,593"/>
+                <TextEquiv>
+                    <Unicode>eyes &amp; complaing of suppressed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="121,761 347,710 617,709 690,767 773,705 1320,734 1319,675 1215,650 1092,685 811,636 564,676 492,623 409,674 283,648 121,683"/>
+                <Baseline points="129,731 188,729 247,727 306,724 365,721 425,718 484,716 543,712 602,710 661,708 721,706 780,704 839,703 898,703 957,704 1017,705 1076,708 1135,711 1194,716 1253,722 1313,729"/>
+                <TextEquiv>
+                    <Unicode>gout. I am very anxious about</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="117,852 1271,814 1269,769 1159,775 1062,722 960,783 442,757 269,818 192,767 115,776"/>
+                <Baseline points="125,838 181,838 238,837 295,836 352,835 409,833 466,831 523,828 580,826 637,823 694,820 750,818 807,816 864,813 921,811 978,810 1035,809 1092,808 1149,809 1206,809 1263,811"/>
+                <TextEquiv>
+                    <Unicode>him -- I shall go over tomorrow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="109,946 325,951 406,1008 452,974 534,982 602,934 692,925 691,866 625,861 491,904 405,874 364,894 319,862 192,906 108,895"/>
+                <Baseline points="116,938 144,938 172,939 201,939 229,939 258,939 286,938 315,938 343,937 372,936 400,936 428,935 457,934 485,933 514,933 542,932 571,932 599,931 628,931 656,931 685,932"/>
+                <TextEquiv>
+                    <Unicode>or the day after</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="105,1071 1175,1030 1171,954 1132,939 832,952 743,999 475,972 409,1030 332,981 171,966 102,1005"/>
+                <Baseline points="113,1058 165,1059 218,1058 271,1057 323,1056 376,1054 429,1052 481,1049 534,1047 587,1044 640,1041 692,1038 745,1035 798,1032 850,1029 903,1026 956,1023 1008,1020 1061,1018 1114,1016 1167,1014"/>
+                <TextEquiv>
+                    <Unicode>P.P. S. This was too late for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="91,1183 242,1144 330,1186 715,1123 1208,1128 1290,1099 1288,1060 1169,1038 1107,1086 1014,1082 964,1042 897,1078 792,1050 694,1091 521,1062 420,1115 144,1083 87,1112"/>
+                <Baseline points="97,1145 156,1146 215,1146 274,1146 334,1145 393,1143 452,1140 511,1138 571,1134 630,1131 689,1127 748,1124 808,1120 867,1117 926,1113 985,1110 1045,1107 1104,1104 1163,1102 1222,1100 1282,1099"/>
+                <TextEquiv>
+                    <Unicode>yesterdays post -- we have to dy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1253,1146 1261,1147 1265,1150 1268,1147 1276,1154 1295,1159 1307,1107 1295,1106 1292,1102 1280,1102 1273,1106 1263,1103"/>
+                <Baseline points="1266,1127 1293,1133"/>
+                <TextEquiv>
+                    <Unicode>y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="125,1261 1239,1199 1236,1148 1088,1108 823,1180 658,1132 594,1189 421,1217 122,1203"/>
+                <Baseline points="131,1242 186,1243 241,1242 296,1241 351,1239 406,1236 461,1232 516,1228 571,1223 626,1219 681,1214 736,1209 791,1204 846,1199 901,1195 956,1192 1011,1190 1066,1188 1121,1188 1176,1188 1231,1191"/>
+                <TextEquiv>
+                    <Unicode>been over to Hodgson's &amp; found</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="111,1346 576,1325 638,1367 778,1307 1149,1297 1138,1227 909,1283 845,1247 769,1281 567,1249 468,1301 179,1274 109,1304"/>
+                <Baseline points="119,1342 170,1341 221,1340 272,1338 323,1336 374,1334 425,1331 476,1328 527,1325 578,1322 630,1319 681,1315 732,1312 783,1309 834,1306 885,1304 936,1302 987,1300 1038,1298 1089,1298 1141,1297"/>
+                <TextEquiv>
+                    <Unicode>him remarkably well but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="106,1447 353,1430 527,1471 650,1418 1047,1422 1253,1379 1250,1330 1130,1355 994,1317 583,1393 103,1382"/>
+                <Baseline points="114,1438 170,1435 227,1432 283,1430 340,1427 396,1424 453,1421 509,1419 566,1416 622,1413 679,1410 736,1408 792,1404 849,1402 905,1398 962,1396 1018,1393 1075,1390 1131,1387 1188,1385 1245,1382"/>
+                <TextEquiv>
+                    <Unicode>complaining of suppressed gout</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="135,1538 208,1531 249,1551 336,1535 362,1549 386,1530 452,1540 505,1519 566,1525 587,1518 585,1457 466,1479 407,1446 357,1488 321,1458 275,1448 245,1469 133,1489"/>
+                <Baseline points="142,1520 167,1522 193,1524 219,1525 245,1525 270,1524 296,1523 322,1521 348,1520 373,1518 399,1516 425,1515 451,1513 476,1513 502,1513 528,1513 554,1515 580,1518"/>
+                <TextEquiv>
+                    <Unicode>in the head.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>he was to take the next&#13;
+train for Chippenham -- I thought&#13;
+he looked in a very critical&#13;
+state. Scarlet with watery&#13;
+eyes &amp; complaing of suppressed&#13;
+gout. I am very anxious about&#13;
+him -- I shall go over tomorrow&#13;
+or the day after&#13;
+P.P. S. This was too late for&#13;
+yesterdays post -- we have to dy&#13;
+y&#13;
+been over to Hodgson's &amp; found&#13;
+him remarkably well but&#13;
+complaining of suppressed gout&#13;
+in the head.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

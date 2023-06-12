@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T23:04:20.235-04:00</Created>
+        <LastChange>2023-05-16T18:25:10.608+02:00</LastChange>
+        <TranskribusMetadata docId="423591" pageId="16858838" pageNr="2" tsid="121939367" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=YPLJDPLVPAKPAHQQQQQJJNKK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMFVYRJEQLYLGUUONGXARTLR" imageId="12610350"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_39_002.jpg" imageWidth="1379" imageHeight="2226">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330875362" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="83,376 83,2110 1358,2110 1358,376"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="85,516 141,476 655,459 800,533 987,471 1112,512 1194,450 1193,406 1100,375 931,428 476,404 308,435 80,361"/>
+                <Baseline points="90,466 144,469 199,470 254,471 309,471 364,471 418,470 473,469 528,467 583,465 638,463 692,460 747,458 802,456 857,454 912,451 966,449 1021,448 1076,446 1131,446 1186,445"/>
+                <TextEquiv>
+                    <Unicode>of the counter--cries of "Jobbery</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="80,626 409,593 609,621 796,565 952,619 1028,572 1173,572 1171,500 944,498 878,551 765,533 704,570 307,574 202,521 78,548"/>
+                <Baseline points="87,599 140,599 194,599 248,599 302,598 356,597 410,596 464,594 518,593 572,591 626,589 679,587 733,585 787,583 841,581 895,579 949,577 1003,574 1057,573 1111,571 1165,569"/>
+                <TextEquiv>
+                    <Unicode>&amp; "Kew in danger" -- together</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="96,711 757,685 839,730 1099,700 1096,606 924,668 677,614 632,650 253,620 94,660"/>
+                <Baseline points="103,700 152,701 201,701 251,701 300,700 349,699 399,698 448,696 497,695 547,693 596,691 645,689 695,687 744,685 793,683 843,682 892,680 941,679 991,678 1040,677 1090,677"/>
+                <TextEquiv>
+                    <Unicode>with a deputation of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="115,841 987,772 1142,795 1140,729 942,721 840,758 775,734 629,781 531,738 272,766 193,734 112,771"/>
+                <Baseline points="121,813 171,811 222,810 272,808 323,806 374,804 424,802 475,800 525,797 576,796 627,793 677,791 728,789 778,786 829,784 880,781 930,779 981,777 1031,774 1082,771 1133,769"/>
+                <TextEquiv>
+                    <Unicode>Horticultural interest on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="131,923 729,891 797,925 906,875 1065,869 1144,896 1141,848 1054,804 941,825 855,795 725,815 652,874 466,847 307,889 129,882"/>
+                <Baseline points="137,909 186,909 236,909 286,908 336,907 386,905 436,903 486,900 536,897 586,895 636,891 685,889 735,886 785,883 835,880 885,877 935,875 985,873 1035,872 1085,871 1135,870"/>
+                <TextEquiv>
+                    <Unicode>our side. Mitford has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="137,1030 1245,1002 1243,913 896,968 803,933 743,973 544,934 136,957"/>
+                <Baseline points="144,1005 198,1005 253,1005 307,1005 362,1005 417,1004 471,1003 526,1001 580,1000 635,999 690,997 744,995 799,994 853,992 908,991 963,989 1017,988 1072,987 1126,986 1181,986 1236,985"/>
+                <TextEquiv>
+                    <Unicode>promised to be firm, &amp; will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="127,1119 925,1117 1128,1059 1127,1016 713,1032 544,1090 443,1052 292,1087 124,1043"/>
+                <Baseline points="135,1115 184,1115 233,1115 282,1114 332,1113 381,1113 430,1111 480,1110 529,1108 578,1107 628,1104 677,1103 726,1100 775,1098 825,1096 874,1093 923,1091 973,1088 1022,1085 1071,1083 1121,1080"/>
+                <TextEquiv>
+                    <Unicode>be so I do not doubt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="132,1219 539,1252 824,1200 926,1265 1016,1191 1365,1258 1364,1168 1088,1100 894,1175 131,1149"/>
+                <Baseline points="140,1207 200,1212 261,1216 322,1217 383,1218 444,1216 505,1214 566,1211 627,1209 688,1205 749,1202 809,1199 870,1196 931,1195 992,1194 1053,1195 1114,1198 1175,1202 1236,1208 1297,1218 1358,1229"/>
+                <TextEquiv>
+                    <Unicode>but the opposition of Engleheart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="80,1351 389,1336 473,1375 1027,1287 1161,1322 1263,1311 1260,1239 1139,1227 1051,1274 719,1246 613,1308 418,1241 229,1252 78,1310"/>
+                <Baseline points="87,1335 145,1337 203,1338 262,1338 320,1337 379,1335 437,1332 495,1329 554,1325 612,1321 671,1317 729,1313 787,1309 846,1305 904,1302 963,1299 1021,1297 1079,1296 1138,1296 1196,1297 1255,1299"/>
+                <TextEquiv>
+                    <Unicode>&amp; the Selwyn people &amp; Stock</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="109,1481 383,1499 738,1424 904,1467 951,1434 1252,1439 1248,1369 1015,1373 954,1338 843,1401 572,1420 455,1372 359,1423 249,1372 106,1415"/>
+                <Baseline points="115,1444 171,1445 227,1446 284,1446 340,1445 397,1443 453,1441 509,1439 566,1435 622,1432 679,1429 735,1425 791,1422 848,1418 904,1415 961,1412 1017,1409 1073,1407 1130,1405 1186,1404 1243,1404"/>
+                <TextEquiv>
+                    <Unicode>&amp; Co is furious. If danger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="99,1579 979,1546 1017,1512 1174,1547 1235,1506 1232,1455 1127,1436 976,1493 761,1482 708,1522 503,1485 237,1515 163,1484 96,1516"/>
+                <Baseline points="106,1570 162,1568 218,1566 274,1564 330,1561 386,1558 442,1555 498,1552 554,1548 610,1545 667,1541 723,1538 779,1535 835,1532 891,1529 947,1527 1003,1524 1059,1522 1115,1521 1171,1520 1228,1519"/>
+                <TextEquiv>
+                    <Unicode>threatens I must leave it to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="98,1710 180,1668 1191,1639 1210,1551 1088,1603 524,1575 464,1607 409,1573 311,1628 94,1629"/>
+                <Baseline points="104,1669 159,1667 214,1665 269,1663 324,1661 379,1658 434,1656 489,1653 544,1651 599,1648 655,1645 710,1642 765,1640 820,1637 875,1635 930,1633 985,1631 1040,1629 1095,1626 1150,1625 1206,1624"/>
+                <TextEquiv>
+                    <Unicode>you &amp; Smith to go move the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="86,1811 285,1767 383,1819 493,1758 803,1733 1291,1736 1298,1664 948,1648 697,1724 615,1682 365,1744 166,1699 83,1740"/>
+                <Baseline points="92,1771 152,1769 212,1767 272,1765 332,1763 392,1760 452,1757 512,1754 572,1751 632,1747 692,1744 752,1740 812,1737 872,1734 932,1730 992,1727 1052,1724 1112,1721 1172,1719 1232,1716 1293,1715"/>
+                <TextEquiv>
+                    <Unicode>Gardening papers &amp; Horticultural</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="114,1871 380,1879 669,1840 801,1883 898,1835 1032,1871 1029,1803 870,1765 811,1815 644,1802 546,1839 493,1796 325,1812 285,1785 219,1829 112,1822"/>
+                <Baseline points="121,1867 166,1867 211,1866 256,1865 301,1863 346,1862 391,1860 436,1857 481,1855 526,1853 572,1850 617,1847 662,1845 707,1843 752,1840 797,1837 842,1835 887,1832 932,1831 977,1829 1023,1827"/>
+                <TextEquiv>
+                    <Unicode>interest in our favor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="126,2003 734,1952 1077,1961 1175,2015 1251,1999 1249,1915 960,1892 700,1934 601,1886 324,1949 201,1894 124,1939"/>
+                <Baseline points="133,1980 188,1978 243,1975 299,1973 354,1971 410,1969 465,1967 521,1965 576,1963 632,1961 687,1960 742,1958 798,1957 853,1956 909,1955 964,1954 1020,1953 1075,1952 1131,1952 1186,1952 1242,1952"/>
+                <TextEquiv>
+                    <Unicode>I have written complaining of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="587,2025 612,2026 628,2008 660,2008 668,2014 696,1991 716,2001 723,1999 748,1982 744,1950 723,1959 695,1954 682,1964 669,1965 657,1957 640,1966 623,1964 582,1983"/>
+                <Baseline points="592,2008 621,2005 651,2003 681,1999 711,1995 741,1990"/>
+                <TextEquiv>
+                    <Unicode>stuff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="77,2131 572,2076 710,2116 772,2069 958,2064 1248,2105 1246,2020 1089,1987 682,2004 569,2058 387,2055 284,2001 75,2044"/>
+                <Baseline points="83,2093 140,2092 198,2090 256,2088 314,2086 372,2084 430,2082 487,2080 545,2078 603,2076 661,2075 719,2073 777,2071 835,2070 892,2069 950,2069 1008,2068 1066,2068 1124,2069 1182,2070 1240,2071"/>
+                <TextEquiv>
+                    <Unicode>the atrocious stuff that Carless</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>''
+of the counter--cries of "Jobbery
+&amp; "Kew in danger" -- together
+with a deputation of the
+Horticultural interest on
+our side. Mitford has
+promised to be firm, &amp; will
+be so I do not doubt.
+but the opposition of Engleheart
+&amp; the Selwyn people &amp; Stock
+&amp; Co is furious. If danger
+threatens I must leave it to
+you &amp; Smith to go move the
+Gardening papers &amp; Horticultural
+interest in our favor.
+I have written complaining of
+stuff
+the atrocious stuff that Carless</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

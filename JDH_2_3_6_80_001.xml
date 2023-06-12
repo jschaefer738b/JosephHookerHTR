@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-12T15:04:43.591-04:00</Created>
+        <LastChange>2023-05-16T18:46:15.942+02:00</LastChange>
+        <TranskribusMetadata docId="436147" pageId="17675990" pageNr="1" tsid="121940230" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=AMGLWSIAOWXJRDDGZRRNXPSH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJKREGWGWAPXLTCFQVEMQINQ" imageId="13347206"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_3_6_80_001.jpg" imageWidth="1376" imageHeight="2136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330872693" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="234,81 234,2048 1323,2048 1323,81"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="938,192 970,168 1027,174 1069,153 1118,167 1138,158 1202,183 1238,159 1293,179 1322,174 1322,115 1193,124 1132,104 1027,113 979,76 938,75"/>
+                <Baseline points="944,160 970,159 997,158 1023,158 1050,158 1076,157 1103,157 1129,157 1156,157 1182,157 1209,158 1235,158 1262,159 1288,159 1315,160"/>
+                <TextEquiv>
+                    <Unicode>June 8 1908.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="888,271 927,258 941,263 958,250 973,260 1002,258 1015,267 1046,259 1079,263 1079,238 1061,241 1039,222 1013,230 1005,224 975,224 968,217 935,229 903,214 888,215"/>
+                <Baseline points="894,251 919,253 944,253 970,253 995,253 1021,253 1046,254 1072,255"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="853,333 888,322 931,348 988,332 1008,337 1023,326 1058,339 1074,328 1086,336 1110,326 1111,284 1047,302 1011,292 959,297 939,279 911,284 898,297 854,290"/>
+                <Baseline points="860,319 887,320 914,321 941,322 968,322 995,323 1022,323 1049,324 1076,324 1104,324"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="305,611 400,642 494,594 534,613 616,582 706,599 762,581 902,619 934,598 931,503 800,550 717,512 638,566 530,531 432,563 335,511 302,521"/>
+                <Baseline points="311,590 341,590 372,589 403,589 434,588 465,587 495,586 526,586 557,585 588,583 619,582 649,581 680,580 711,579 742,578 773,577 803,576 834,576 865,575 896,575 927,574"/>
+                <TextEquiv>
+                    <Unicode>My dear Hemsley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="469,704 605,688 684,713 740,684 844,721 1004,678 1174,690 1173,627 1120,637 1086,610 1006,656 943,624 840,656 790,637 753,659 603,663 468,630"/>
+                <Baseline points="475,693 509,691 544,689 578,688 613,687 648,685 682,685 717,684 751,684 786,683 821,683 855,683 890,683 924,682 959,682 994,681 1028,680 1063,679 1097,677 1132,676 1167,673"/>
+                <TextEquiv>
+                    <Unicode>I am sending off. Miss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="228,809 1152,789 1231,759 1229,702 1147,740 997,717 859,753 810,730 736,761 540,736 347,760 288,724 226,756"/>
+                <Baseline points="234,791 283,791 333,790 382,790 432,789 481,789 531,788 580,787 630,786 679,785 729,783 778,782 828,780 877,778 927,776 976,774 1026,772 1075,770 1125,767 1174,765 1224,762"/>
+                <TextEquiv>
+                    <Unicode>Smiths drawings for dispatch to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="257,907 539,915 1113,865 1188,889 1186,816 900,830 769,869 604,863 553,832 504,869 385,825 255,844"/>
+                <Baseline points="263,893 308,893 354,893 400,893 446,892 492,891 538,890 584,888 630,887 676,885 722,883 767,881 813,880 859,877 905,876 951,874 997,872 1043,870 1089,868 1135,867 1181,865"/>
+                <TextEquiv>
+                    <Unicode>the Paris Museums with which I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="260,998 470,980 620,1003 706,976 768,1014 902,963 1095,978 1092,910 953,901 727,954 543,923 400,967 302,923 258,941"/>
+                <Baseline points="266,985 307,984 348,984 389,983 430,982 471,981 512,981 553,980 594,978 635,977 676,975 717,974 758,972 799,970 840,969 881,966 922,964 963,962 1004,960 1045,958 1087,956"/>
+                <TextEquiv>
+                    <Unicode>have a specimen of the little</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="250,1104 447,1081 607,1128 722,1113 766,1071 1208,1075 1206,1011 1111,1000 912,1051 558,1016 429,1060 248,1035"/>
+                <Baseline points="255,1081 302,1081 349,1082 396,1082 444,1082 491,1082 538,1081 586,1080 633,1079 680,1078 728,1076 775,1074 822,1073 869,1070 917,1068 964,1066 1011,1063 1059,1060 1106,1058 1153,1055 1201,1052"/>
+                <TextEquiv>
+                    <Unicode>Burmien Impatiens which I called</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="252,1189 1137,1168 1248,1137 1247,1103 1023,1130 987,1101 893,1140 701,1115 634,1154 522,1118 460,1154 250,1130"/>
+                <Baseline points="258,1172 307,1172 356,1172 405,1172 454,1171 503,1170 552,1170 602,1169 651,1167 700,1166 749,1165 798,1163 847,1161 896,1159 946,1157 995,1155 1044,1153 1093,1150 1142,1148 1191,1144 1241,1142"/>
+                <TextEquiv>
+                    <Unicode>a new species but which I suspect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="238,1283 305,1304 475,1255 920,1274 1079,1243 1147,1274 1181,1253 1180,1199 857,1186 734,1225 510,1232 460,1201 417,1230 376,1206 327,1240 236,1232"/>
+                <Baseline points="244,1267 290,1266 337,1265 383,1263 430,1262 476,1260 523,1259 569,1257 616,1255 662,1254 709,1252 756,1250 802,1249 849,1247 895,1246 942,1245 988,1244 1035,1243 1081,1242 1128,1242 1175,1242"/>
+                <TextEquiv>
+                    <Unicode>May be I. circaeoides tath the all of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="238,1377 1212,1348 1208,1278 858,1289 658,1341 471,1305 344,1357 289,1327 236,1345"/>
+                <Baseline points="244,1376 292,1374 340,1371 388,1370 436,1368 484,1365 532,1363 580,1361 628,1358 676,1357 724,1354 772,1352 820,1350 868,1347 916,1345 964,1342 1012,1340 1060,1337 1108,1335 1156,1332 1205,1329"/>
+                <TextEquiv>
+                    <Unicode>which there are mutilated scraps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="260,1474 1272,1429 1296,1357 1049,1409 544,1385 259,1436"/>
+                <Baseline points="267,1465 318,1462 369,1459 420,1457 471,1454 523,1452 574,1450 625,1447 676,1445 727,1443 779,1441 830,1439 881,1437 932,1435 983,1434 1035,1432 1086,1430 1137,1428 1188,1426 1239,1423 1291,1421"/>
+                <TextEquiv>
+                    <Unicode>in Wallich's herbarium, which latter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="277,1586 425,1556 554,1565 569,1550 642,1576 709,1547 792,1563 896,1538 895,1504 522,1519 496,1501 417,1531 316,1502 274,1526"/>
+                <Baseline points="283,1563 313,1561 343,1559 373,1558 404,1556 434,1555 464,1554 495,1553 525,1552 555,1551 586,1550 616,1549 646,1548 676,1547 707,1546 737,1544 767,1543 798,1541 828,1539 858,1536 889,1533"/>
+                <TextEquiv>
+                    <Unicode>I must reexamine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="313,1648 571,1628 676,1674 779,1634 1162,1627 1160,1570 1102,1557 1016,1583 932,1555 844,1597 750,1561 666,1603 595,1588 528,1613 362,1574 311,1591"/>
+                <Baseline points="319,1636 360,1634 402,1633 444,1632 486,1630 528,1629 569,1628 611,1627 653,1626 695,1625 737,1624 778,1623 820,1621 862,1620 904,1619 946,1617 987,1616 1029,1614 1071,1611 1113,1609 1155,1605"/>
+                <TextEquiv>
+                    <Unicode>I have nearly finished the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="237,1741 600,1716 741,1743 820,1709 1098,1751 1255,1700 1254,1661 1128,1685 1026,1641 841,1696 710,1664 599,1689 555,1658 526,1686 236,1681"/>
+                <Baseline points="243,1723 293,1723 343,1722 393,1721 444,1720 494,1719 544,1718 594,1717 645,1715 695,1714 745,1713 795,1713 846,1712 896,1711 946,1711 996,1710 1047,1710 1097,1710 1147,1711 1197,1711 1248,1712"/>
+                <TextEquiv>
+                    <Unicode>Petersburgh bundle, a very heavy job</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="254,1834 476,1854 569,1809 1033,1791 1154,1793 1195,1829 1294,1796 1292,1741 1111,1771 743,1741 647,1784 560,1762 396,1796 252,1771"/>
+                <Baseline points="260,1822 311,1821 362,1819 414,1817 465,1815 517,1813 568,1810 619,1808 671,1806 722,1803 774,1802 825,1800 876,1797 928,1796 979,1794 1031,1793 1082,1792 1133,1792 1185,1792 1236,1793 1288,1794"/>
+                <TextEquiv>
+                    <Unicode>so many have had to be analyzed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="256,1924 456,1917 509,1947 732,1894 881,1891 944,1929 1045,1891 1204,1903 1203,1864 960,1834 926,1856 812,1803 690,1872 623,1849 564,1876 503,1840 424,1889 255,1872"/>
+                <Baseline points="263,1919 309,1917 356,1915 403,1913 449,1910 496,1908 543,1905 589,1903 636,1900 683,1899 730,1896 776,1894 823,1893 870,1892 916,1891 963,1891 1010,1891 1056,1891 1103,1893 1150,1894 1197,1897"/>
+                <TextEquiv>
+                    <Unicode>to identify them. His of none</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="279,2041 996,1997 1330,2044 1329,1978 1177,1955 1000,1988 966,1954 923,1984 708,1942 615,1984 279,1960"/>
+                <Baseline points="285,2020 336,2019 388,2018 440,2016 492,2014 544,2013 596,2011 648,2009 700,2007 752,2006 804,2005 855,2004 907,2004 959,2004 1011,2005 1063,2006 1115,2009 1167,2011 1219,2016 1271,2021 1323,2028"/>
+                <TextEquiv>
+                    <Unicode>frightfully badly named all except</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>June 8 1908.&#13;
+THE CAMP.&#13;
+SUNNINGDALE.&#13;
+My dear Hemsley&#13;
+I am sending off. Miss&#13;
+Smiths drawings for dispatch to&#13;
+the Paris Museums with which I&#13;
+have a specimen of the little&#13;
+Burmien Impatiens which I called&#13;
+a new species but which I suspect&#13;
+May be I. circaeoides tath the all of&#13;
+which there are mutilated scraps&#13;
+in Wallich's herbarium, which latter&#13;
+I must reexamine&#13;
+I have nearly finished the&#13;
+Petersburgh bundle, a very heavy job&#13;
+so many have had to be analyzed&#13;
+to identify them. His of none&#13;
+frightfully badly named all except</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

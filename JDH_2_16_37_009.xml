@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T23:01:25.139-04:00</Created>
+        <LastChange>2023-05-16T18:10:24.867+02:00</LastChange>
+        <TranskribusMetadata docId="423589" pageId="16858832" pageNr="6" tsid="121938558" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NOSRMYUFSXEXWBIPIEQAQQUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZIUOKUGVHSFAGOXMEVUJTJN" imageId="12610344"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_37_009.jpg" imageWidth="1389" imageHeight="2166">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330879919" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="105,15 105,2090 1339,2090 1339,15"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="99,192 184,171 325,212 458,158 891,125 1195,178 1189,73 1097,62 923,101 698,72 589,121 405,94 313,130 193,80 94,103"/>
+                <Baseline points="105,168 158,167 212,165 266,163 320,160 374,157 428,154 482,151 536,147 590,144 644,141 697,138 751,134 805,131 859,128 913,125 967,122 1021,119 1075,117 1129,115 1183,113"/>
+                <TextEquiv>
+                    <Unicode>that after all the number of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="101,273 212,304 360,245 1289,218 1286,168 768,210 673,160 582,207 98,227"/>
+                <Baseline points="108,266 166,263 225,259 283,255 342,252 401,248 459,245 518,241 577,237 635,234 694,230 753,226 811,223 870,220 929,217 987,213 1046,211 1105,207 1163,205 1222,203 1281,200"/>
+                <TextEquiv>
+                    <Unicode>subjects that have come under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="323,327 370,316 387,323 407,308 486,294 523,305 544,298 541,254 507,254 447,284 427,275 386,279 358,268 320,275"/>
+                <Baseline points="330,305 355,303 381,301 407,299 433,298 458,296 484,295 510,293 536,292"/>
+                <TextEquiv>
+                    <Unicode>councils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="105,377 983,308 1261,324 1284,259 818,294 665,263 357,329 177,285 101,317"/>
+                <Baseline points="112,373 170,368 228,364 287,358 345,353 404,348 462,343 520,338 579,333 637,329 696,325 754,321 812,318 871,314 929,312 988,310 1046,309 1104,308 1163,309 1221,309 1280,311"/>
+                <TextEquiv>
+                    <Unicode>the societies deliberations &amp; which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="112,465 1275,414 1271,353 1194,334 1121,384 1035,340 600,398 355,371 277,415 110,420"/>
+                <Baseline points="119,456 176,453 233,451 291,447 348,443 406,439 463,435 520,431 578,427 635,422 693,418 750,414 807,410 865,407 922,404 980,403 1037,401 1094,401 1152,401 1209,402 1267,404"/>
+                <TextEquiv>
+                    <Unicode>must be dealt with for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="113,571 392,537 571,572 763,506 1275,488 1270,420 1013,457 858,416 770,472 705,441 636,496 108,497"/>
+                <Baseline points="119,548 176,545 233,542 291,539 348,535 406,532 463,528 520,523 578,520 635,515 693,512 750,507 807,503 865,498 922,495 980,491 1037,487 1094,484 1152,481 1209,478 1267,475"/>
+                <TextEquiv>
+                    <Unicode>information of the fellows will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="132,671 391,671 717,604 1315,599 1312,541 1180,517 900,579 772,540 742,573 267,608 194,573 129,609"/>
+                <Baseline points="139,643 197,640 255,638 314,634 372,631 431,627 489,623 547,619 606,616 664,611 723,608 781,604 839,601 898,598 956,595 1015,592 1073,590 1131,588 1190,587 1248,586 1307,586"/>
+                <TextEquiv>
+                    <Unicode>provide matter enough &amp; I can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="119,763 1335,705 1344,649 1129,625 1014,673 803,633 685,683 587,649 517,700 114,686"/>
+                <Baseline points="125,742 185,740 246,737 307,734 367,730 428,726 489,722 549,718 610,714 671,709 732,705 792,701 853,697 914,693 974,690 1035,687 1096,684 1156,683 1217,681 1278,681 1339,681"/>
+                <TextEquiv>
+                    <Unicode>throw in a few scientific observations</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="137,852 1325,792 1320,715 1135,708 970,768 804,731 602,793 312,803 200,754 134,797"/>
+                <Baseline points="143,834 201,832 260,830 319,828 377,825 436,822 495,818 553,814 612,811 671,807 730,802 788,798 847,795 906,791 964,788 1023,785 1082,782 1140,780 1199,779 1258,778 1317,778"/>
+                <TextEquiv>
+                    <Unicode>bearing upon them. I thought</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="126,985 265,926 429,968 774,896 1208,908 1322,884 1320,839 1180,809 1095,863 675,841 491,890 390,849 121,891"/>
+                <Baseline points="131,936 190,932 249,928 308,924 367,920 427,916 486,912 545,909 604,906 663,902 723,898 782,895 841,892 900,890 959,887 1019,884 1078,882 1137,880 1196,878 1255,877 1315,876"/>
+                <TextEquiv>
+                    <Unicode>of alluding to Williamson's papers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="121,1061 434,1018 681,1051 748,993 1050,966 1311,990 1315,904 1058,945 961,905 884,963 721,979 533,937 434,976 303,956 225,1018 118,1027"/>
+                <Baseline points="127,1051 186,1045 245,1039 304,1032 363,1027 423,1021 482,1015 541,1009 600,1004 659,999 719,994 778,989 837,984 896,980 955,976 1015,973 1074,969 1133,966 1192,964 1251,962 1311,960"/>
+                <TextEquiv>
+                    <Unicode>on Fossil Botany &amp; two or three</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="129,1158 503,1148 812,1083 1000,1108 1299,1060 1293,989 931,1055 818,1026 658,1066 616,1033 549,1080 125,1113"/>
+                <Baseline points="135,1140 192,1138 250,1136 308,1133 366,1129 424,1125 481,1121 539,1116 597,1111 655,1105 713,1101 770,1095 828,1089 886,1084 944,1078 1002,1073 1059,1068 1117,1062 1175,1058 1233,1052 1291,1048"/>
+                <TextEquiv>
+                    <Unicode>remarkable points, as Hector's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="127,1239 576,1212 672,1264 792,1174 947,1196 1267,1155 1263,1102 934,1095 857,1133 636,1122 484,1190 123,1183"/>
+                <Baseline points="133,1225 189,1224 245,1223 302,1221 358,1218 414,1215 471,1211 527,1207 583,1202 640,1198 696,1193 752,1188 809,1183 865,1178 921,1173 978,1168 1034,1164 1090,1160 1147,1155 1203,1152 1260,1150"/>
+                <TextEquiv>
+                    <Unicode>discoveries in N. Z., Sapotas &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="129,1333 259,1354 513,1306 566,1338 737,1291 878,1338 985,1272 1050,1302 1293,1268 1288,1200 1069,1203 945,1255 762,1234 530,1290 323,1290 206,1244 127,1295"/>
+                <Baseline points="137,1322 194,1321 251,1321 309,1319 366,1317 423,1314 481,1312 538,1308 595,1304 653,1301 710,1296 767,1292 825,1288 882,1284 939,1279 997,1275 1054,1271 1111,1268 1169,1264 1226,1262 1284,1260"/>
+                <TextEquiv>
+                    <Unicode>the general question of temperate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="144,1458 211,1421 1283,1388 1332,1376 1330,1327 883,1368 521,1342 383,1399 140,1361"/>
+                <Baseline points="150,1419 208,1418 267,1416 326,1414 385,1412 443,1410 502,1407 561,1405 620,1402 678,1400 737,1397 796,1394 855,1391 913,1388 972,1385 1031,1382 1090,1380 1148,1378 1207,1376 1266,1373 1325,1372"/>
+                <TextEquiv>
+                    <Unicode>forests in arctic regions in order to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="139,1541 1027,1497 1037,1441 857,1433 676,1485 557,1454 477,1493 343,1461 136,1491"/>
+                <Baseline points="146,1524 190,1522 234,1519 278,1517 323,1515 367,1513 411,1511 455,1509 500,1507 544,1505 588,1503 632,1501 677,1499 721,1497 765,1495 809,1493 854,1490 898,1487 942,1485 986,1482 1031,1479"/>
+                <TextEquiv>
+                    <Unicode>introduce some cautions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="164,1622 699,1588 786,1623 932,1591 1042,1619 1237,1587 1236,1549 1160,1503 1045,1558 606,1560 553,1525 425,1574 161,1547"/>
+                <Baseline points="171,1614 223,1611 276,1608 329,1605 382,1603 435,1600 488,1598 541,1596 594,1593 647,1592 700,1590 752,1588 805,1586 858,1585 911,1583 964,1582 1017,1580 1070,1579 1123,1577 1176,1575 1229,1574"/>
+                <TextEquiv>
+                    <Unicode>I should like to say a very few</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="144,1731 512,1738 990,1678 1262,1714 1298,1708 1295,1641 926,1614 740,1669 553,1639 401,1692 316,1662 142,1698"/>
+                <Baseline points="151,1718 207,1715 264,1712 321,1710 378,1707 435,1704 492,1702 549,1699 606,1696 663,1694 720,1691 776,1689 833,1687 890,1684 947,1681 1004,1678 1061,1676 1118,1673 1175,1670 1232,1667 1289,1664"/>
+                <TextEquiv>
+                    <Unicode>words in reference to the introducing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="133,1815 1262,1772 1260,1733 1160,1700 893,1744 613,1736 550,1781 196,1739 131,1767"/>
+                <Baseline points="140,1806 195,1805 251,1804 307,1802 363,1799 418,1797 474,1793 530,1790 586,1787 641,1783 697,1780 753,1776 809,1772 864,1769 920,1766 976,1764 1032,1762 1087,1761 1143,1760 1199,1760 1255,1761"/>
+                <TextEquiv>
+                    <Unicode>discussions on such subject as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="136,1917 1217,1851 1180,1791 1013,1817 958,1789 868,1835 543,1879 473,1845 307,1871 224,1831 133,1861"/>
+                <Baseline points="143,1897 196,1899 249,1900 302,1900 356,1899 409,1897 462,1895 516,1892 569,1889 622,1886 676,1882 729,1878 782,1875 835,1870 889,1867 942,1863 995,1859 1049,1856 1102,1853 1155,1852 1209,1850"/>
+                <TextEquiv>
+                    <Unicode>spiritualism into scientific</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="140,1999 835,1964 928,2002 1053,1945 1249,1941 1231,1876 1052,1928 896,1900 693,1947 646,1917 520,1964 138,1943"/>
+                <Baseline points="147,1982 201,1983 256,1984 311,1984 365,1984 420,1982 475,1981 529,1979 584,1975 639,1973 694,1969 748,1966 803,1962 858,1959 912,1956 967,1953 1022,1950 1076,1948 1131,1946 1186,1945 1241,1945"/>
+                <TextEquiv>
+                    <Unicode>discussions at meetings held</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:21;}">
+                <Coords points="139,2069 165,2070 191,2070 217,2070 243,2070 269,2069 295,2068 321,2068 347,2067 373,2066 399,2066 425,2066 451,2067 526,2061 563,2062 600,2062 637,2061 675,2060 712,2058 749,2057 787,2055 824,2052 861,2050 899,2048 936,2046 973,2044 1010,2042 1048,2041 1085,2040 1122,2040 1160,2040 1197,2042 1234,2043 1272,2047 1274,2032 1235,2028 1198,2027 1160,2025 1122,2025 1085,2025 1048,2026 1009,2027 972,2029 935,2031 898,2033 860,2035 823,2037 786,2040 748,2042 711,2043 674,2045 637,2046 600,2047 563,2047 526,2046 451,2052 425,2051 399,2051 373,2051 346,2052 321,2053 295,2053 268,2054 243,2055 217,2055 191,2055 165,2055 140,2054"/>
+                <Baseline points="139,2069 165,2070 191,2070 217,2070 243,2070 269,2069 295,2068 321,2068 347,2067 373,2066 399,2066 425,2066 451,2067 526,2061 563,2062 600,2062 637,2061 675,2060 712,2058 749,2057 787,2055 824,2052 861,2050 899,2048 936,2046 973,2044 1010,2042 1048,2041 1085,2040 1122,2040 1160,2040 1197,2042 1234,2043 1272,2047"/>
+                <TextEquiv>
+                    <Unicode>ostensibly for scientific purposes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>that after all the number of&#13;
+subjects that have come under&#13;
+councils&#13;
+the societies deliberations &amp; which&#13;
+must be dealt with for the&#13;
+information of the fellows will&#13;
+provide matter enough &amp; I can&#13;
+throw in a few scientific observations&#13;
+bearing upon them. I thought&#13;
+of alluding to Williamson's papers&#13;
+on Fossil Botany &amp; two or three&#13;
+remarkable points, as Hector's&#13;
+discoveries in N. Z., Sapotas &amp;&#13;
+the general question of temperate&#13;
+forests in arctic regions in order to&#13;
+introduce some cautions&#13;
+I should like to say a very few&#13;
+words in reference to the introducing&#13;
+discussions on such subject as&#13;
+spiritualism into scientific&#13;
+discussions at meetings held&#13;
+ostensibly for scientific purposes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

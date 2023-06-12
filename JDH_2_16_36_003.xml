@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:59:40.712-04:00</Created>
+        <LastChange>2023-05-16T18:05:39.089+02:00</LastChange>
+        <TranskribusMetadata docId="423588" pageId="16858824" pageNr="2" tsid="121938396" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=QMCOUGHULDADUQZMMIMALDAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULAMLIYHGANOJQKEHUDMCTDX" imageId="12610336"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_36_003.jpg" imageWidth="1378" imageHeight="2256">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330881089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="61,94 61,2180 1357,2180 1357,94"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="57,174 758,175 1084,131 1162,178 1248,166 1245,65 911,78 777,31 55,113"/>
+                <Baseline points="65,176 123,173 182,170 241,167 300,165 358,162 417,160 476,159 535,157 593,156 652,154 711,153 770,152 828,151 887,150 946,149 1005,148 1063,146 1122,145 1181,143 1240,142"/>
+                <TextEquiv>
+                    <Unicode>B. A.- I wonder at Lane Fox</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="127,294 401,300 543,258 687,310 857,253 1191,307 1316,247 1302,167 807,229 541,192 476,243 125,221"/>
+                <Baseline points="135,279 193,277 252,274 310,272 369,270 428,267 486,264 545,262 604,259 662,257 721,254 780,252 838,250 897,248 956,246 1014,245 1073,244 1132,243 1190,243 1249,243 1308,244"/>
+                <TextEquiv>
+                    <Unicode>What you tell me respecting the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="53,401 549,366 681,395 916,348 1062,355 1172,427 1280,403 1278,329 1066,285 462,351 405,320 349,355 121,309 51,349"/>
+                <Baseline points="61,384 121,384 182,383 242,382 303,380 363,378 424,375 484,372 545,369 605,366 666,363 726,360 787,357 847,355 908,353 968,350 1029,349 1089,349 1150,349 1210,350 1271,351"/>
+                <TextEquiv>
+                    <Unicode>Heveas is most disheartening.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="99,495 628,503 871,448 1269,518 1327,501 1325,400 1170,426 1000,379 912,434 503,405 98,458"/>
+                <Baseline points="107,485 167,484 228,483 288,481 349,479 409,477 470,474 530,472 591,470 651,467 712,465 773,463 833,461 894,460 954,459 1015,459 1075,459 1136,460 1196,462 1257,465 1318,469"/>
+                <TextEquiv>
+                    <Unicode>All I can hope for is that if they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="74,617 222,579 598,610 862,544 993,625 1097,553 1317,596 1315,510 1078,542 933,488 635,542 591,509 329,540 285,505 72,568"/>
+                <Baseline points="81,593 142,590 203,587 265,584 326,580 388,577 449,574 510,571 572,568 633,565 695,562 756,560 817,559 879,558 940,558 1002,558 1063,559 1124,561 1186,564 1247,567 1309,572"/>
+                <TextEquiv>
+                    <Unicode>are killed, it may bring about</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="112,712 545,695 592,731 711,661 865,706 934,666 1345,697 1343,612 1065,653 783,593 665,643 495,615 377,659 263,615 111,654"/>
+                <Baseline points="120,700 180,696 241,692 302,689 363,685 424,682 485,680 545,678 606,676 667,674 728,673 789,672 850,672 911,671 971,671 1032,671 1093,672 1154,672 1215,674 1276,675 1337,676"/>
+                <TextEquiv>
+                    <Unicode>a better state of things as regards</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="247,773 295,738 314,749 349,734 396,745 448,734 547,742 586,728 586,711 547,693 518,714 462,704 430,718 397,700 327,710 286,687 266,703 244,699"/>
+                <Baseline points="254,740 281,738 308,736 335,735 362,733 389,732 416,731 443,731 470,730 497,730 524,729 551,729 578,730"/>
+                <TextEquiv>
+                    <Unicode>pernaiial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="116,808 588,802 641,840 842,778 1293,806 1316,705 992,741 953,711 899,751 813,708 621,771 451,734 248,768 177,723 115,767"/>
+                <Baseline points="123,802 182,800 241,799 300,798 360,796 419,794 478,793 538,791 597,789 656,787 716,786 775,785 834,783 893,782 953,781 1012,780 1071,780 1131,779 1190,779 1249,779 1309,780"/>
+                <TextEquiv>
+                    <Unicode>the financial relations of the I. O. &amp; Kew.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="146,902 390,904 504,954 618,895 1262,889 1212,832 1069,855 997,815 944,851 307,830 145,866"/>
+                <Baseline points="154,904 211,906 269,906 327,906 385,905 443,903 501,900 558,897 616,894 674,890 732,887 790,883 848,880 905,877 963,875 1021,873 1079,872 1137,871 1195,872 1253,875"/>
+                <TextEquiv>
+                    <Unicode>-that subject must soon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="74,1065 780,978 979,1018 1095,970 1279,991 1294,932 1176,956 976,885 744,964 658,932 519,973 70,965"/>
+                <Baseline points="79,1013 139,1014 200,1014 260,1012 321,1011 381,1008 442,1006 502,1002 563,998 623,995 684,991 744,988 805,985 865,982 926,979 986,977 1047,977 1107,976 1168,978 1228,979 1289,983"/>
+                <TextEquiv>
+                    <Unicode>be grappled with -- but for a row</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="106,1165 923,1092 1118,1096 1221,1176 1303,1150 1301,1075 1205,1013 1170,1048 1029,1020 973,1064 890,1023 770,1075 551,1036 455,1086 378,1045 104,1094"/>
+                <Baseline points="113,1137 172,1133 231,1129 290,1126 349,1122 408,1119 467,1116 526,1113 585,1111 644,1108 703,1107 762,1105 821,1103 880,1102 939,1101 998,1100 1057,1099 1116,1099 1175,1098 1234,1098 1293,1098"/>
+                <TextEquiv>
+                    <Unicode>with Markham, the best thing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="113,1259 591,1251 676,1292 807,1242 1215,1264 1325,1229 1324,1190 1170,1157 925,1210 730,1165 601,1219 441,1178 391,1227 111,1205"/>
+                <Baseline points="121,1254 180,1255 240,1255 300,1254 360,1253 420,1251 479,1249 539,1246 599,1244 659,1241 719,1238 778,1235 838,1232 898,1230 958,1228 1018,1225 1077,1224 1137,1223 1197,1222 1257,1223 1317,1223"/>
+                <TextEquiv>
+                    <Unicode>would be an official repre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="93,1386 377,1365 535,1408 951,1327 1113,1382 1342,1348 1340,1299 1090,1273 1003,1313 827,1261 730,1327 599,1279 528,1313 189,1305 92,1349"/>
+                <Baseline points="101,1367 162,1368 224,1368 285,1368 347,1366 409,1365 470,1362 532,1359 594,1356 655,1353 717,1350 779,1347 840,1344 902,1342 964,1339 1025,1337 1087,1336 1149,1335 1210,1336 1272,1337 1334,1339"/>
+                <TextEquiv>
+                    <Unicode>representation from Kew, approved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="133,1495 1112,1485 1278,1458 1276,1401 975,1390 828,1436 754,1404 589,1451 507,1403 350,1393 266,1443 188,1402 130,1435"/>
+                <Baseline points="140,1481 196,1479 252,1477 309,1476 365,1474 422,1472 478,1471 535,1469 591,1467 648,1465 704,1463 760,1462 817,1459 873,1457 930,1455 986,1452 1043,1450 1099,1447 1156,1443 1212,1441 1269,1437"/>
+                <TextEquiv>
+                    <Unicode>by Strachey . whose scientific</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="198,1737 837,1722 949,1678 1348,1695 1362,1622 1273,1643 1138,1598 360,1691 192,1606"/>
+                <Baseline points="206,1730 263,1726 321,1723 378,1718 436,1713 493,1709 551,1705 608,1702 666,1698 723,1694 781,1691 839,1688 896,1685 954,1682 1011,1681 1069,1679 1126,1679 1184,1678 1241,1679 1299,1680 1357,1681"/>
+                <TextEquiv>
+                    <Unicode>I am not surprized at Thwaite's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:15;}">
+                <Coords points="131,1605 190,1601 250,1597 310,1594 370,1590 430,1587 490,1583 550,1580 610,1577 670,1573 730,1570 790,1568 850,1564 910,1562 970,1559 1030,1557 1090,1554 1150,1552 1210,1550 1270,1548 1282,1559 1312,1569 1342,1577 1346,1563 1316,1555 1290,1546 1275,1534 1210,1535 1150,1537 1089,1539 1029,1542 969,1544 909,1547 849,1549 789,1553 729,1555 669,1558 609,1562 549,1565 489,1568 429,1572 369,1575 309,1579 249,1582 189,1586 130,1590"/>
+                <Baseline points="131,1605 190,1601 250,1597 310,1594 370,1590 430,1587 490,1583 550,1580 610,1577 670,1573 730,1570 790,1568 850,1564 910,1562 970,1559 1030,1557 1090,1554 1150,1552 1210,1550 1270,1548 1282,1559 1312,1569 1342,1577"/>
+                <TextEquiv>
+                    <Unicode>position Ld Salisbury acknowledges. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="66,1849 527,1817 616,1861 725,1796 886,1838 973,1792 1310,1790 1307,1734 1190,1691 1072,1757 811,1713 692,1783 503,1725 404,1788 63,1795"/>
+                <Baseline points="73,1837 134,1836 195,1835 257,1832 318,1829 380,1826 441,1822 502,1818 564,1813 625,1809 687,1804 748,1800 809,1795 871,1791 932,1788 994,1784 1055,1783 1116,1781 1178,1781 1239,1781 1301,1783"/>
+                <TextEquiv>
+                    <Unicode>not quite liking the job.- he is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="125,1977 190,1948 314,1990 521,1913 764,1932 1273,1887 1206,1835 1103,1875 961,1807 896,1856 824,1832 720,1883 634,1852 545,1897 491,1865 324,1908 121,1889"/>
+                <Baseline points="131,1946 187,1943 244,1939 301,1936 357,1933 414,1929 471,1926 527,1923 584,1920 641,1918 698,1915 754,1912 811,1910 868,1908 924,1905 981,1904 1038,1902 1094,1900 1151,1899 1208,1898 1265,1896"/>
+                <TextEquiv>
+                    <Unicode>getting old &amp; as the "Times" says</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="125,2103 521,2079 648,2031 817,2068 922,2016 1056,2054 1321,2030 1319,1976 1069,1952 911,2001 698,1948 622,1988 494,1970 362,2010 248,1972 123,2014"/>
+                <Baseline points="132,2048 191,2047 250,2045 309,2044 368,2042 427,2040 486,2038 545,2035 604,2033 663,2030 722,2028 781,2026 840,2025 899,2024 958,2022 1017,2021 1076,2021 1135,2021 1194,2021 1253,2023 1313,2025"/>
+                <TextEquiv>
+                    <Unicode>of dizzy it age brings experience</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="158,2169 1264,2157 1313,2148 1311,2055 804,2116 713,2057 567,2113 335,2083 156,2115"/>
+                <Baseline points="165,2155 222,2156 279,2156 336,2156 393,2156 450,2154 507,2153 564,2151 621,2149 678,2146 735,2144 792,2142 849,2140 906,2138 963,2137 1020,2135 1077,2135 1134,2135 1191,2136 1248,2137 1305,2140"/>
+                <TextEquiv>
+                    <Unicode>but with it the reluctance to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>B. A.- I wonder at Lane Fox
+What you tell me respecting the
+Heveas is most disheartening.
+All I can hope for is that if they
+are killed, it may bring about
+a better state of things as regards
+pernaiial
+the financial relations of the I. O. &amp; Kew.
+-that subject must soon
+be grappled with -- but for a row
+with Markham, the best thing
+would be an official repre-
+representation from Kew, approved
+by Strachey . whose scientific
+
+position Ld Salisbury acknowledges.
+I am not surprized at Thwaite's
+not quite liking the job.- he is
+getting old &amp; as the "Times" says
+of dizzy it age brings experience
+but with it the reluctance to</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:43:02.064-04:00</Created>
+        <LastChange>2023-05-17T01:29:25.444+02:00</LastChange>
+        <TranskribusMetadata docId="437077" pageId="17691642" pageNr="4" tsid="121949605" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XDNVKXZNPFYZQNZHFHVUWAAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GEIZDZYBPFTJOSPXXBZDFDUR" imageId="13355385"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_43_004.jpg" imageWidth="1446" imageHeight="2154">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330856392" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="15,45 15,2103 1397,2103 1397,45"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="99,150 152,146 206,140 259,136 313,131 367,126 420,122 474,118 527,114 581,110 635,107 688,104 742,100 795,98 849,96 903,94 956,93 1010,92 1063,91 1117,92 1171,92 1209,84 1255,88 1256,73 1208,69 1169,77 1117,77 1063,76 1010,77 956,78 903,79 848,81 794,83 741,85 687,89 634,92 580,95 526,99 473,103 419,107 366,111 312,116 258,121 205,125 151,131 98,135"/>
+                <Baseline points="99,150 152,146 206,140 259,136 313,131 367,126 420,122 474,118 527,114 581,110 635,107 688,104 742,100 795,98 849,96 903,94 956,93 1010,92 1063,91 1117,92 1171,92 1209,84 1255,88"/>
+                <TextEquiv>
+                    <Unicode>us to other Gardens about Cork. &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_541" custom="readingOrder {index:1;}">
+                <Coords points="109,213 160,215 212,215 264,215 315,213 367,211 419,207 470,204 522,200 574,196 626,191 677,187 729,182 781,178 832,174 884,170 936,167 987,165 1039,163 1091,162 1143,162 1163,164 1201,164 1201,149 1164,149 1144,147 1091,147 1039,148 986,150 935,152 883,155 831,159 780,163 728,167 676,172 625,176 573,181 521,185 469,189 418,192 366,196 314,198 264,200 212,200 160,200 110,198"/>
+                <Baseline points="109,213 160,215 212,215 264,215 315,213 367,211 419,207 470,204 522,200 574,196 626,191 677,187 729,182 781,178 832,174 884,170 936,167 987,165 1039,163 1091,162 1143,162 1163,164 1201,164"/>
+                <TextEquiv>
+                    <Unicode>tomorrow we return to Dublin --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_542" custom="readingOrder {index:2;}">
+                <Coords points="102,286 152,287 203,287 253,286 304,285 354,283 405,280 455,278 506,274 556,271 607,267 657,263 708,259 758,256 809,253 859,249 910,247 960,245 1011,244 1061,243 1112,244 1184,229 1210,230 1236,232 1263,234 1289,236 1316,235 1315,220 1289,221 1264,219 1237,217 1211,215 1183,214 1111,229 1061,228 1011,229 960,230 909,232 858,234 808,238 757,241 707,244 656,248 606,252 555,256 505,259 454,263 404,265 353,268 304,270 253,271 203,272 152,272 102,271"/>
+                <Baseline points="102,286 152,287 203,287 253,286 304,285 354,283 405,280 455,278 506,274 556,271 607,267 657,263 708,259 758,256 809,253 859,249 910,247 960,245 1011,244 1061,243 1112,244 1184,229 1210,230 1236,232 1263,234 1289,236 1316,235"/>
+                <TextEquiv>
+                    <Unicode>see the Glassnevin &amp; Powerscourt &amp; so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:3;}">
+                <Coords points="114,383 161,381 199,377 220,369 289,363 357,359 426,354 494,350 563,346 631,342 700,338 768,335 837,332 905,330 974,328 1042,326 1111,325 1179,324 1248,324 1316,324 1385,325 1385,310 1316,309 1248,309 1179,309 1111,310 1042,311 974,313 905,315 836,317 767,320 699,323 630,327 562,331 493,335 425,339 356,344 288,348 217,354 196,362 160,366 113,368"/>
+                <Baseline points="114,383 161,381 199,377 220,369 289,363 357,359 426,354 494,350 563,346 631,342 700,338 768,335 837,332 905,330 974,328 1042,326 1111,325 1179,324 1248,324 1316,324 1385,325"/>
+                <TextEquiv>
+                    <Unicode> to Pendock on Friday or Saturday I hope.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:4;}">
+                <Coords points="204,457 1172,432 1169,341 981,393 873,354 696,401 568,405 493,369 302,407 202,383"/>
+                <Baseline points="212,447 259,444 307,442 354,439 402,437 449,436 497,434 544,432 592,431 639,429 687,428 734,426 782,425 829,423 877,421 924,420 972,417 1019,415 1067,412 1114,410 1162,406"/>
+                <TextEquiv>
+                    <Unicode>In Cork we met the 2 Miss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:5;}">
+                <Coords points="85,554 1406,522 1403,438 880,487 695,451 623,497 495,466 325,516 81,462"/>
+                <Baseline points="93,543 158,543 223,541 288,539 353,536 419,533 484,530 549,526 614,522 679,519 745,515 810,512 875,508 940,506 1005,503 1071,502 1136,501 1201,501 1266,501 1331,503 1397,506"/>
+                <TextEquiv>
+                    <Unicode>Townsends with an Uncle who turned out</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:6;}">
+                <Coords points="98,642 371,619 596,674 791,614 1311,604 1176,537 1102,577 1027,541 835,573 684,544 513,596 433,554 328,607 186,546 95,561"/>
+                <Baseline points="105,623 164,624 224,625 284,624 344,623 404,622 463,620 523,617 583,615 643,613 703,610 762,607 822,604 882,602 942,600 1002,598 1061,596 1121,595 1181,594 1241,595 1301,595"/>
+                <TextEquiv>
+                    <Unicode>to be an Uncle of Gumbletons too!.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:7;}">
+                <Coords points="113,712 252,753 386,699 533,745 869,691 1186,724 1311,702 1311,644 1099,618 718,680 112,630"/>
+                <Baseline points="121,702 180,703 239,703 298,704 357,704 416,703 475,703 534,702 593,701 652,700 711,698 770,697 829,696 888,695 947,695 1006,694 1065,694 1124,694 1183,695 1242,696 1302,698"/>
+                <TextEquiv>
+                    <Unicode>Miss T. is very anxious to hear from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:8;}">
+                <Coords points="134,815 1269,766 1267,706 1209,701 764,741 563,714 531,745 470,700 324,760 131,719"/>
+                <Baseline points="142,787 197,785 253,783 309,781 365,779 421,777 477,775 533,773 589,771 645,769 701,767 756,765 812,763 868,762 924,760 980,759 1036,757 1092,756 1148,755 1204,754 1260,753"/>
+                <TextEquiv>
+                    <Unicode>Harriet to whom she sends her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:9;}">
+                <Coords points="133,876 145,874 167,896 190,894 215,911 263,889 294,892 294,831 274,834 251,826 219,831 208,821 198,824 164,809 133,816"/>
+                <Baseline points="141,872 169,872 198,872 227,872 256,871 285,873"/>
+                <TextEquiv>
+                    <Unicode>love.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:10;}">
+                <Coords points="179,990 425,958 503,989 620,943 838,961 882,1000 1146,931 1293,955 1263,872 1161,915 932,878 776,929 177,916"/>
+                <Baseline points="187,960 241,958 296,956 351,955 406,953 461,952 515,951 570,950 625,948 680,947 735,946 789,945 844,944 899,942 954,941 1009,939 1063,938 1118,936 1173,934 1228,932 1283,930"/>
+                <TextEquiv>
+                    <Unicode>I fear that you can hardly read the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:11;}">
+                <Coords points="91,1069 333,1077 479,1026 1289,1040 1265,972 895,1002 822,958 90,1011"/>
+                <Baseline points="99,1043 158,1041 217,1040 276,1038 335,1036 394,1034 453,1032 512,1031 571,1030 630,1028 689,1026 748,1025 807,1023 866,1022 925,1020 984,1019 1043,1018 1102,1016 1161,1015 1220,1014 1279,1012"/>
+                <TextEquiv>
+                    <Unicode>above pen &amp; ink atrocious &amp; no room</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:12;}">
+                <Coords points="124,1142 194,1116 252,1118 292,1145 372,1117 405,1129 516,1109 578,1124 588,1081 542,1095 391,1057 353,1083 310,1066 219,1089 164,1056 123,1082"/>
+                <Baseline points="132,1112 158,1111 184,1111 210,1110 237,1110 263,1109 289,1109 316,1109 342,1108 368,1108 394,1108 421,1108 447,1108 473,1108 500,1108 526,1109 552,1109 579,1109"/>
+                <TextEquiv>
+                    <Unicode>for my elbows</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:13;}">
+                <Coords points="151,1238 408,1200 451,1235 554,1199 794,1239 874,1201 1255,1215 1282,1165 1006,1140 487,1175 377,1116 151,1170"/>
+                <Baseline points="160,1200 215,1201 271,1201 327,1201 382,1201 438,1200 494,1200 549,1199 605,1198 661,1198 717,1197 772,1196 828,1195 884,1195 939,1195 995,1195 1051,1196 1106,1196 1162,1198 1218,1199 1274,1201"/>
+                <TextEquiv>
+                    <Unicode>These Bagwells are very accomplished</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:14;}">
+                <Coords points="120,1300 508,1326 766,1297 813,1328 898,1300 974,1342 1053,1297 1236,1314 1236,1263 1112,1233 783,1230 717,1267 495,1225 309,1273 120,1250"/>
+                <Baseline points="129,1289 186,1292 244,1295 302,1296 360,1296 418,1296 476,1294 533,1293 591,1291 649,1289 707,1288 765,1286 823,1285 880,1284 938,1284 996,1284 1054,1286 1112,1289 1170,1294 1228,1299"/>
+                <TextEquiv>
+                    <Unicode>&amp; agreeable people. They rarely leave</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:15;}">
+                <Coords points="105,1388 1108,1388 1151,1384 1151,1311 1044,1311 986,1349 614,1317 481,1356 105,1321"/>
+                <Baseline points="114,1370 165,1371 216,1371 268,1372 319,1372 371,1372 422,1371 473,1371 525,1371 576,1371 628,1370 679,1370 730,1370 782,1369 833,1369 885,1369 936,1369 987,1370 1039,1370 1090,1371 1142,1372"/>
+                <TextEquiv>
+                    <Unicode>Ireland now. Mr B. is an ardent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:16;}">
+                <Coords points="107,1469 1339,1458 1338,1389 1256,1380 106,1395"/>
+                <Baseline points="115,1448 175,1450 236,1451 297,1452 358,1452 419,1451 479,1450 540,1449 601,1447 662,1445 723,1443 783,1442 844,1440 905,1438 966,1437 1027,1437 1087,1436 1148,1437 1209,1438 1270,1440 1331,1443"/>
+                <TextEquiv>
+                    <Unicode>Horticulturalist with far better taste &amp; Mrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:17;}">
+                <Coords points="113,1541 1039,1539 1294,1523 1326,1481 932,1448 863,1499 736,1470 673,1497 602,1457 517,1507 112,1481"/>
+                <Baseline points="121,1529 180,1529 240,1529 300,1528 360,1527 420,1526 479,1525 539,1523 599,1522 659,1520 719,1519 778,1517 838,1516 898,1515 958,1514 1018,1513 1077,1513 1137,1513 1197,1513 1257,1514 1317,1516"/>
+                <TextEquiv>
+                    <Unicode>B. with more knowledge than Gumbleton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:18;}">
+                <Coords points="113,1628 547,1597 695,1631 1075,1593 1237,1619 1258,1548 693,1574 619,1529 518,1582 392,1539 112,1572"/>
+                <Baseline points="120,1606 176,1605 233,1603 289,1602 346,1601 402,1600 459,1600 515,1599 572,1599 628,1598 685,1597 741,1597 798,1596 854,1596 911,1595 967,1594 1024,1593 1080,1592 1137,1591 1193,1590 1250,1588"/>
+                <TextEquiv>
+                    <Unicode>a great deal, Their gardens are most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:19;}">
+                <Coords points="119,1696 220,1735 568,1676 608,1703 864,1665 1221,1672 1220,1636 966,1601 883,1648 666,1614 475,1656 118,1631"/>
+                <Baseline points="128,1684 182,1683 236,1682 290,1681 344,1680 399,1679 453,1678 507,1677 561,1675 615,1674 670,1673 724,1671 778,1670 832,1668 886,1667 941,1665 995,1664 1049,1662 1103,1661 1157,1659 1212,1657"/>
+                <TextEquiv>
+                    <Unicode>lovely such a profusion of herbaceous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:20;}">
+                <Coords points="121,1780 594,1786 664,1753 804,1801 900,1745 1351,1757 1350,1711 1191,1681 1033,1715 850,1667 269,1741 119,1697"/>
+                <Baseline points="129,1768 189,1767 250,1765 311,1764 371,1762 432,1760 493,1758 553,1755 614,1753 675,1751 736,1749 796,1746 857,1744 918,1743 978,1741 1039,1740 1100,1738 1160,1738 1221,1737 1282,1737 1343,1738"/>
+                <TextEquiv>
+                    <Unicode>things in beds backed by shrubs, besides</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:21;}">
+                <Coords points="127,1890 183,1855 401,1836 839,1851 1119,1817 1116,1743 942,1800 735,1771 664,1808 555,1773 412,1774 299,1818 124,1798"/>
+                <Baseline points="134,1854 182,1848 231,1843 280,1839 329,1836 378,1833 426,1831 475,1830 524,1829 573,1828 622,1827 670,1826 719,1825 768,1824 817,1822 866,1820 914,1818 963,1814 1012,1810 1061,1805 1110,1798"/>
+                <TextEquiv>
+                    <Unicode>glorious Fuchsias Escallonias etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:22;}">
+                <Coords points="181,1934 654,1928 729,1894 1148,1935 1348,1905 1346,1827 1227,1828 1167,1871 803,1846 605,1881 494,1838 179,1863"/>
+                <Baseline points="190,1924 247,1921 304,1917 362,1914 419,1911 477,1909 534,1907 591,1905 649,1903 706,1902 764,1900 821,1899 878,1898 936,1896 993,1895 1051,1894 1108,1892 1165,1890 1223,1889 1280,1886 1338,1884"/>
+                <TextEquiv>
+                    <Unicode>With best love to Harriet from both</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:23;}">
+                <Coords points="207,2015 1043,1959 1218,1986 1215,1916 637,1925 506,1958 448,1925 385,1974 205,1979"/>
+                <Baseline points="216,2005 265,2001 315,1997 364,1993 414,1990 464,1986 513,1982 563,1979 613,1976 662,1974 712,1971 762,1968 811,1966 861,1964 911,1963 960,1962 1010,1961 1060,1961 1109,1961 1159,1961 1209,1963"/>
+                <TextEquiv>
+                    <Unicode>us &amp; kindest regards to family.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:24;}">
+                <Coords points="518,2103 599,2086 703,2101 767,2059 829,2054 907,2106 947,2101 1044,2064 1039,1982 938,1983 901,2016 748,1993 682,2037 586,2006 514,2044"/>
+                <Baseline points="525,2083 550,2079 575,2075 601,2072 626,2069 652,2066 677,2063 703,2061 728,2059 754,2058 779,2056 804,2055 830,2054 855,2053 881,2052 906,2052 932,2052 957,2052 983,2052 1008,2052 1034,2053"/>
+                <TextEquiv>
+                    <Unicode>Eer affection Yr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:25;}">
+                <Coords points="1099,2088 1151,2104 1168,2094 1206,2104 1262,2081 1314,2107 1355,2101 1354,1995 1315,1989 1279,1999 1253,1984 1215,2003 1184,1989 1125,2022 1099,2022"/>
+                <Baseline points="1108,2084 1134,2081 1160,2080 1187,2079 1213,2079 1240,2079 1266,2079 1293,2080 1319,2080 1346,2081"/>
+                <TextEquiv>
+                    <Unicode>JD Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&amp;
+us to other Gardens about Cork.
+r
+tomorrow we return to Dublin
+&amp; so
+
+see the Glassnevin &amp; Powerscourt
+
+ to Pendock on Friday or Saturday I hope.
+In Cork we met the 2 Miss
+Townsends with an Uncle who turned out
+to be an Uncle of Gumbletons too!.
+Miss T. is very anxious to hear from
+Harriet to whom she sends her
+love.
+I fear that you can hardly read the
+above pen &amp; ink atrocious &amp; no room
+for my elbows
+These Bagwells are very accomplished
+&amp; agreeable people. They rarely leave
+Ireland now. Mr B. is an ardent
+Horticulturalist with far better taste &amp; Mrs
+B. with more knowledge than Gumbleton
+a great deal, Their gardens are most
+lovely such a profusion of herbaceous
+things in beds backed by shrubs, besides
+glorious Fuchsias Escallonias etc.
+With best love to Harriet from both
+us &amp; kindest regards to family.
+Eer affection Yr
+JD Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:46:13.536-04:00</Created>
+        <LastChange>2020-08-26T20:41:45.014+02:00</LastChange>
+        <TranskribusMetadata docId="437080" pageId="17691664" pageNr="1" tsid="38362137" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NPTRADVWIEHGWKHJRAXNEOGM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZIUICTBHELQATTMLJGOLDWJC" imageId="13355407"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_45_002.jpg" imageWidth="1391" imageHeight="2140">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330854295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="117,168 117,2073 1326,2073 1326,168"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="154,256 497,278 915,218 1008,239 1072,218 1070,137 700,213 505,174 407,212 359,185 285,214 153,195"/>
+                <Baseline points="161,245 206,244 251,243 296,242 341,241 387,240 432,239 477,238 522,237 567,236 613,234 658,233 703,232 748,230 793,229 839,227 884,225 929,223 974,221 1019,218 1065,216"/>
+                <TextEquiv>
+                    <Unicode>we must exercise the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="149,378 743,328 972,369 1049,322 1334,355 1332,285 1253,268 147,300"/>
+                <Baseline points="155,350 213,349 272,347 330,344 389,342 447,340 506,337 564,335 623,332 681,330 740,328 799,327 857,325 916,324 974,324 1033,324 1091,324 1150,325 1208,327 1267,330 1326,333"/>
+                <TextEquiv>
+                    <Unicode>greatest caution &amp; self-control</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="114,475 481,466 570,515 678,452 1026,435 1093,471 1258,435 1228,373 490,388 301,442 113,441"/>
+                <Baseline points="121,462 177,461 234,459 290,458 347,456 403,453 460,451 516,449 573,446 629,444 686,442 742,440 799,438 855,436 912,435 968,434 1025,434 1081,434 1138,435 1194,436 1251,438"/>
+                <TextEquiv>
+                    <Unicode>in our dealings with him; in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="124,604 371,555 613,585 860,538 1242,550 1259,495 1160,519 1019,467 900,515 727,485 568,533 183,491 122,522"/>
+                <Baseline points="131,561 187,561 243,562 299,562 355,561 411,560 467,559 523,557 579,556 635,554 692,552 748,550 804,549 860,547 916,545 972,544 1028,542 1084,542 1140,541 1196,541 1253,541"/>
+                <TextEquiv>
+                    <Unicode>fact circumspection. We are in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="141,693 1241,704 1265,654 746,626 141,659"/>
+                <Baseline points="149,685 204,686 259,686 315,686 370,686 426,686 481,685 536,685 592,684 647,683 703,683 758,682 813,682 869,681 924,681 980,681 1035,682 1090,683 1146,684 1201,686 1257,688"/>
+                <TextEquiv>
+                    <Unicode>a critical condition as concerns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="134,818 1046,793 1177,843 1232,833 1232,743 1161,715 998,773 854,726 776,769 697,742 595,777 341,724 281,772 133,725"/>
+                <Baseline points="141,797 195,798 249,799 303,799 357,799 412,799 466,799 520,798 574,798 628,797 683,796 737,795 791,795 845,794 899,793 954,792 1008,792 1062,791 1116,791 1170,791 1225,791"/>
+                <TextEquiv>
+                    <Unicode>the Herbarium &amp; Olivers long</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="165,940 683,923 861,974 1110,905 1287,944 1287,864 1058,851 923,890 813,855 522,895 402,851 164,848"/>
+                <Baseline points="172,916 227,918 282,919 338,920 393,920 449,920 504,920 559,919 615,918 670,917 726,917 781,916 836,915 892,915 947,914 1003,914 1058,914 1113,915 1169,916 1224,918 1280,921"/>
+                <TextEquiv>
+                    <Unicode>persistence in shutting out the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="143,1032 480,1017 696,1065 817,1014 1044,1045 1104,1009 1273,1046 1286,971 1070,945 626,995 549,953 412,1001 142,989"/>
+                <Baseline points="150,1028 206,1027 263,1026 319,1025 376,1023 432,1022 489,1021 545,1019 602,1018 658,1017 715,1015 771,1014 828,1013 884,1012 941,1012 997,1011 1054,1011 1110,1010 1167,1010 1223,1010 1280,1010"/>
+                <TextEquiv>
+                    <Unicode>world, &amp; evading his duty "duty</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="135,1152 737,1124 941,1190 1229,1136 1244,1084 1134,1090 1073,1046 916,1104 716,1063 614,1106 442,1070 319,1115 134,1065"/>
+                <Baseline points="142,1140 196,1137 251,1135 306,1132 361,1130 415,1129 470,1128 525,1127 580,1127 634,1126 689,1126 744,1126 799,1126 853,1126 908,1126 963,1126 1018,1126 1072,1126 1127,1126 1182,1126 1237,1125"/>
+                <TextEquiv>
+                    <Unicode>to his neighbours" in any broad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="125,1256 211,1301 489,1233 978,1224 1264,1267 1262,1194 1041,1156 777,1199 699,1163 590,1197 374,1168 297,1219 123,1187"/>
+                <Baseline points="131,1238 187,1238 243,1238 299,1238 355,1237 412,1236 468,1235 524,1234 580,1233 636,1232 693,1231 749,1229 805,1228 861,1227 917,1225 974,1224 1030,1223 1086,1221 1142,1220 1198,1219 1255,1218"/>
+                <TextEquiv>
+                    <Unicode>way has led to his harboring</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="110,1379 1260,1353 1259,1277 1176,1315 1048,1263 953,1309 109,1297"/>
+                <Baseline points="117,1353 173,1351 230,1349 287,1347 344,1345 400,1344 457,1343 514,1342 571,1341 627,1341 684,1340 741,1340 798,1340 854,1339 911,1339 968,1339 1025,1340 1081,1340 1138,1340 1195,1340 1252,1340"/>
+                <TextEquiv>
+                    <Unicode>quite erroneous views. It is no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="130,1461 372,1459 433,1507 537,1455 760,1431 891,1472 947,1431 1140,1458 1233,1428 1198,1378 1062,1401 1009,1370 958,1408 843,1359 636,1416 404,1380 129,1408"/>
+                <Baseline points="137,1444 191,1446 245,1447 300,1448 354,1448 409,1448 463,1447 517,1446 572,1444 626,1443 681,1441 735,1439 789,1437 844,1436 898,1434 953,1432 1007,1431 1061,1430 1116,1429 1170,1428 1225,1428"/>
+                <TextEquiv>
+                    <Unicode>use writing about this matter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="126,1579 1083,1570 1151,1558 1151,1515 1000,1473 910,1512 845,1479 798,1519 687,1496 612,1535 322,1482 251,1522 123,1511"/>
+                <Baseline points="133,1563 183,1563 234,1564 284,1563 335,1563 386,1561 436,1560 487,1558 537,1556 588,1554 639,1552 689,1549 740,1547 790,1545 841,1542 892,1540 942,1539 993,1537 1043,1536 1094,1535 1145,1534"/>
+                <TextEquiv>
+                    <Unicode>as I shall so soon be home</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="151,1670 848,1652 1147,1685 1163,1579 726,1626 461,1590 338,1621 151,1605"/>
+                <Baseline points="158,1647 207,1648 257,1649 307,1649 357,1650 407,1650 457,1650 507,1650 557,1650 607,1650 657,1649 706,1649 756,1649 806,1648 856,1648 906,1648 956,1647 1006,1647 1056,1647 1106,1647 1156,1647"/>
+                <TextEquiv>
+                    <Unicode>Meanwhile it would perhaps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="158,1767 598,1749 634,1779 720,1747 958,1779 1331,1749 1330,1677 749,1723 487,1672 157,1717"/>
+                <Baseline points="165,1756 226,1757 287,1758 348,1758 409,1757 470,1756 531,1755 592,1753 653,1752 714,1750 775,1748 836,1746 897,1745 958,1743 1019,1742 1080,1742 1141,1741 1202,1742 1263,1743 1324,1744"/>
+                <TextEquiv>
+                    <Unicode>be best that you discussed these</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="137,1854 760,1847 921,1889 1016,1842 1157,1848 1157,1787 941,1773 889,1809 601,1780 474,1827 137,1789"/>
+                <Baseline points="145,1842 195,1844 245,1846 295,1847 345,1848 396,1849 446,1849 496,1849 546,1849 596,1848 647,1848 697,1847 747,1846 797,1845 847,1845 898,1844 948,1843 998,1841 1048,1841 1098,1839 1149,1839"/>
+                <TextEquiv>
+                    <Unicode>matters as little as possible</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="148,1971 189,1956 294,1978 337,1959 371,1970 523,1944 563,1957 562,1922 502,1929 426,1876 364,1904 315,1888 223,1913 201,1900 148,1931"/>
+                <Baseline points="156,1954 182,1954 209,1954 235,1954 262,1954 289,1953 315,1953 342,1952 368,1951 395,1951 422,1950 448,1949 475,1948 501,1947 528,1947 555,1946"/>
+                <TextEquiv>
+                    <Unicode>with him.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="181,2072 462,2085 725,2045 787,2081 934,2034 1262,2061 1278,1988 1129,2009 1007,1960 943,2001 851,1939 587,1999 444,1960 370,2020 179,1972"/>
+                <Baseline points="187,2047 241,2049 295,2050 349,2050 404,2050 458,2049 512,2047 566,2045 621,2044 675,2041 729,2039 783,2037 838,2036 892,2034 946,2033 1000,2033 1055,2033 1109,2035 1163,2037 1217,2040 1272,2044"/>
+                <TextEquiv>
+                    <Unicode>Alas, I find that Gunther was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>we must exercise the&#13;
+greatest caution &amp; self-control&#13;
+in our dealings with him; in&#13;
+fact circumspection. We are in&#13;
+a critical condition as concerns&#13;
+the Herbarium &amp; Olivers long&#13;
+persistence in shutting out the&#13;
+world, &amp; evading his duty "duty&#13;
+to his neighbours" in any broad&#13;
+way has led to his harboring&#13;
+quite erroneous views. It is no&#13;
+use writing about this matter&#13;
+as I shall so soon be home&#13;
+Meanwhile it would perhaps&#13;
+be best that you discussed these&#13;
+matters as little as possible&#13;
+with him.&#13;
+Alas, I find that Gunther was</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

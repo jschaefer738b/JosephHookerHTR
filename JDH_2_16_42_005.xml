@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:41:36.403-04:00</Created>
+        <LastChange>2020-08-26T03:04:07.653+02:00</LastChange>
+        <TranskribusMetadata docId="437076" pageId="17691638" pageNr="4" tsid="38269439" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NPDYDIPOKMIFGBJEMCPOFUIV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TTFWUCRJJDKUKVVWRYHKFOIW" imageId="13355381"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_42_005.jpg" imageWidth="1389" imageHeight="2221">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330858066" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="68,34 68,2172 1352,2172 1352,34"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="60,101 76,96 106,102 132,82 157,78 171,91 183,89 201,98 230,94 230,19 200,17 188,29 155,27 132,35 105,19 60,23"/>
+                <Baseline points="68,68 93,69 119,69 145,69 171,69 197,69 223,68"/>
+                <TextEquiv>
+                    <Unicode>420</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="114,171 589,123 1264,132 1263,68 1201,49 1019,100 857,61 435,112 378,79 283,113 113,94"/>
+                <Baseline points="120,140 176,138 233,137 290,135 347,133 404,131 461,130 517,128 574,127 631,125 688,124 745,123 802,122 859,121 915,121 972,120 1029,120 1086,120 1143,120 1200,121 1257,121"/>
+                <TextEquiv>
+                    <Unicode>man who you corresponded with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="841,262 985,226 1024,240 1076,214 1106,237 1186,219 1218,238 1281,232 1280,170 1198,182 1149,154 1055,205 922,172 886,192 840,188"/>
+                <Baseline points="848,229 873,229 898,228 923,227 948,226 973,225 998,224 1023,223 1048,223 1073,222 1098,222 1123,221 1148,221 1173,221 1198,221 1223,221 1248,222 1274,222"/>
+                <TextEquiv>
+                    <Unicode>glauca Roxb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="149,250 365,245 394,227 434,246 468,228 535,246 586,210 585,193 518,171 475,201 407,160 350,205 318,191 283,217 222,188 201,207 147,213"/>
+                <Baseline points="155,241 181,240 208,239 234,238 261,237 287,236 314,235 340,234 367,232 393,231 420,230 446,227 473,225 499,223 526,220 552,217 579,214"/>
+                <TextEquiv>
+                    <Unicode>about Sinapis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="852,347 872,354 900,331 951,345 1018,323 1033,336 1089,326 1149,340 1198,308 1244,342 1279,342 1279,289 1173,271 1120,299 1048,285 1025,264 1001,284 950,269 915,288 851,291"/>
+                <Baseline points="858,324 883,323 909,322 935,321 961,320 987,320 1012,319 1038,319 1064,319 1090,319 1116,319 1141,319 1167,319 1193,319 1219,319 1245,320 1271,320"/>
+                <TextEquiv>
+                    <Unicode>intelligent &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="154,333 215,347 269,330 330,342 410,331 464,364 513,360 512,277 469,296 432,278 361,302 269,289 206,308 185,291 154,297"/>
+                <Baseline points="161,326 187,326 213,326 240,326 266,326 293,326 319,326 346,326 372,326 399,325 425,324 452,323 478,322 505,320"/>
+                <TextEquiv>
+                    <Unicode>a remarkedy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="780,429 880,423 927,438 1110,421 1136,434 1172,417 1271,430 1271,402 1149,373 1103,393 1063,372 1027,389 865,364 839,384 781,389"/>
+                <Baseline points="788,419 813,419 838,419 863,419 888,419 913,418 938,418 963,418 988,418 1013,418 1038,417 1063,417 1088,418 1113,418 1138,418 1163,418 1188,419 1213,420 1238,421 1264,421"/>
+                <TextEquiv>
+                    <Unicode>who will come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="159,463 253,428 409,433 478,457 535,426 671,442 783,409 782,373 655,397 572,358 335,401 158,364"/>
+                <Baseline points="166,432 196,430 227,429 257,428 288,427 318,427 349,426 379,426 410,426 440,426 471,426 501,426 532,426 562,426 593,426 623,425 654,425 684,424 715,424 745,422 776,421"/>
+                <TextEquiv>
+                    <Unicode>plesant fellow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="166,560 928,526 1050,551 1126,516 1225,553 1223,467 1123,506 904,467 740,499 564,455 414,506 164,452"/>
+                <Baseline points="173,538 225,538 277,537 329,536 381,535 434,534 486,532 538,531 590,529 642,528 695,527 747,525 799,524 851,523 903,522 956,522 1008,522 1060,522 1112,522 1164,523 1217,525"/>
+                <TextEquiv>
+                    <Unicode>to Kew. Dickson &amp; Balfour &amp; </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="143,624 508,658 1293,626 1219,571 932,597 835,549 756,592 698,567 389,610 238,553 143,580"/>
+                <Baseline points="151,629 207,630 264,631 321,631 378,631 434,630 491,630 548,628 605,627 661,626 718,625 775,623 832,622 888,622 945,621 1002,620 1059,620 1115,621 1172,622 1229,623 1286,625"/>
+                <TextEquiv>
+                    <Unicode>Britten refused Botanical visitors.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="229,745 760,707 1301,736 1300,675 1156,686 1075,627 975,661 718,634 529,680 418,649 228,667"/>
+                <Baseline points="236,722 288,723 341,723 394,723 447,723 500,722 553,721 606,719 659,718 712,716 765,715 817,714 870,712 923,711 976,711 1029,710 1082,710 1135,711 1188,712 1241,714 1294,716"/>
+                <TextEquiv>
+                    <Unicode>I am to take Flower's place at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="148,849 1114,806 1233,855 1231,772 1051,739 935,795 514,733 146,773"/>
+                <Baseline points="154,819 207,819 261,819 314,819 368,819 421,819 475,819 528,818 582,817 635,816 689,815 743,814 796,813 850,812 903,810 957,809 1010,807 1064,805 1117,804 1171,802 1225,800"/>
+                <TextEquiv>
+                    <Unicode>the Bot &amp; Zooly. section on Monday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="154,952 220,927 303,921 352,935 428,923 480,970 526,941 553,950 555,877 415,878 354,863 253,875 209,844 157,860"/>
+                <Baseline points="163,906 188,909 214,912 239,915 265,917 291,918 316,919 342,919 367,920 393,920 419,920 444,920 470,920 495,921 521,921 547,923"/>
+                <TextEquiv>
+                    <Unicode>for all day.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="217,1036 1243,1037 1243,968 1148,953 870,953 807,983 682,948 385,979 325,933 217,954"/>
+                <Baseline points="224,1017 274,1018 325,1019 375,1019 426,1019 477,1020 527,1020 578,1020 628,1020 679,1020 730,1019 780,1019 831,1019 881,1019 932,1019 983,1019 1033,1020 1084,1020 1134,1021 1185,1021 1236,1022"/>
+                <TextEquiv>
+                    <Unicode>There was a hideous crash at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="153,1133 1319,1140 1319,1053 1175,1081 829,1052 656,1097 570,1056 345,1090 154,1048"/>
+                <Baseline points="161,1114 218,1115 276,1116 333,1116 391,1117 448,1117 506,1118 563,1118 621,1119 678,1119 736,1120 793,1120 851,1120 908,1121 966,1121 1023,1121 1081,1121 1138,1121 1196,1121 1253,1120 1311,1120"/>
+                <TextEquiv>
+                    <Unicode>the investiture at the R.D. S. last</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="184,1216 293,1247 1292,1228 1291,1190 1170,1154 976,1181 615,1143 566,1183 413,1193 185,1144"/>
+                <Baseline points="191,1208 245,1209 300,1210 355,1210 409,1211 464,1212 519,1212 573,1212 628,1213 683,1213 738,1214 792,1214 847,1215 902,1215 956,1215 1011,1216 1066,1216 1120,1217 1175,1217 1230,1217 1285,1218"/>
+                <TextEquiv>
+                    <Unicode>night - &amp; the townspeople have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="199,1329 578,1297 1059,1353 1202,1331 1274,1375 1314,1292 1087,1247 984,1294 883,1258 541,1271 401,1232 319,1273 273,1233 201,1243"/>
+                <Baseline points="207,1296 264,1296 322,1297 380,1298 438,1299 496,1300 554,1301 611,1302 669,1303 727,1305 785,1306 843,1308 901,1310 958,1311 1016,1314 1074,1315 1132,1317 1190,1320 1248,1322 1306,1324"/>
+                <TextEquiv>
+                    <Unicode>forestalled the visitors in grabbing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="237,1431 353,1400 552,1440 699,1407 1014,1410 1108,1455 1276,1425 1276,1373 1106,1342 1047,1374 985,1333 851,1326 634,1377 457,1328 363,1378 237,1344"/>
+                <Baseline points="244,1398 295,1400 346,1401 397,1401 448,1401 500,1401 551,1401 602,1401 653,1400 704,1399 756,1399 807,1398 858,1397 909,1397 960,1397 1012,1396 1063,1397 1114,1397 1165,1398 1216,1399 1268,1401"/>
+                <TextEquiv>
+                    <Unicode>all the lecturers tickets before</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="226,1500 589,1519 703,1487 908,1566 1075,1500 1325,1511 1326,1442 1257,1422 1137,1473 798,1407 576,1464 226,1450"/>
+                <Baseline points="234,1487 288,1489 342,1491 396,1492 450,1493 505,1493 559,1493 613,1493 667,1493 721,1493 776,1493 830,1492 884,1492 938,1492 992,1492 1047,1492 1101,1493 1155,1493 1209,1494 1263,1496 1318,1497"/>
+                <TextEquiv>
+                    <Unicode>our arrival. The Geologists have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="219,1605 413,1634 531,1602 595,1652 679,1598 1149,1642 1267,1622 1268,1552 925,1585 825,1536 671,1576 609,1542 369,1568 219,1535"/>
+                <Baseline points="226,1590 277,1593 329,1594 381,1595 432,1597 484,1597 536,1598 587,1599 639,1599 691,1599 743,1600 794,1600 846,1600 898,1601 949,1601 1001,1602 1053,1602 1104,1603 1156,1604 1208,1605 1260,1607"/>
+                <TextEquiv>
+                    <Unicode>been quarrelling I hear &amp; set</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="242,1723 440,1718 658,1778 751,1717 1244,1717 1244,1642 1008,1645 932,1689 692,1648 584,1681 509,1643 416,1696 345,1653 242,1671"/>
+                <Baseline points="249,1710 298,1709 347,1709 397,1709 446,1709 496,1709 545,1709 594,1709 644,1709 693,1710 743,1710 792,1710 841,1710 891,1710 940,1709 990,1709 1039,1708 1088,1707 1138,1706 1187,1705 1237,1703"/>
+                <TextEquiv>
+                    <Unicode>upon Pengelly who left the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="248,1820 325,1840 354,1825 373,1831 415,1818 471,1825 487,1816 515,1827 516,1780 484,1792 450,1782 434,1788 390,1758 339,1780 300,1755 279,1769 249,1765"/>
+                <Baseline points="255,1809 280,1810 305,1810 330,1811 356,1812 381,1812 406,1813 432,1813 457,1814 482,1814 508,1814"/>
+                <TextEquiv>
+                    <Unicode>section.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="717,1871 729,1872 740,1883 755,1869 780,1879 801,1876 816,1888 824,1880 841,1882 851,1875 861,1883 881,1865 897,1863 897,1816 878,1822 851,1814 844,1820 817,1800 801,1798 765,1814 755,1805 739,1813 717,1810"/>
+                <Baseline points="724,1869 751,1868 779,1869 807,1870 834,1871 862,1870 890,1866"/>
+                <TextEquiv>
+                    <Unicode>&amp;Lady</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="241,1936 494,1961 585,1934 775,1974 851,1934 1281,1948 1281,1882 1214,1906 1155,1868 824,1912 664,1847 573,1902 453,1838 241,1847"/>
+                <Baseline points="248,1924 299,1925 350,1926 401,1926 453,1927 504,1927 555,1927 607,1927 658,1927 709,1927 761,1927 812,1927 863,1927 914,1928 966,1928 1017,1928 1068,1929 1120,1930 1171,1930 1222,1932 1274,1933"/>
+                <TextEquiv>
+                    <Unicode>The Lord Lieutenant gave an afternoon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="226,2053 369,2049 460,2100 638,2040 1316,2048 1315,1986 1233,1968 1134,2007 1043,1953 721,1968 648,2014 226,1991"/>
+                <Baseline points="233,2040 286,2041 340,2042 394,2042 448,2042 501,2041 555,2040 609,2039 663,2038 716,2037 770,2035 824,2034 878,2033 931,2032 985,2032 1039,2032 1093,2032 1146,2033 1200,2035 1254,2038 1308,2041"/>
+                <TextEquiv>
+                    <Unicode>yesterday at the V. R. Lodge, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="259,2167 1360,2156 1336,2101 1210,2113 1175,2082 784,2108 602,2076 532,2117 258,2084"/>
+                <Baseline points="266,2150 320,2150 374,2149 428,2148 483,2147 537,2145 591,2144 646,2142 700,2140 754,2138 809,2136 863,2135 917,2134 971,2133 1026,2133 1080,2133 1134,2133 1189,2135 1243,2137 1297,2140 1352,2144"/>
+                <TextEquiv>
+                    <Unicode>the rain T &amp; L damaged it -- Ive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>420&#13;
+man who you corresponded with&#13;
+glauca Roxb.&#13;
+about Sinapis&#13;
+intelligent &amp;&#13;
+a remarkedy&#13;
+who will come&#13;
+plesant fellow&#13;
+to Kew. Dickson &amp; Balfour &amp; &#13;
+Britten refused Botanical visitors.&#13;
+I am to take Flower's place at&#13;
+the Bot &amp; Zooly. section on Monday&#13;
+for all day.&#13;
+There was a hideous crash at&#13;
+the investiture at the R.D. S. last&#13;
+night - &amp; the townspeople have&#13;
+forestalled the visitors in grabbing&#13;
+all the lecturers tickets before&#13;
+our arrival. The Geologists have&#13;
+been quarrelling I hear &amp; set&#13;
+upon Pengelly who left the&#13;
+section.&#13;
+&amp;Lady&#13;
+The Lord Lieutenant gave an afternoon&#13;
+yesterday at the V. R. Lodge, but&#13;
+the rain T &amp; L damaged it -- Ive</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

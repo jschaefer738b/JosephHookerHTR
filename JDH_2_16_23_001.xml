@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:03:14.746-04:00</Created>
+        <LastChange>2023-05-16T17:38:52.282+02:00</LastChange>
+        <TranskribusMetadata docId="423572" pageId="16857580" pageNr="1" tsid="121936577" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XRBSVOQHMKMJSEDNFMQSQHWP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVVQQIGLKWWQLJBTHWCNHEJJ" imageId="12609141"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_23_001.jpg" imageWidth="1383" imageHeight="2187">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330899749" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="114,19 114,2068 1337,2068 1337,19"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="838,330 954,320 1023,342 1078,386 1115,392 1175,345 1168,231 1148,230 1125,253 1089,238 1049,267 1021,267 950,231 907,251 864,299 836,296"/>
+                <Baseline points="846,320 872,317 899,315 925,314 952,312 978,311 1005,310 1031,308 1058,307 1084,305 1111,303 1137,301 1164,299"/>
+                <TextEquiv>
+                    <Unicode>Monday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="134,605 170,618 200,604 252,601 277,617 312,604 359,636 467,625 524,640 521,543 464,528 408,481 337,523 248,471 132,531"/>
+                <Baseline points="142,602 168,601 195,600 221,599 248,599 275,598 301,598 328,597 355,597 381,596 408,595 435,593 461,592 488,590 515,587"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="237,752 448,773 642,718 1078,708 1207,687 1203,617 1114,667 902,603 794,670 664,627 547,699 306,642 232,683"/>
+                <Baseline points="243,741 290,739 338,737 386,735 434,732 482,730 529,727 577,724 625,721 673,718 721,714 768,712 816,708 864,705 912,702 960,699 1007,696 1055,693 1103,690 1151,687 1199,685"/>
+                <TextEquiv>
+                    <Unicode>Will you be so kind as to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="115,880 888,815 1154,847 1252,811 1245,710 1137,776 1019,723 920,800 865,766 653,796 474,760 406,803 180,767 111,808"/>
+                <Baseline points="122,864 178,863 234,862 290,860 346,857 402,854 458,851 514,848 570,844 626,839 682,835 738,831 794,826 850,822 906,818 962,814 1018,811 1074,807 1130,804 1186,802 1243,800"/>
+                <TextEquiv>
+                    <Unicode>look at the enclosed letter for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="163,1017 549,954 797,976 1311,932 1306,858 1127,902 912,874 826,925 660,864 560,941 221,882 158,921"/>
+                <Baseline points="170,997 226,990 283,983 339,976 396,972 453,967 509,963 566,959 622,956 679,953 736,950 792,948 849,945 905,943 962,941 1019,938 1075,936 1132,933 1188,930 1245,926 1302,922"/>
+                <TextEquiv>
+                    <Unicode>the Trustees BM. &amp; show it to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="108,1125 636,1065 708,1110 808,1064 904,1112 955,1063 1186,1030 1346,1067 1342,1007 1285,992 793,1026 517,986 416,1051 354,1009 198,1018 106,1086"/>
+                <Baseline points="114,1109 175,1105 236,1100 297,1094 358,1089 419,1084 480,1079 542,1074 603,1069 664,1065 725,1060 786,1056 847,1052 908,1049 970,1047 1031,1044 1092,1042 1153,1041 1214,1041 1275,1041 1337,1042"/>
+                <TextEquiv>
+                    <Unicode>Mr Bentham. Giving me an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="171,1272 421,1212 526,1265 621,1202 759,1191 1255,1216 1307,1198 1303,1096 1092,1141 962,1085 740,1156 578,1129 471,1173 260,1149 167,1187"/>
+                <Baseline points="177,1222 233,1219 289,1216 345,1213 401,1209 457,1205 513,1202 569,1199 625,1195 681,1191 738,1188 794,1186 850,1183 906,1180 962,1178 1018,1177 1074,1175 1130,1175 1186,1174 1242,1175 1299,1176"/>
+                <TextEquiv>
+                    <Unicode>opinion (which I know will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="166,1362 219,1334 238,1349 438,1342 486,1365 530,1336 586,1376 652,1369 648,1250 548,1299 509,1273 455,1302 308,1293 233,1246 191,1278 163,1276"/>
+                <Baseline points="173,1340 199,1339 225,1337 251,1337 277,1336 303,1335 329,1334 355,1334 381,1333 407,1333 433,1332 459,1331 485,1330 511,1329 537,1329 563,1328 589,1326 615,1324 642,1323"/>
+                <TextEquiv>
+                    <Unicode>be candid).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="273,1482 843,1418 1272,1433 1291,1337 929,1399 722,1340 535,1401 379,1399 339,1367 269,1404"/>
+                <Baseline points="279,1461 329,1457 379,1452 430,1448 480,1444 531,1441 581,1436 631,1433 682,1430 732,1427 783,1425 833,1422 883,1420 934,1418 984,1417 1035,1416 1085,1415 1135,1414 1186,1414 1236,1414 1287,1414"/>
+                <TextEquiv>
+                    <Unicode>I showed Oliver a much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="149,1603 240,1617 423,1560 539,1611 610,1555 944,1567 1090,1516 1251,1547 1220,1475 1087,1504 974,1450 775,1497 588,1483 529,1529 253,1522 198,1476 145,1514"/>
+                <Baseline points="155,1568 209,1568 263,1567 318,1565 372,1563 427,1560 481,1557 535,1553 590,1550 644,1547 699,1543 753,1540 807,1537 862,1533 916,1531 971,1528 1025,1527 1079,1525 1134,1524 1188,1525 1243,1526"/>
+                <TextEquiv>
+                    <Unicode>longer one, of which this is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="147,1705 1136,1646 1247,1677 1241,1570 1191,1604 1031,1574 935,1609 836,1565 708,1652 560,1604 441,1656 200,1618 144,1652"/>
+                <Baseline points="153,1694 207,1692 261,1690 315,1688 370,1685 424,1682 478,1679 532,1676 587,1673 641,1670 695,1667 749,1664 804,1661 858,1657 912,1655 966,1652 1021,1649 1075,1647 1129,1645 1183,1644 1238,1643"/>
+                <TextEquiv>
+                    <Unicode>condensation.  He did not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="144,1835 262,1848 494,1785 698,1842 782,1783 1187,1760 1193,1685 1121,1718 1071,1687 960,1742 873,1698 140,1770"/>
+                <Baseline points="150,1812 204,1809 259,1806 314,1803 368,1800 423,1797 478,1795 532,1792 587,1789 642,1786 696,1783 751,1780 806,1776 860,1772 915,1769 970,1765 1024,1761 1079,1756 1134,1752 1189,1747"/>
+                <TextEquiv>
+                    <Unicode>approve, &amp; suggested what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="156,1940 1109,1858 1211,1900 1255,1890 1248,1786 942,1848 780,1783 696,1861 451,1831 399,1869 213,1853 152,1890"/>
+                <Baseline points="162,1922 216,1918 270,1914 324,1910 378,1906 432,1902 486,1898 541,1895 595,1891 649,1888 703,1884 757,1881 811,1877 865,1874 920,1871 974,1866 1028,1863 1082,1860 1136,1856 1190,1852 1245,1847"/>
+                <TextEquiv>
+                    <Unicode>accompanies it on a sep</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="181,2061 290,2070 620,2000 941,2013 1097,1982 1094,1925 1037,1915 960,1958 856,1918 789,1957 717,1906 642,1972 530,1928 421,2001 324,1942 176,1984"/>
+                <Baseline points="188,2040 233,2036 278,2031 323,2027 368,2023 413,2020 458,2017 503,2013 548,2011 593,2009 639,2006 684,2004 729,2002 774,2000 819,1997 864,1995 909,1993 954,1990 999,1987 1044,1984 1090,1981"/>
+                <TextEquiv>
+                    <Unicode>slip in his handwriting.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Monday&#13;
+Dear Dyer&#13;
+Will you be so kind as to&#13;
+look at the enclosed letter for&#13;
+the Trustees BM. &amp; show it to&#13;
+Mr Bentham. Giving me an&#13;
+opinion (which I know will&#13;
+be candid).&#13;
+I showed Oliver a much&#13;
+longer one, of which this is a&#13;
+condensation.  He did not&#13;
+approve, &amp; suggested what&#13;
+accompanies it on a sep&#13;
+slip in his handwriting.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:59:40.801-04:00</Created>
+        <LastChange>2020-07-06T06:08:03.350+02:00</LastChange>
+        <TranskribusMetadata docId="423588" pageId="16858826" pageNr="4" tsid="33544205" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TFXYALEWRTGZUHLIRTGQOTLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UJZBOLOQRHPVMKCMGUXYGGAZ" imageId="12610338"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_36_007.jpg" imageWidth="1386" imageHeight="2236">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330881679" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="89,101 89,753 1314,753 1314,101"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="104,177 535,144 629,212 783,146 1321,196 1322,134 1218,98 979,104 888,63 737,110 105,125"/>
+                <Baseline points="112,156 172,156 232,156 292,155 352,154 412,153 472,152 532,151 592,150 652,149 713,149 773,149 833,150 893,151 953,153 1013,156 1073,159 1133,164 1193,170 1253,177 1314,185"/>
+                <TextEquiv>
+                    <Unicode>concentrate my attention when</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="96,274 1264,284 1291,191 1079,182 947,243 737,197 683,240 378,196 96,225"/>
+                <Baseline points="103,253 162,254 221,255 280,256 339,256 398,257 457,257 516,258 575,258 634,258 693,259 752,259 811,259 870,259 929,259 988,260 1047,260 1106,260 1165,261 1224,261 1283,262"/>
+                <TextEquiv>
+                    <Unicode>subjects new to me, &amp; to take</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="81,369 1039,369 1099,338 1099,293 923,290 863,334 654,310 597,348 157,283 81,317"/>
+                <Baseline points="89,359 139,360 189,361 239,362 289,362 339,362 389,362 439,362 489,361 539,360 590,360 640,359 690,358 740,357 790,357 840,356 890,355 940,355 990,355 1040,355 1091,355"/>
+                <TextEquiv>
+                    <Unicode>them all in when I do!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="338,490 576,488 703,517 748,555 782,522 893,485 893,414 820,395 737,459 667,455 599,421 487,424 428,382 338,433"/>
+                <Baseline points="346,483 374,484 402,484 431,485 459,485 487,486 516,486 544,486 572,485 601,485 629,484 658,484 686,483 714,483 743,482 771,482 799,481 828,481 856,480 885,480"/>
+                <TextEquiv>
+                    <Unicode>Ever &amp; very affe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="488,745 590,720 654,737 689,717 833,730 939,716 998,692 994,606 948,599 861,628 795,598 714,615 692,602 659,633 605,596 514,656 484,656"/>
+                <Baseline points="495,728 521,725 547,721 573,719 599,717 625,714 651,711 677,710 703,709 729,707 756,706 782,705 808,704 834,704 860,703 886,703 912,703 938,703 964,703 991,704"/>
+                <TextEquiv>
+                    <Unicode>JosD Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>concentrate my attention when&#13;
+subjects new to me, &amp; to take&#13;
+them all in when I do!&#13;
+Ever &amp; very affe&#13;
+JosD Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

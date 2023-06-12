@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:03:14.804-04:00</Created>
+        <LastChange>2020-07-01T01:39:06.694+02:00</LastChange>
+        <TranskribusMetadata docId="423572" pageId="16857581" pageNr="2" tsid="33080119" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GCZSGKDDTEZHRRIHXQOAMKNL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PAMJGITVUBVVFWYZWKXRAUTE" imageId="12609142"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_23_003.jpg" imageWidth="1383" imageHeight="2187">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330900019" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="85,171 85,2124 1285,2124 1285,171"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="78,262 225,295 290,253 508,256 577,314 674,228 1265,232 1263,170 1120,202 983,139 794,211 615,171 395,217 257,172 76,198"/>
+                <Baseline points="85,253 143,254 202,254 260,254 319,253 378,251 436,249 495,247 554,244 612,242 671,239 730,236 788,234 847,231 906,230 964,229 1023,228 1082,228 1140,229 1199,231 1258,234"/>
+                <TextEquiv>
+                    <Unicode>confidentially, &amp; send one to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="118,393 527,370 777,439 937,356 1021,356 1092,405 1179,367 1177,309 1068,268 910,320 788,281 670,316 451,286 342,320 194,295 116,334"/>
+                <Baseline points="124,377 176,374 228,372 280,370 333,368 385,366 437,364 490,363 542,361 594,360 647,359 699,357 751,356 803,355 856,353 908,352 960,350 1013,348 1065,346 1117,343 1170,341"/>
+                <TextEquiv>
+                    <Unicode>the Archbishop of Canterbury</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="117,504 344,489 420,543 736,469 796,505 887,482 963,531 1069,459 1245,473 1243,426 1126,390 755,457 671,407 585,455 450,417 380,469 302,423 115,454"/>
+                <Baseline points="124,498 179,496 235,495 290,493 346,491 402,490 457,488 513,486 569,485 624,483 680,481 736,479 791,477 847,475 903,473 958,472 1014,470 1070,467 1125,465 1181,463 1237,461"/>
+                <TextEquiv>
+                    <Unicode>semi-officially, asking him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="116,635 327,650 451,602 815,609 921,560 1101,571 1097,498 1053,481 894,562 651,519 584,557 526,517 441,576 296,535 113,569"/>
+                <Baseline points="123,623 171,621 220,620 268,618 317,615 365,613 414,610 462,608 511,605 559,602 608,600 657,597 705,594 754,592 802,589 851,586 899,583 948,581 996,578 1045,575 1094,573"/>
+                <TextEquiv>
+                    <Unicode>to take look into the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="98,752 858,696 1144,725 1189,663 1061,676 944,637 887,681 659,675 465,616 381,693 294,637 247,678 159,651 95,683"/>
+                <Baseline points="104,732 157,729 211,727 265,725 319,722 373,720 427,717 481,715 535,713 589,711 643,709 696,707 750,705 804,704 858,703 912,702 966,701 1020,701 1074,701 1128,702 1182,703"/>
+                <TextEquiv>
+                    <Unicode>matter to avoid a serious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="138,852 531,833 640,893 753,825 972,851 1009,817 1243,815 1241,769 1120,773 1044,732 982,775 875,734 809,791 532,805 438,764 137,808"/>
+                <Baseline points="145,841 199,840 254,839 308,838 363,837 417,836 472,835 526,833 581,832 635,830 690,829 744,827 799,825 853,823 908,821 962,819 1017,818 1071,816 1126,813 1180,811 1235,809"/>
+                <TextEquiv>
+                    <Unicode>disturbance of the peace.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="242,986 900,941 1221,966 1218,876 1163,869 1051,904 797,883 716,929 600,888 508,934 313,879 240,923"/>
+                <Baseline points="249,966 297,964 345,962 393,960 441,958 490,955 538,953 586,951 634,949 682,947 731,945 779,943 827,941 875,940 923,938 972,937 1020,937 1068,936 1116,936 1164,936 1213,937"/>
+                <TextEquiv>
+                    <Unicode>Oliver does not consider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="88,1101 449,1092 557,1146 677,1091 1182,1057 1179,991 1035,1018 958,971 873,1036 636,990 545,1060 417,1065 191,994 86,1044"/>
+                <Baseline points="95,1093 149,1093 203,1092 257,1092 311,1090 365,1089 419,1087 473,1086 527,1084 581,1081 635,1079 689,1076 743,1074 797,1071 851,1069 905,1065 959,1063 1013,1059 1067,1057 1121,1054 1175,1051"/>
+                <TextEquiv>
+                    <Unicode>that as an official Trustee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="114,1244 836,1195 1124,1225 1105,1109 1025,1165 919,1127 724,1130 644,1175 414,1155 311,1197 192,1145 111,1186"/>
+                <Baseline points="120,1234 169,1232 219,1230 269,1228 319,1225 368,1223 418,1220 468,1217 518,1214 567,1212 617,1209 667,1207 717,1205 766,1202 816,1200 866,1199 916,1197 965,1196 1015,1195 1065,1195 1115,1194"/>
+                <TextEquiv>
+                    <Unicode>I am responsible to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="149,1375 263,1411 322,1354 759,1334 873,1385 1004,1306 1166,1305 1163,1231 1049,1255 990,1222 884,1284 677,1241 475,1281 383,1238 147,1329"/>
+                <Baseline points="155,1355 205,1354 255,1354 305,1352 355,1350 406,1348 456,1346 506,1342 556,1339 606,1336 657,1333 707,1330 757,1326 807,1323 857,1319 908,1316 958,1313 1008,1310 1058,1308 1108,1306 1159,1304"/>
+                <TextEquiv>
+                    <Unicode>R. S. &amp; that I ought to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="123,1502 530,1472 597,1494 685,1455 1101,1466 1099,1427 1005,1378 872,1396 808,1359 723,1421 606,1390 451,1454 119,1417"/>
+                <Baseline points="129,1480 177,1481 225,1482 273,1481 321,1480 370,1479 418,1477 466,1474 514,1472 562,1469 611,1466 659,1463 707,1460 755,1457 803,1455 852,1452 900,1451 948,1449 996,1449 1044,1449 1093,1449"/>
+                <TextEquiv>
+                    <Unicode>disarm the Trustees.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="135,1653 477,1620 694,1672 799,1597 1095,1584 1260,1617 1276,1525 1168,1487 1072,1545 901,1507 801,1566 758,1535 572,1577 441,1538 376,1588 226,1525 132,1588"/>
+                <Baseline points="141,1632 197,1630 254,1629 310,1626 367,1623 423,1620 480,1617 536,1613 593,1609 649,1606 706,1603 763,1599 819,1597 876,1594 932,1592 989,1591 1045,1590 1102,1590 1158,1591 1215,1593 1272,1595"/>
+                <TextEquiv>
+                    <Unicode>I must confess that their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="141,1796 227,1816 311,1755 643,1722 965,1738 1055,1702 1206,1739 1223,1681 1129,1657 1004,1695 902,1642 823,1672 744,1641 690,1685 587,1661 137,1702"/>
+                <Baseline points="147,1754 200,1753 254,1750 307,1748 361,1744 414,1741 468,1738 521,1734 575,1731 628,1728 682,1725 735,1722 789,1719 842,1717 896,1716 949,1714 1003,1714 1056,1714 1110,1714 1163,1716 1217,1719"/>
+                <TextEquiv>
+                    <Unicode>ingratitude touches me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="135,1902 702,1843 807,1909 889,1848 1011,1916 1129,1833 1293,1839 1289,1761 1236,1759 1120,1811 1007,1763 924,1814 754,1792 646,1828 500,1777 403,1843 132,1838"/>
+                <Baseline points="141,1879 198,1876 255,1873 312,1870 369,1867 427,1863 484,1860 541,1855 598,1852 655,1849 713,1845 770,1842 827,1839 884,1837 941,1835 999,1833 1056,1833 1113,1832 1170,1833 1227,1834 1285,1837"/>
+                <TextEquiv>
+                    <Unicode>more than anything else</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="134,2004 1134,1976 1264,1952 1264,1909 943,1938 880,1892 478,1957 385,1902 131,1945"/>
+                <Baseline points="141,1990 196,1989 252,1988 308,1987 364,1986 420,1985 476,1983 531,1981 587,1980 643,1978 699,1976 755,1974 811,1971 867,1969 922,1966 978,1962 1034,1959 1090,1956 1146,1951 1202,1947 1258,1942"/>
+                <TextEquiv>
+                    <Unicode>but this is "small" in me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="167,2115 192,2117 211,2098 237,2105 278,2097 287,2104 311,2094 335,2107 357,2100 406,2115 406,2068 369,2068 333,2032 302,2056 268,2032 252,2041 221,2016 210,2022 201,2014 182,2027 167,2021"/>
+                <Baseline points="174,2098 202,2095 230,2094 258,2094 286,2095 314,2097 342,2098 370,2096 398,2093"/>
+                <TextEquiv>
+                    <Unicode>I own.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>confidentially, &amp; send one to&#13;
+the Archbishop of Canterbury&#13;
+semi-officially, asking him&#13;
+to take look into the&#13;
+matter to avoid a serious&#13;
+disturbance of the peace.&#13;
+Oliver does not consider&#13;
+that as an official Trustee&#13;
+I am responsible to the&#13;
+R. S. &amp; that I ought to&#13;
+disarm the Trustees.&#13;
+I must confess that their&#13;
+ingratitude touches me&#13;
+more than anything else&#13;
+but this is "small" in me&#13;
+I own.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

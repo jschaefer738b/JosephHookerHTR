@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:31:45.640-04:00</Created>
+        <LastChange>2023-05-16T17:52:34.174+02:00</LastChange>
+        <TranskribusMetadata docId="423577" pageId="16857591" pageNr="1" tsid="121937090" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=RTHWDDRLFAOLJIWVIRYSOELE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IBCPTDQIMDRSXERPSFVKTUXC" imageId="12609152"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_31_001.jpg" imageWidth="1392" imageHeight="2244">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330895514" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="124,95 124,2129 1363,2129 1363,95"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} textStyle {offset:0; length:16;subscript:true;}">
+                <Coords points="736,170 788,148 932,222 1106,156 1370,140 1369,77 1275,100 1112,59 998,115 841,45 735,79"/>
+                <Baseline points="743,155 774,152 805,151 836,150 867,149 898,149 929,149 960,149 991,150 1022,150 1053,151 1084,151 1115,151 1146,151 1177,151 1208,150 1239,149 1270,146 1301,144 1332,141 1363,136"/>
+                <TextEquiv>
+                    <Unicode>Stokesay June 28th</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:1;}">
+                <Coords points="1032,327 1054,332 1082,324 1138,278 1159,287 1175,276 1203,285 1223,278 1218,194 1197,196 1186,206 1166,198 1143,205 1133,198 1107,214 1095,209 1050,254 1029,252"/>
+                <Baseline points="1037,283 1062,282 1088,280 1113,278 1139,276 1164,275 1190,275 1216,276"/>
+                <TextEquiv>
+                    <Unicode>1876</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:2;}">
+                <Coords points="117,605 130,610 159,583 204,589 242,577 351,601 406,586 431,596 487,569 486,537 410,537 366,499 298,547 202,492 142,534 115,538"/>
+                <Baseline points="124,586 149,584 174,582 200,581 225,580 251,580 276,579 302,579 327,579 352,578 378,578 403,576 429,574 454,571 480,568"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;}">
+                <Coords points="294,714 466,704 547,746 1017,679 1275,710 1287,653 857,621 748,644 656,613 513,671 379,617 293,622"/>
+                <Baseline points="300,695 349,698 398,699 447,700 496,700 545,699 594,697 643,695 692,693 741,691 790,689 839,687 888,686 937,686 986,686 1035,687 1084,689 1133,693 1182,698 1231,704 1280,713"/>
+                <TextEquiv>
+                    <Unicode>Thanks for your letter. I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="142,838 1243,801 1210,739 1075,762 1031,733 931,775 839,735 712,784 460,749 290,795 140,770"/>
+                <Baseline points="149,820 203,820 257,818 311,817 366,815 420,813 474,811 529,808 583,806 637,804 692,801 746,799 800,798 854,796 909,794 963,793 1017,793 1072,792 1126,793 1180,794 1235,795"/>
+                <TextEquiv>
+                    <Unicode>cannot tell you how vexed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="154,936 1240,909 1272,904 1271,820 997,874 711,832 591,877 153,875"/>
+                <Baseline points="161,916 216,917 271,918 326,918 382,917 437,916 492,915 547,913 603,912 658,910 713,908 768,906 824,905 879,903 934,902 989,902 1045,901 1100,901 1155,902 1210,903 1266,906"/>
+                <TextEquiv>
+                    <Unicode>I am about the cheque &amp; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;}">
+                <Coords points="132,1037 224,1020 336,1056 557,1007 961,1017 959,968 814,940 710,989 572,939 454,988 188,927 129,946"/>
+                <Baseline points="139,1020 179,1020 220,1020 261,1020 301,1019 342,1018 383,1016 423,1015 464,1013 505,1011 546,1010 586,1008 627,1006 668,1005 708,1003 749,1002 790,1001 830,1001 871,1001 912,1001 953,1001"/>
+                <TextEquiv>
+                    <Unicode>trouble you have had.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:7;}">
+                <Coords points="162,1174 657,1182 935,1123 1181,1170 1316,1148 1314,1068 1190,1041 1119,1083 985,1063 660,1120 474,1086 321,1123 212,1064 160,1081"/>
+                <Baseline points="169,1153 228,1150 288,1147 348,1145 408,1144 468,1142 528,1141 588,1140 648,1140 708,1139 768,1138 828,1138 888,1137 948,1136 1008,1134 1068,1132 1128,1130 1188,1127 1248,1125 1308,1121"/>
+                <TextEquiv>
+                    <Unicode>I am distressed about the theft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:8;}">
+                <Coords points="158,1325 259,1271 709,1250 1083,1250 1158,1298 1221,1261 1220,1184 929,1208 887,1181 794,1231 513,1191 400,1238 295,1190 156,1248"/>
+                <Baseline points="164,1268 216,1266 269,1264 321,1262 374,1260 426,1258 479,1256 531,1254 584,1253 636,1251 689,1250 741,1248 794,1247 846,1246 899,1245 951,1245 1004,1244 1056,1244 1109,1244 1161,1245 1214,1246"/>
+                <TextEquiv>
+                    <Unicode>of Bain's portrait, it certainly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:9;}">
+                <Coords points="154,1401 386,1359 526,1398 648,1357 1227,1353 1226,1320 1107,1282 1044,1325 688,1341 587,1290 471,1285 415,1326 211,1300 153,1345"/>
+                <Baseline points="161,1370 213,1368 266,1366 319,1365 372,1363 425,1362 478,1361 531,1360 584,1359 637,1358 690,1357 742,1357 795,1356 848,1355 901,1354 954,1353 1007,1352 1060,1351 1113,1349 1166,1348 1219,1346"/>
+                <TextEquiv>
+                    <Unicode>points to persons who have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:10;}">
+                <Coords points="202,1432 230,1421 247,1429 275,1419 306,1430 345,1411 387,1420 396,1410 422,1410 421,1369 385,1372 371,1385 321,1379 284,1394 251,1380 201,1402"/>
+                <Baseline points="208,1416 233,1415 259,1415 285,1415 311,1414 337,1414 363,1413 389,1410 415,1407"/>
+                <TextEquiv>
+                    <Unicode>personal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:11;}">
+                <Coords points="162,1498 289,1466 581,1474 854,1436 1036,1457 1035,1423 916,1396 847,1421 764,1379 648,1414 160,1436"/>
+                <Baseline points="168,1467 211,1467 254,1466 297,1465 340,1463 383,1461 426,1460 469,1458 512,1456 555,1454 598,1452 641,1450 684,1448 727,1446 770,1444 813,1443 856,1442 899,1441 942,1440 985,1440 1029,1440"/>
+                <TextEquiv>
+                    <Unicode>an interest in the man.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:12;}">
+                <Coords points="156,1596 355,1560 986,1583 1074,1548 1172,1609 1246,1569 1244,1492 1130,1487 1047,1538 835,1545 761,1509 353,1549 154,1493"/>
+                <Baseline points="163,1566 216,1568 270,1570 324,1570 378,1571 431,1570 485,1570 539,1569 593,1568 646,1566 700,1565 754,1563 808,1561 861,1559 915,1557 969,1556 1023,1554 1076,1553 1130,1552 1184,1552 1238,1552"/>
+                <TextEquiv>
+                    <Unicode>Reeve never sent me over the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:13;}">
+                <Coords points="168,1703 265,1721 399,1680 692,1725 775,1680 1200,1683 1200,1616 1095,1547 852,1656 771,1614 696,1648 528,1609 448,1652 168,1602"/>
+                <Baseline points="175,1676 225,1676 276,1675 327,1675 378,1675 429,1675 480,1675 531,1676 582,1676 633,1677 684,1677 734,1677 785,1678 836,1678 887,1678 938,1679 989,1678 1040,1678 1091,1678 1142,1677 1193,1676"/>
+                <TextEquiv>
+                    <Unicode>magazine proofs, for which he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:14;}">
+                <Coords points="157,1791 417,1816 1062,1772 1161,1794 1160,1732 1124,1721 996,1757 893,1722 742,1730 669,1764 472,1724 391,1752 157,1737"/>
+                <Baseline points="165,1780 214,1782 263,1784 313,1785 362,1786 412,1787 461,1788 510,1788 560,1788 609,1788 659,1787 708,1787 757,1786 807,1785 856,1784 906,1782 955,1780 1004,1778 1054,1777 1103,1775 1153,1772"/>
+                <TextEquiv>
+                    <Unicode>had abundant time &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:15;}">
+                <Coords points="167,1905 474,1891 527,1929 596,1897 809,1942 1290,1873 1255,1835 967,1812 895,1846 793,1810 623,1843 587,1811 506,1862 434,1824 167,1838"/>
+                <Baseline points="175,1888 230,1887 285,1886 341,1886 396,1885 452,1884 507,1883 562,1881 618,1880 673,1880 729,1879 784,1878 839,1877 895,1877 950,1877 1006,1877 1061,1877 1116,1878 1172,1878 1227,1880 1283,1881"/>
+                <TextEquiv>
+                    <Unicode>which he faithfully promised.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:16;}">
+                <Coords points="184,2006 430,1998 528,2031 735,1989 1130,1995 1164,1983 1164,1928 1071,1956 974,1930 915,1965 555,1945 496,1974 183,1929"/>
+                <Baseline points="191,1990 239,1992 287,1994 335,1995 384,1996 432,1996 480,1997 529,1996 577,1996 625,1995 674,1994 722,1993 770,1992 818,1991 867,1990 915,1988 963,1988 1012,1987 1060,1987 1108,1986 1157,1987"/>
+                <TextEquiv>
+                    <Unicode>The descriptions must be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:17;}">
+                <Coords points="173,2117 1282,2113 1282,2079 1139,2036 173,2069"/>
+                <Baseline points="181,2101 235,2103 290,2105 345,2106 399,2107 454,2107 509,2107 563,2106 618,2105 673,2104 728,2103 782,2102 837,2102 892,2101 946,2101 1001,2101 1056,2101 1110,2102 1165,2103 1220,2106 1275,2109"/>
+                <TextEquiv>
+                    <Unicode>delayed till next month now</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Stokesay June 28th&#13;
+1876&#13;
+Dear Dyer&#13;
+Thanks for your letter. I&#13;
+cannot tell you how vexed&#13;
+I am about the cheque &amp; the&#13;
+trouble you have had.&#13;
+I am distressed about the theft&#13;
+of Bain's portrait, it certainly&#13;
+points to persons who have&#13;
+personal&#13;
+an interest in the man.&#13;
+Reeve never sent me over the&#13;
+magazine proofs, for which he&#13;
+had abundant time &amp;&#13;
+which he faithfully promised.&#13;
+The descriptions must be&#13;
+delayed till next month now</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

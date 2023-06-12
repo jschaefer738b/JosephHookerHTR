@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:55:30.421-04:00</Created>
+        <LastChange>2020-07-03T01:54:12.362+02:00</LastChange>
+        <TranskribusMetadata docId="423585" pageId="16858813" pageNr="3" tsid="33332514" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=QZJPXAPMDHZEPGBLYBDMOPLY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYBJGOJCBBUEVFJJJMUYXQTH" imageId="12610325"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_33_003.jpg" imageWidth="1187" imageHeight="1845">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330892832" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="91,91 91,1786 1140,1786 1140,91"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="105,168 242,146 367,178 486,136 812,177 1040,126 1039,79 998,72 769,118 528,65 463,106 386,72 331,108 256,67 104,78"/>
+                <Baseline points="112,155 158,151 204,146 250,143 296,140 342,139 388,137 434,136 480,134 526,134 572,133 618,133 664,133 710,133 756,133 802,134 848,134 894,134 940,135 986,135 1033,135"/>
+                <TextEquiv>
+                    <Unicode>at the Association is quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="85,255 194,238 252,257 270,239 403,232 518,251 533,248 533,174 506,166 384,201 340,171 265,220 85,202"/>
+                <Baseline points="92,244 117,242 143,239 168,238 194,236 219,235 245,234 270,233 296,233 321,232 347,232 372,233 398,234 423,235 449,236 474,238 500,241 526,244"/>
+                <TextEquiv>
+                    <Unicode>remarkable.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="142,341 280,376 346,336 490,328 1043,385 1109,365 1106,249 1079,244 984,288 818,260 574,304 441,271 368,297 220,249 141,303"/>
+                <Baseline points="149,333 196,333 244,333 291,333 339,333 387,332 434,332 482,331 529,331 577,330 625,329 672,328 720,326 767,325 815,323 863,322 910,320 958,318 1005,316 1053,314 1101,312"/>
+                <TextEquiv>
+                    <Unicode>I hope to report favourably</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="106,450 814,484 883,438 955,468 1018,434 1120,445 1120,409 948,361 785,411 685,379 647,411 516,380 365,409 106,395"/>
+                <Baseline points="112,428 162,431 212,432 262,434 312,435 362,435 412,435 462,435 512,435 562,434 613,433 663,433 713,432 763,431 813,430 863,430 913,429 963,429 1013,429 1063,430 1114,431"/>
+                <TextEquiv>
+                    <Unicode>on your application by tomorr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="115,569 244,537 332,577 367,546 512,530 625,560 653,535 935,541 972,494 885,452 705,516 553,487 500,510 457,482 414,519 342,482 205,510 113,474"/>
+                <Baseline points="121,544 163,543 205,541 247,540 290,539 332,538 374,537 416,536 459,535 501,534 543,533 585,532 628,531 670,531 712,530 754,529 797,529 839,529 881,528 923,528 966,529"/>
+                <TextEquiv>
+                    <Unicode>but objects were raised</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="95,644 619,667 767,629 858,663 937,625 1077,624 1077,568 969,598 753,557 661,613 521,560 355,614 170,551 94,576"/>
+                <Baseline points="101,630 149,629 198,628 246,627 295,626 343,626 392,626 440,626 489,626 537,626 586,626 634,626 683,626 731,626 780,626 828,625 877,624 925,623 974,622 1022,619 1071,617"/>
+                <TextEquiv>
+                    <Unicode>in the Committee on the grounds</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="111,743 414,725 546,775 732,705 763,734 952,720 1094,765 1093,685 1058,666 964,696 807,659 658,702 110,668"/>
+                <Baseline points="117,729 165,727 214,726 262,724 311,723 359,723 408,723 456,723 505,723 553,723 602,723 650,723 699,723 747,723 796,722 844,721 893,720 941,718 990,716 1038,713 1087,710"/>
+                <TextEquiv>
+                    <Unicode>that according to the wording</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="109,846 179,832 264,874 421,825 1147,829 1146,787 1068,767 940,799 766,766 669,805 610,771 470,796 394,763 108,769"/>
+                <Baseline points="115,829 166,828 217,828 268,827 320,826 371,825 422,824 473,823 525,823 576,822 627,821 678,820 730,819 781,819 832,818 883,817 935,817 986,816 1037,816 1088,816 1140,816"/>
+                <TextEquiv>
+                    <Unicode>the application should have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="101,954 231,940 307,977 485,942 595,964 955,936 955,907 863,889 754,912 686,870 413,905 373,872 260,909 149,876 101,893"/>
+                <Baseline points="108,938 150,938 192,938 234,938 276,938 318,938 360,938 402,939 444,939 486,939 528,939 570,939 612,939 654,939 696,938 738,937 780,936 822,935 864,933 906,931 949,929"/>
+                <TextEquiv>
+                    <Unicode>come from the Linnean.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="169,1071 238,1086 372,1040 521,1037 557,1062 770,1044 863,1071 953,1041 1075,1052 1075,1001 1003,967 873,1012 609,979 527,1023 452,998 351,1023 272,965 167,987"/>
+                <Baseline points="175,1058 219,1054 264,1050 309,1048 353,1045 398,1044 443,1043 487,1042 532,1042 577,1042 622,1042 666,1042 711,1042 756,1043 800,1043 845,1042 890,1042 934,1041 979,1040 1024,1038 1069,1035"/>
+                <TextEquiv>
+                    <Unicode>I forward Newton's letter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="118,1182 450,1155 535,1221 616,1163 920,1140 1035,1202 1116,1191 1113,1085 837,1061 669,1129 602,1096 401,1134 334,1095 116,1120"/>
+                <Baseline points="124,1163 173,1161 222,1159 271,1157 320,1156 370,1155 419,1154 468,1153 517,1152 566,1152 616,1151 665,1150 714,1149 763,1149 812,1148 862,1146 911,1145 960,1144 1009,1142 1058,1140 1108,1137"/>
+                <TextEquiv>
+                    <Unicode>&amp; shall act (with Bentham)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="121,1277 338,1270 398,1308 470,1250 923,1274 1025,1259 1025,1193 871,1231 645,1190 558,1235 504,1196 388,1238 121,1224"/>
+                <Baseline points="127,1265 171,1262 216,1260 260,1259 305,1257 350,1257 394,1256 439,1255 483,1255 528,1255 573,1255 617,1255 662,1255 706,1255 751,1255 796,1256 840,1256 885,1256 929,1255 974,1255 1019,1254"/>
+                <TextEquiv>
+                    <Unicode>accordingly. I could not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="510,1310 532,1309 540,1315 547,1309 580,1311 587,1305 608,1315 618,1305 625,1307 638,1298 643,1301 657,1295 654,1264 642,1265 627,1254 608,1271 589,1277 576,1274 550,1252 542,1252 517,1277 507,1276"/>
+                <Baseline points="516,1305 542,1300 569,1298 596,1297 623,1295 650,1289"/>
+                <TextEquiv>
+                    <Unicode>last</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="139,1407 275,1365 303,1386 471,1358 832,1355 981,1390 979,1311 956,1305 893,1327 771,1298 673,1341 487,1311 446,1279 353,1328 240,1313 138,1343"/>
+                <Baseline points="145,1375 186,1375 227,1374 269,1372 310,1371 352,1369 393,1367 435,1365 476,1363 518,1361 559,1359 600,1358 642,1357 683,1357 725,1356 766,1357 808,1358 849,1360 891,1363 932,1366 974,1370"/>
+                <TextEquiv>
+                    <Unicode>get to the Committee of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="149,1483 1068,1451 1057,1381 948,1384 827,1438 646,1394 506,1443 343,1435 239,1393 148,1426"/>
+                <Baseline points="155,1474 200,1471 245,1469 290,1466 336,1464 381,1462 426,1460 472,1459 517,1458 562,1457 608,1456 653,1455 698,1454 743,1453 789,1452 834,1451 879,1450 925,1449 970,1447 1015,1446 1061,1443"/>
+                <TextEquiv>
+                    <Unicode>Recommendations, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="163,1577 261,1597 462,1562 546,1593 768,1546 807,1577 884,1554 949,1576 1077,1553 1076,1498 721,1499 649,1545 512,1495 455,1494 376,1549 320,1512 285,1536 162,1523"/>
+                <Baseline points="169,1569 214,1568 259,1566 304,1565 349,1564 394,1564 439,1563 484,1562 529,1562 574,1561 620,1561 665,1560 710,1559 755,1559 800,1558 845,1557 890,1555 935,1553 980,1552 1025,1550 1071,1547"/>
+                <TextEquiv>
+                    <Unicode>shall I hope to the next.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="85,1687 1093,1678 1052,1636 797,1657 666,1617 569,1654 382,1619 265,1643 160,1587 85,1600"/>
+                <Baseline points="91,1674 140,1674 190,1673 240,1672 290,1672 340,1672 389,1671 439,1671 489,1671 539,1671 589,1671 638,1671 688,1671 738,1672 788,1672 838,1673 887,1674 937,1675 987,1676 1037,1677 1087,1678"/>
+                <TextEquiv>
+                    <Unicode>The distances here are so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="95,1766 997,1779 997,1746 904,1720 768,1734 625,1688 523,1738 96,1717"/>
+                <Baseline points="102,1754 146,1754 190,1754 235,1754 279,1754 324,1754 368,1755 413,1755 457,1755 502,1755 546,1756 590,1756 635,1757 679,1757 724,1758 768,1759 813,1760 857,1762 902,1764 946,1765 991,1767"/>
+                <TextEquiv>
+                    <Unicode>enormous, that one can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>at the Association is quite&#13;
+remarkable.&#13;
+I hope to report favourably&#13;
+on your application by tomorr&#13;
+but objects were raised&#13;
+in the Committee on the grounds&#13;
+that according to the wording&#13;
+the application should have&#13;
+come from the Linnean.&#13;
+I forward Newton's letter&#13;
+&amp; shall act (with Bentham)&#13;
+accordingly. I could not&#13;
+last&#13;
+get to the Committee of&#13;
+Recommendations, but&#13;
+shall I hope to the next.&#13;
+The distances here are so&#13;
+enormous, that one can</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

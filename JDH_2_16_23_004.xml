@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:03:14.833-04:00</Created>
+        <LastChange>2020-07-01T01:41:52.732+02:00</LastChange>
+        <TranskribusMetadata docId="423572" pageId="16857582" pageNr="3" tsid="33080136" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=PFZJAXLMFVPUYUUQMLDCAJAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCYKOXCEKYIPGCDVBTQOYTBT" imageId="12609143"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_23_004.jpg" imageWidth="1377" imageHeight="2183">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330900229" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="106,186 106,1362 1237,1362 1237,186"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="143,311 670,255 842,300 981,252 1195,261 1193,218 981,173 804,206 736,181 552,237 400,245 232,200 140,228"/>
+                <Baseline points="150,289 201,288 253,286 305,284 357,282 409,280 461,277 512,275 564,273 616,270 668,267 720,265 772,262 824,260 875,258 927,255 979,254 1031,252 1083,250 1135,248 1187,247"/>
+                <TextEquiv>
+                    <Unicode>The enclosed Magnolia is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="129,418 332,410 432,457 557,402 923,382 1126,439 1218,404 1217,358 949,284 770,367 675,317 601,350 522,309 383,385 127,338"/>
+                <Baseline points="135,402 188,403 242,403 296,403 350,403 404,402 457,401 511,400 565,398 619,396 673,395 726,393 780,391 834,389 888,387 942,385 995,384 1049,383 1103,382 1157,381 1211,381"/>
+                <TextEquiv>
+                    <Unicode>called fuscata in MacLeay's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="131,583 558,531 684,560 801,522 995,567 1069,525 1244,526 1243,498 1066,434 988,467 842,437 734,501 671,465 598,515 127,483"/>
+                <Baseline points="137,544 192,546 247,547 302,548 357,547 412,546 467,545 522,543 577,540 632,538 687,535 742,532 797,529 852,526 907,523 962,521 1017,519 1072,517 1127,516 1182,516 1237,516"/>
+                <TextEquiv>
+                    <Unicode>Greenhouse, but the flower</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="100,723 180,729 254,677 681,686 861,622 931,667 1240,656 1238,596 1013,557 788,587 712,645 597,593 350,636 268,582 155,637 97,622"/>
+                <Baseline points="106,672 162,672 218,673 274,672 331,672 387,671 443,669 500,668 556,666 612,664 669,662 725,660 781,658 837,656 894,654 950,652 1006,651 1063,650 1119,649 1175,648 1232,648"/>
+                <TextEquiv>
+                    <Unicode>is far smaller &amp; the bud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="109,843 202,860 416,812 474,861 562,804 679,790 1011,807 1150,784 1147,713 1066,702 962,753 831,721 600,756 523,718 415,767 276,724 105,757"/>
+                <Baseline points="114,813 165,811 216,809 268,807 319,805 371,803 422,800 474,798 525,796 577,794 628,792 679,790 731,788 782,786 834,784 885,783 937,781 988,780 1040,779 1091,778 1143,777"/>
+                <TextEquiv>
+                    <Unicode>differently shaped from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="150,975 178,983 255,944 313,960 324,950 361,944 382,952 381,895 358,894 329,908 284,892 233,901 195,881 149,913"/>
+                <Baseline points="156,942 183,942 210,941 238,940 265,940 292,939 320,938 347,938 375,939"/>
+                <TextEquiv>
+                    <Unicode>ours.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="449,1102 500,1091 580,1114 596,1105 672,1169 711,1159 727,1173 861,1103 855,995 818,983 738,982 699,1008 527,923 443,985"/>
+                <Baseline points="455,1077 481,1078 507,1078 534,1077 560,1076 587,1075 613,1074 639,1072 666,1070 692,1069 719,1067 745,1066 771,1064 798,1063 824,1062 851,1062"/>
+                <TextEquiv>
+                    <Unicode>Vy ty ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="522,1365 761,1310 847,1328 942,1298 1070,1324 1070,1208 997,1214 861,1169 731,1197 602,1137 508,1201"/>
+                <Baseline points="526,1331 553,1331 580,1331 607,1330 634,1328 662,1327 689,1324 716,1322 743,1319 770,1316 798,1313 825,1310 852,1306 879,1304 906,1302 934,1299 961,1298 988,1297 1015,1296 1042,1296 1070,1296"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The enclosed Magnolia is&#13;
+called fuscata in MacLeay's&#13;
+Greenhouse, but the flower&#13;
+is far smaller &amp; the bud&#13;
+differently shaped from&#13;
+ours.&#13;
+Vy ty ys&#13;
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

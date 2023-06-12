@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:55:30.307-04:00</Created>
+        <LastChange>2023-05-16T17:57:49.151+02:00</LastChange>
+        <TranskribusMetadata docId="423585" pageId="16858811" pageNr="1" tsid="121937626" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ANCHXAFWIXLJGAZKRNFOKGBZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DPHJILAZDMOAKZNTRYUCCMHH" imageId="12610323"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_33_001.jpg" imageWidth="1201" imageHeight="1869">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330892203" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="88,77 88,1836 1151,1836 1151,77"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="368,164 419,145 490,185 542,150 754,136 865,187 924,156 922,77 841,79 756,44 619,111 427,59 366,83"/>
+                <Baseline points="373,137 400,138 427,139 454,140 481,140 508,140 535,140 563,139 590,138 617,137 644,137 671,135 698,134 725,133 753,132 780,131 807,130 834,129 861,129 888,128 916,128"/>
+                <TextEquiv>
+                    <Unicode>Glasgow Sunday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="641,258 720,285 801,258 902,315 986,323 988,196 965,184 916,216 828,204 790,173 741,173 703,154 642,182"/>
+                <Baseline points="648,251 673,251 699,251 724,251 750,251 775,250 801,250 826,250 852,250 877,250 903,251 928,253 954,255 980,257"/>
+                <TextEquiv>
+                    <Unicode>Sept. 10.76</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="82,413 155,438 196,404 287,377 337,398 392,382 482,411 526,377 612,378 612,327 555,334 501,299 420,322 290,308 269,324 189,287 141,323 82,315"/>
+                <Baseline points="88,372 113,371 139,370 165,370 191,370 217,371 243,371 268,372 294,372 320,373 346,373 372,374 398,374 424,374 449,374 475,373 501,372 527,370 553,368 579,366 605,363"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="225,501 272,474 526,503 703,462 998,473 1148,448 1146,396 1068,359 944,439 846,398 643,450 580,419 413,446 300,409 222,450"/>
+                <Baseline points="231,481 276,481 322,480 367,479 413,478 458,477 504,475 549,473 595,471 640,469 686,467 732,465 777,463 823,460 868,458 914,456 959,454 1005,452 1050,450 1096,448 1142,446"/>
+                <TextEquiv>
+                    <Unicode>I think it is settled that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="100,590 377,573 474,629 541,576 666,587 719,554 1055,566 1054,516 946,530 897,492 812,539 616,498 584,528 283,516 205,554 99,509"/>
+                <Baseline points="107,573 154,572 201,572 248,571 295,571 342,570 389,569 436,568 483,566 530,565 577,564 624,563 671,562 718,561 765,560 812,559 859,558 906,558 953,557 1000,557 1048,557"/>
+                <TextEquiv>
+                    <Unicode>we shall try Skye, the we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="92,685 266,672 354,712 429,664 814,696 1122,651 1093,600 908,632 844,602 807,631 660,590 452,638 90,594"/>
+                <Baseline points="98,667 148,667 199,667 250,667 301,666 352,665 403,664 454,663 505,662 556,661 607,659 657,658 708,657 759,655 810,654 861,653 912,652 963,651 1014,651 1065,650 1116,650"/>
+                <TextEquiv>
+                    <Unicode>including Mrs Lyell Ruamond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="88,770 558,786 973,734 1064,782 1158,737 1156,686 1057,667 995,714 930,690 780,728 671,684 372,744 290,705 86,711"/>
+                <Baseline points="95,757 147,758 200,758 253,758 306,758 359,758 411,757 464,756 517,755 570,754 623,752 675,750 728,748 781,745 834,743 887,740 939,736 992,733 1045,730 1098,725 1151,721"/>
+                <TextEquiv>
+                    <Unicode>&amp; Arthur, Mr Symonds*2 &amp; Miss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="114,874 195,851 475,884 697,839 766,878 813,830 890,876 936,837 1102,816 1099,732 1048,771 922,764 866,805 751,784 680,820 594,783 406,836 235,825 181,779 111,805"/>
+                <Baseline points="119,848 167,850 216,851 265,851 314,851 363,850 412,848 460,847 509,844 558,843 607,840 656,837 705,835 754,832 802,830 851,828 900,826 949,825 998,825 1047,824 1096,825"/>
+                <TextEquiv>
+                    <Unicode>Turner - &amp; then my wife &amp;d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="119,955 1074,935 1092,880 955,909 711,881 635,924 591,890 412,913 340,874 118,918"/>
+                <Baseline points="125,942 173,940 221,939 269,938 317,937 365,936 413,936 461,935 509,935 557,935 605,934 653,934 701,934 749,933 797,933 845,932 893,931 941,930 989,928 1037,926 1085,923"/>
+                <TextEquiv>
+                    <Unicode>will proceed to Aviemore &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="121,1084 225,1043 327,1094 453,1040 537,1090 867,1017 968,1041 1025,1021 1024,953 830,1003 765,988 724,1020 461,1017 400,980 354,1012 120,996"/>
+                <Baseline points="127,1041 171,1040 216,1039 260,1039 305,1039 350,1039 394,1040 439,1040 483,1040 528,1040 573,1041 617,1041 662,1040 706,1039 751,1038 796,1036 840,1035 885,1031 929,1028 974,1023 1019,1018"/>
+                <TextEquiv>
+                    <Unicode>after a few days with the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="123,1176 325,1130 639,1151 793,1119 1094,1126 1093,1088 948,1047 850,1089 700,1054 557,1119 466,1072 376,1114 178,1074 121,1102"/>
+                <Baseline points="128,1136 178,1136 228,1135 279,1135 329,1134 380,1133 430,1133 481,1132 531,1131 582,1130 632,1128 683,1127 733,1125 784,1124 834,1122 885,1119 935,1117 986,1114 1036,1111 1087,1108"/>
+                <TextEquiv>
+                    <Unicode>Grants, turn south &amp; home</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="133,1248 306,1230 402,1274 500,1227 666,1218 741,1249 915,1229 914,1184 794,1167 714,1198 594,1169 540,1197 475,1157 401,1181 354,1153 253,1206 132,1206"/>
+                <Baseline points="139,1234 177,1233 216,1232 254,1231 293,1230 331,1229 370,1228 408,1226 447,1225 485,1224 524,1222 562,1221 601,1220 639,1219 678,1219 716,1218 755,1218 793,1218 832,1218 870,1219 909,1220"/>
+                <TextEquiv>
+                    <Unicode>via the Coleviles near</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="115,1340 233,1329 282,1364 457,1317 1003,1338 1045,1302 1149,1304 1148,1243 945,1289 768,1240 653,1296 497,1260 426,1298 347,1257 217,1281 113,1241"/>
+                <Baseline points="122,1331 173,1327 224,1325 275,1322 326,1320 377,1318 428,1317 479,1315 530,1314 581,1313 632,1312 683,1311 734,1310 785,1310 836,1309 887,1308 938,1307 989,1305 1040,1304 1091,1302 1143,1300"/>
+                <TextEquiv>
+                    <Unicode>Dunfermline. We are quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="116,1452 157,1426 1084,1404 1123,1369 1016,1339 842,1379 706,1348 573,1379 341,1351 193,1393 113,1374"/>
+                <Baseline points="121,1423 170,1422 220,1421 270,1419 320,1418 370,1417 419,1416 469,1414 519,1412 569,1411 619,1408 668,1407 718,1405 768,1403 818,1401 868,1399 917,1397 967,1395 1017,1393 1067,1391 1117,1389"/>
+                <TextEquiv>
+                    <Unicode>overwhelmed with invitations</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="104,1540 859,1549 907,1511 1026,1516 1025,1448 938,1475 800,1446 619,1497 395,1462 320,1506 224,1454 103,1475"/>
+                <Baseline points="111,1524 156,1524 201,1523 247,1523 292,1522 338,1521 383,1521 428,1520 474,1519 519,1519 565,1518 610,1517 655,1516 701,1515 746,1513 792,1512 837,1511 882,1509 928,1508 973,1506 1019,1504"/>
+                <TextEquiv>
+                    <Unicode>&amp; have made a perfect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="110,1637 369,1624 505,1671 562,1633 839,1658 909,1616 909,1596 727,1548 645,1598 556,1568 521,1582 485,1552 438,1586 299,1591 169,1554 110,1579"/>
+                <Baseline points="117,1622 156,1619 195,1617 234,1616 274,1614 313,1613 352,1613 392,1613 431,1613 470,1613 510,1613 549,1614 588,1614 627,1615 667,1616 706,1616 745,1617 785,1617 824,1618 863,1618 903,1618"/>
+                <TextEquiv>
+                    <Unicode>holocaust of them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="170,1737 260,1727 323,1772 371,1737 523,1747 639,1708 826,1759 969,1708 1124,1715 1122,1641 963,1680 899,1633 868,1664 750,1645 681,1688 558,1689 168,1644"/>
+                <Baseline points="176,1724 223,1724 270,1723 317,1723 364,1722 411,1721 458,1720 505,1719 552,1718 599,1717 646,1715 693,1714 740,1713 787,1712 834,1711 881,1710 928,1709 975,1708 1022,1708 1069,1707 1117,1707"/>
+                <TextEquiv>
+                    <Unicode>The feature of the Association</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="96,1806 1066,1817 1067,1741 1001,1723 847,1778 677,1724 508,1763 443,1732 363,1785 278,1741 226,1776 154,1729 97,1742"/>
+                <Baseline points="103,1798 150,1798 198,1798 246,1798 294,1798 342,1798 389,1798 437,1798 485,1799 533,1799 581,1799 628,1800 676,1800 724,1801 772,1802 820,1804 867,1805 915,1806 963,1808 1011,1811 1059,1813"/>
+                <TextEquiv>
+                    <Unicode>has been Tait's Lecture on Force</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Glasgow Sunday&#13;
+Sept. 10.76&#13;
+My dear Dyer&#13;
+I think it is settled that&#13;
+we shall try Skye, the we&#13;
+including Mrs Lyell Ruamond&#13;
+&amp; Arthur, Mr Symonds*2 &amp; Miss&#13;
+Turner - &amp; then my wife &amp;d&#13;
+will proceed to Aviemore &amp;&#13;
+after a few days with the&#13;
+Grants, turn south &amp; home&#13;
+via the Coleviles near&#13;
+Dunfermline. We are quite&#13;
+overwhelmed with invitations&#13;
+&amp; have made a perfect&#13;
+holocaust of them.&#13;
+The feature of the Association&#13;
+has been Tait's Lecture on Force</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-03T20:08:38.238-04:00</Created>
+        <LastChange>2023-05-16T18:31:55.979+02:00</LastChange>
+        <TranskribusMetadata docId="429660" pageId="17279188" pageNr="1" tsid="121939966" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GGQTVSLLQKOQOGNJECIOGOKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYIWINDAMKFVHGVMIRMKIPZR" imageId="12991728"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_3_6_79_001.jpg" imageWidth="1356" imageHeight="2110">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330873937" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="161,45 161,2029 1353,2029 1353,45"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="909,177 978,164 1032,194 1053,176 1107,189 1262,149 1304,159 1291,98 1239,108 1203,98 1133,116 1087,105 1053,119 1015,116 973,90 907,125"/>
+                <Baseline points="915,161 940,160 965,159 991,157 1016,156 1042,154 1067,154 1092,153 1118,151 1143,150 1169,149 1194,148 1219,146 1245,145 1270,144 1296,143"/>
+                <TextEquiv>
+                    <Unicode>May 29 1908</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="853,254 898,264 944,256 962,269 1007,260 1057,273 1058,226 1038,230 1019,221 980,230 943,223 919,231 897,230 882,218 853,220"/>
+                <Baseline points="860,251 887,253 914,254 941,254 968,253 995,253 1022,255 1050,257"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="828,346 947,329 1064,340 1086,334 1087,287 1019,295 1007,286 987,290 970,276 920,298 885,273 848,285 829,279"/>
+                <Baseline points="835,320 862,322 889,323 916,324 943,324 970,324 997,324 1024,323 1051,323 1079,324"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="205,574 269,565 311,582 358,568 460,590 498,572 600,581 600,528 572,528 540,500 492,521 391,503 367,527 331,534 244,476 205,488"/>
+                <Baseline points="212,564 237,563 262,563 288,562 313,562 339,562 364,562 389,562 415,562 440,563 466,563 491,563 516,563 542,562 567,562 593,561"/>
+                <TextEquiv>
+                    <Unicode>Dear Hemsley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="445,679 652,663 722,695 840,659 896,683 939,653 1077,664 1235,633 1233,571 1111,621 1030,590 909,627 825,600 781,633 676,611 587,641 441,606"/>
+                <Baseline points="451,665 489,664 528,664 567,663 606,662 645,662 684,660 722,659 761,658 800,656 839,655 878,653 917,651 956,649 994,647 1033,644 1072,642 1111,639 1150,636 1189,633 1228,630"/>
+                <TextEquiv>
+                    <Unicode>I returned yesterday &amp; have to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="155,773 204,794 360,756 516,789 929,727 1187,741 1184,670 1071,706 946,656 802,721 691,697 451,735 296,699 245,736 154,731"/>
+                <Baseline points="161,758 211,759 262,760 313,760 364,759 415,758 466,757 517,755 568,752 619,750 670,748 720,745 771,742 822,740 873,737 924,734 975,732 1026,730 1077,728 1128,726 1179,725"/>
+                <TextEquiv>
+                    <Unicode>day been working at the Icone's Plates -- I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="181,853 872,827 945,862 1220,800 1299,823 1295,755 815,767 767,798 615,769 381,825 178,797"/>
+                <Baseline points="188,848 243,848 298,848 353,847 408,846 463,844 518,842 574,840 629,838 684,834 739,831 794,828 849,825 904,821 960,817 1015,814 1070,811 1125,807 1180,804 1235,801 1291,799"/>
+                <TextEquiv>
+                    <Unicode>still want the &amp;I. extense &amp; I. ganpiuana)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="193,963 1241,890 1238,846 1113,838 1053,880 914,847 856,890 645,871 428,916 376,887 333,918 230,885 190,910"/>
+                <Baseline points="199,945 250,945 302,944 354,943 406,941 457,939 509,936 561,933 613,930 664,926 716,923 768,918 820,915 871,911 923,907 975,903 1027,898 1078,895 1130,892 1182,888 1234,885"/>
+                <TextEquiv>
+                    <Unicode>to make up the 16 please let me have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="772,1008 833,1021 1044,1002 1102,1021 1360,997 1359,964 1315,972 1256,944 1172,942 1100,972 1011,951 951,985 811,953 771,964"/>
+                <Baseline points="779,1005 807,1004 836,1003 865,1002 893,1002 922,1001 951,1001 979,1000 1008,1000 1037,1000 1066,999 1094,999 1123,998 1152,998 1180,997 1209,996 1238,996 1266,995 1295,993 1324,992 1353,990"/>
+                <TextEquiv>
+                    <Unicode>Icones plates of Impatiens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="202,1058 229,1047 251,1052 262,1043 293,1054 302,1045 323,1047 328,1041 363,1051 393,1038 392,1011 365,1006 355,1017 330,1022 283,999 270,1005 235,991 199,1005"/>
+                <Baseline points="208,1044 233,1043 258,1042 284,1040 309,1039 335,1038 360,1037 386,1036"/>
+                <TextEquiv>
+                    <Unicode>them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="246,1128 654,1077 1046,1095 1216,1069 1211,997 1144,1028 866,1005 634,1055 490,1033 242,1065"/>
+                <Baseline points="252,1115 299,1109 347,1102 395,1097 443,1093 491,1087 538,1084 586,1080 634,1077 682,1074 730,1071 777,1068 825,1065 873,1063 921,1061 969,1059 1016,1057 1064,1055 1112,1054 1160,1052 1208,1050"/>
+                <TextEquiv>
+                    <Unicode>Could I have a set of the 14, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="216,1218 506,1184 573,1211 621,1181 1046,1150 1118,1180 1123,1087 1042,1120 961,1086 798,1145 717,1118 596,1153 442,1133 214,1180"/>
+                <Baseline points="223,1201 267,1198 312,1195 357,1192 402,1190 447,1186 491,1183 536,1180 581,1177 626,1174 671,1171 715,1168 760,1166 805,1163 850,1161 895,1159 939,1157 984,1155 1029,1153 1074,1152 1119,1151"/>
+                <TextEquiv>
+                    <Unicode>are made upon specimens Lent by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="231,1302 639,1262 799,1282 921,1235 1023,1274 1198,1248 1195,1199 672,1202 351,1273 227,1239"/>
+                <Baseline points="238,1294 285,1290 333,1286 380,1282 428,1279 476,1276 523,1272 571,1268 619,1265 666,1262 714,1259 762,1256 809,1254 857,1251 905,1248 952,1246 1000,1244 1048,1242 1095,1240 1143,1238 1191,1237"/>
+                <TextEquiv>
+                    <Unicode>Paris sent to Lecomte to be placed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="248,1384 1214,1333 1225,1257 663,1325 589,1299 509,1340 447,1310 245,1331"/>
+                <Baseline points="254,1372 302,1369 350,1367 399,1364 447,1361 495,1358 544,1355 592,1352 640,1349 689,1345 737,1343 785,1340 834,1336 882,1333 930,1330 979,1328 1027,1325 1075,1323 1124,1321 1172,1320 1221,1318"/>
+                <TextEquiv>
+                    <Unicode>with their specimens &amp; their Herbn. &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="341,1473 455,1459 554,1488 591,1448 799,1422 1219,1422 1216,1382 1114,1352 907,1388 842,1362 782,1406 555,1399 507,1430 375,1395 338,1415"/>
+                <Baseline points="348,1461 391,1458 434,1456 477,1453 520,1450 563,1447 606,1443 650,1440 693,1437 736,1433 779,1431 822,1427 865,1424 908,1422 952,1420 995,1417 1038,1415 1081,1414 1124,1413 1167,1412 1211,1412"/>
+                <TextEquiv>
+                    <Unicode>I strongly advised Lecomte to have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="208,1560 1164,1520 1151,1432 941,1484 538,1480 432,1522 240,1501 206,1528"/>
+                <Baseline points="214,1549 261,1547 308,1546 355,1544 402,1541 449,1538 496,1535 543,1532 590,1528 637,1525 684,1521 731,1517 778,1514 825,1511 872,1507 919,1504 966,1501 1013,1498 1060,1496 1107,1494 1155,1493"/>
+                <TextEquiv>
+                    <Unicode>drawings or photographs made of Miss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="219,1655 487,1619 596,1649 636,1616 671,1638 815,1597 1049,1616 1190,1601 1189,1573 844,1550 647,1592 216,1591"/>
+                <Baseline points="225,1634 272,1631 320,1628 368,1625 416,1622 464,1619 512,1616 560,1614 608,1611 656,1609 704,1607 751,1605 799,1602 847,1600 895,1599 943,1597 991,1596 1039,1594 1087,1593 1135,1592 1183,1591"/>
+                <TextEquiv>
+                    <Unicode>Smith's drawings of the Chinese species</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="218,1728 579,1713 671,1677 881,1712 923,1679 1208,1677 1180,1614 838,1652 706,1630 579,1686 457,1646 417,1679 332,1660 216,1696"/>
+                <Baseline points="224,1720 272,1718 321,1716 370,1714 419,1711 468,1708 516,1705 565,1700 614,1697 663,1693 712,1690 760,1686 809,1683 858,1680 907,1677 956,1674 1004,1673 1053,1671 1102,1671 1151,1671 1200,1672"/>
+                <TextEquiv>
+                    <Unicode>in Herb. Paris, &amp; he gladly accepts the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="333,1790 352,1788 399,1754 414,1765 444,1752 454,1759 473,1754 500,1764 499,1737 480,1736 467,1725 443,1727 430,1719 402,1717 391,1726 365,1723 330,1735"/>
+                <Baseline points="338,1756 363,1757 389,1756 415,1753 440,1750 466,1749 492,1752"/>
+                <TextEquiv>
+                    <Unicode>of them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="215,1818 357,1846 416,1810 1162,1768 1152,1703 934,1714 875,1747 680,1726 577,1777 212,1772"/>
+                <Baseline points="222,1813 268,1813 315,1811 361,1809 408,1807 455,1804 501,1801 548,1798 594,1794 641,1791 688,1787 734,1782 781,1778 827,1775 874,1771 921,1767 967,1764 1014,1761 1060,1758 1107,1756 1154,1754"/>
+                <TextEquiv>
+                    <Unicode>loan for which he will apply to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="218,1915 592,1889 656,1920 733,1882 932,1902 1110,1862 1185,1888 1182,1836 1042,1798 876,1854 714,1814 636,1853 569,1824 457,1874 214,1847"/>
+                <Baseline points="224,1911 271,1908 319,1905 366,1901 414,1898 462,1895 509,1893 557,1890 605,1888 652,1885 700,1883 748,1880 795,1878 843,1875 891,1873 938,1871 986,1868 1034,1866 1081,1862 1129,1860 1177,1857"/>
+                <TextEquiv>
+                    <Unicode>Director &amp; have photographs taken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="240,2020 1139,1988 1203,1968 1201,1926 956,1941 865,1912 718,1963 581,1937 516,1979 328,1926 237,1968"/>
+                <Baseline points="246,2011 293,2009 341,2007 388,2005 436,2003 483,2001 531,1999 578,1998 626,1996 673,1994 721,1992 768,1990 816,1988 863,1985 911,1982 958,1979 1006,1976 1053,1972 1101,1968 1148,1963 1196,1957"/>
+                <TextEquiv>
+                    <Unicode>I will send them to the host to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>May 29 1908&#13;
+THE CAMP.&#13;
+SUNNINGDALE.&#13;
+Dear Hemsley&#13;
+I returned yesterday &amp; have to&#13;
+day been working at the Icone's Plates -- I&#13;
+still want the &amp;I. extense &amp; I. ganpiuana)&#13;
+to make up the 16 please let me have&#13;
+Icones plates of Impatiens&#13;
+them.&#13;
+Could I have a set of the 14, which&#13;
+are made upon specimens Lent by&#13;
+Paris sent to Lecomte to be placed&#13;
+with their specimens &amp; their Herbn. &amp;&#13;
+I strongly advised Lecomte to have&#13;
+drawings or photographs made of Miss&#13;
+Smith's drawings of the Chinese species&#13;
+in Herb. Paris, &amp; he gladly accepts the&#13;
+of them.&#13;
+loan for which he will apply to the&#13;
+Director &amp; have photographs taken.&#13;
+I will send them to the host to be</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

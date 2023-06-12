@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:34:31.189-04:00</Created>
+        <LastChange>2020-07-20T16:52:35.142+02:00</LastChange>
+        <TranskribusMetadata docId="437073" pageId="17691618" pageNr="2" tsid="34964390" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=VUPALXLWIWMNBWJIYZSDUVZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUOVGNOKOSVMAANCUGBULDSA" imageId="13355361"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_40_002.jpg" imageWidth="1524" imageHeight="2418">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330867355" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="78,88 78,2368 1497,2368 1497,88"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="97,171 1506,176 1506,103 1420,75 692,74 635,32 501,75 97,72"/>
+                <Baseline points="106,152 175,148 245,144 314,142 384,140 453,138 523,138 592,137 662,137 731,138 801,139 871,140 940,141 1010,142 1079,144 1149,145 1218,146 1288,147 1357,148 1427,148 1497,148"/>
+                <TextEquiv>
+                    <Unicode>to have picked up the knowledge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="902,268 966,249 1027,252 1123,291 1189,250 1271,275 1302,258 1337,266 1338,175 1277,206 1207,196 1156,215 1075,191 1047,205 959,159 924,183 903,179"/>
+                <Baseline points="911,251 937,249 963,247 989,246 1015,245 1041,244 1067,244 1093,243 1119,244 1145,244 1171,245 1197,246 1223,247 1249,249 1275,251 1301,253 1328,255"/>
+                <TextEquiv>
+                    <Unicode>have of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="85,294 125,274 193,273 254,290 291,270 341,265 367,279 408,255 447,257 437,155 394,166 337,157 249,189 210,221 152,191 78,220"/>
+                <Baseline points="93,280 119,274 145,268 172,264 198,261 225,258 251,256 278,253 304,251 331,250 357,249 384,246 410,244 437,241"/>
+                <TextEquiv>
+                    <Unicode>I already</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="119,409 412,364 701,433 1414,395 1414,330 1248,292 977,335 838,294 652,327 481,275 328,337 119,278"/>
+                <Baseline points="128,395 191,389 255,384 319,381 383,379 447,377 511,377 574,377 638,377 702,378 766,379 830,380 894,381 958,382 1021,383 1085,383 1149,383 1213,382 1277,381 1341,378 1405,374"/>
+                <TextEquiv>
+                    <Unicode>trees &amp; especially of the Pines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="116,558 214,493 449,536 934,486 980,521 1200,479 1330,535 1448,508 1446,430 1327,396 1198,453 1016,404 944,446 776,414 641,473 543,429 113,407"/>
+                <Baseline points="123,505 188,505 254,504 320,503 386,502 452,501 517,499 583,498 649,496 715,494 781,492 846,491 912,489 978,487 1044,486 1110,485 1175,484 1241,484 1307,483 1373,483 1439,484"/>
+                <TextEquiv>
+                    <Unicode>of Colorado &amp; hope before I get</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="104,655 637,672 859,601 1085,649 1384,623 1383,578 1180,494 1092,533 943,489 801,566 689,552 596,596 242,500 101,575"/>
+                <Baseline points="111,628 174,630 237,631 300,632 363,631 426,629 489,627 553,624 616,622 679,618 742,615 805,611 868,609 931,606 995,604 1058,603 1121,602 1184,603 1247,605 1310,607 1374,612"/>
+                <TextEquiv>
+                    <Unicode>back to have such a knowledge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="144,770 696,783 813,721 991,703 1220,774 1286,711 1382,750 1376,625 1249,670 1014,608 774,606 691,682 554,697 410,649 141,695"/>
+                <Baseline points="153,755 217,754 281,751 345,748 409,744 473,740 537,736 602,731 666,726 730,721 794,717 858,713 922,709 987,707 1051,705 1115,703 1179,703 1243,704 1307,706 1372,710"/>
+                <TextEquiv>
+                    <Unicode>of the habits &amp; habitats of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="120,909 415,851 568,912 618,870 719,916 807,877 1067,897 1165,823 1441,882 1434,738 1287,712 1200,789 844,778 789,822 505,791 443,836 179,781 116,819"/>
+                <Baseline points="127,868 192,867 257,866 322,865 387,863 452,860 517,857 583,854 648,851 713,847 778,843 843,840 908,837 973,833 1039,830 1104,827 1169,825 1234,823 1299,821 1364,820 1430,820"/>
+                <TextEquiv>
+                    <Unicode>Western Conifers as no one else</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="112,1008 212,987 315,1041 405,981 626,1012 911,997 958,960 1330,1002 1301,892 1062,936 926,892 565,911 417,851 311,933 109,912"/>
+                <Baseline points="119,980 179,982 239,982 299,982 359,982 419,980 479,979 539,976 599,973 659,971 719,968 779,965 839,962 899,960 959,957 1019,955 1079,953 1139,952 1199,951 1259,951 1320,952"/>
+                <TextEquiv>
+                    <Unicode>has. The association of so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="91,1108 1118,1107 1193,1054 1320,1055 1318,996 1136,1022 1051,978 985,1026 891,991 808,1049 721,1008 620,1048 516,1003 360,1047 216,1004 88,1029"/>
+                <Baseline points="98,1086 158,1086 219,1086 279,1085 340,1084 401,1082 461,1081 522,1079 583,1077 643,1074 704,1072 765,1070 825,1068 886,1065 947,1062 1007,1060 1068,1058 1129,1056 1189,1054 1250,1052 1311,1050"/>
+                <TextEquiv>
+                    <Unicode>many species is a feature</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="75,1236 399,1184 657,1229 978,1186 1273,1213 1346,1201 1344,1114 1162,1079 774,1138 634,1085 572,1128 332,1143 251,1093 72,1107"/>
+                <Baseline points="82,1190 144,1186 207,1183 270,1181 333,1179 395,1177 458,1176 521,1175 584,1174 646,1173 709,1172 772,1172 835,1171 897,1170 960,1169 1023,1168 1086,1166 1148,1164 1211,1162 1274,1159 1337,1155"/>
+                <TextEquiv>
+                    <Unicode>quite new to me, &amp; such as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="98,1316 354,1304 525,1352 684,1302 1358,1318 1434,1301 1433,1212 1261,1243 1060,1189 744,1263 581,1194 96,1223"/>
+                <Baseline points="106,1298 175,1295 244,1292 314,1291 383,1290 453,1289 522,1289 591,1289 661,1289 730,1289 800,1289 869,1288 939,1287 1008,1286 1077,1285 1147,1282 1216,1278 1286,1274 1355,1268 1425,1261"/>
+                <TextEquiv>
+                    <Unicode>exists no where else. To find 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="70,1425 1360,1429 1357,1348 1128,1311 797,1342 749,1385 260,1320 68,1371"/>
+                <Baseline points="78,1418 141,1417 205,1415 268,1414 332,1412 395,1410 459,1408 522,1407 586,1405 649,1403 713,1401 777,1399 840,1397 904,1395 967,1393 1031,1391 1094,1389 1158,1386 1221,1384 1285,1382 1349,1379"/>
+                <TextEquiv>
+                    <Unicode>or 10 Conifers on one Mt. is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="70,1517 403,1511 591,1568 928,1518 1179,1571 1438,1503 1438,1459 1333,1428 796,1459 606,1422 260,1475 70,1444"/>
+                <Baseline points="80,1515 147,1511 214,1509 282,1507 349,1505 417,1504 484,1504 552,1504 619,1504 687,1505 754,1505 821,1506 889,1507 956,1507 1024,1507 1091,1507 1159,1507 1226,1506 1294,1505 1361,1503 1429,1500"/>
+                <TextEquiv>
+                    <Unicode>marvellous feature in vegetation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="98,1643 288,1638 381,1687 545,1637 1436,1661 1437,1588 1337,1540 1139,1604 916,1545 706,1593 481,1531 258,1577 100,1532"/>
+                <Baseline points="108,1612 174,1612 240,1612 306,1612 372,1612 438,1613 504,1614 570,1615 636,1616 702,1617 768,1619 834,1620 900,1622 966,1624 1032,1626 1098,1627 1164,1629 1230,1632 1296,1634 1362,1636 1428,1638"/>
+                <TextEquiv>
+                    <Unicode>Thus in Colorado we have between</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="74,1754 473,1767 550,1728 749,1778 957,1744 1449,1778 1450,1703 1178,1634 1088,1682 1012,1641 76,1672"/>
+                <Baseline points="84,1725 151,1726 219,1727 287,1727 355,1726 423,1725 491,1724 558,1722 626,1721 694,1720 762,1719 830,1719 898,1719 966,1721 1033,1723 1101,1726 1169,1731 1237,1737 1305,1745 1373,1754 1441,1765"/>
+                <TextEquiv>
+                    <Unicode>5 &amp;10000 ft -- Pinus edulis, ponderosa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="76,1827 1249,1889 1440,1859 1441,1802 963,1744 848,1780 580,1739 519,1774 77,1768"/>
+                <Baseline points="84,1818 151,1820 218,1820 286,1820 353,1820 420,1819 488,1819 555,1818 622,1817 690,1817 757,1817 824,1817 892,1818 959,1820 1026,1822 1094,1825 1161,1830 1228,1834 1296,1841 1363,1849 1431,1858"/>
+                <TextEquiv>
+                    <Unicode>aristata &amp; flexilis Abies Douglasii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="101,1948 488,1929 1075,1985 1128,1946 1393,2015 1485,2000 1488,1904 103,1868"/>
+                <Baseline points="110,1914 178,1917 246,1920 315,1921 383,1922 452,1923 520,1923 588,1923 657,1922 725,1922 794,1922 862,1922 930,1923 999,1924 1067,1926 1136,1930 1204,1933 1272,1939 1341,1945 1409,1953 1478,1964"/>
+                <TextEquiv>
+                    <Unicode>Menziesii &amp; Engelmannii (varieties of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="98,2039 214,2075 634,2055 819,2090 924,2028 1025,2082 1405,2073 1406,2020 1225,1967 1079,2008 1014,1966 933,2002 854,1960 773,1998 355,1943 284,1995 214,1952 100,1971"/>
+                <Baseline points="107,2012 171,2015 235,2017 300,2020 364,2022 429,2023 493,2024 558,2025 622,2026 687,2026 751,2027 815,2028 880,2029 944,2031 1009,2033 1073,2035 1138,2038 1202,2042 1267,2046 1331,2052 1396,2057"/>
+                <TextEquiv>
+                    <Unicode>one) -- Picea concolor &amp; Juniperus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="95,2158 473,2188 583,2143 996,2132 1446,2199 1482,2110 961,2058 770,2101 274,2088 98,2041"/>
+                <Baseline points="104,2116 172,2118 240,2120 309,2122 377,2123 446,2123 514,2124 582,2124 651,2125 719,2125 788,2126 856,2127 924,2129 993,2131 1061,2134 1130,2137 1198,2142 1266,2147 1335,2153 1403,2161 1472,2170"/>
+                <TextEquiv>
+                    <Unicode>virginiana, occidentalis &amp; communis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="99,2239 783,2270 1021,2225 1100,2272 1418,2263 1395,2172 1066,2186 922,2133 485,2190 99,2171"/>
+                <Baseline points="107,2224 172,2227 237,2231 302,2233 367,2234 432,2234 497,2234 563,2233 628,2232 693,2231 758,2229 823,2228 888,2227 953,2226 1019,2226 1084,2226 1149,2227 1214,2228 1279,2231 1344,2235 1410,2240"/>
+                <TextEquiv>
+                    <Unicode>all abundant. Of these except &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="90,2365 352,2354 474,2399 544,2342 668,2385 805,2335 989,2399 1139,2355 1410,2362 1386,2268 899,2266 799,2309 690,2256 94,2250"/>
+                <Baseline points="100,2307 165,2309 230,2312 295,2314 360,2315 425,2317 490,2318 555,2320 620,2321 685,2322 750,2324 815,2325 880,2327 945,2328 1010,2330 1075,2332 1140,2335 1205,2337 1270,2340 1335,2344 1401,2348"/>
+                <TextEquiv>
+                    <Unicode>two of the Junipers none are found</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>to have picked up the knowledge&#13;
+have of the&#13;
+I already&#13;
+trees &amp; especially of the Pines&#13;
+of Colorado &amp; hope before I get&#13;
+back to have such a knowledge&#13;
+of the habits &amp; habitats of the&#13;
+Western Conifers as no one else&#13;
+has. The association of so&#13;
+many species is a feature&#13;
+quite new to me, &amp; such as&#13;
+exists no where else. To find 8&#13;
+or 10 Conifers on one Mt. is a&#13;
+marvellous feature in vegetation.&#13;
+Thus in Colorado we have between&#13;
+5 &amp;10000 ft -- Pinus edulis, ponderosa,&#13;
+aristata &amp; flexilis Abies Douglasii&#13;
+Menziesii &amp; Engelmannii (varieties of&#13;
+one) -- Picea concolor &amp; Juniperus&#13;
+virginiana, occidentalis &amp; communis,&#13;
+all abundant. Of these except &amp;&#13;
+two of the Junipers none are found</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

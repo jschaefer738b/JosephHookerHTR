@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T23:01:25.001-04:00</Created>
+        <LastChange>2020-07-07T00:54:47.865+02:00</LastChange>
+        <TranskribusMetadata docId="423589" pageId="16858828" pageNr="2" tsid="33601124" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=MMAETVMNOANZIHMCZYVLNKYN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YQLLWNJOQCUTYQDVLUFWRUJS" imageId="12610340"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_37_003.jpg" imageWidth="1378" imageHeight="2149">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330879021" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,104 0,2124 1341,2124 1341,104"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="33,196 270,160 361,218 421,174 935,139 1214,198 1211,73 961,108 866,75 806,108 543,70 30,92"/>
+                <Baseline points="41,159 99,162 157,163 215,164 273,164 331,164 389,163 448,161 506,159 564,157 622,155 680,152 738,149 796,147 855,144 913,141 971,139 1029,136 1087,135 1145,133 1204,132"/>
+                <TextEquiv>
+                    <Unicode>bore in every part the evidence of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="45,298 246,293 313,251 494,285 1284,250 1264,161 1096,209 982,178 905,222 800,167 718,221 557,228 499,188 358,227 251,202 189,245 105,204 42,226"/>
+                <Baseline points="53,277 114,273 175,270 236,267 297,264 358,262 419,259 480,257 541,254 602,252 664,250 725,247 786,245 847,242 908,239 969,237 1030,233 1091,231 1152,227 1213,223 1275,219"/>
+                <TextEquiv>
+                    <Unicode>growth -- &amp; this was the great contrast</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="605,307 696,301 718,316 762,300 780,309 806,291 909,299 949,283 964,295 995,284 993,245 913,260 854,257 833,242 809,263 647,262 622,285 603,283"/>
+                <Baseline points="613,303 639,301 666,299 693,298 719,295 746,293 773,291 800,289 826,288 853,285 880,284 906,283 933,282 960,281 987,281"/>
+                <TextEquiv>
+                    <Unicode>well arranged</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="32,379 388,393 465,352 711,403 866,347 1224,353 1217,271 910,321 527,286 472,337 159,349 105,313 32,368"/>
+                <Baseline points="40,384 98,379 157,374 216,370 275,365 333,362 392,359 451,356 510,353 568,351 627,349 686,347 745,344 803,342 862,340 921,337 980,335 1038,332 1097,329 1156,325 1215,322"/>
+                <TextEquiv>
+                    <Unicode>to most of the gorgeous modern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="51,457 198,504 372,449 991,470 1104,413 1350,419 1348,374 1262,360 50,426"/>
+                <Baseline points="59,462 123,462 187,462 251,460 315,458 379,455 443,451 507,448 571,444 635,439 700,435 764,430 828,426 892,422 956,419 1020,415 1084,412 1148,411 1212,409 1276,408 1341,409"/>
+                <TextEquiv>
+                    <Unicode>houses -- which are evidently made to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="-7,514 15,508 22,514 35,514 49,505 99,507 117,487 125,487 125,469 101,468 94,475 88,474 66,457 32,447 -9,456"/>
+                <Baseline points="0,504 29,500 59,499 88,499 118,499"/>
+                <TextEquiv>
+                    <Unicode>hold</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="45,601 192,558 363,599 493,544 665,570 730,528 1170,499 1167,456 1067,446 826,498 722,464 515,514 119,485 40,523"/>
+                <Baseline points="51,559 106,559 162,558 217,556 273,554 328,552 384,549 439,545 495,541 550,537 606,533 661,529 717,524 772,520 828,515 883,511 939,507 994,503 1050,499 1105,496 1161,492"/>
+                <TextEquiv>
+                    <Unicode>fit the furniture &amp; decorative</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="-19,610 -9,615 5,613 14,623 52,573 43,566 40,555 33,556 27,551"/>
+                <Baseline points="12,584 26,595"/>
+                <TextEquiv>
+                    <Unicode>&amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="33,662 481,640 555,689 639,622 816,654 1014,599 1297,598 1311,541 891,590 460,577 262,634 101,588 31,636"/>
+                <Baseline points="40,655 103,654 166,652 229,649 293,646 356,644 419,639 482,636 546,631 609,626 672,622 735,617 799,613 862,609 925,605 988,601 1052,598 1115,595 1178,593 1241,591 1305,590"/>
+                <TextEquiv>
+                    <Unicode>objects, whether of art or use. This</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="26,718 171,722 301,700 338,718 370,710 366,652 269,665 218,647 185,664 154,656 118,666 81,691 24,685"/>
+                <Baseline points="33,709 58,709 83,709 108,708 133,707 159,706 184,705 209,703 234,702 260,700 285,697 310,695 335,692 361,689"/>
+                <TextEquiv>
+                    <Unicode>on the contrary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="27,771 1184,700 1141,662 861,678 783,639 664,707 480,676 430,716 25,739"/>
+                <Baseline points="34,760 91,759 148,758 205,755 262,752 319,749 376,745 433,742 490,737 547,732 605,727 662,723 719,718 776,714 833,709 890,706 947,703 1004,700 1061,698 1118,697 1176,697"/>
+                <TextEquiv>
+                    <Unicode>is an old house, the various</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="659,784 675,779 699,799 720,795 734,805 754,781 772,787 854,761 880,767 901,747 918,760 967,752 962,701 935,718 886,708 773,740 706,721 677,746 656,748"/>
+                <Baseline points="666,772 692,771 719,769 745,768 772,766 799,763 825,760 852,757 879,754 905,751 932,748 959,745"/>
+                <TextEquiv>
+                    <Unicode>adjusted &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="45,887 231,843 743,847 806,812 1020,847 1094,799 1225,844 1250,745 854,761 608,818 534,780 320,825 221,784 42,833"/>
+                <Baseline points="51,858 110,856 170,855 230,853 289,850 349,848 409,845 468,842 528,839 588,835 648,831 707,828 767,823 827,819 886,815 946,811 1006,807 1065,804 1125,799 1185,796 1245,792"/>
+                <TextEquiv>
+                    <Unicode>parts of which were utilised for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="171,910 266,916 285,905 313,918 337,913 358,892 440,894 438,863 394,848 348,858 335,847 311,853 289,842 243,867 219,854 202,867 181,855 168,859"/>
+                <Baseline points="178,898 203,899 228,899 253,898 279,895 304,893 329,891 355,890 380,888 405,887 431,886"/>
+                <TextEquiv>
+                    <Unicode>instructive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="56,980 388,1002 555,943 1211,906 1212,852 1006,838 774,888 647,861 212,934 119,890 53,942"/>
+                <Baseline points="63,960 120,959 177,957 234,955 291,952 349,949 406,945 463,941 520,937 577,932 635,928 692,923 749,918 806,914 863,909 921,905 978,901 1035,898 1092,893 1149,891 1207,888"/>
+                <TextEquiv>
+                    <Unicode>the display of art collections &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="106,1088 364,1034 469,1057 1257,999 1253,939 1192,926 1014,984 890,956 641,967 585,1009 101,1012"/>
+                <Baseline points="112,1052 168,1051 225,1050 282,1049 339,1046 396,1043 453,1040 509,1036 566,1032 623,1029 680,1025 737,1020 794,1016 851,1011 907,1007 964,1003 1021,999 1078,996 1135,993 1192,991 1249,989"/>
+                <TextEquiv>
+                    <Unicode>fitted up coloured &amp;c with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="75,1165 315,1130 532,1175 1138,1056 1279,1099 1289,997 902,1022 852,1069 698,1020 409,1103 71,1099"/>
+                <Baseline points="81,1141 141,1137 201,1133 261,1129 321,1126 382,1122 442,1118 502,1115 562,1111 622,1108 683,1104 743,1101 803,1097 863,1094 923,1091 984,1086 1044,1083 1104,1079 1164,1075 1224,1071 1285,1066"/>
+                <TextEquiv>
+                    <Unicode>reference to the contents. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="861,1150 893,1150 900,1143 903,1145 905,1143 914,1143 914,1095 898,1095 890,1100 879,1100 871,1108 861,1108"/>
+                <Baseline points="869,1142 906,1142"/>
+                <TextEquiv>
+                    <Unicode>is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1085,1180 1098,1178 1106,1185 1142,1169 1152,1179 1178,1164 1194,1175 1211,1170 1210,1110 1199,1111 1178,1101 1167,1111 1135,1105 1125,1107 1102,1125 1084,1126"/>
+                <Baseline points="1093,1159 1120,1160 1148,1159 1175,1157 1203,1159"/>
+                <TextEquiv>
+                    <Unicode>the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="71,1275 148,1243 255,1252 365,1219 427,1239 638,1199 936,1222 931,1150 687,1139 434,1195 383,1168 190,1207 134,1185 68,1224"/>
+                <Baseline points="76,1239 118,1237 160,1235 203,1232 245,1230 288,1227 330,1224 373,1220 415,1217 458,1213 500,1210 542,1206 585,1202 627,1199 670,1196 712,1193 755,1190 797,1188 840,1186 882,1183 925,1182"/>
+                <TextEquiv>
+                    <Unicode>great draw back was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="87,1367 463,1345 592,1298 1283,1273 1242,1219 853,1227 575,1287 511,1250 452,1299 160,1262 83,1308"/>
+                <Baseline points="93,1335 152,1335 211,1333 270,1331 329,1327 388,1323 447,1318 506,1313 565,1308 624,1302 683,1296 742,1291 801,1286 860,1281 919,1275 978,1271 1037,1267 1096,1265 1155,1263 1214,1262 1274,1262"/>
+                <TextEquiv>
+                    <Unicode>too apple pie order ! One could</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="85,1453 1282,1375 1288,1310 963,1345 739,1309 520,1398 380,1363 316,1409 81,1406"/>
+                <Baseline points="91,1438 150,1437 210,1434 269,1431 329,1427 389,1422 448,1418 508,1411 568,1405 627,1399 687,1393 747,1387 806,1381 866,1375 926,1369 985,1364 1045,1360 1105,1356 1164,1353 1224,1351 1284,1350"/>
+                <TextEquiv>
+                    <Unicode>understand the proprietor who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="915,1422 928,1425 941,1416 949,1419 952,1415 986,1420 992,1413 1000,1412 1010,1418 1037,1415 1035,1385 1027,1385 1017,1394 1000,1392 992,1386 978,1393 965,1384 954,1393 934,1386 913,1385"/>
+                <Baseline points="923,1413 949,1411 976,1410 1002,1408 1029,1407"/>
+                <TextEquiv>
+                    <Unicode>man.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="823,1427 832,1426 841,1433 844,1430 850,1433 858,1429 875,1435 881,1434 888,1426 904,1425 902,1386 876,1388 858,1371 839,1381 820,1382"/>
+                <Baseline points="830,1420 863,1417 896,1416"/>
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="23,1503 64,1490 202,1493 235,1471 269,1493 306,1474 398,1504 420,1490 419,1442 258,1434 66,1455 50,1439 21,1440"/>
+                <Baseline points="30,1490 55,1489 80,1487 106,1485 131,1484 157,1483 182,1481 208,1480 233,1478 259,1478 284,1477 310,1477 335,1478 361,1479 386,1481 412,1484"/>
+                <TextEquiv>
+                    <Unicode>created it all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="88,1545 301,1576 687,1494 858,1539 995,1480 1199,1498 1326,1456 1321,1395 885,1455 791,1420 702,1474 566,1447 458,1504 235,1471 84,1499"/>
+                <Baseline points="96,1539 157,1535 218,1532 279,1528 340,1523 401,1518 462,1514 523,1509 584,1503 645,1498 706,1494 767,1488 828,1483 889,1478 950,1473 1011,1469 1072,1464 1133,1460 1194,1456 1255,1453 1317,1450"/>
+                <TextEquiv>
+                    <Unicode>working in it, &amp; being incapable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="92,1688 491,1619 1214,1588 1212,1556 1040,1523 772,1579 675,1541 426,1603 306,1570 88,1606"/>
+                <Baseline points="98,1642 153,1638 208,1635 264,1631 319,1627 374,1624 430,1621 485,1617 540,1614 596,1610 651,1607 706,1604 762,1601 817,1598 872,1595 928,1592 983,1589 1038,1587 1094,1585 1149,1583 1205,1580"/>
+                <TextEquiv>
+                    <Unicode>of working elsewhere; but you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="590,1667 622,1658 667,1667 706,1651 733,1661 765,1641 806,1655 821,1641 842,1640 839,1592 805,1605 786,1595 768,1614 760,1608 726,1623 638,1611 587,1620"/>
+                <Baseline points="598,1655 624,1653 650,1651 676,1650 702,1648 729,1647 755,1646 781,1644 807,1642 834,1638"/>
+                <TextEquiv>
+                    <Unicode>have to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="86,1775 440,1727 552,1777 968,1689 1194,1707 1190,1628 1062,1673 921,1642 754,1686 685,1653 618,1694 439,1700 393,1667 83,1714"/>
+                <Baseline points="93,1746 147,1743 202,1739 256,1736 311,1732 366,1729 420,1725 475,1721 529,1718 584,1714 639,1711 693,1707 748,1704 802,1701 857,1698 912,1695 966,1693 1021,1690 1075,1688 1130,1687 1185,1685"/>
+                <TextEquiv>
+                    <Unicode>would be sorry to work in it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="111,1884 432,1819 736,1858 815,1792 1236,1803 1299,1783 1297,1743 1035,1708 969,1748 669,1741 585,1788 513,1748 461,1795 179,1776 107,1809"/>
+                <Baseline points="116,1834 174,1834 233,1833 292,1831 351,1828 409,1825 468,1822 527,1818 586,1813 644,1808 703,1804 762,1800 821,1796 879,1791 938,1788 997,1785 1056,1782 1114,1780 1173,1779 1232,1779 1291,1779"/>
+                <TextEquiv>
+                    <Unicode>yourself. The glory of the house is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="83,1961 303,1936 441,1972 844,1881 1317,1877 1292,1800 1032,1836 916,1810 846,1864 630,1829 484,1887 303,1852 77,1878"/>
+                <Baseline points="90,1940 150,1938 211,1935 272,1931 333,1927 394,1922 455,1917 516,1912 577,1906 638,1901 699,1894 759,1889 820,1884 881,1879 942,1874 1003,1870 1064,1866 1125,1864 1186,1861 1247,1859 1308,1858"/>
+                <TextEquiv>
+                    <Unicode>the Library of Spanish Literature &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="89,2043 556,2011 663,2060 735,1998 1236,1984 1210,1913 981,1967 599,1935 453,1981 85,1961"/>
+                <Baseline points="96,2034 152,2030 209,2026 265,2023 322,2019 379,2016 435,2012 492,2009 548,2006 605,2003 662,2000 718,1997 775,1994 831,1991 888,1989 945,1986 1001,1984 1058,1982 1114,1980 1171,1978 1228,1976"/>
+                <TextEquiv>
+                    <Unicode>art the backs of whose books</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="112,2127 657,2080 928,2111 1089,2075 1242,2122 1238,2026 1201,2015 110,2079"/>
+                <Baseline points="120,2110 175,2108 231,2106 286,2104 342,2101 398,2099 453,2096 509,2093 564,2091 620,2088 676,2085 731,2083 787,2081 842,2078 898,2076 954,2075 1009,2073 1065,2072 1120,2071 1176,2070 1232,2070"/>
+                <TextEquiv>
+                    <Unicode>all classified &amp; bound for use,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bore in every part the evidence of&#13;
+growth -- &amp; this was the great contrast&#13;
+well arranged&#13;
+to most of the gorgeous modern&#13;
+houses -- which are evidently made to&#13;
+hold&#13;
+fit the furniture &amp; decorative&#13;
+&amp;&#13;
+objects, whether of art or use. This&#13;
+on the contrary&#13;
+is an old house, the various&#13;
+adjusted &amp;&#13;
+parts of which were utilised for&#13;
+instructive&#13;
+the display of art collections &amp;&#13;
+fitted up coloured &amp;c with&#13;
+reference to the contents. The&#13;
+is&#13;
+the&#13;
+great draw back was&#13;
+too apple pie order ! One could&#13;
+understand the proprietor who&#13;
+man.&#13;
+a&#13;
+created it all&#13;
+working in it, &amp; being incapable&#13;
+of working elsewhere; but you&#13;
+have to&#13;
+would be sorry to work in it&#13;
+yourself. The glory of the house is&#13;
+the Library of Spanish Literature &amp;&#13;
+art the backs of whose books&#13;
+all classified &amp; bound for use,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

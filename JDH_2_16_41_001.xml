@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:39:38.381-04:00</Created>
+        <LastChange>2023-05-17T01:15:38.681+02:00</LastChange>
+        <TranskribusMetadata docId="437075" pageId="17691631" pageNr="1" tsid="121949214" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=RWLTRTNGTVXUHJPADNTUNPWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VKGOHDTVWPXFTWYNHLLVWFWI" imageId="13355374"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_41_001.jpg" imageWidth="1556" imageHeight="2461">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330862022" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:0;}">
+            <Coords points="39,65 39,2399 1515,2399 1515,65"/>
+            <TextLine id="r5l2" custom="readingOrder {index:0;}">
+                <Coords points="891,185 969,163 1008,171 1144,155 1157,167 1176,156 1194,173 1214,162 1269,175 1291,167 1291,131 1219,131 1123,80 1099,90 1016,50 950,83 889,81"/>
+                <Baseline points="899,169 924,167 950,165 975,164 1001,161 1027,159 1052,158 1078,156 1103,155 1129,154 1155,154 1180,154 1206,156 1231,158 1257,161 1283,165"/>
+                <TextEquiv>
+                    <Unicode>Newhaven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:1;}">
+                <Coords points="990,246 1015,258 1068,236 1098,251 1215,233 1235,249 1287,240 1358,261 1378,241 1424,270 1421,161 1292,153 1165,210 1081,193 1033,219 989,211"/>
+                <Baseline points="999,240 1025,238 1051,236 1077,235 1103,234 1129,232 1155,231 1181,231 1207,230 1233,230 1259,229 1285,229 1311,229 1337,228 1363,228 1389,228 1415,227"/>
+                <TextEquiv>
+                    <Unicode>Connecticut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_517" custom="readingOrder {index:2;}">
+                <Coords points="911,346 937,347 964,348 990,348 1017,349 1043,349 1070,349 1096,349 1123,350 1149,351 1176,352 1202,355 1229,358 1240,351 1262,366 1272,366 1304,366 1304,351 1272,351 1266,352 1240,332 1226,343 1204,340 1177,337 1150,336 1124,335 1096,334 1070,334 1043,334 1017,334 990,333 964,333 938,332 912,331"/>
+                <Baseline points="911,346 937,347 964,348 990,348 1017,349 1043,349 1070,349 1096,349 1123,350 1149,351 1176,352 1202,355 1229,358 1240,351 1262,366 1272,366 1304,366"/>
+                <TextEquiv>
+                    <Unicode>Sept 22 / 77</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:3;}">
+                <Coords points="91,577 173,584 299,522 416,522 542,556 612,528 635,539 666,531 666,453 540,422 418,488 341,468 283,480 222,438 91,493"/>
+                <Baseline points="99,524 126,521 154,519 182,518 210,517 238,516 266,516 294,516 322,517 350,517 378,518 405,518 433,519 461,519 489,520 517,520 545,519 573,518 601,517 629,516 657,513"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:4;}">
+                <Coords points="394,648 596,626 732,653 942,608 1018,637 1085,601 1406,622 1417,530 1176,557 1093,518 967,567 855,522 472,538 391,575"/>
+                <Baseline points="401,623 451,625 501,627 552,627 602,627 653,625 703,624 754,621 804,619 855,616 905,613 955,609 1006,607 1056,604 1107,601 1157,599 1208,597 1258,597 1309,597 1359,598 1410,600"/>
+                <TextEquiv>
+                    <Unicode>I have at last returned to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:5;}">
+                <Coords points="137,743 692,759 757,725 1317,707 1315,657 1128,636 1057,683 974,659 752,710 497,673 409,712 327,659 134,642"/>
+                <Baseline points="145,730 203,732 261,733 319,734 377,734 435,734 493,734 552,733 610,732 668,730 726,728 784,726 842,723 900,721 959,718 1017,716 1075,712 1133,709 1191,707 1249,704 1308,701"/>
+                <TextEquiv>
+                    <Unicode>Eastern American civilization &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:6;}">
+                <Coords points="135,840 420,829 478,863 630,824 694,860 731,827 1027,814 1285,851 1282,733 1215,716 134,765"/>
+                <Baseline points="144,830 200,829 257,829 313,829 370,829 426,829 483,829 539,828 596,828 652,827 709,827 765,826 822,824 878,823 935,821 991,819 1048,816 1104,813 1161,809 1217,806 1274,801"/>
+                <TextEquiv>
+                    <Unicode>without regret, for I am pretty</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:7;}">
+                <Coords points="29,914 91,959 1446,932 1445,848 1324,829 1237,868 513,838 363,881 28,836"/>
+                <Baseline points="39,922 108,926 178,929 248,931 318,932 388,932 458,931 528,930 598,928 668,927 738,924 807,922 877,919 947,917 1017,915 1087,913 1157,912 1227,911 1297,911 1367,912 1437,914"/>
+                <TextEquiv>
+                    <Unicode>well fagged out with the hard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:8;}">
+                <Coords points="159,1061 1437,1022 1435,945 1068,913 941,913 803,987 506,938 158,1005"/>
+                <Baseline points="167,1031 230,1032 293,1032 356,1031 419,1030 482,1029 545,1027 608,1025 671,1023 734,1021 797,1018 860,1016 923,1014 986,1012 1049,1010 1112,1008 1175,1007 1238,1006 1301,1006 1364,1006 1428,1007"/>
+                <TextEquiv>
+                    <Unicode>work of our occidental trip. I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:9;}">
+                <Coords points="173,1144 446,1163 519,1121 995,1132 1065,1094 1161,1151 1389,1094 1388,1019 1134,1017 953,1075 799,1043 745,1088 421,1034 171,1067"/>
+                <Baseline points="181,1116 241,1117 301,1117 361,1117 421,1117 481,1117 541,1116 601,1115 661,1114 721,1113 781,1112 841,1110 901,1109 961,1107 1021,1105 1081,1103 1141,1101 1201,1099 1261,1097 1321,1095 1381,1093"/>
+                <TextEquiv>
+                    <Unicode>have stopped here a day to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:10;}">
+                <Coords points="81,1201 306,1252 783,1216 863,1256 1102,1184 1323,1196 1320,1109 355,1179 78,1105"/>
+                <Baseline points="89,1215 150,1216 211,1216 272,1217 333,1217 395,1216 456,1216 517,1215 578,1213 639,1212 701,1210 762,1208 823,1206 884,1204 945,1200 1007,1198 1068,1194 1129,1190 1190,1187 1251,1182 1313,1178"/>
+                <TextEquiv>
+                    <Unicode>spend it with my friend Prof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:11;}">
+                <Coords points="161,1326 550,1300 740,1338 1074,1277 1388,1290 1385,1218 1278,1208 1176,1235 1050,1205 943,1251 847,1211 512,1282 411,1237 298,1268 156,1201"/>
+                <Baseline points="169,1300 229,1302 289,1303 350,1303 410,1303 471,1303 531,1302 591,1300 652,1298 712,1296 773,1293 833,1290 893,1287 954,1284 1014,1280 1075,1277 1135,1273 1195,1269 1256,1265 1316,1262 1377,1258"/>
+                <TextEquiv>
+                    <Unicode>Eaton who with his new bride</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:12;}">
+                <Coords points="168,1409 496,1378 663,1427 733,1383 1428,1354 1403,1297 1163,1334 918,1296 368,1359 315,1318 165,1332"/>
+                <Baseline points="177,1388 239,1388 301,1388 363,1388 425,1387 487,1386 549,1384 611,1382 673,1379 735,1377 798,1373 860,1370 922,1367 984,1363 1046,1359 1108,1355 1170,1352 1232,1348 1294,1344 1356,1340 1419,1337"/>
+                <TextEquiv>
+                    <Unicode>staid at Kew in 1866 &amp; was much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:13;}">
+                <Coords points="160,1517 800,1457 1165,1495 1465,1466 1463,1421 1166,1372 986,1431 622,1446 561,1402 455,1454 270,1423 157,1452"/>
+                <Baseline points="167,1477 231,1480 295,1481 360,1481 424,1480 489,1479 553,1477 617,1473 682,1470 746,1467 811,1463 875,1459 939,1456 1004,1453 1068,1450 1133,1448 1197,1446 1261,1445 1326,1445 1390,1446 1455,1449"/>
+                <TextEquiv>
+                    <Unicode>with us -- he was &amp; is a great fern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:14;}">
+                <Coords points="158,1608 597,1559 675,1610 1072,1527 1465,1542 1461,1461 1350,1453 1289,1496 681,1480 155,1528"/>
+                <Baseline points="166,1570 230,1571 294,1570 359,1569 423,1567 488,1564 552,1561 617,1558 681,1554 746,1550 810,1546 874,1542 939,1538 1003,1534 1068,1530 1132,1528 1197,1525 1261,1523 1326,1521 1390,1520 1455,1520"/>
+                <TextEquiv>
+                    <Unicode>man, &amp; is bringing out an illustrated</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:15;}">
+                <Coords points="176,1688 667,1652 877,1689 1132,1618 1416,1646 1463,1619 1460,1542 1268,1571 1114,1537 819,1612 715,1571 672,1614 513,1590 452,1634 172,1611"/>
+                <Baseline points="183,1657 246,1657 310,1657 373,1657 437,1656 500,1654 564,1652 627,1650 691,1647 754,1644 818,1641 881,1637 945,1634 1008,1629 1072,1625 1135,1620 1199,1615 1262,1611 1326,1606 1389,1602 1453,1596"/>
+                <TextEquiv>
+                    <Unicode>book on the Ferns of the U States.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:16;}">
+                <Coords points="152,1789 254,1756 727,1771 843,1734 990,1772 1334,1728 1329,1631 1243,1624 686,1719 447,1664 221,1703 145,1653"/>
+                <Baseline points="159,1747 217,1747 275,1747 333,1747 391,1746 450,1745 508,1743 566,1741 624,1739 682,1737 741,1734 799,1730 857,1727 915,1724 973,1719 1032,1715 1090,1711 1148,1706 1206,1701 1264,1696 1323,1690"/>
+                <TextEquiv>
+                    <Unicode>New Haven is a wonderfully pretty </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:17;}">
+                <Coords points="276,1901 288,1902 301,1894 312,1895 322,1885 335,1895 357,1881 371,1889 374,1885 383,1885 380,1843 353,1848 336,1840 332,1846 320,1850 311,1847 290,1858 283,1853 272,1854"/>
+                <Baseline points="284,1884 314,1882 344,1880 374,1878"/>
+                <TextEquiv>
+                    <Unicode>all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_518" custom="readingOrder {index:18;}">
+                <Coords points="174,1828 221,1826 269,1824 317,1823 365,1821 412,1820 460,1818 508,1817 556,1816 603,1814 651,1813 699,1812 747,1810 794,1809 842,1807 890,1805 938,1803 985,1802 1033,1799 1081,1796 1129,1793 1153,1798 1179,1798 1205,1797 1231,1796 1257,1796 1283,1796 1310,1796 1336,1796 1362,1796 1388,1797 1414,1799 1440,1801 1467,1804 1469,1789 1441,1786 1415,1784 1389,1782 1362,1781 1336,1781 1310,1781 1283,1781 1257,1781 1231,1781 1204,1782 1179,1783 1155,1783 1130,1778 1080,1781 1032,1784 984,1787 938,1788 889,1790 841,1792 794,1794 747,1795 699,1797 651,1798 603,1799 556,1801 508,1802 460,1803 412,1805 365,1806 317,1808 269,1809 220,1811 173,1813"/>
+                <Baseline points="174,1828 221,1826 269,1824 317,1823 365,1821 412,1820 460,1818 508,1817 556,1816 603,1814 651,1813 699,1812 747,1810 794,1809 842,1807 890,1805 938,1803 985,1802 1033,1799 1081,1796 1129,1793 1153,1798 1179,1798 1205,1797 1231,1796 1257,1796 1283,1796 1310,1796 1336,1796 1362,1796 1388,1797 1414,1799 1440,1801 1467,1804"/>
+                <TextEquiv>
+                    <Unicode>place &amp; this indeed may be said</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:19;}">
+                <Coords points="220,1977 514,1966 597,1917 720,1947 810,1906 1051,1915 1131,1878 1440,1897 1437,1842 1140,1855 1021,1808 961,1854 215,1884"/>
+                <Baseline points="228,1955 288,1947 348,1939 408,1933 468,1926 528,1922 588,1916 649,1912 709,1908 769,1904 829,1902 889,1899 949,1896 1009,1893 1070,1891 1130,1888 1190,1886 1250,1884 1310,1881 1370,1878 1431,1875"/>
+                <TextEquiv>
+                    <Unicode>of the Eastern States that I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:20;}">
+                <Coords points="139,2044 452,2080 651,2021 725,2055 1147,1994 1525,2016 1523,1951 1444,1938 793,1983 658,1935 377,1999 136,1950"/>
+                <Baseline points="146,2023 214,2026 282,2028 351,2029 419,2029 488,2028 556,2026 625,2024 693,2021 762,2017 830,2014 898,2010 967,2006 1035,2003 1104,2000 1172,1996 1241,1994 1309,1992 1378,1990 1446,1990 1515,1991"/>
+                <TextEquiv>
+                    <Unicode>seen -- they are all so green varied in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l28" custom="readingOrder {index:21;}">
+                <Coords points="173,2157 268,2126 369,2160 439,2107 1520,2091 1518,2028 1311,2003 595,2040 512,2079 170,2058"/>
+                <Baseline points="181,2105 247,2106 314,2107 380,2107 447,2106 513,2104 580,2102 646,2100 713,2097 779,2094 846,2091 912,2087 979,2084 1045,2082 1112,2079 1178,2078 1245,2076 1311,2076 1378,2076 1444,2078 1511,2080"/>
+                <TextEquiv>
+                    <Unicode>scenery wooded watered &amp; grassed with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l29" custom="readingOrder {index:22;}">
+                <Coords points="177,2233 543,2188 660,2241 828,2179 902,2212 1477,2194 1508,2140 1393,2099 1306,2131 861,2098 489,2170 267,2126 175,2161"/>
+                <Baseline points="185,2189 250,2192 316,2193 382,2194 447,2194 513,2193 579,2192 644,2190 710,2188 776,2185 842,2183 907,2181 973,2178 1039,2176 1104,2173 1170,2172 1236,2170 1301,2170 1367,2169 1433,2170 1499,2171"/>
+                <TextEquiv>
+                    <Unicode>the ocean in addition on the sea-board.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:23;}">
+                <Coords points="172,2333 242,2299 1166,2298 1418,2254 1400,2176 1161,2216 1003,2186 949,2221 830,2179 766,2231 587,2227 546,2262 360,2198 167,2230"/>
+                <Baseline points="179,2292 240,2293 302,2294 363,2293 425,2292 486,2290 548,2288 609,2285 671,2282 732,2278 794,2274 855,2270 917,2266 978,2262 1040,2259 1101,2255 1163,2252 1224,2250 1286,2248 1347,2247 1409,2247"/>
+                <TextEquiv>
+                    <Unicode>We travelled Eastward day &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l31" custom="readingOrder {index:24;}">
+                <Coords points="190,2437 953,2355 1311,2388 1485,2366 1483,2304 1364,2261 1309,2298 822,2292 752,2334 651,2304 571,2350 485,2296 186,2343"/>
+                <Baseline points="195,2376 259,2377 323,2377 387,2376 451,2375 515,2373 579,2371 643,2368 707,2364 771,2361 835,2357 899,2354 963,2351 1027,2347 1091,2344 1155,2341 1219,2339 1283,2337 1347,2336 1411,2335 1475,2335"/>
+                <TextEquiv>
+                    <Unicode>night for 6 days &amp; nights from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Newhaven
+Connecticut
+Sept 22
+18
+77
+My dear Dyer
+I have at last returned to
+Eastern American civilization &amp;
+without regret, for I am pretty
+well fagged out with the hard
+work of our occidental trip. I
+have stopped here a day to
+spend it with my friend Prof
+Eaton who with his new bride
+staid at Kew in 1866 &amp; was much
+
+with us -- he was &amp; is a great fern
+man, &amp; is bringing out an illustrated
+book on the Ferns of the U States.
+New Haven is a wonderfully pretty 
+be said
+place &amp; this indeed may
+all
+of the Eastern States that I have
+seen -- they are all so green varied in
+scenery wooded watered &amp; grassed with
+the ocean in addition on the sea-board.
+We travelled Eastward day &amp;
+night for 6 days &amp; nights from</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

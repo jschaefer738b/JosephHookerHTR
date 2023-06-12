@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:55:30.362-04:00</Created>
+        <LastChange>2020-07-03T01:36:23.905+02:00</LastChange>
+        <TranskribusMetadata docId="423585" pageId="16858812" pageNr="2" tsid="33332017" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TYSPDLEERHDKVHWDQVQUQOFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PQKLTBVFTUXCJUWQPWSJNKAC" imageId="12610324"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_33_002.jpg" imageWidth="1206" imageHeight="1837">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330892519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="79,119 79,1747 1203,1747 1203,119"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="100,172 585,178 681,229 892,161 967,221 1039,170 1210,184 1210,114 1093,99 906,146 560,118 437,152 267,104 99,135"/>
+                <Baseline points="107,169 161,170 216,172 271,173 326,173 381,173 435,173 490,173 545,172 600,172 655,171 709,171 764,170 819,169 874,168 929,168 983,168 1038,167 1093,167 1148,167 1203,168"/>
+                <TextEquiv>
+                    <Unicode>which consisted of an aggravated</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="80,309 486,266 558,303 654,269 1086,284 1086,209 1013,246 937,225 821,254 762,215 617,241 577,205 481,252 79,219"/>
+                <Baseline points="87,271 136,272 186,273 235,273 285,274 335,274 384,274 434,274 483,274 533,273 583,273 632,272 682,272 731,271 781,270 831,270 880,269 930,269 979,269 1029,268 1079,268"/>
+                <TextEquiv>
+                    <Unicode>assault on Tyndall, most </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="92,377 1065,385 1165,364 1164,297 974,331 587,308 91,339"/>
+                <Baseline points="98,370 151,370 204,369 257,369 310,368 363,368 416,367 469,366 522,365 575,364 628,363 681,362 734,361 787,360 840,358 893,357 946,356 999,356 1052,355 1105,354 1158,354"/>
+                <TextEquiv>
+                    <Unicode>able, most humorous, most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="96,476 492,470 594,518 758,468 1108,475 1107,431 966,401 750,431 650,391 421,456 265,420 95,438"/>
+                <Baseline points="103,462 152,465 202,466 252,467 302,468 352,468 402,468 452,468 502,467 552,466 602,465 651,464 701,463 751,462 801,461 851,461 901,460 951,460 1001,460 1051,461 1101,462"/>
+                <TextEquiv>
+                    <Unicode>cruel &amp; simply execrable in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="100,566 558,580 639,551 900,581 1137,553 1136,517 991,482 923,525 772,487 620,524 566,495 373,524 164,496 99,529"/>
+                <Baseline points="107,561 158,561 209,561 260,560 311,560 362,559 413,557 465,556 516,554 567,552 618,551 669,549 720,547 771,546 823,545 874,544 925,544 976,543 1027,544 1078,545 1130,546"/>
+                <TextEquiv>
+                    <Unicode>tone gesture &amp; matter. It has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="94,692 240,715 305,661 409,659 463,702 520,661 715,644 1113,691 1111,602 1039,616 948,574 861,621 786,576 560,616 469,576 360,625 317,588 230,629 93,622"/>
+                <Baseline points="101,659 151,659 201,658 251,658 302,657 352,656 402,655 452,654 503,652 553,651 603,650 653,648 704,647 754,645 804,644 854,643 905,642 955,642 1005,642 1055,642 1106,642"/>
+                <TextEquiv>
+                    <Unicode>greatly disgusted his friends,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="95,802 245,765 329,815 424,810 591,760 998,763 1091,800 1105,723 995,694 938,744 799,735 708,682 619,747 376,679 281,725 94,696"/>
+                <Baseline points="101,763 150,762 200,762 250,762 300,762 350,762 400,761 449,761 499,761 549,761 599,760 649,760 699,759 749,759 798,759 848,758 898,758 948,757 998,757 1048,756 1098,756"/>
+                <TextEquiv>
+                    <Unicode>especially poor Andrews who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="112,894 811,859 939,910 990,861 1111,883 1110,816 744,792 665,833 538,795 459,845 301,803 111,835"/>
+                <Baseline points="118,868 167,869 216,869 265,869 315,869 364,868 413,867 463,865 512,864 561,863 611,861 660,860 709,859 758,858 808,858 857,858 906,858 956,859 1005,861 1054,864 1104,866"/>
+                <TextEquiv>
+                    <Unicode>insisted on Tait lecturing, &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="100,1002 647,979 709,1001 873,969 1034,993 1033,952 927,904 839,961 723,928 639,959 462,949 395,911 99,929"/>
+                <Baseline points="106,980 152,981 198,982 244,982 290,982 336,982 382,982 428,982 474,982 520,981 566,981 612,980 658,980 704,979 750,978 796,978 842,977 888,976 934,976 980,975 1027,975"/>
+                <TextEquiv>
+                    <Unicode>Sir W. Thomson who has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="119,1091 460,1100 510,1130 662,1082 1096,1098 1096,1014 1034,1054 960,1034 885,1063 118,1036"/>
+                <Baseline points="126,1078 174,1081 222,1084 270,1086 318,1087 367,1087 415,1087 463,1087 511,1087 559,1086 608,1085 656,1084 704,1083 752,1082 800,1081 849,1080 897,1080 945,1080 993,1080 1041,1081 1090,1082"/>
+                <TextEquiv>
+                    <Unicode>twice spoken to me about</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="105,1203 370,1198 434,1226 526,1194 732,1229 815,1194 955,1201 955,1167 697,1139 664,1161 592,1125 513,1161 396,1127 224,1169 189,1145 105,1156"/>
+                <Baseline points="112,1191 153,1192 195,1192 237,1193 279,1192 321,1192 362,1192 404,1192 446,1191 488,1190 530,1190 571,1189 613,1189 655,1188 697,1187 739,1187 780,1187 822,1187 864,1187 906,1187 948,1187"/>
+                <TextEquiv>
+                    <Unicode>it with great concern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="121,1302 530,1308 615,1339 866,1310 953,1342 1094,1298 1094,1246 899,1225 719,1283 659,1246 398,1278 363,1242 122,1235"/>
+                <Baseline points="128,1292 178,1294 228,1296 279,1297 329,1298 380,1299 430,1299 481,1300 531,1300 582,1300 632,1300 683,1300 733,1300 784,1300 834,1300 885,1300 935,1300 986,1301 1036,1302 1087,1304"/>
+                <TextEquiv>
+                    <Unicode>Andrew's address I thought</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="72,1409 141,1447 408,1401 1105,1430 1105,1367 978,1347 917,1383 853,1340 595,1366 532,1329 424,1389 73,1362"/>
+                <Baseline points="79,1401 132,1402 186,1403 239,1403 293,1403 347,1403 400,1402 454,1402 508,1402 561,1401 615,1401 668,1401 722,1401 776,1401 829,1402 883,1403 937,1405 990,1407 1044,1410 1098,1413"/>
+                <TextEquiv>
+                    <Unicode>very poor. Wallace's excellent,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="74,1527 372,1498 556,1549 799,1496 968,1562 1051,1530 1123,1555 1124,1492 953,1444 544,1478 332,1448 231,1493 127,1435 75,1456"/>
+                <Baseline points="82,1513 133,1513 185,1513 237,1513 289,1512 340,1512 392,1511 444,1510 496,1509 547,1509 599,1509 651,1509 703,1509 754,1509 806,1510 858,1512 910,1514 961,1518 1013,1521 1065,1525 1117,1531"/>
+                <TextEquiv>
+                    <Unicode>Evan's &amp; Merrifield's both good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="78,1644 249,1612 1046,1638 1045,1575 989,1555 858,1583 649,1563 585,1602 473,1553 77,1572"/>
+                <Baseline points="85,1624 132,1625 180,1625 228,1625 275,1624 323,1623 371,1623 418,1622 466,1621 514,1620 562,1619 609,1618 657,1617 705,1617 752,1617 800,1617 848,1617 895,1618 943,1620 991,1622 1039,1625"/>
+                <TextEquiv>
+                    <Unicode>but Newtons miserable.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="79,1737 427,1724 498,1772 647,1722 905,1756 1079,1726 1079,1689 951,1650 896,1694 763,1650 723,1680 561,1656 453,1706 79,1648"/>
+                <Baseline points="86,1714 135,1717 184,1720 233,1722 283,1723 332,1724 381,1725 431,1725 480,1725 529,1725 579,1724 628,1723 677,1722 726,1721 776,1720 825,1719 874,1718 924,1717 973,1716 1022,1715 1072,1715"/>
+                <TextEquiv>
+                    <Unicode>The absence of familiar faces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>which consisted of an aggravated&#13;
+assault on Tyndall, most &#13;
+able, most humorous, most&#13;
+cruel &amp; simply execrable in&#13;
+tone gesture &amp; matter. It has&#13;
+greatly disgusted his friends,&#13;
+especially poor Andrews who&#13;
+insisted on Tait lecturing, &amp;&#13;
+Sir W. Thomson who has&#13;
+twice spoken to me about&#13;
+it with great concern&#13;
+Andrew's address I thought&#13;
+very poor. Wallace's excellent,&#13;
+Evan's &amp; Merrifield's both good&#13;
+but Newtons miserable.&#13;
+The absence of familiar faces</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

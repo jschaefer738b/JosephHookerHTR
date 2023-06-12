@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T23:01:25.042-04:00</Created>
+        <LastChange>2020-07-07T01:17:20.837+02:00</LastChange>
+        <TranskribusMetadata docId="423589" pageId="16858829" pageNr="3" tsid="33601262" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GMPLJWRSDKRPKIKEMKAMQGCT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PFBNYRSRDAKNNYBJWGIXBARU" imageId="12610341"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_37_006.jpg" imageWidth="1406" imageHeight="2147">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330879217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,126 65,2075 1352,2075 1352,126"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="57,225 1271,178 1258,126 307,152 54,41"/>
+                <Baseline points="65,206 128,202 191,198 254,195 317,192 380,190 443,188 506,186 569,185 632,184 696,183 759,182 822,181 885,181 948,180 1011,180 1074,179 1137,178 1200,177 1264,176"/>
+                <TextEquiv>
+                    <Unicode>Nylander's collection. Nor did</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="76,352 216,365 394,299 608,288 1165,335 1226,309 1225,261 672,220 603,259 469,215 311,268 73,240"/>
+                <Baseline points="82,304 138,303 195,302 252,301 309,300 366,298 422,297 479,295 536,293 593,292 650,290 706,288 763,287 820,286 877,285 934,284 990,283 1047,283 1104,283 1161,283 1218,284"/>
+                <TextEquiv>
+                    <Unicode>I suppose that it was a very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="72,439 212,458 330,415 746,394 1075,397 1135,428 1143,351 992,370 630,326 512,378 70,370"/>
+                <Baseline points="79,419 131,418 184,417 237,415 290,413 343,412 396,410 448,408 501,407 554,405 607,403 660,401 713,399 766,398 818,396 871,395 924,394 977,393 1030,392 1083,391 1136,391"/>
+                <TextEquiv>
+                    <Unicode>extensive one: he used to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="89,539 653,515 972,550 1125,506 1276,572 1275,481 1052,485 1008,445 756,439 633,497 88,471"/>
+                <Baseline points="97,523 155,522 214,521 272,521 331,520 389,520 448,519 506,519 565,518 623,518 682,517 741,516 799,516 858,515 916,514 975,513 1033,512 1092,511 1150,510 1209,509 1268,507"/>
+                <TextEquiv>
+                    <Unicode>profess to care little for any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="88,651 316,706 400,648 648,677 736,648 836,689 1309,639 1308,577 1266,571 1156,608 816,581 769,619 517,625 87,573"/>
+                <Baseline points="95,639 155,639 215,638 275,638 336,639 396,639 456,640 517,640 577,641 637,642 698,642 758,642 818,642 878,641 939,640 999,639 1059,636 1120,633 1180,629 1240,625 1301,619"/>
+                <TextEquiv>
+                    <Unicode>Herb. of his own if I remember</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="103,761 196,791 247,755 627,750 825,785 931,743 1290,748 1275,677 993,676 857,720 633,673 447,737 244,675 103,704"/>
+                <Baseline points="110,742 168,743 227,743 285,744 344,745 403,745 461,746 520,746 578,746 637,746 696,746 754,746 813,745 871,744 930,743 989,742 1047,741 1106,739 1164,737 1223,734 1282,732"/>
+                <TextEquiv>
+                    <Unicode>aright. I have still to get</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="105,878 659,851 801,902 1360,851 1359,796 1052,806 965,764 897,810 658,780 590,827 486,791 257,832 171,778 104,805"/>
+                <Baseline points="112,850 174,852 236,853 298,853 360,853 422,852 484,852 546,851 608,849 670,848 732,847 794,845 856,844 918,843 980,842 1042,841 1104,841 1166,841 1228,841 1290,842 1352,844"/>
+                <TextEquiv>
+                    <Unicode>from Oliver a list of the collections</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="85,964 422,960 476,998 550,953 1065,945 1193,983 1176,869 1017,916 955,872 871,909 647,880 593,922 450,883 365,922 183,885 84,911"/>
+                <Baseline points="92,951 146,950 201,950 255,949 310,948 365,948 419,947 474,946 528,946 583,945 638,944 692,943 747,942 801,941 856,940 911,939 965,938 1020,937 1074,936 1129,935 1184,934"/>
+                <TextEquiv>
+                    <Unicode>he does buy to let Berkeley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="111,1074 315,1097 712,1036 773,1066 1277,1044 1250,980 1044,974 935,1016 682,968 624,1014 484,992 368,1041 187,983 110,1016"/>
+                <Baseline points="119,1053 176,1054 234,1054 291,1054 349,1054 406,1053 464,1051 521,1050 579,1048 636,1046 694,1044 751,1043 809,1041 866,1040 924,1039 981,1039 1039,1040 1096,1041 1154,1043 1211,1045 1269,1049"/>
+                <TextEquiv>
+                    <Unicode>know, as if I understood B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="106,1172 756,1153 857,1197 1015,1162 1349,1222 1348,1108 1206,1074 105,1120"/>
+                <Baseline points="113,1157 174,1158 235,1159 297,1158 358,1157 419,1155 481,1153 542,1152 603,1149 665,1147 726,1145 787,1143 849,1142 910,1141 971,1140 1033,1141 1094,1142 1155,1144 1217,1148 1278,1152 1340,1158"/>
+                <TextEquiv>
+                    <Unicode>aright we are both (Kew &amp; Berkeley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="119,1269 272,1306 344,1259 701,1253 819,1265 880,1304 978,1267 979,1225 775,1188 688,1238 560,1181 454,1173 318,1236 177,1194 119,1220"/>
+                <Baseline points="126,1254 168,1253 210,1252 252,1252 294,1252 337,1252 379,1252 421,1252 463,1252 505,1252 548,1253 590,1253 632,1254 674,1254 716,1254 759,1255 801,1255 843,1255 885,1255 927,1255 970,1254"/>
+                <TextEquiv>
+                    <Unicode>buying the same things.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="152,1408 440,1355 640,1400 878,1366 1085,1396 1230,1368 1231,1329 870,1352 741,1306 615,1333 567,1295 439,1338 232,1283 154,1300"/>
+                <Baseline points="161,1361 214,1359 267,1358 320,1358 373,1358 426,1359 479,1361 532,1362 585,1364 638,1366 691,1368 744,1370 797,1372 850,1373 903,1374 956,1375 1009,1375 1062,1374 1115,1373 1168,1371 1222,1367"/>
+                <TextEquiv>
+                    <Unicode>Gammie I suppose can be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="123,1508 258,1540 319,1493 412,1516 680,1464 796,1505 905,1461 1203,1525 1333,1476 1333,1423 1117,1392 1004,1437 123,1432"/>
+                <Baseline points="131,1470 190,1471 250,1471 310,1472 369,1472 429,1472 489,1473 548,1473 608,1472 668,1472 728,1472 787,1472 847,1471 907,1470 966,1469 1026,1468 1086,1467 1145,1466 1205,1464 1265,1462 1325,1460"/>
+                <TextEquiv>
+                    <Unicode>easily replaced, not so Hartog -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="109,1610 439,1598 519,1652 717,1600 868,1656 970,1592 1314,1591 1314,1545 1249,1519 874,1563 766,1530 695,1564 109,1535"/>
+                <Baseline points="117,1589 176,1590 235,1591 295,1591 354,1591 414,1591 473,1591 533,1591 592,1590 652,1590 711,1589 770,1588 830,1588 889,1587 949,1586 1008,1586 1068,1586 1127,1585 1187,1585 1246,1585 1306,1586"/>
+                <TextEquiv>
+                    <Unicode>that is to say not so by a better</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="110,1717 301,1761 402,1721 760,1743 890,1699 1230,1725 1230,1661 1185,1646 561,1686 515,1649 110,1611"/>
+                <Baseline points="118,1703 173,1709 228,1713 283,1716 338,1718 394,1720 449,1721 504,1721 559,1721 614,1721 670,1719 725,1718 780,1717 835,1715 890,1714 946,1712 1001,1711 1056,1710 1111,1709 1166,1708 1222,1708"/>
+                <TextEquiv>
+                    <Unicode>the pay is so small -- what do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="147,1881 235,1839 377,1867 822,1830 887,1856 1067,1828 1182,1868 1191,1750 1055,1788 965,1753 917,1790 830,1756 756,1788 574,1760 146,1800"/>
+                <Baseline points="155,1830 206,1830 258,1831 309,1832 361,1832 412,1833 464,1833 515,1833 567,1833 618,1833 670,1833 721,1832 773,1831 824,1830 876,1828 927,1826 979,1824 1030,1821 1082,1818 1133,1814 1185,1810"/>
+                <TextEquiv>
+                    <Unicode>you say to Traill? I doubt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="127,1938 471,1924 574,1976 787,1927 1127,1981 1191,1953 1190,1868 1080,1839 820,1902 741,1875 707,1904 258,1904 126,1872"/>
+                <Baseline points="134,1927 186,1926 238,1926 291,1926 343,1926 396,1926 448,1927 501,1927 553,1927 606,1927 658,1927 710,1927 763,1927 815,1927 868,1926 920,1925 973,1924 1025,1923 1078,1921 1130,1920 1183,1917"/>
+                <TextEquiv>
+                    <Unicode>however anyone's satisfying</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="118,2061 1004,2073 1175,2041 1229,2083 1293,2048 1292,1972 1210,1965 925,2007 775,1971 687,2029 118,1979"/>
+                <Baseline points="126,2048 187,2045 248,2044 309,2044 370,2044 431,2044 492,2045 553,2046 614,2047 675,2049 736,2049 797,2050 858,2050 919,2049 980,2048 1041,2045 1102,2042 1163,2037 1224,2031 1285,2024"/>
+                <TextEquiv>
+                    <Unicode>Thwaites now, -- I hope that Hartog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nylander's collection. Nor did&#13;
+I suppose that it was a very&#13;
+extensive one: he used to&#13;
+profess to care little for any&#13;
+Herb. of his own if I remember&#13;
+aright. I have still to get&#13;
+from Oliver a list of the collections&#13;
+he does buy to let Berkeley&#13;
+know, as if I understood B.&#13;
+aright we are both (Kew &amp; Berkeley&#13;
+buying the same things.&#13;
+Gammie I suppose can be&#13;
+easily replaced, not so Hartog -&#13;
+that is to say not so by a better&#13;
+the pay is so small -- what do&#13;
+you say to Traill? I doubt&#13;
+however anyone's satisfying&#13;
+Thwaites now, -- I hope that Hartog</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-12T15:04:43.733-04:00</Created>
+        <LastChange>2023-05-16T18:48:59.498+02:00</LastChange>
+        <TranskribusMetadata docId="436147" pageId="17675992" pageNr="3" tsid="121940262" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GZKLAEVMKMONFGLTQYMWQQKA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZHWGNSIQEEOHEELQEHMUCNL" imageId="13347208"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_3_6_80_003.jpg" imageWidth="1325" imageHeight="2155">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330873179" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="137,221 137,1898 1254,1898 1254,221"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="147,346 246,310 425,337 503,297 1130,279 1141,245 908,193 795,245 553,215 338,276 144,269"/>
+                <Baseline points="153,311 202,308 251,304 300,301 349,297 398,295 447,292 496,290 545,288 594,285 644,283 693,281 742,280 791,278 840,277 889,276 938,275 987,274 1036,273 1085,272 1135,271"/>
+                <TextEquiv>
+                    <Unicode>collected by Truithn in Sikkim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="183,427 331,447 649,388 894,398 1043,446 1135,396 1261,408 1260,340 1207,376 1069,338 182,371"/>
+                <Baseline points="189,413 242,411 295,409 348,406 402,404 455,402 508,400 561,398 615,396 668,395 721,393 774,393 828,391 881,391 934,390 987,390 1041,390 1094,391 1147,392 1200,393 1254,394"/>
+                <TextEquiv>
+                    <Unicode>sent by Kew to St Petersburg of which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="186,556 1201,497 1092,437 1004,476 758,459 383,508 183,475"/>
+                <Baseline points="191,527 241,526 291,526 341,525 391,524 441,522 491,521 542,519 592,517 642,515 692,514 742,512 792,510 842,508 893,506 943,504 993,502 1043,500 1093,498 1143,497 1194,495"/>
+                <TextEquiv>
+                    <Unicode>there is not a scrap in Herb. Kew.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="242,638 1155,618 1172,568 1068,536 978,581 920,541 696,597 587,570 362,602 240,562"/>
+                <Baseline points="249,621 294,623 340,624 386,625 432,624 478,624 524,622 570,620 616,618 662,616 708,614 753,611 799,608 845,607 891,605 937,603 983,602 1029,602 1075,603 1121,604 1167,606"/>
+                <TextEquiv>
+                    <Unicode>There are 2 curious species from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="180,748 470,755 624,711 747,736 790,702 1085,696 1105,647 956,611 724,676 608,649 522,685 490,661 436,702 287,659 176,672"/>
+                <Baseline points="185,725 230,727 276,728 322,728 368,727 413,725 459,723 505,720 551,717 596,713 642,709 688,706 734,702 779,698 825,695 871,691 917,689 962,687 1008,686 1054,686 1100,686"/>
+                <TextEquiv>
+                    <Unicode>Chitral - far west of the Indes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="209,836 424,866 494,822 597,821 645,854 762,800 1046,822 1122,799 1119,733 957,780 795,737 582,774 552,754 485,804 282,766 207,783"/>
+                <Baseline points="216,831 261,830 306,829 351,827 396,825 441,822 486,820 531,817 576,814 621,811 666,809 711,806 756,804 801,801 846,799 891,797 936,796 981,795 1026,795 1071,796 1116,797"/>
+                <TextEquiv>
+                    <Unicode>collected by Col. Gatteore on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="227,945 1061,901 1066,867 921,835 853,877 778,853 605,894 507,872 223,884"/>
+                <Baseline points="233,929 274,930 315,931 357,931 398,930 440,928 481,927 522,924 564,921 605,918 647,914 688,911 729,908 771,905 812,902 854,899 895,896 936,894 978,892 1019,891 1061,891"/>
+                <TextEquiv>
+                    <Unicode>Chitral exped -- new to me.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="371,1072 618,1076 676,1055 801,1091 844,1054 964,1050 1057,1092 1104,1078 1089,991 982,1030 791,990 573,1039 422,982 369,1002"/>
+                <Baseline points="377,1061 413,1060 449,1060 485,1060 521,1059 557,1059 593,1059 629,1058 665,1058 701,1057 737,1056 773,1056 809,1055 845,1053 881,1052 917,1051 953,1049 989,1047 1025,1046 1061,1043 1097,1040"/>
+                <TextEquiv>
+                    <Unicode>I have a specimen of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="200,1187 503,1177 562,1206 662,1169 1102,1165 1100,1128 978,1099 922,1130 773,1137 732,1111 594,1142 550,1114 396,1108 311,1140 196,1107"/>
+                <Baseline points="206,1182 250,1183 294,1183 339,1182 383,1181 428,1180 472,1178 516,1176 561,1173 605,1170 650,1168 694,1165 738,1162 783,1159 827,1156 872,1154 916,1152 960,1151 1005,1150 1049,1149 1094,1149"/>
+                <TextEquiv>
+                    <Unicode>Eria tekiling with monstrous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="240,1309 372,1278 497,1319 577,1282 672,1315 814,1262 1067,1283 1247,1258 1246,1224 1189,1206 1109,1242 1015,1181 927,1240 744,1212 407,1260 237,1217"/>
+                <Baseline points="245,1284 294,1284 344,1283 394,1282 444,1281 493,1279 543,1277 593,1276 643,1273 692,1271 742,1269 792,1267 842,1265 891,1263 941,1261 991,1260 1041,1258 1090,1258 1140,1257 1190,1257 1240,1257"/>
+                <TextEquiv>
+                    <Unicode>flowers found by my son Reginald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="209,1388 679,1394 795,1357 887,1391 933,1354 1108,1357 1107,1333 969,1294 911,1330 840,1315 733,1349 591,1315 208,1353"/>
+                <Baseline points="215,1382 259,1382 303,1382 347,1382 392,1381 436,1380 480,1378 525,1376 569,1374 613,1371 658,1369 702,1366 746,1363 790,1361 835,1359 879,1356 923,1354 968,1352 1012,1351 1056,1350 1101,1350"/>
+                <TextEquiv>
+                    <Unicode>on the moor behind my house</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="605,1507 646,1516 666,1501 698,1502 711,1516 781,1525 810,1549 887,1501 903,1505 904,1437 849,1428 756,1464 651,1398 606,1410"/>
+                <Baseline points="611,1497 637,1497 663,1497 689,1497 715,1498 741,1498 767,1498 793,1499 819,1499 845,1499 871,1498 897,1497"/>
+                <TextEquiv>
+                    <Unicode>Ever ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="131,1690 325,1694 391,1651 550,1686 660,1647 901,1677 998,1626 1169,1612 1167,1561 929,1504 820,1585 661,1613 258,1634 194,1584 128,1625"/>
+                <Baseline points="137,1675 188,1670 239,1666 290,1663 342,1660 393,1657 444,1655 496,1653 547,1651 598,1649 650,1647 701,1645 752,1643 803,1640 855,1637 906,1635 957,1632 1009,1627 1060,1623 1111,1617 1163,1611"/>
+                <TextEquiv>
+                    <Unicode>Pamplim 98 lots JD Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="140,1791 252,1757 378,1767 592,1740 666,1757 729,1725 809,1739 822,1690 715,1709 665,1681 608,1686 432,1732 390,1706 284,1719 213,1688 137,1732"/>
+                <Baseline points="146,1768 179,1763 213,1760 246,1757 280,1754 313,1752 347,1749 380,1747 414,1745 447,1743 481,1742 515,1740 548,1739 582,1737 615,1736 649,1734 682,1731 716,1729 749,1726 783,1723 817,1720"/>
+                <TextEquiv>
+                    <Unicode>Brown 103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="461,1887 488,1890 530,1876 573,1894 634,1873 649,1883 658,1875 730,1885 728,1785 694,1780 652,1800 620,1785 562,1800 493,1787 459,1802"/>
+                <Baseline points="467,1873 492,1872 518,1872 543,1871 569,1869 595,1868 620,1867 646,1866 671,1866 697,1867 723,1869"/>
+                <TextEquiv>
+                    <Unicode>W.B.H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>collected by Truithn in Sikkim&#13;
+sent by Kew to St Petersburg of which&#13;
+there is not a scrap in Herb. Kew.&#13;
+There are 2 curious species from&#13;
+Chitral - far west of the Indes&#13;
+collected by Col. Gatteore on the&#13;
+Chitral exped -- new to me.&#13;
+I have a specimen of&#13;
+Eria tekiling with monstrous&#13;
+flowers found by my son Reginald&#13;
+on the moor behind my house&#13;
+Ever ys&#13;
+Pamplim 98 lots JD Hooker&#13;
+Brown 103&#13;
+W.B.H.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

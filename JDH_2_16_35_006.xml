@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:58:12.335-04:00</Created>
+        <LastChange>2020-07-05T23:44:42.756+02:00</LastChange>
+        <TranskribusMetadata docId="423587" pageId="16858821" pageNr="5" tsid="33535124" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=OSWUWZNBKSYNMKMKUKQPZSBY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSGDIYTNSNVKAHZZOMJYVCMA" imageId="12610333"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_35_006.jpg" imageWidth="1396" imageHeight="2142">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330889288" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="42,70 42,2096 1338,2096 1338,70"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="82,119 172,152 280,100 912,108 1144,151 1315,124 1316,77 620,49 328,79 82,35"/>
+                <Baseline points="90,114 150,111 211,109 272,107 333,106 394,105 455,105 515,105 576,105 637,106 698,106 759,108 820,109 881,110 941,111 1002,113 1063,114 1124,115 1185,116 1246,117 1307,118"/>
+                <TextEquiv>
+                    <Unicode>cliffs &amp; were strewed over ledges &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="87,190 339,221 402,188 900,187 1001,231 1268,200 1268,159 1183,142 88,157"/>
+                <Baseline points="95,191 153,188 211,186 269,184 327,183 386,183 444,183 502,183 560,184 618,185 677,187 735,188 793,190 851,192 909,194 968,196 1026,198 1084,200 1142,202 1200,203 1259,205"/>
+                <TextEquiv>
+                    <Unicode>were so poised on sloping cliffs that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="602,239 649,242 706,211 726,232 813,227 836,241 872,232 940,244 995,237 996,195 964,212 866,187 810,202 751,190 603,197"/>
+                <Baseline points="610,230 635,226 660,223 685,222 710,222 736,222 761,223 786,225 811,226 836,227 862,228 887,229 912,229 937,229 962,228 988,225"/>
+                <TextEquiv>
+                    <Unicode>you saw them</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="71,303 457,275 521,318 621,266 1100,324 1220,277 1332,292 1333,255 707,212 583,242 453,202 306,243 71,228"/>
+                <Baseline points="79,275 141,272 203,269 265,267 328,265 390,264 452,263 514,263 577,263 639,264 701,264 763,265 826,267 888,268 950,270 1012,271 1075,273 1137,276 1199,277 1261,280 1324,282"/>
+                <TextEquiv>
+                    <Unicode>you would fancy they were sliding down</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="79,359 186,401 261,347 491,383 727,358 803,398 1116,355 1286,407 1285,324 1050,302 782,327 562,291 501,337 316,290 202,328 80,298"/>
+                <Baseline points="86,353 145,353 205,352 264,351 324,351 384,351 443,351 503,351 562,351 622,352 682,352 741,353 801,354 860,355 920,356 980,357 1039,359 1099,360 1158,361 1218,363 1278,365"/>
+                <TextEquiv>
+                    <Unicode>being held in position by the exceedingly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="90,455 741,472 905,421 1127,492 1326,491 1347,395 91,396"/>
+                <Baseline points="98,435 160,437 222,437 284,437 346,437 408,436 470,436 532,435 594,435 656,435 718,435 780,435 842,436 904,438 966,440 1028,444 1090,448 1152,453 1214,459 1276,467 1338,476"/>
+                <TextEquiv>
+                    <Unicode>rough surface of the rock, the hypersthene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="87,533 1268,562 1285,516 857,465 768,501 514,461 420,496 87,472"/>
+                <Baseline points="94,522 153,522 212,522 271,521 330,521 389,521 448,521 507,521 566,522 625,522 685,523 744,524 803,525 862,526 921,527 980,529 1039,531 1098,534 1157,537 1216,540 1276,544"/>
+                <TextEquiv>
+                    <Unicode>cristels of which project from its surface</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="95,630 934,603 1211,633 1237,575 801,548 346,594 95,563"/>
+                <Baseline points="103,612 159,612 215,612 271,612 328,611 384,611 440,611 496,611 553,611 609,611 665,611 721,611 778,611 834,612 890,612 946,613 1003,614 1059,616 1115,617 1171,619 1228,621"/>
+                <TextEquiv>
+                    <Unicode>like studs on a boot heel, &amp; render</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="84,694 281,738 647,695 811,699 913,757 1125,711 1245,746 1246,682 1145,648 802,682 564,634 414,663 84,631"/>
+                <Baseline points="92,695 149,697 206,698 263,699 321,699 378,699 435,699 493,699 550,699 607,698 665,698 722,698 779,698 836,698 894,698 951,699 1008,700 1066,702 1123,703 1180,705 1238,709"/>
+                <TextEquiv>
+                    <Unicode>it  easy &amp; safe to move along slopes of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="80,796 1320,810 1219,741 81,742"/>
+                <Baseline points="88,785 149,786 210,786 271,786 332,785 394,785 455,785 516,784 577,784 638,783 700,783 761,783 822,783 883,784 944,785 1006,786 1067,788 1128,790 1189,793 1250,797 1312,801"/>
+                <TextEquiv>
+                    <Unicode>30o &amp; upwards, without ever a suspicion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="79,927 257,883 361,921 478,861 1257,898 1281,848 563,797 444,852 315,798 80,842"/>
+                <Baseline points="88,875 147,875 206,874 265,873 324,872 384,871 443,870 502,869 561,868 620,868 680,868 739,868 798,868 857,869 916,870 976,872 1035,875 1094,877 1153,881 1212,885 1272,890"/>
+                <TextEquiv>
+                    <Unicode>of slipping. The walk back from our</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="71,971 270,957 355,995 638,943 808,990 1014,943 1227,1003 1226,905 1042,918 970,882 904,916 408,890 332,933 126,899 70,926"/>
+                <Baseline points="79,957 136,955 193,954 250,952 307,951 364,950 421,949 478,948 535,947 592,947 649,946 706,945 763,945 820,945 877,945 934,945 991,945 1048,945 1105,946 1162,946 1219,947"/>
+                <TextEquiv>
+                    <Unicode>elevated position &amp; along the dreary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="83,1043 235,1077 703,1032 775,1075 1010,1026 1225,1038 1170,990 1011,1007 936,966 639,1009 579,973 298,1014 83,996"/>
+                <Baseline points="91,1034 147,1034 203,1034 259,1033 316,1033 372,1032 428,1031 485,1030 541,1030 597,1029 654,1028 710,1027 766,1027 822,1026 879,1026 935,1025 991,1025 1048,1025 1104,1025 1160,1026 1217,1026"/>
+                <TextEquiv>
+                    <Unicode>valley was a terrible fatigue &amp; we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="69,1129 1276,1125 1295,1067 69,1074"/>
+                <Baseline points="76,1109 136,1111 197,1112 257,1113 318,1113 378,1113 439,1112 499,1111 560,1110 620,1109 681,1108 742,1108 802,1107 863,1106 923,1106 984,1106 1044,1107 1105,1108 1165,1110 1226,1112 1287,1115"/>
+                <TextEquiv>
+                    <Unicode>did not get to the Sligachan Hotel till</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="53,1209 1264,1209 1222,1159 1039,1147 556,1132 416,1178 319,1135 226,1176 53,1151"/>
+                <Baseline points="61,1194 120,1196 180,1196 240,1197 300,1197 359,1197 419,1196 479,1196 539,1195 598,1195 658,1194 718,1194 778,1193 837,1193 897,1193 957,1194 1017,1194 1076,1196 1136,1197 1196,1199 1256,1202"/>
+                <TextEquiv>
+                    <Unicode>near 8 PM.  Except for about 4 miles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="100,1333 202,1300 364,1348 423,1302 606,1292 1308,1321 1308,1245 981,1271 822,1235 643,1272 565,1239 437,1277 99,1246"/>
+                <Baseline points="107,1292 166,1294 226,1296 285,1297 345,1297 405,1297 464,1297 524,1296 584,1296 643,1295 703,1294 763,1293 822,1292 882,1292 942,1291 1001,1291 1061,1291 1121,1292 1180,1293 1240,1295 1300,1297"/>
+                <TextEquiv>
+                    <Unicode>of a pony-back, Mrs Hooker walked &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1068,1343 1077,1343 1085,1348 1093,1346 1097,1349 1111,1338 1127,1345 1138,1343 1137,1314 1126,1316 1118,1309 1114,1310 1103,1299 1098,1304 1090,1302 1087,1305 1067,1307"/>
+                <Baseline points="1075,1335 1102,1335 1130,1334"/>
+                <TextEquiv>
+                    <Unicode>we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="99,1399 587,1364 1289,1399 1289,1325 1104,1359 923,1323 828,1356 705,1316 502,1352 249,1325 99,1360"/>
+                <Baseline points="107,1391 165,1387 224,1385 283,1382 341,1381 400,1379 459,1378 517,1378 576,1378 635,1378 694,1378 752,1379 811,1379 870,1380 928,1381 987,1382 1046,1382 1104,1383 1163,1383 1222,1384 1281,1384"/>
+                <TextEquiv>
+                    <Unicode>climbed it all, &amp; bad as it was much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="91,1489 344,1458 702,1493 799,1457 892,1493 1228,1474 1228,1429 1132,1399 1012,1435 699,1387 467,1428 141,1395 91,1425"/>
+                <Baseline points="99,1459 155,1459 211,1459 267,1458 323,1458 379,1457 435,1457 491,1456 547,1455 603,1455 660,1455 716,1454 772,1454 828,1454 884,1455 940,1455 996,1456 1052,1457 1108,1458 1164,1460 1221,1462"/>
+                <TextEquiv>
+                    <Unicode>preferred it to the bog trot that we had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="80,1570 1035,1545 1034,1498 959,1476 646,1510 573,1479 436,1495 368,1459 79,1510"/>
+                <Baseline points="88,1546 137,1546 186,1546 236,1546 285,1545 335,1544 384,1543 433,1541 483,1540 532,1539 582,1537 631,1536 681,1535 730,1534 779,1533 829,1532 878,1532 928,1533 977,1533 1027,1535"/>
+                <TextEquiv>
+                    <Unicode>to the Storr on the previous trip.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="106,1634 242,1687 424,1687 531,1636 1243,1627 1215,1565 1027,1606 782,1554 513,1610 318,1562 105,1581"/>
+                <Baseline points="113,1629 169,1631 225,1632 281,1633 337,1633 393,1633 449,1633 505,1633 561,1632 617,1632 673,1631 729,1630 785,1629 841,1628 897,1627 953,1625 1009,1625 1065,1624 1121,1623 1177,1622 1234,1622"/>
+                <TextEquiv>
+                    <Unicode>The Geology of the Island is most-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="34,1734 244,1732 302,1768 408,1715 931,1719 1066,1777 1219,1736 1180,1683 679,1695 532,1638 381,1703 280,1665 34,1670"/>
+                <Baseline points="42,1716 100,1719 158,1721 217,1723 275,1724 334,1724 392,1724 451,1723 509,1723 568,1722 626,1721 684,1720 743,1719 801,1719 860,1719 918,1719 977,1720 1035,1721 1094,1723 1152,1726 1211,1730"/>
+                <TextEquiv>
+                    <Unicode>interesting, but not objectiory so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="62,1827 162,1797 1250,1822 1250,1789 1121,1743 967,1779 604,1739 553,1780 62,1729"/>
+                <Baseline points="70,1797 128,1797 187,1797 245,1797 304,1797 363,1796 421,1796 480,1796 539,1795 597,1795 656,1795 715,1795 773,1796 832,1796 891,1797 949,1798 1008,1800 1067,1802 1125,1804 1184,1807 1243,1810"/>
+                <TextEquiv>
+                    <Unicode>it must have taken much time</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="72,1894 1173,1906 1174,1851 1128,1830 387,1829 331,1861 262,1819 74,1826"/>
+                <Baseline points="80,1867 134,1869 188,1871 242,1873 297,1874 351,1875 405,1876 460,1877 514,1878 568,1878 623,1879 677,1880 731,1881 785,1882 840,1883 894,1884 948,1885 1003,1887 1057,1889 1111,1891 1166,1894"/>
+                <TextEquiv>
+                    <Unicode>patience experience &amp; knowledge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="52,1963 610,1993 893,1959 1244,2010 1227,1946 1039,1914 317,1939 139,1877 53,1899"/>
+                <Baseline points="60,1951 118,1954 177,1957 236,1959 295,1961 354,1962 412,1963 471,1964 530,1964 589,1965 648,1965 706,1966 765,1966 824,1967 883,1969 942,1970 1000,1973 1059,1976 1118,1979 1177,1984 1236,1989"/>
+                <TextEquiv>
+                    <Unicode>to have recognised the Miocene,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="60,2051 913,2080 1009,2076 1010,2036 795,1991 699,2027 562,1982 477,2016 394,1976 203,2010 127,1965 62,1970"/>
+                <Baseline points="68,2033 114,2033 161,2033 208,2033 254,2034 301,2035 348,2036 394,2037 441,2038 488,2040 535,2041 581,2043 628,2044 675,2046 721,2048 768,2049 815,2051 861,2053 908,2054 955,2056 1002,2057"/>
+                <TextEquiv>
+                    <Unicode>Lias, &amp; lower beds that are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="1085,2086 1103,2090 1134,2077 1163,2088 1176,2100 1212,2084 1241,2090 1246,2032 1211,2036 1171,2020 1164,2024 1151,2012 1138,2014 1115,2032 1090,2033"/>
+                <Baseline points="1095,2068 1122,2070 1150,2072 1178,2075 1206,2078 1234,2079"/>
+                <TextEquiv>
+                    <Unicode>here</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>cliffs &amp; were strewed over ledges &amp;&#13;
+were so poised on sloping cliffs that&#13;
+you saw them&#13;
+you would fancy they were sliding down&#13;
+being held in position by the exceedingly&#13;
+rough surface of the rock, the hypersthene&#13;
+cristels of which project from its surface&#13;
+like studs on a boot heel, &amp; render&#13;
+it  easy &amp; safe to move along slopes of&#13;
+30o &amp; upwards, without ever a suspicion&#13;
+of slipping. The walk back from our&#13;
+elevated position &amp; along the dreary&#13;
+valley was a terrible fatigue &amp; we&#13;
+did not get to the Sligachan Hotel till&#13;
+near 8 PM.  Except for about 4 miles&#13;
+of a pony-back, Mrs Hooker walked &amp;&#13;
+we&#13;
+climbed it all, &amp; bad as it was much&#13;
+preferred it to the bog trot that we had&#13;
+to the Storr on the previous trip.&#13;
+The Geology of the Island is most-&#13;
+interesting, but not objectiory so&#13;
+it must have taken much time&#13;
+patience experience &amp; knowledge&#13;
+to have recognised the Miocene,&#13;
+Lias, &amp; lower beds that are&#13;
+here</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

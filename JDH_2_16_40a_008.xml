@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:36:49.535-04:00</Created>
+        <LastChange>2023-05-17T01:12:15.551+02:00</LastChange>
+        <TranskribusMetadata docId="437074" pageId="17691630" pageNr="7" tsid="121949208" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=UIBMSXREAELYWPOKWCEKYHLP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYNGJAMLBZWWAUJNEBIHEVRJ" imageId="13355373"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_40a_008.jpg" imageWidth="1544" imageHeight="2439">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330865697" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="75,85 75,2167 1484,2167 1484,85"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="95,154 1243,118 1411,161 1451,94 1224,37 1009,80 848,30 726,76 457,35 248,94 94,67"/>
+                <Baseline points="104,132 174,134 244,134 315,134 385,133 456,131 526,129 597,127 667,125 738,122 808,120 879,118 949,116 1020,115 1090,114 1161,115 1231,116 1302,118 1372,121 1443,125"/>
+                <TextEquiv>
+                    <Unicode>&amp; pick up macrocystis on it's shores, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="66,250 589,201 1241,230 1455,187 1453,140 1248,132 64,163"/>
+                <Baseline points="75,213 143,214 212,214 280,213 349,212 417,211 486,209 554,207 623,205 691,202 760,200 829,197 897,194 966,192 1034,190 1103,188 1171,186 1240,185 1308,184 1377,184 1446,184"/>
+                <TextEquiv>
+                    <Unicode>plant I had not seen for 35 years &amp; which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="79,304 1493,294 1491,210 1356,185 1198,245 78,241"/>
+                <Baseline points="88,295 157,293 227,291 297,289 367,287 437,284 506,282 576,279 646,277 716,274 786,272 855,270 925,268 995,266 1065,265 1135,264 1204,264 1274,264 1344,264 1414,265 1484,267"/>
+                <TextEquiv>
+                    <Unicode>brought back a host of memories of perils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="77,411 370,367 778,401 1013,350 1211,394 1267,338 1456,355 1455,311 1202,270 1139,328 922,288 813,330 669,294 268,353 74,332"/>
+                <Baseline points="85,381 153,378 221,375 289,372 357,369 425,366 493,363 561,361 629,358 697,356 766,354 834,352 902,350 970,348 1038,347 1106,346 1174,345 1242,344 1310,343 1378,343 1447,343"/>
+                <TextEquiv>
+                    <Unicode>by sea shores with messmates long since</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="103,484 1441,428 1439,376 1263,341 1212,393 1067,353 983,405 715,382 663,422 545,377 483,419 399,376 101,414"/>
+                <Baseline points="111,453 177,452 243,450 309,448 375,446 441,444 507,442 573,440 639,438 705,436 771,434 837,432 903,430 969,428 1035,427 1101,425 1167,423 1233,421 1299,420 1365,419 1431,417"/>
+                <TextEquiv>
+                    <Unicode>gathered to their fathers. Also I found</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="100,532 202,583 354,529 528,564 918,498 1296,540 1426,495 1424,448 1233,472 1000,424 895,481 803,439 638,492 535,448 407,505 345,467 99,489"/>
+                <Baseline points="109,530 174,530 239,530 305,529 370,527 436,525 501,523 567,520 632,518 698,515 763,512 828,509 894,506 959,503 1025,501 1090,499 1156,497 1221,496 1287,496 1352,496 1418,496"/>
+                <TextEquiv>
+                    <Unicode>to day for the first time Nereocystis, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="83,636 495,596 566,639 661,594 944,625 1037,581 1292,620 1439,573 1437,515 1374,549 452,538 239,593 80,565"/>
+                <Baseline points="91,621 161,618 231,615 302,611 372,609 443,605 513,603 584,600 654,597 725,595 795,593 866,590 936,588 1007,586 1077,584 1148,582 1218,581 1289,579 1359,577 1430,576"/>
+                <TextEquiv>
+                    <Unicode>magnificent algae I had long hoped to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="101,707 862,690 962,649 1340,680 1337,596 1180,623 1114,582 462,656 341,619 99,642"/>
+                <Baseline points="110,691 171,689 232,687 293,685 354,683 415,681 476,678 537,676 598,673 659,671 720,669 781,666 842,663 903,661 964,659 1025,656 1086,654 1147,652 1208,649 1269,647 1330,645"/>
+                <TextEquiv>
+                    <Unicode>see "in the parenchyma". -- The sandy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="80,771 900,761 1038,715 1222,767 1370,744 1368,693 1121,649 434,722 384,688 289,722 78,696"/>
+                <Baseline points="88,757 151,757 215,756 278,755 342,754 406,752 469,750 533,748 597,745 660,743 724,740 788,737 851,734 915,732 979,729 1042,726 1106,724 1170,722 1233,720 1297,718 1361,717"/>
+                <TextEquiv>
+                    <Unicode>sea banks were clothed with Fragrans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="341,800 376,802 389,811 420,793 432,804 458,790 477,797 495,789 512,807 523,807 540,795 556,797 557,769 506,756 485,768 462,752 436,763 391,745 368,767 341,770"/>
+                <Baseline points="349,792 377,789 405,788 433,788 462,789 490,791 518,793 547,793"/>
+                <TextEquiv>
+                    <Unicode>Bahia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="91,850 793,862 985,799 1352,825 1437,801 1436,763 1046,769 965,723 860,774 89,788"/>
+                <Baseline points="98,831 164,830 231,829 297,827 364,825 430,822 497,819 563,816 630,813 696,810 763,807 829,804 896,801 962,798 1029,796 1095,794 1162,793 1228,793 1295,793 1361,794 1428,795"/>
+                <TextEquiv>
+                    <Unicode>Chilensis, a Baccharis, Tanacetum &amp; a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="94,926 656,952 1114,899 1398,948 1397,850 1321,832 93,849"/>
+                <Baseline points="103,909 167,908 231,907 295,906 360,905 424,903 488,902 553,900 617,899 681,897 746,896 810,895 874,894 938,893 1003,892 1067,891 1131,891 1196,890 1260,890 1324,891 1389,891"/>
+                <TextEquiv>
+                    <Unicode>Tree Lupin (ie bush Lupin) with yellow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="91,1031 712,1023 898,975 1156,1017 1388,949 1303,908 745,964 568,919 462,965 89,945"/>
+                <Baseline points="99,990 163,991 227,992 291,992 355,992 419,991 483,990 547,989 611,988 675,986 739,985 803,982 867,981 931,979 995,977 1059,975 1123,973 1187,971 1251,970 1315,969 1379,968"/>
+                <TextEquiv>
+                    <Unicode>flowers &amp; a Franseria, &amp; in rocky places</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="75,1113 263,1130 484,1082 711,1120 787,1081 885,1123 1132,1045 1374,1052 1371,978 1229,980 1170,1026 902,975 434,1020 385,1059 148,1010 73,1050"/>
+                <Baseline points="83,1085 147,1085 211,1085 275,1084 339,1082 403,1080 467,1078 531,1075 595,1072 659,1069 724,1066 788,1063 852,1060 916,1057 980,1054 1044,1052 1108,1050 1172,1048 1236,1047 1300,1046 1365,1046"/>
+                <TextEquiv>
+                    <Unicode>the enormous roots of Megarhiza with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="76,1202 439,1207 556,1152 639,1181 754,1147 816,1199 882,1156 1374,1156 1372,1087 1198,1055 1086,1128 817,1094 74,1122"/>
+                <Baseline points="85,1179 149,1176 213,1174 277,1171 341,1169 405,1166 469,1165 533,1163 597,1161 661,1159 725,1158 789,1157 853,1155 917,1154 981,1153 1045,1152 1109,1150 1173,1149 1237,1147 1301,1146 1365,1144"/>
+                <TextEquiv>
+                    <Unicode>great prostrate woody branches (foliage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="68,1279 476,1297 581,1244 915,1269 1074,1221 1202,1282 1262,1232 1416,1237 1415,1195 1095,1156 846,1210 753,1147 639,1207 565,1176 341,1226 65,1213"/>
+                <Baseline points="76,1264 142,1262 209,1261 275,1259 342,1256 408,1254 475,1251 541,1248 608,1245 674,1242 741,1238 808,1235 874,1233 941,1231 1007,1228 1074,1226 1140,1225 1207,1224 1273,1224 1340,1225 1407,1226"/>
+                <TextEquiv>
+                    <Unicode>all burnt up). I have a great lot of cones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="69,1379 534,1381 663,1331 986,1317 1256,1366 1332,1328 1329,1249 1194,1281 1076,1222 1014,1260 807,1255 750,1303 67,1302"/>
+                <Baseline points="78,1356 140,1354 202,1351 264,1349 326,1346 389,1343 451,1340 513,1337 575,1334 637,1331 700,1328 762,1326 824,1323 886,1321 948,1319 1011,1318 1073,1316 1135,1315 1197,1314 1259,1314 1322,1314"/>
+                <TextEquiv>
+                    <Unicode>&amp;c &amp; am enquiring for Mr Lister Young's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="83,1468 800,1469 958,1405 1168,1438 1356,1408 1353,1317 1256,1366 1199,1328 1083,1369 929,1326 782,1372 713,1346 564,1401 80,1375"/>
+                <Baseline points="90,1432 152,1432 215,1431 278,1430 341,1428 404,1426 467,1424 529,1421 592,1418 655,1415 718,1411 781,1408 844,1406 907,1403 969,1400 1032,1398 1095,1396 1158,1395 1221,1394 1284,1394 1347,1394"/>
+                <TextEquiv>
+                    <Unicode>agents to send them home by one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="802,1536 886,1510 1016,1511 1130,1546 1187,1499 1278,1529 1329,1497 1454,1503 1451,1447 1387,1451 1333,1415 1171,1441 1119,1404 995,1432 945,1476 881,1470 852,1443 799,1464"/>
+                <Baseline points="809,1513 840,1512 872,1511 904,1509 936,1508 967,1506 999,1505 1031,1503 1063,1502 1094,1500 1126,1499 1158,1498 1190,1496 1221,1495 1253,1494 1285,1493 1317,1492 1348,1491 1380,1491 1412,1490 1444,1490"/>
+                <TextEquiv>
+                    <Unicode>(who thank for this letter)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="87,1581 124,1584 195,1525 246,1526 276,1544 356,1518 459,1525 484,1550 521,1540 520,1462 479,1453 406,1491 378,1465 357,1481 303,1454 263,1481 203,1469 172,1484 121,1460 86,1474"/>
+                <Baseline points="96,1520 122,1521 148,1522 174,1523 200,1523 226,1524 252,1523 278,1523 304,1523 330,1522 356,1521 382,1520 408,1519 434,1519 460,1518 486,1517 512,1517"/>
+                <TextEquiv>
+                    <Unicode>of his ships.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="140,1628 549,1644 605,1599 807,1644 1048,1583 1436,1579 1432,1486 1221,1505 1141,1556 715,1511 554,1561 301,1533 138,1572"/>
+                <Baseline points="149,1615 212,1614 276,1613 340,1612 404,1610 468,1609 532,1608 596,1605 660,1604 724,1601 788,1599 851,1596 915,1593 979,1589 1043,1585 1107,1580 1171,1575 1235,1570 1299,1564 1363,1558 1427,1551"/>
+                <TextEquiv>
+                    <Unicode>I hope to write from this to Willy &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="69,1719 720,1723 1128,1657 1486,1723 1482,1605 1338,1584 1109,1645 952,1613 810,1656 603,1598 550,1642 150,1627 68,1677"/>
+                <Baseline points="77,1705 150,1704 224,1702 297,1700 371,1697 445,1694 518,1692 592,1688 666,1685 739,1681 813,1678 886,1675 960,1673 1034,1671 1107,1670 1181,1669 1255,1669 1328,1671 1402,1673 1476,1676"/>
+                <TextEquiv>
+                    <Unicode>Mr Smith -- With much love to Harriet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="103,1806 327,1766 497,1817 653,1756 945,1760 1015,1799 1078,1756 1393,1756 1426,1720 1025,1672 568,1745 443,1706 101,1736"/>
+                <Baseline points="111,1780 176,1779 241,1777 306,1775 372,1773 437,1771 502,1768 568,1766 633,1764 698,1761 764,1759 829,1757 894,1755 959,1753 1025,1751 1090,1750 1155,1749 1221,1748 1286,1747 1351,1747 1417,1747"/>
+                <TextEquiv>
+                    <Unicode>&amp; Charlie &amp; many congratulations on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="172,1838 189,1831 212,1836 227,1830 250,1845 261,1837 271,1844 290,1828 306,1830 321,1821 317,1778 305,1776 290,1782 271,1771 240,1779 229,1772 216,1785 167,1782"/>
+                <Baseline points="179,1823 205,1824 231,1822 258,1819 284,1816 311,1813"/>
+                <TextEquiv>
+                    <Unicode>latter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="100,1874 400,1907 718,1869 851,1912 1004,1850 1412,1841 1409,1754 1122,1771 1068,1813 892,1756 622,1827 98,1819"/>
+                <Baseline points="108,1867 172,1868 237,1868 302,1868 367,1867 431,1866 496,1864 561,1862 626,1860 690,1857 755,1854 820,1851 885,1848 949,1845 1014,1842 1079,1839 1144,1836 1208,1834 1273,1832 1338,1831 1403,1829"/>
+                <TextEquiv>
+                    <Unicode>the having passed the college -- I wish he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="82,1985 463,1942 599,1992 626,1963 674,1972 717,1945 775,1964 862,1935 813,1891 742,1909 620,1867 571,1893 522,1875 311,1915 224,1870 167,1905 132,1876 79,1880"/>
+                <Baseline points="90,1954 128,1953 166,1952 204,1950 242,1949 280,1948 318,1947 356,1946 394,1945 432,1944 471,1943 509,1941 547,1940 585,1939 623,1938 661,1937 699,1936 737,1935 775,1933 813,1932 852,1931"/>
+                <TextEquiv>
+                    <Unicode>had written to me. --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="426,2034 683,2066 735,2017 848,2026 907,1992 950,2013 1013,2002 1004,1864 908,1889 870,1932 823,1931 786,1967 708,1950 598,1992 516,1992 463,1953 423,1983"/>
+                <Baseline points="433,2019 461,2021 490,2022 518,2023 547,2023 575,2022 604,2022 632,2020 661,2019 689,2017 718,2014 746,2013 775,2010 803,2007 832,2005 860,2002 889,1999 917,1997 946,1995 974,1993 1003,1991"/>
+                <TextEquiv>
+                    <Unicode>Ever affecty ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="896,2185 933,2163 1022,2186 1157,2160 1331,2166 1372,2139 1363,1996 1278,2008 1228,2049 1202,2033 1164,2048 984,2018 889,2070"/>
+                <Baseline points="903,2150 928,2149 954,2149 979,2147 1005,2145 1030,2143 1056,2140 1081,2138 1107,2136 1132,2133 1158,2131 1183,2129 1209,2127 1234,2126 1260,2126 1285,2126 1311,2127 1336,2129 1362,2131"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&amp; pick up macrocystis on it's shores, a
+plant I had not seen for 35 years &amp; which
+brought back a host of memories of perils
+by sea shores with messmates long since
+gathered to their fathers. Also I found
+to day for the first time Nereocystis, a
+magnificent algae I had long hoped to
+see "in the parenchyma". -- The sandy
+sea banks were clothed with Fragrans
+Bahia,
+Chilensis, a Baccharis, Tanacetum &amp; a
+Tree Lupin (ie bush Lupin) with yellow
+flowers &amp; a Franseria, &amp; in rocky places
+the enormous roots of Megarhiza with
+great prostrate woody branches (foliage
+all burnt up). I have a great lot of cones
+&amp;c &amp; am enquiring for Mr Lister Young's
+agents to send them home by one
+(who thank for this letter)
+of his ships.
+I hope to write from this to Willy &amp;
+Mr Smith -- With much love to Harriet,
+&amp; Charlie &amp; many congratulations on
+latter
+the having passed the college -- I wish he
+had written to me. --
+Ever affectyys
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

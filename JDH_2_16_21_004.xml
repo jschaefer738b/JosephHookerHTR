@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:01:22.357-04:00</Created>
+        <LastChange>2023-05-16T17:31:59.868+02:00</LastChange>
+        <TranskribusMetadata docId="423570" pageId="16857578" pageNr="1" tsid="121936190" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=BQXXQECKEIYHNHRVSAQKCAZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKLDRYRSTASOVHYQKABSBXMP" imageId="12609139"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_21_004.jpg" imageWidth="1173" imageHeight="1423">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330901125" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="123,73 123,1371 1047,1371 1047,73"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="627,135 695,117 729,128 757,115 810,123 863,116 863,75 837,77 826,65 782,51 718,81 676,45 626,59"/>
+                <Baseline points="632,114 657,113 682,113 707,113 732,113 757,113 782,113 807,112 832,111 857,109"/>
+                <TextEquiv>
+                    <Unicode>fact or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="127,246 316,188 682,253 835,178 864,204 1048,202 1046,144 968,113 878,118 796,169 662,140 600,163 451,117 351,176 253,175 182,135 125,150"/>
+                <Baseline points="132,212 177,209 223,206 268,203 314,200 359,199 405,197 450,196 496,194 541,193 587,193 632,192 678,192 723,191 769,191 814,191 860,190 905,190 951,189 996,188 1042,187"/>
+                <TextEquiv>
+                    <Unicode>years that any fiction</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="117,349 193,325 346,351 397,323 470,375 556,323 1021,332 1052,322 1051,256 918,233 781,286 532,259 401,296 278,247 188,304 116,282"/>
+                <Baseline points="123,340 169,336 215,333 261,331 307,329 353,327 399,325 446,324 492,323 538,323 584,322 630,322 676,321 722,321 769,320 815,320 861,319 907,318 953,317 999,316 1046,314"/>
+                <TextEquiv>
+                    <Unicode>is tame after it. I think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="142,453 646,423 712,481 801,424 998,411 997,359 895,384 813,345 679,403 565,354 427,403 282,409 198,360 140,386"/>
+                <Baseline points="148,441 190,438 232,435 274,434 316,432 359,430 401,429 443,429 485,428 527,427 570,427 612,426 654,425 696,424 738,423 781,421 823,419 865,416 907,412 949,408 992,403"/>
+                <TextEquiv>
+                    <Unicode>however that "Janet's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="138,561 742,530 896,548 912,507 809,470 741,503 670,464 592,518 413,471 328,502 204,476 137,516"/>
+                <Baseline points="143,541 181,541 219,540 257,539 295,538 333,537 371,536 410,534 448,533 486,532 524,530 562,529 600,528 638,527 677,527 715,527 753,527 791,527 829,528 867,529 906,530"/>
+                <TextEquiv>
+                    <Unicode>Repentance" which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="149,675 401,642 501,680 582,640 712,635 813,680 867,645 958,641 957,614 796,604 696,550 622,595 465,608 401,571 304,604 212,569 147,613"/>
+                <Baseline points="154,645 193,644 233,644 273,643 313,642 353,641 393,640 433,639 473,638 513,637 553,636 592,635 632,634 672,634 712,633 752,632 792,632 832,631 872,631 912,631 952,631"/>
+                <TextEquiv>
+                    <Unicode>finished yesterday is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="157,807 421,757 582,751 679,790 888,745 952,760 999,743 998,701 885,707 817,676 699,708 625,666 468,746 373,693 294,732 229,683 154,690"/>
+                <Baseline points="162,769 203,768 245,766 286,765 328,764 369,762 411,761 452,759 494,758 535,757 577,756 619,754 660,754 702,753 743,752 785,751 826,750 868,749 909,749 951,749 993,748"/>
+                <TextEquiv>
+                    <Unicode>far from perfect -- in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="380,816 422,837 486,818 574,836 606,811 639,822 670,808 669,777 633,762 605,769 566,751 504,788 475,777 435,795 408,782 380,803"/>
+                <Baseline points="386,812 411,813 436,814 461,815 487,815 512,815 537,814 562,813 588,811 613,809 638,806 664,803"/>
+                <TextEquiv>
+                    <Unicode>as a whole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="152,900 316,870 495,911 576,881 794,898 923,846 1011,847 1009,789 820,784 729,845 670,808 474,850 283,809 149,816"/>
+                <Baseline points="157,865 199,868 241,870 284,872 326,873 369,874 411,874 453,874 496,873 538,872 581,870 623,869 665,867 708,865 750,862 793,860 835,857 877,854 920,851 962,848 1005,845"/>
+                <TextEquiv>
+                    <Unicode>plot or quite true to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="162,976 543,955 729,984 896,948 988,989 1054,975 1052,894 636,883 554,942 160,920"/>
+                <Baseline points="167,960 211,960 255,961 299,961 343,960 387,960 431,960 475,959 519,959 563,958 607,957 651,956 695,954 739,953 783,951 827,949 871,947 915,944 959,942 1003,939 1047,937"/>
+                <TextEquiv>
+                    <Unicode>nature - though itself</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="144,1099 266,1057 458,1108 594,1076 764,1102 891,1046 1039,1045 1037,986 877,960 790,1020 530,989 461,1027 321,993 268,1029 142,1030"/>
+                <Baseline points="149,1064 193,1063 237,1061 281,1060 325,1058 370,1056 414,1054 458,1053 502,1051 546,1050 591,1048 635,1047 679,1046 723,1044 767,1043 812,1043 856,1042 900,1041 944,1041 988,1041 1033,1041"/>
+                <TextEquiv>
+                    <Unicode>quite as flush of truths</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="174,1178 451,1160 539,1215 685,1166 832,1163 941,1208 951,1104 774,1124 714,1087 608,1121 575,1106 529,1140 469,1103 173,1110"/>
+                <Baseline points="179,1173 217,1169 255,1164 293,1163 332,1160 370,1159 408,1158 447,1157 485,1157 523,1157 562,1158 600,1158 638,1159 676,1159 715,1160 753,1160 791,1161 830,1160 868,1160 906,1159 945,1158"/>
+                <TextEquiv>
+                    <Unicode>to nature of the most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="162,1277 263,1306 322,1268 361,1294 519,1239 639,1298 686,1258 756,1253 867,1303 922,1292 921,1205 870,1214 842,1190 788,1233 702,1190 629,1226 575,1197 462,1223 367,1189 161,1233"/>
+                <Baseline points="167,1269 204,1264 241,1261 279,1258 316,1256 354,1254 391,1254 428,1253 466,1253 503,1253 541,1253 578,1253 615,1253 653,1253 690,1253 728,1253 765,1252 802,1251 840,1249 877,1247 915,1244"/>
+                <TextEquiv>
+                    <Unicode>delightful &amp; refreshing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="165,1364 261,1358 347,1376 363,1361 414,1372 444,1355 540,1367 540,1314 509,1306 492,1313 445,1297 408,1311 377,1299 336,1320 315,1302 279,1317 248,1298 233,1311 166,1312"/>
+                <Baseline points="171,1349 196,1349 222,1349 248,1349 274,1349 300,1349 326,1349 352,1349 378,1349 404,1349 430,1350 456,1350 482,1351 508,1352 534,1353"/>
+                <TextEquiv>
+                    <Unicode>description.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fact or&#13;
+years that any fiction&#13;
+is tame after it. I think&#13;
+however that "Janet's&#13;
+Repentance" which&#13;
+finished yesterday is&#13;
+far from perfect -- in&#13;
+as a whole&#13;
+plot or quite true to&#13;
+nature - though itself&#13;
+quite as flush of truths&#13;
+to nature of the most&#13;
+delightful &amp; refreshing&#13;
+description.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

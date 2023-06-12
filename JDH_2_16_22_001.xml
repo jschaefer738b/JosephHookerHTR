@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:02:38.368-04:00</Created>
+        <LastChange>2023-05-16T17:33:34.471+02:00</LastChange>
+        <TranskribusMetadata docId="423571" pageId="16857579" pageNr="1" tsid="121936384" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=VMDDLIPHSVXBDWJDKPXMLBOW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BUWIVCPJREHFSSDZSIBNQMSQ" imageId="12609140"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_22_001.jpg" imageWidth="1181" imageHeight="1824">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330900724" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="151,108 151,1629 1053,1629 1053,108"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="312,266 664,245 780,327 847,326 844,173 753,175 707,213 596,136 513,210 405,148 310,181"/>
+                <Baseline points="317,258 343,257 369,256 395,254 421,254 448,252 474,250 500,249 526,248 552,247 579,246 605,245 631,244 657,244 683,244 710,244 736,245 762,246 788,247 814,249 841,252"/>
+                <TextEquiv>
+                    <Unicode>Kew Nov 28/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="853,263 888,272 907,268 937,297 968,287 980,290 990,202 934,211 919,197 907,198 886,202 865,219 859,218"/>
+                <Baseline points="859,262 888,267 917,273 946,276 976,274"/>
+                <TextEquiv>
+                    <Unicode>74</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="147,562 211,589 273,544 419,524 523,562 580,521 669,511 667,470 627,469 549,420 444,502 253,427 197,468 143,465"/>
+                <Baseline points="151,535 176,534 202,533 227,532 253,531 279,530 304,528 330,526 356,525 381,524 407,522 433,521 458,520 484,519 510,518 535,517 561,516 587,516 612,515 638,515 664,516"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="344,653 473,634 511,659 544,632 694,620 780,630 838,667 887,647 881,530 801,581 725,578 646,607 595,607 554,574 517,585 485,558 447,574 415,548 340,580"/>
+                <Baseline points="349,640 375,638 402,635 428,633 455,631 481,629 508,628 534,627 561,625 587,624 614,623 641,622 667,621 694,620 720,619 747,617 773,616 800,614 826,612 853,611 880,608"/>
+                <TextEquiv>
+                    <Unicode>Will you kindly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="177,782 249,749 614,733 687,750 798,726 795,648 764,644 627,697 571,670 525,695 436,685 353,711 260,666 175,700"/>
+                <Baseline points="181,748 211,747 242,746 272,744 303,743 334,742 364,741 395,740 425,739 456,738 487,737 517,736 548,735 578,734 609,733 640,732 670,731 701,730 731,730 762,729 793,728"/>
+                <TextEquiv>
+                    <Unicode>glance at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="182,877 972,846 968,774 913,765 861,806 741,782 454,827 367,787 293,829 228,794 179,813"/>
+                <Baseline points="187,864 228,864 269,864 310,863 351,862 392,860 433,858 474,855 515,852 556,850 597,847 638,845 679,842 720,840 761,838 802,835 843,834 884,833 925,832 966,832"/>
+                <TextEquiv>
+                    <Unicode>enclosed dedication</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="186,996 720,968 871,1019 948,1007 946,916 819,941 736,900 614,889 509,960 353,908 185,920"/>
+                <Baseline points="191,977 228,977 266,978 303,978 341,977 378,977 416,976 453,976 491,974 528,974 566,972 604,971 641,970 679,969 716,968 754,967 791,966 829,966 866,965 904,965 942,964"/>
+                <TextEquiv>
+                    <Unicode>&amp; let me know if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="183,1144 236,1159 319,1103 414,1154 495,1102 799,1081 858,1099 912,1073 911,1006 780,1062 487,1052 381,1006 300,1043 245,1029 181,1053"/>
+                <Baseline points="187,1092 223,1092 259,1091 295,1091 331,1091 367,1091 403,1091 439,1091 475,1090 511,1090 547,1090 583,1089 619,1088 655,1088 691,1087 727,1086 763,1085 799,1083 835,1081 871,1079 907,1077"/>
+                <TextEquiv>
+                    <Unicode>any thing occurs to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="176,1254 959,1219 956,1157 908,1137 823,1186 733,1160 595,1192 481,1162 382,1210 281,1205 222,1166 173,1188"/>
+                <Baseline points="180,1239 218,1238 257,1236 295,1235 334,1233 373,1231 411,1229 450,1228 489,1226 527,1224 566,1223 605,1221 643,1219 682,1217 721,1216 759,1214 798,1212 837,1210 875,1209 914,1208 953,1206"/>
+                <TextEquiv>
+                    <Unicode>in style or matter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="179,1365 389,1339 666,1361 750,1331 931,1338 929,1276 875,1264 807,1309 679,1276 613,1310 476,1279 408,1319 277,1273 177,1290"/>
+                <Baseline points="184,1355 221,1353 258,1351 295,1350 332,1348 369,1347 406,1346 443,1344 480,1343 517,1342 555,1341 592,1340 629,1339 666,1337 703,1336 740,1334 777,1332 814,1331 851,1329 888,1327 926,1325"/>
+                <TextEquiv>
+                    <Unicode>that should be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="182,1459 266,1462 295,1481 335,1461 442,1462 459,1450 524,1456 546,1445 570,1458 586,1455 586,1416 513,1391 412,1421 360,1389 288,1424 223,1401 181,1429"/>
+                <Baseline points="187,1455 213,1455 239,1453 265,1453 292,1452 318,1451 344,1451 370,1450 397,1450 423,1449 449,1449 475,1449 502,1448 528,1448 554,1447 581,1446"/>
+                <TextEquiv>
+                    <Unicode>improved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="209,1587 682,1610 727,1654 841,1596 1027,1611 1028,1529 999,1522 857,1545 789,1508 658,1506 540,1544 473,1530 406,1568 289,1497 210,1530"/>
+                <Baseline points="214,1575 254,1577 294,1580 335,1581 375,1582 416,1582 456,1582 496,1582 537,1582 577,1581 618,1581 658,1581 698,1581 739,1581 779,1583 820,1584 860,1586 900,1590 941,1594 981,1599 1022,1606"/>
+                <TextEquiv>
+                    <Unicode>I am not feeling well</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kew Nov 28/&#13;
+74&#13;
+My dear Dyer&#13;
+Will you kindly&#13;
+glance at the&#13;
+enclosed dedication&#13;
+&amp; let me know if&#13;
+any thing occurs to&#13;
+in style or matter&#13;
+that should be&#13;
+improved&#13;
+I am not feeling well</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:53:27.879-04:00</Created>
+        <LastChange>2023-05-16T17:57:27.318+02:00</LastChange>
+        <TranskribusMetadata docId="423583" pageId="16858810" pageNr="5" tsid="121937619" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=KRSDJXQGYWOJMSJCOSGPHIBH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXWOYUHJZBXURILWXRUFUCGB" imageId="12610322"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_32_005.jpg" imageWidth="1365" imageHeight="2229">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330895168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="92,22 92,2174 1341,2174 1341,22"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="397,77 831,72 960,118 1048,92 1049,32 969,25 935,50 909,30 686,39 622,18 397,32"/>
+                <Baseline points="405,64 436,66 468,67 500,68 532,69 563,69 595,69 627,69 659,69 690,68 722,68 754,68 786,68 817,68 849,69 881,70 913,71 944,73 976,76 1008,78 1040,82"/>
+                <TextEquiv>
+                    <Unicode>i.e. with several duckings!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1024,145 1044,149 1078,132 1138,151 1176,144 1193,152 1237,139 1275,147 1277,92 1201,110 1155,67 1135,74 1080,54 1027,83"/>
+                <Baseline points="1032,132 1058,131 1084,130 1110,131 1136,132 1163,135 1189,136 1215,138 1241,139 1268,139"/>
+                <TextEquiv>
+                    <Unicode>I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="153,229 255,168 370,143 685,152 858,127 857,102 669,85 622,117 535,82 444,108 249,83 151,100"/>
+                <Baseline points="159,153 193,151 228,148 262,146 297,143 331,142 366,141 400,139 435,139 469,138 504,138 539,137 573,137 608,137 642,137 677,137 711,137 746,137 780,137 815,136 850,136"/>
+                <TextEquiv>
+                    <Unicode>of wind &amp; rain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="853,269 1082,260 1117,276 1223,257 1295,269 1294,226 1255,236 1145,188 1113,204 984,194 945,216 852,222"/>
+                <Baseline points="861,265 886,263 911,260 936,258 961,257 986,256 1011,255 1036,254 1061,253 1086,253 1111,253 1136,254 1161,254 1186,255 1211,257 1236,258 1261,259 1287,261"/>
+                <TextEquiv>
+                    <Unicode>interested in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="111,280 293,273 340,292 455,262 513,281 512,203 398,232 340,213 260,245 204,217 110,248"/>
+                <Baseline points="118,266 143,266 169,266 195,266 221,266 247,265 272,265 298,264 324,264 350,263 376,262 401,262 427,261 453,260 479,259 505,258"/>
+                <TextEquiv>
+                    <Unicode>been much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="827,392 854,393 910,424 959,391 1003,393 1058,362 1171,368 1172,304 1099,297 1047,313 1024,304 969,329 947,315 924,322 880,290 828,313"/>
+                <Baseline points="835,352 860,351 885,350 910,350 936,350 961,350 986,351 1012,351 1037,352 1062,353 1088,353 1113,354 1138,354 1164,354"/>
+                <TextEquiv>
+                    <Unicode>my old</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="148,392 245,385 319,422 368,431 420,389 438,390 435,322 378,319 355,337 323,312 296,329 248,321 221,332 184,312 145,312"/>
+                <Baseline points="154,372 179,373 204,373 229,372 254,371 279,369 304,368 329,367 354,366 379,365 404,364 430,364"/>
+                <TextEquiv>
+                    <Unicode>visiting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="164,493 1261,490 1261,452 1063,431 995,466 811,428 667,453 600,418 515,443 442,411 353,452 237,411 164,429"/>
+                <Baseline points="172,482 226,481 280,481 334,481 388,481 442,481 496,482 550,483 604,483 658,484 712,485 766,485 820,486 874,486 928,486 982,486 1036,485 1090,484 1144,483 1198,481 1253,479"/>
+                <TextEquiv>
+                    <Unicode>haunts some of which are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="119,596 347,597 421,643 634,580 1118,580 1194,632 1348,602 1347,550 1291,538 895,553 812,482 546,571 314,529 119,560"/>
+                <Baseline points="127,595 187,596 248,597 309,596 369,596 430,594 491,592 551,590 612,588 673,586 734,583 794,581 855,580 916,578 976,577 1037,577 1098,578 1158,579 1219,582 1280,585 1341,590"/>
+                <TextEquiv>
+                    <Unicode>unchanged &amp; others unrecogni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="85,729 321,727 378,686 436,719 564,684 1276,675 1247,619 739,652 638,610 385,671 216,642 83,678"/>
+                <Baseline points="92,710 150,709 209,707 268,705 327,703 386,700 444,698 503,695 562,692 621,689 680,687 738,685 797,682 856,679 915,677 974,675 1032,674 1091,673 1150,672 1209,672 1268,672"/>
+                <TextEquiv>
+                    <Unicode>=sable. We have not met</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="125,807 331,837 415,798 480,844 779,787 914,826 1066,770 1311,785 1309,705 1072,681 990,724 675,718 592,766 530,721 443,768 396,733 229,778 124,759"/>
+                <Baseline points="133,802 191,801 250,800 308,798 367,797 425,795 484,794 542,792 601,790 659,787 718,785 776,783 835,781 893,779 952,777 1010,775 1069,773 1127,771 1186,769 1244,768 1303,767"/>
+                <TextEquiv>
+                    <Unicode>a single fr tourist friend till</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="1011,830 1025,830 1038,822 1078,830 1099,823 1121,826 1138,814 1152,820 1161,813 1173,814 1172,790 1158,786 1138,796 1121,786 1091,799 1064,796 1042,781 1008,781"/>
+                <Baseline points="1018,824 1047,821 1076,819 1106,817 1135,816 1165,815"/>
+                <TextEquiv>
+                    <Unicode>one of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="129,939 308,966 604,900 932,949 1091,884 1321,897 1320,845 1155,817 1081,860 977,813 914,853 772,828 699,875 477,849 373,890 193,820 127,850"/>
+                <Baseline points="137,915 195,913 254,911 313,910 372,908 431,906 489,905 548,903 607,901 666,899 725,898 783,896 842,894 901,893 960,892 1019,890 1077,889 1136,888 1195,887 1254,886 1313,885"/>
+                <TextEquiv>
+                    <Unicode>today when 2 Miss Coles Whom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="123,1038 670,1039 723,1003 850,1059 952,1001 1293,1014 1292,970 1047,923 969,966 589,941 407,1003 240,945 123,1004"/>
+                <Baseline points="131,1026 188,1024 246,1023 304,1021 361,1019 419,1018 477,1016 534,1014 592,1012 650,1010 708,1009 765,1007 823,1006 881,1004 938,1003 996,1002 1054,1001 1111,1000 1169,1000 1227,999 1285,999"/>
+                <TextEquiv>
+                    <Unicode>I had met at Miss Sullivan's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="132,1146 1075,1129 1143,1109 1142,1059 1078,1036 546,1103 495,1060 441,1094 266,1092 185,1051 130,1073"/>
+                <Baseline points="139,1129 188,1129 238,1128 288,1128 338,1128 388,1127 437,1127 487,1126 537,1126 587,1125 637,1124 686,1123 736,1122 786,1121 836,1119 886,1118 935,1116 985,1115 1035,1113 1085,1111 1135,1108"/>
+                <TextEquiv>
+                    <Unicode>turned up on board the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="140,1241 341,1272 617,1233 664,1263 1033,1230 1057,1199 728,1151 539,1204 417,1154 261,1192 206,1150 139,1180"/>
+                <Baseline points="147,1231 192,1231 237,1232 282,1232 327,1233 372,1233 417,1234 463,1234 508,1234 553,1234 598,1234 643,1233 688,1233 733,1232 779,1231 824,1229 869,1227 914,1225 959,1223 1004,1220 1050,1216"/>
+                <TextEquiv>
+                    <Unicode>Loch Lomond Steamer --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="131,1358 1189,1346 1201,1273 1118,1311 1008,1276 935,1319 864,1288 705,1326 478,1273 350,1271 284,1316 130,1287"/>
+                <Baseline points="139,1348 191,1346 244,1345 297,1344 349,1344 402,1344 455,1344 507,1345 560,1345 613,1346 666,1346 718,1346 771,1346 824,1346 876,1345 929,1344 982,1342 1034,1340 1087,1336 1140,1333 1193,1328"/>
+                <TextEquiv>
+                    <Unicode>Mrs Hooker is an excellent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="130,1463 1279,1452 1295,1379 1217,1362 1170,1399 1112,1358 979,1410 719,1382 651,1422 569,1384 461,1425 350,1377 285,1417 130,1393"/>
+                <Baseline points="138,1447 195,1446 252,1446 310,1445 367,1445 425,1444 482,1444 540,1444 597,1443 655,1443 712,1443 769,1442 827,1442 884,1442 942,1441 999,1440 1057,1439 1114,1438 1172,1437 1229,1436 1287,1434"/>
+                <TextEquiv>
+                    <Unicode>traveler, climbs &amp; walks like</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="107,1568 727,1574 771,1539 1096,1579 1165,1533 1317,1539 1315,1468 865,1520 648,1478 343,1532 238,1501 106,1544"/>
+                <Baseline points="114,1565 173,1562 233,1559 293,1556 353,1554 412,1552 472,1550 532,1548 592,1547 651,1545 711,1544 771,1542 831,1541 890,1539 950,1538 1010,1536 1070,1534 1129,1531 1189,1529 1249,1525 1309,1522"/>
+                <TextEquiv>
+                    <Unicode>a mountaineer, &amp; is indifferent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684252608447_414" custom="readingOrder {index:19;}">
+                <Coords points="169,1583 278,1630 396,1612 518,1628 605,1578 671,1615 682,1611 682,1644 115,1696 109,1605"/>
+                <Baseline points="122,1676 155,1674 188,1672 221,1669 254,1667 287,1665 320,1662 354,1660 387,1658 420,1656 453,1654 486,1652 519,1649 552,1647 586,1645 619,1643 652,1641 682,1639"/>
+                <TextEquiv>
+                    <Unicode>to bad weather.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="146,1802 368,1794 470,1862 588,1803 793,1852 965,1795 1165,1812 1262,1791 1262,1755 1005,1766 943,1723 656,1774 449,1734 339,1772 239,1701 145,1714"/>
+                <Baseline points="153,1796 208,1796 263,1797 318,1798 373,1798 428,1798 483,1798 538,1798 593,1798 648,1798 704,1798 759,1797 814,1796 869,1796 924,1795 979,1794 1034,1793 1089,1792 1144,1791 1199,1790 1255,1789"/>
+                <TextEquiv>
+                    <Unicode>Please say everything from me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="103,1927 628,1911 627,1860 577,1854 538,1879 439,1837 348,1878 287,1844 252,1870 208,1863 170,1831 102,1858"/>
+                <Baseline points="111,1921 136,1918 161,1916 187,1914 212,1912 238,1911 263,1910 289,1910 314,1909 340,1909 365,1909 390,1909 416,1909 441,1909 467,1909 492,1909 518,1909 543,1909 569,1909 594,1908 620,1908"/>
+                <TextEquiv>
+                    <Unicode>to Mr Smith</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="324,2017 448,2026 582,1998 997,2020 997,1976 898,1956 752,1979 602,1952 485,1973 431,1930 324,1933"/>
+                <Baseline points="332,2005 364,2004 397,2003 430,2002 463,2002 496,2001 529,2001 561,2000 594,2000 627,2000 660,2000 693,2000 726,2000 759,2001 791,2001 824,2002 857,2003 890,2004 923,2005 956,2006 989,2008"/>
+                <TextEquiv>
+                    <Unicode>&amp; believe me ever</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="385,2103 412,2112 475,2098 513,2115 573,2175 635,2171 707,2132 751,2133 751,2042 716,2044 694,2022 604,2076 549,2072 448,2033 385,2052"/>
+                <Baseline points="392,2096 417,2095 442,2095 467,2095 492,2095 517,2095 542,2095 567,2096 592,2096 617,2097 642,2097 667,2097 692,2097 717,2096 743,2095"/>
+                <TextEquiv>
+                    <Unicode>sincerely yours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="842,2171 1011,2154 1054,2165 1119,2143 1250,2181 1244,2060 1190,2055 1147,2074 1098,2036 1064,2053 1021,2044 998,2062 926,2028 875,2073 837,2073"/>
+                <Baseline points="848,2150 874,2151 900,2152 926,2152 952,2151 978,2151 1004,2149 1030,2148 1057,2146 1083,2144 1109,2142 1135,2140 1161,2139 1187,2138 1213,2137 1240,2137"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>i.e. with several duckings!&#13;
+I have&#13;
+of wind &amp; rain&#13;
+interested in&#13;
+been much&#13;
+my old&#13;
+visiting&#13;
+haunts some of which are&#13;
+unchanged &amp; others unrecogni&#13;
+=sable. We have not met&#13;
+a single fr tourist friend till&#13;
+one of&#13;
+today when 2 Miss Coles Whom&#13;
+I had met at Miss Sullivan's&#13;
+turned up on board the&#13;
+Loch Lomond Steamer --&#13;
+Mrs Hooker is an excellent&#13;
+traveler, climbs &amp; walks like&#13;
+a mountaineer, &amp; is indifferent&#13;
+to bad weather.&#13;
+Please say everything from me&#13;
+to Mr Smith&#13;
+&amp; believe me ever&#13;
+sincerely yours&#13;
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

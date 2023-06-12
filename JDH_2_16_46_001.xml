@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:47:24.675-04:00</Created>
+        <LastChange>2023-05-17T01:33:36.901+02:00</LastChange>
+        <TranskribusMetadata docId="437081" pageId="17691666" pageNr="1" tsid="121949612" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=VAOWJFKEIJEPEQZVVYZKFSYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUNVYLNCMLFKALIJYUNJJQUK" imageId="13355409"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_46_001.jpg" imageWidth="1565" imageHeight="2462">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330852903" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:0;}">
+            <Coords points="143,33 143,2401 1527,2401 1527,33"/>
+            <TextLine id="r5l2" custom="readingOrder {index:0;}">
+                <Coords points="1003,166 1019,165 1079,203 1107,193 1131,203 1198,162 1215,170 1240,165 1244,27 1190,41 1164,19 1131,22 1095,0 1056,-5 1036,8 1008,7"/>
+                <Baseline points="1012,145 1039,143 1067,144 1094,146 1122,148 1149,150 1177,151 1204,150 1232,146"/>
+                <TextEquiv>
+                    <Unicode>oct 78</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:1;}">
+                <Coords points="1015,400 1043,408 1083,401 1173,454 1238,393 1326,388 1326,352 1281,356 1173,272 1159,278 1130,254 1080,254 1014,296"/>
+                <Baseline points="1024,391 1050,385 1077,380 1104,378 1130,377 1157,378 1184,378 1211,380 1237,381 1264,382 1291,381 1318,380"/>
+                <TextEquiv>
+                    <Unicode>Friday </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:2;}">
+                <Coords points="1017,519 1087,503 1138,518 1190,507 1218,520 1252,505 1292,506 1293,471 1250,479 1221,459 1171,458 1150,437 1131,452 1076,437 1050,459 1019,456"/>
+                <Baseline points="1027,501 1052,500 1078,500 1104,500 1129,500 1155,500 1181,501 1206,502 1232,503 1258,505 1284,507"/>
+                <TextEquiv>
+                    <Unicode>11 am.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:3;}">
+                <Coords points="249,690 338,671 416,703 435,684 570,677 712,749 803,734 802,553 631,530 389,561 313,533 248,538"/>
+                <Baseline points="258,690 284,686 311,683 338,681 365,679 392,678 418,677 445,677 472,677 499,677 526,678 552,678 579,679 606,679 633,680 660,680 686,680 713,680 740,679 767,678 794,676"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:4;}">
+                <Coords points="422,858 776,871 1195,824 1282,847 1457,763 1456,730 1159,709 900,756 849,730 783,767 563,732 478,781 419,768"/>
+                <Baseline points="429,829 480,831 531,832 582,832 633,832 684,830 735,828 786,826 837,823 888,821 939,817 990,815 1041,812 1092,809 1143,807 1194,805 1245,805 1296,804 1347,805 1398,806 1449,809"/>
+                <TextEquiv>
+                    <Unicode>Thanks for your letter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:5;}">
+                <Coords points="164,956 685,947 769,1006 1039,934 1364,948 1429,926 1428,884 1346,843 1233,892 1147,830 896,889 693,848 550,851 493,899 428,856 162,877"/>
+                <Baseline points="173,939 235,941 297,943 360,944 422,944 485,944 547,943 609,942 672,940 734,939 797,937 859,935 921,932 984,931 1046,928 1109,926 1171,925 1233,923 1296,922 1358,921 1421,921"/>
+                <TextEquiv>
+                    <Unicode>recieved yesterday.  Jackson has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:6;}">
+                <Coords points="134,1082 1532,1047 1531,974 1380,936 966,956 826,1029 633,962 375,1008 208,953 133,1001"/>
+                <Baseline points="143,1053 212,1053 281,1053 350,1052 419,1052 488,1051 557,1051 626,1050 695,1049 764,1048 833,1047 902,1046 971,1044 1040,1043 1109,1041 1178,1039 1247,1037 1316,1034 1385,1032 1454,1029 1523,1026"/>
+                <TextEquiv>
+                    <Unicode>not yet turned up. Simmonds tells</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:7;}">
+                <Coords points="194,1177 817,1159 1002,1210 1069,1159 1354,1147 1460,1208 1458,1073 1383,1033 1125,1105 1016,1037 925,1085 736,1063 652,1102 572,1055 347,1113 193,1101"/>
+                <Baseline points="203,1159 265,1157 327,1156 390,1154 452,1153 515,1152 577,1151 639,1150 702,1150 764,1149 827,1148 889,1148 951,1148 1014,1147 1076,1147 1139,1146 1201,1145 1263,1144 1326,1143 1388,1142 1451,1140"/>
+                <TextEquiv>
+                    <Unicode>me that he is coming over probably</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:8;}">
+                <Coords points="240,1393 374,1380 463,1434 533,1382 889,1411 961,1367 1157,1406 1209,1359 1387,1349 1526,1381 1535,1303 1347,1334 1282,1292 1237,1336 984,1307 905,1347 750,1265 678,1311 467,1271 408,1329 238,1305"/>
+                <Baseline points="248,1374 315,1378 382,1380 449,1381 517,1381 584,1381 651,1380 719,1378 786,1376 853,1374 921,1372 988,1370 1055,1367 1123,1366 1190,1364 1257,1363 1325,1363 1392,1363 1459,1364 1527,1367"/>
+                <TextEquiv>
+                    <Unicode>Cunliffe Owen about him, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:9;}">
+                <Coords points="185,1260 229,1264 273,1266 318,1268 362,1268 407,1268 451,1268 495,1266 540,1265 584,1264 629,1262 673,1261 717,1260 762,1259 806,1259 851,1260 895,1262 939,1266 984,1270 1028,1275 1073,1282 1169,1271 1195,1267 1221,1264 1247,1260 1273,1257 1300,1255 1326,1253 1352,1253 1378,1253 1404,1256 1431,1259 1433,1244 1406,1241 1379,1238 1352,1238 1325,1238 1299,1240 1272,1242 1245,1245 1219,1249 1193,1252 1167,1256 1073,1267 1030,1260 986,1255 940,1251 896,1247 852,1245 806,1244 762,1244 717,1245 673,1246 628,1247 583,1249 540,1250 494,1251 451,1253 407,1253 362,1253 318,1253 274,1251 230,1249 186,1245"/>
+                <Baseline points="185,1260 229,1264 273,1266 318,1268 362,1268 407,1268 451,1268 495,1266 540,1265 584,1264 629,1262 673,1261 717,1260 762,1259 806,1259 851,1260 895,1262 939,1266 984,1270 1028,1275 1073,1282 1169,1271 1195,1267 1221,1264 1247,1260 1273,1257 1300,1255 1326,1253 1352,1253 1378,1253 1404,1256 1431,1259"/>
+                <TextEquiv>
+                    <Unicode>to day with Holmes  I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:10;}">
+                <Coords points="216,1516 1144,1473 1240,1533 1525,1505 1511,1408 977,1450 888,1385 534,1383 464,1434 373,1380 215,1409"/>
+                <Baseline points="225,1481 289,1484 354,1487 418,1488 483,1489 547,1489 612,1489 676,1488 741,1487 805,1485 870,1484 934,1482 999,1480 1063,1478 1128,1477 1192,1475 1257,1475 1321,1474 1386,1474 1450,1475 1515,1477"/>
+                <TextEquiv>
+                    <Unicode>I do not think that will be of much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:11;}">
+                <Coords points="238,1590 778,1589 956,1657 1042,1589 1282,1563 1448,1622 1447,1529 1397,1516 1009,1551 881,1487 237,1523"/>
+                <Baseline points="246,1580 305,1584 365,1586 425,1588 484,1589 544,1590 604,1590 663,1590 723,1589 783,1588 843,1587 902,1586 962,1585 1022,1583 1081,1582 1141,1581 1201,1581 1260,1580 1320,1580 1380,1580 1440,1581"/>
+                <TextEquiv>
+                    <Unicode>use! -- so I have been round the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:12;}">
+                <Coords points="208,1746 396,1699 543,1766 769,1731 849,1769 1150,1684 1335,1694 1396,1747 1479,1715 1477,1630 1380,1593 1326,1639 1160,1651 1045,1589 974,1656 879,1658 767,1589 554,1673 438,1579 321,1621 206,1582"/>
+                <Baseline points="217,1695 279,1697 342,1698 404,1699 467,1699 530,1699 592,1699 655,1699 717,1699 780,1698 843,1697 905,1696 968,1695 1030,1694 1093,1692 1156,1691 1218,1689 1281,1687 1343,1685 1406,1684 1469,1682"/>
+                <TextEquiv>
+                    <Unicode>principal Colonies &amp; seen the lord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:13;}">
+                <Coords points="192,1825 496,1794 618,1843 684,1791 882,1792 1013,1832 1283,1793 1283,1750 1205,1772 1088,1732 846,1776 770,1740 703,1777 527,1771 448,1700 247,1746 192,1717"/>
+                <Baseline points="200,1791 253,1793 307,1795 361,1796 414,1798 468,1799 522,1800 575,1800 629,1801 683,1801 737,1801 790,1801 844,1801 898,1800 951,1800 1005,1800 1059,1799 1112,1799 1166,1798 1220,1798 1274,1798"/>
+                <TextEquiv>
+                    <Unicode>Keepers, who are most civil,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:14;}">
+                <Coords points="215,2048 871,2021 1190,2075 1478,2056 1479,2001 1357,1956 1265,2003 1082,1996 953,1950 873,2009 609,2001 344,1918 216,1960"/>
+                <Baseline points="224,2014 286,2015 348,2015 410,2016 473,2017 535,2018 597,2019 660,2020 722,2021 784,2023 847,2024 909,2025 971,2025 1033,2026 1096,2026 1158,2027 1220,2027 1283,2027 1345,2026 1407,2026 1470,2025"/>
+                <TextEquiv>
+                    <Unicode>introduced me to them, &amp; I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_428" custom="readingOrder {index:15;}">
+                <Coords points="246,1907 301,1909 356,1912 411,1913 466,1915 522,1915 577,1916 632,1916 687,1916 742,1916 798,1915 853,1915 908,1914 963,1913 1018,1913 1074,1912 1129,1912 1184,1912 1239,1912 1294,1912 1350,1912 1423,1906 1451,1911 1479,1913 1508,1915 1509,1900 1480,1898 1453,1896 1424,1891 1349,1897 1294,1897 1239,1897 1184,1897 1129,1897 1074,1897 1018,1898 963,1898 908,1899 853,1900 798,1900 742,1901 687,1901 632,1901 577,1901 522,1900 466,1900 411,1898 357,1897 302,1894 247,1892"/>
+                <Baseline points="246,1907 301,1909 356,1912 411,1913 466,1915 522,1915 577,1916 632,1916 687,1916 742,1916 798,1915 853,1915 908,1914 963,1913 1018,1913 1074,1912 1129,1912 1184,1912 1239,1912 1294,1912 1350,1912 1423,1906 1451,1911 1479,1913 1508,1915"/>
+                <TextEquiv>
+                    <Unicode>promise all they can. Simmonds has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:16;}">
+                <Coords points="247,2135 617,2205 756,2133 964,2199 1232,2141 1496,2167 1497,2106 1364,2059 919,2107 472,2019 248,2092"/>
+                <Baseline points="256,2125 317,2125 379,2126 440,2128 502,2130 564,2132 625,2134 687,2137 748,2139 810,2141 872,2144 933,2146 995,2147 1056,2149 1118,2149 1180,2149 1241,2149 1303,2147 1364,2145 1426,2141 1488,2137"/>
+                <TextEquiv>
+                    <Unicode>asked them to attend to Jackson --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:17;}">
+                <Coords points="282,2270 438,2302 1092,2266 1145,2311 1259,2269 1473,2278 1473,2205 1404,2174 1347,2207 1243,2140 1116,2230 1041,2173 969,2223 776,2186 532,2210 425,2150 282,2138"/>
+                <Baseline points="291,2248 349,2252 408,2255 466,2257 525,2259 584,2260 642,2260 701,2260 760,2260 818,2260 877,2259 936,2258 994,2257 1053,2256 1112,2255 1170,2255 1229,2254 1288,2254 1346,2254 1405,2254 1464,2255"/>
+                <TextEquiv>
+                    <Unicode>I still hope to see the latter, as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:18;}">
+                <Coords points="283,2414 427,2396 504,2429 667,2377 762,2422 1262,2424 1354,2381 1483,2396 1484,2317 1239,2286 1163,2323 1009,2298 936,2342 564,2272 284,2320"/>
+                <Baseline points="293,2367 352,2369 411,2370 470,2371 529,2373 588,2373 647,2374 706,2375 765,2375 824,2375 884,2376 943,2376 1002,2376 1061,2376 1120,2376 1179,2376 1238,2377 1297,2377 1356,2377 1415,2377 1475,2378"/>
+                <TextEquiv>
+                    <Unicode>I think I should take him to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+oct 78
+I
+Friday 
+11 am.
+My dear Dyer
+
+Thanks for your letter
+recieved yesterday.  Jackson has
+not yet turned up. Simmonds tells
+me that he is coming over probably
+I have
+to day with Holmes 
+Cunliffe Owen about him, but
+I do not think that will be of much
+use! -- so I have been round the
+principal Colonies &amp; seen the lord
+-
+Keepers, who are most civil,
+has
+promise all they can. Simmonds
+introduced me to them, &amp; I have
+asked them to attend to Jackson --
+I still hope to see the latter, as
+I think I should take him to</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

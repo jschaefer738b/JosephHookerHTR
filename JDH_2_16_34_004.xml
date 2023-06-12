@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:56:42.344-04:00</Created>
+        <LastChange>2023-05-16T17:59:05.594+02:00</LastChange>
+        <TranskribusMetadata docId="423586" pageId="16858816" pageNr="2" tsid="121937664" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=QMNLQHJZUGBAEAHWARNBLVNL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOLDQEAEAEOJYPMYUFKYOHUR" imageId="12610328"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_34_004.jpg" imageWidth="1401" imageHeight="2127">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330890939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,61 50,1560 1350,1560 1350,61"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="95,184 418,149 696,201 876,126 1224,117 1222,64 1163,92 966,55 790,95 577,55 501,97 359,42 92,96"/>
+                <Baseline points="101,156 156,154 212,153 268,151 324,150 379,148 435,146 491,144 547,142 602,140 658,137 714,135 770,133 825,131 881,129 937,127 993,125 1048,123 1104,121 1160,120 1216,118"/>
+                <TextEquiv>
+                    <Unicode>Glen Coe, Kingussie &amp; so to </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="86,298 244,311 319,277 383,312 569,308 860,248 966,322 1093,260 1091,161 1013,163 935,229 814,184 574,218 452,188 361,227 299,182 249,216 153,178 83,199"/>
+                <Baseline points="93,277 142,275 192,272 241,270 291,267 341,265 390,263 440,261 489,259 539,257 589,256 638,255 688,253 737,252 787,251 837,250 886,249 936,249 985,248 1035,248 1085,248"/>
+                <TextEquiv>
+                    <Unicode>the Grants. Address c/o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="111,450 205,476 291,410 386,391 439,419 492,385 617,406 652,373 782,394 905,340 903,288 771,314 736,296 676,334 616,296 549,347 424,307 353,332 298,303 252,325 178,305 107,346"/>
+                <Baseline points="117,392 156,391 195,391 234,390 273,389 312,387 351,386 390,385 429,383 468,382 507,380 546,379 585,377 624,376 663,374 702,372 741,371 780,369 819,368 858,366 898,365"/>
+                <TextEquiv>
+                    <Unicode>Sir J.P. Grant KCB,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="242,500 413,484 469,507 637,470 759,506 924,475 1099,496 1117,433 787,390 689,440 356,407 241,460"/>
+                <Baseline points="249,485 292,484 335,483 378,482 421,481 464,480 507,479 550,479 593,478 636,478 679,477 722,477 765,476 808,476 851,476 894,476 937,475 980,475 1023,475 1066,475 1110,475"/>
+                <TextEquiv>
+                    <Unicode>The Doune, Aviemore,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1104,515 1157,528 1194,518 1222,527 1248,510 1271,521 1329,521 1334,446 1299,431 1284,440 1267,431 1249,444 1232,444 1215,426 1190,431 1158,417 1109,433"/>
+                <Baseline points="1114,496 1140,500 1166,502 1192,504 1218,506 1244,506 1270,508 1296,509 1322,511"/>
+                <TextEquiv>
+                    <Unicode>NB.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="82,701 1255,708 1255,644 1175,609 1063,634 1005,601 950,655 594,590 492,638 170,575 82,619"/>
+                <Baseline points="90,679 147,681 205,682 263,683 321,684 379,684 437,683 495,683 553,682 611,681 669,681 726,680 784,679 842,679 900,679 958,679 1016,680 1074,681 1132,683 1190,685 1248,688"/>
+                <TextEquiv>
+                    <Unicode>I am glad that you had a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="83,832 305,809 407,867 491,816 872,793 927,844 1094,801 1359,838 1359,763 1260,731 1173,778 997,727 927,768 816,716 685,770 489,708 262,787 83,745"/>
+                <Baseline points="91,804 157,804 223,804 289,804 356,803 422,802 488,801 554,800 621,799 687,798 753,798 819,797 886,797 952,798 1018,799 1084,801 1151,804 1217,807 1283,812 1350,816"/>
+                <TextEquiv>
+                    <Unicode>run to Yarmouth; if you had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="67,920 1343,938 1318,880 1060,875 1009,833 870,900 809,866 530,888 348,834 67,876"/>
+                <Baseline points="75,911 141,911 207,911 273,911 340,912 406,912 472,912 538,912 605,913 671,913 737,914 803,914 870,915 936,915 1002,916 1068,917 1135,918 1201,919 1267,920 1334,921"/>
+                <TextEquiv>
+                    <Unicode>never before seen it, the environ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="42,1035 577,1025 679,1057 851,1031 852,986 680,937 470,988 359,940 42,985"/>
+                <Baseline points="50,1017 89,1018 129,1019 169,1019 208,1020 248,1020 288,1021 327,1021 367,1021 407,1021 447,1021 486,1021 526,1021 566,1022 605,1022 645,1022 685,1022 724,1023 764,1023 804,1024 844,1025"/>
+                <TextEquiv>
+                    <Unicode>ment must have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="909,1042 957,1051 1001,1026 1133,1027 1196,1075 1221,1077 1324,1051 1326,1015 1264,999 1178,944 1129,947 1093,974 1020,946 977,971 912,977"/>
+                <Baseline points="917,1027 942,1025 967,1024 992,1023 1017,1023 1042,1023 1067,1023 1092,1024 1117,1025 1142,1026 1167,1028 1192,1030 1217,1032 1242,1035 1267,1039 1292,1042 1317,1046"/>
+                <TextEquiv>
+                    <Unicode>struck you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="84,1172 180,1167 287,1204 336,1158 586,1174 638,1139 760,1138 760,1102 662,1070 567,1097 429,1073 355,1106 265,1073 191,1098 122,1063 84,1070"/>
+                <Baseline points="92,1124 125,1126 158,1127 191,1129 224,1130 257,1131 290,1132 323,1132 356,1132 389,1132 422,1132 455,1132 488,1131 521,1131 554,1130 587,1130 620,1129 653,1129 686,1128 719,1128 752,1128"/>
+                <TextEquiv>
+                    <Unicode>as very irregular.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="263,1284 309,1304 526,1287 671,1362 719,1317 763,1339 859,1298 858,1199 801,1178 690,1252 603,1253 508,1203 433,1225 361,1163 262,1211"/>
+                <Baseline points="271,1283 301,1282 331,1282 362,1282 392,1282 423,1282 453,1282 484,1282 514,1283 545,1283 575,1283 606,1283 636,1282 667,1282 697,1281 728,1279 758,1278 789,1276 819,1274 850,1271"/>
+                <TextEquiv>
+                    <Unicode>Ever sincerelyys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="713,1543 888,1531 924,1553 1078,1519 1198,1528 1257,1509 1251,1407 1121,1392 1072,1362 935,1371 894,1399 841,1376 745,1465 709,1468"/>
+                <Baseline points="720,1531 746,1531 772,1530 799,1529 825,1527 852,1525 878,1522 905,1520 931,1518 958,1515 984,1512 1010,1510 1037,1509 1063,1507 1090,1506 1116,1505 1143,1505 1169,1505 1196,1507 1222,1508 1249,1511"/>
+                <TextEquiv>
+                    <Unicode>JosDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Glen Coe, Kingussie &amp; so to &#13;
+the Grants. Address c/o&#13;
+Sir J.P. Grant KCB,&#13;
+The Doune, Aviemore,&#13;
+NB.&#13;
+I am glad that you had a&#13;
+run to Yarmouth; if you had&#13;
+never before seen it, the environ&#13;
+ment must have&#13;
+struck you&#13;
+as very irregular.&#13;
+Ever sincerelyys&#13;
+JosDHooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

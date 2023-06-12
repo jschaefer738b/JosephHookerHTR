@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T22:56:42.294-04:00</Created>
+        <LastChange>2023-05-16T17:58:49.813+02:00</LastChange>
+        <TranskribusMetadata docId="423586" pageId="16858815" pageNr="1" tsid="121937660" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XYLUCIARAMDDOZOVBROUTBAA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CESHCQASSQYKGRLOITBIOPWB" imageId="12610327"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_34_001.jpg" imageWidth="1362" imageHeight="2142">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330890685" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,25 65,2095 1329,2095 1329,25"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="500,235 534,214 571,209 663,258 713,212 767,186 796,185 794,146 766,152 739,132 698,135 601,54 514,97 492,90"/>
+                <Baseline points="505,200 530,199 556,198 582,196 607,194 633,192 659,190 685,188 710,187 736,187 762,187 788,188"/>
+                <TextEquiv>
+                    <Unicode>Glasgow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="815,231 929,234 979,211 1012,226 1052,204 1096,235 1132,222 1201,236 1253,220 1253,128 1193,142 1153,110 1050,138 944,86 814,114"/>
+                <Baseline points="823,215 849,215 875,214 902,214 928,213 955,212 981,210 1008,209 1034,209 1060,208 1087,208 1113,208 1140,209 1166,210 1193,213 1219,216 1246,220"/>
+                <TextEquiv>
+                    <Unicode>Sept 12/76.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="58,519 165,528 199,506 295,554 467,481 466,459 398,450 306,387 233,426 132,371 77,414 53,415"/>
+                <Baseline points="65,506 91,506 117,506 143,506 170,506 196,506 222,505 248,504 275,503 301,502 327,500 353,498 380,495 406,492 432,489 459,485"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="177,648 252,622 425,660 576,606 795,652 1096,559 1252,590 1269,510 965,505 810,562 723,496 618,582 406,531 344,567 265,532 171,551"/>
+                <Baseline points="184,634 238,632 292,629 346,627 400,623 454,620 508,617 562,613 616,610 670,606 725,603 779,598 833,594 887,592 941,589 995,586 1049,583 1103,581 1157,579 1211,578 1266,578"/>
+                <TextEquiv>
+                    <Unicode>We passed the grant of £20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="89,761 324,734 512,780 762,714 1246,693 1242,629 1118,609 980,668 913,636 788,664 736,619 602,704 272,660 87,716"/>
+                <Baseline points="95,739 152,738 209,736 266,734 323,731 380,729 437,727 494,724 551,721 608,718 666,715 723,712 780,708 837,705 894,702 951,698 1008,694 1065,690 1122,686 1179,682 1237,678"/>
+                <TextEquiv>
+                    <Unicode>in Committee of Recommendations</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="100,876 136,878 152,861 174,857 241,865 258,852 270,862 283,848 318,850 348,834 386,845 381,800 286,823 170,757 148,765 115,802 92,804"/>
+                <Baseline points="106,863 133,858 160,855 187,852 214,850 241,848 268,846 295,842 322,839 349,834 376,827"/>
+                <TextEquiv>
+                    <Unicode>today.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="102,986 1299,896 1293,818 1234,849 1036,809 944,872 809,878 737,834 661,908 574,859 480,897 176,857 96,902"/>
+                <Baseline points="109,975 168,969 227,962 286,956 345,951 404,945 463,940 522,935 581,930 640,926 700,922 759,918 818,914 877,910 936,906 995,902 1054,899 1113,896 1172,892 1231,889 1291,886"/>
+                <TextEquiv>
+                    <Unicode>The Association has on the whole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="92,1080 220,1056 341,1094 642,1031 1337,997 1331,905 1234,908 1171,965 621,960 256,1022 147,976 88,1017"/>
+                <Baseline points="99,1066 160,1062 222,1058 283,1054 345,1051 406,1046 468,1042 529,1038 591,1033 652,1030 714,1026 775,1021 837,1017 898,1013 960,1009 1021,1005 1083,1000 1144,997 1206,993 1267,989 1329,985"/>
+                <TextEquiv>
+                    <Unicode>been a good but not a remarkable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="130,1184 1207,1120 1202,1025 982,1095 910,1054 832,1090 752,1060 687,1110 506,1071 466,1109 382,1094 303,1135 241,1106 128,1144"/>
+                <Baseline points="136,1167 189,1164 242,1162 295,1159 348,1157 401,1155 454,1152 508,1150 561,1147 614,1145 667,1143 720,1140 773,1138 826,1135 880,1132 933,1129 986,1126 1039,1122 1092,1118 1145,1114 1199,1109"/>
+                <TextEquiv>
+                    <Unicode>one- &amp; Section D has not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="108,1300 847,1236 962,1278 1182,1237 1271,1262 1247,1146 1067,1210 637,1166 418,1221 372,1185 291,1235 104,1188"/>
+                <Baseline points="115,1281 172,1278 229,1274 287,1270 344,1266 402,1263 459,1260 516,1257 574,1254 631,1252 689,1250 746,1247 803,1246 861,1243 918,1242 976,1241 1033,1240 1090,1239 1148,1239 1205,1238 1263,1238"/>
+                <TextEquiv>
+                    <Unicode>been below the average. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="106,1397 554,1364 676,1407 753,1356 1271,1351 1270,1311 1152,1260 1050,1316 929,1268 864,1318 729,1289 384,1328 296,1296 104,1348"/>
+                <Baseline points="113,1380 170,1378 228,1376 285,1374 343,1371 400,1369 458,1367 515,1365 573,1363 630,1361 688,1359 745,1357 803,1355 860,1353 918,1350 975,1348 1033,1346 1090,1344 1148,1342 1205,1339 1263,1336"/>
+                <TextEquiv>
+                    <Unicode>sectional addresses have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="91,1524 895,1463 1214,1480 1144,1409 831,1445 708,1394 627,1457 459,1403 87,1455"/>
+                <Baseline points="98,1517 153,1514 208,1512 264,1509 319,1506 374,1502 430,1498 485,1494 540,1490 596,1486 651,1483 706,1479 762,1475 817,1472 872,1469 928,1467 983,1465 1038,1464 1094,1463 1149,1463 1205,1464"/>
+                <TextEquiv>
+                    <Unicode>I think better than usual.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="88,1669 705,1580 1241,1589 1259,1516 869,1543 808,1504 711,1552 585,1512 463,1579 163,1542 82,1577"/>
+                <Baseline points="94,1637 152,1633 210,1630 268,1626 326,1622 384,1617 442,1612 500,1607 558,1602 616,1598 674,1592 732,1588 790,1583 848,1580 906,1576 964,1573 1022,1570 1080,1568 1138,1567 1196,1567 1255,1567"/>
+                <TextEquiv>
+                    <Unicode>I told you that Andrews was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="91,1776 269,1712 397,1739 1190,1686 1130,1610 1024,1603 706,1670 596,1628 510,1661 462,1625 285,1691 165,1644 86,1683"/>
+                <Baseline points="97,1733 151,1730 205,1727 259,1724 313,1721 368,1717 422,1713 476,1709 530,1705 584,1702 639,1698 693,1695 747,1691 801,1689 855,1686 910,1683 964,1680 1018,1678 1072,1677 1126,1676 1181,1675"/>
+                <TextEquiv>
+                    <Unicode>poor &amp; Newton's wretched.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="98,1846 750,1817 914,1892 1015,1816 1244,1813 1242,1748 1018,1773 929,1734 722,1792 608,1739 508,1795 423,1739 97,1801"/>
+                <Baseline points="106,1838 162,1836 219,1835 275,1833 332,1830 388,1828 445,1826 501,1825 558,1822 614,1820 671,1818 728,1816 784,1813 841,1811 897,1810 954,1808 1010,1806 1067,1805 1123,1804 1180,1803 1237,1802"/>
+                <TextEquiv>
+                    <Unicode>Sct A has been strong under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="106,1964 1006,1914 1180,1953 1234,1936 1230,1836 1162,1873 996,1851 944,1903 793,1856 490,1895 408,1843 103,1901"/>
+                <Baseline points="114,1958 169,1952 225,1947 280,1941 336,1938 391,1934 447,1931 502,1929 558,1927 613,1926 669,1924 724,1923 780,1922 835,1920 891,1919 946,1917 1002,1915 1057,1913 1113,1910 1168,1907 1224,1903"/>
+                <TextEquiv>
+                    <Unicode>Sir W.Thomson, whose activity</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="120,2091 415,2042 505,2081 667,2026 831,2095 970,2039 1245,2067 1242,1958 957,1995 881,1958 684,1986 402,1955 118,2012"/>
+                <Baseline points="127,2070 182,2061 237,2054 293,2047 348,2041 404,2037 459,2033 515,2030 570,2028 626,2027 681,2027 736,2027 792,2027 847,2028 903,2029 958,2030 1014,2031 1069,2032 1125,2033 1180,2033 1236,2034"/>
+                <TextEquiv>
+                    <Unicode>of intellect &amp; body seem to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Glasgow&#13;
+Sept 12/76.&#13;
+Dear Dyer&#13;
+We passed the grant of £20&#13;
+in Committee of Recommendations&#13;
+today.&#13;
+The Association has on the whole&#13;
+been a good but not a remarkable&#13;
+one- &amp; Section D has not&#13;
+been below the average. The&#13;
+sectional addresses have been&#13;
+I think better than usual.&#13;
+I told you that Andrews was&#13;
+poor &amp; Newton's wretched.&#13;
+Sct A has been strong under&#13;
+Sir W.Thomson, whose activity&#13;
+of intellect &amp; body seem to</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

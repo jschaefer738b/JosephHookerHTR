@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-29T21:04:19.873-04:00</Created>
+        <LastChange>2023-05-17T02:06:34.054+02:00</LastChange>
+        <TranskribusMetadata docId="423573" pageId="16857583" pageNr="1" tsid="121949740" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ELHCOGQKPHVUMGDVREIMTLGY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RTCZPJCSCLERRQLELWITXIPU" imageId="12609144"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_24_001.jpg" imageWidth="1185" imageHeight="1839">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330898931" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="115,165 115,325 172,325 172,165"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="115,304 128,300 136,293 145,293 149,287 154,289 158,282 166,282 173,287 181,285 166,201 158,206 136,209 134,213 120,213 114,217 109,214 100,218"/>
+                <Baseline points="115,275 143,271 172,265"/>
+                <TextEquiv>
+                    <Unicode>De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="132,96 132,1508 1048,1508 1048,96"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="217,255 228,249 238,255 252,256 268,238 294,234 311,212 318,211 308,162 293,163 287,171 268,169 236,150 215,178 202,183"/>
+                <Baseline points="217,227 248,219 279,211 311,209"/>
+                <TextEquiv>
+                    <Unicode>16/74</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="554,281 583,282 623,257 686,273 796,257 864,298 931,287 928,199 912,194 774,223 627,157 608,155 592,173 550,170"/>
+                <Baseline points="559,258 585,258 611,258 637,257 663,256 689,255 715,254 741,253 767,252 793,251 819,250 845,249 871,249 897,248 924,248"/>
+                <TextEquiv>
+                    <Unicode>Wednesday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="155,517 289,489 363,527 411,502 484,501 484,446 468,447 388,392 339,422 280,423 215,391 186,418 155,425"/>
+                <Baseline points="161,499 187,497 214,496 240,495 267,494 293,494 320,494 346,494 373,494 399,494 426,494 452,494 479,494"/>
+                <TextEquiv>
+                    <Unicode>Dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="311,628 398,642 609,613 774,623 866,591 952,591 950,553 870,575 818,532 762,527 613,578 384,538 309,581"/>
+                <Baseline points="317,625 348,623 380,622 411,621 443,620 474,619 506,618 537,616 569,616 600,615 632,613 663,612 695,610 726,609 758,607 789,604 821,602 852,598 884,595 915,592 947,587"/>
+                <TextEquiv>
+                    <Unicode>II should like to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="127,754 244,769 291,742 366,768 408,735 652,703 717,729 1026,734 1025,693 831,639 710,696 580,656 425,653 361,703 278,667 126,699"/>
+                <Baseline points="132,732 176,731 220,730 265,728 309,727 354,725 398,723 442,720 487,719 531,717 576,715 620,713 664,712 709,711 753,711 798,711 842,711 886,713 931,715 975,717 1020,721"/>
+                <TextEquiv>
+                    <Unicode>confer further with you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="148,856 583,819 777,815 804,837 856,823 853,757 727,788 662,758 558,804 437,758 388,798 328,777 287,803 234,783 145,799"/>
+                <Baseline points="153,840 187,839 222,837 257,836 292,834 327,832 362,831 396,829 431,828 466,826 501,824 536,823 571,820 606,819 640,817 675,815 710,813 745,812 780,810 815,808 850,806"/>
+                <TextEquiv>
+                    <Unicode>about the Laboratry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="196,985 292,982 425,932 526,935 599,971 705,926 970,920 991,915 988,843 855,858 788,827 669,886 589,841 412,910 258,863 191,888"/>
+                <Baseline points="199,940 238,940 277,938 317,937 356,935 395,933 435,931 474,929 513,927 553,924 592,922 631,920 671,918 710,916 749,915 789,913 828,913 867,912 907,912 946,912 986,913"/>
+                <TextEquiv>
+                    <Unicode>before writing to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="156,1085 406,1039 496,1096 559,1046 1019,1057 1018,987 938,958 810,1026 655,976 566,1025 512,994 421,1024 338,990 274,1015 155,996"/>
+                <Baseline points="161,1055 203,1052 246,1050 288,1048 331,1046 374,1045 416,1044 459,1043 501,1042 544,1041 587,1040 629,1040 672,1040 714,1040 757,1039 800,1039 842,1039 885,1040 927,1040 970,1040 1013,1040"/>
+                <TextEquiv>
+                    <Unicode>the Board - Any time that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="141,1179 673,1152 838,1192 931,1171 931,1135 798,1089 743,1119 643,1090 579,1130 429,1114 356,1141 280,1119 212,1151 140,1124"/>
+                <Baseline points="146,1168 187,1169 228,1169 269,1169 310,1168 351,1166 392,1165 433,1163 474,1161 515,1159 556,1157 597,1156 638,1155 679,1155 720,1155 761,1157 802,1159 843,1162 884,1167 925,1173"/>
+                <TextEquiv>
+                    <Unicode>is convenient to you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="483,1340 525,1333 553,1344 564,1332 593,1335 614,1325 606,1247 594,1251 566,1233 548,1238 528,1235 498,1262 476,1273"/>
+                <Baseline points="487,1321 517,1324 547,1320 577,1315 607,1312"/>
+                <TextEquiv>
+                    <Unicode>Yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="538,1490 559,1484 583,1499 664,1472 696,1486 787,1460 918,1490 919,1366 878,1356 830,1375 714,1346 677,1321 565,1411 535,1407"/>
+                <Baseline points="543,1479 568,1478 593,1477 618,1476 643,1474 668,1472 693,1470 718,1467 743,1466 768,1463 793,1462 818,1462 843,1462 868,1463 893,1466 918,1469"/>
+                <TextEquiv>
+                    <Unicode>JDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24
+16/74
+Wednesday
+Dear Dyer
+II should like to
+confer further with you
+about the Laboratry
+before writing to
+the Board - Any time that
+is convenient to you
+Yrs
+JDHooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

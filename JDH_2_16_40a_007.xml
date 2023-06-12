@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=JDHooker_1(htr_id=25179)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-19T17:36:49.505-04:00</Created>
+        <LastChange>2023-05-17T01:11:47.678+02:00</LastChange>
+        <TranskribusMetadata docId="437074" pageId="17691629" pageNr="6" tsid="121949205" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=DKCCVLLCNOCMSAVKHWYOPLFL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DCVENXVNVHGDXOPTYFBGJBCJ" imageId="13355372"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_40a_007.jpg" imageWidth="1537" imageHeight="2430">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330865433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="75,82 75,2384 1534,2384 1534,82"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="80,142 1406,153 1484,132 1484,56 1330,16 1148,77 917,39 814,74 421,31 80,59"/>
+                <Baseline points="88,130 157,127 226,125 296,124 365,122 434,121 504,120 573,119 642,119 712,119 781,119 850,119 920,120 989,120 1058,120 1128,121 1197,121 1266,122 1336,122 1405,122 1475,123"/>
+                <TextEquiv>
+                    <Unicode>seen. Bolander has cut Botany &amp; taken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="118,211 273,258 360,209 1517,230 1516,156 1453,182 1347,131 1112,171 1053,135 739,168 628,122 581,158 118,144"/>
+                <Baseline points="127,210 196,209 265,207 334,206 403,205 472,204 541,203 610,203 679,202 748,202 817,201 886,201 955,201 1024,202 1093,202 1162,203 1231,203 1300,204 1369,206 1438,207 1508,208"/>
+                <TextEquiv>
+                    <Unicode>to education, we called twice on him to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="582,269 634,273 660,253 754,263 781,243 865,247 898,231 920,245 1059,237 1078,255 1104,248 1104,208 582,212"/>
+                <Baseline points="591,232 616,234 641,236 666,237 691,238 717,239 742,239 767,239 792,239 817,239 843,239 868,239 893,238 918,238 943,238 969,237 994,237 1019,237 1044,238 1069,238 1095,239"/>
+                <TextEquiv>
+                    <Unicode>was out both times &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="147,331 362,340 420,291 586,276 1485,314 1485,254 1249,205 1082,255 651,263 532,210 277,257 148,224"/>
+                <Baseline points="156,287 222,288 288,289 354,289 420,289 486,288 552,288 618,287 684,286 750,286 816,285 882,284 948,284 1014,284 1080,285 1146,285 1212,287 1278,289 1344,292 1410,295 1476,299"/>
+                <TextEquiv>
+                    <Unicode>day -- but he has not ever returned our</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="143,419 521,401 627,446 777,374 1035,402 1129,363 1517,422 1543,345 591,278 362,347 144,341"/>
+                <Baseline points="152,370 221,373 290,374 359,376 428,376 497,376 566,376 635,375 704,375 773,374 843,374 912,373 981,373 1050,374 1119,375 1188,377 1257,380 1326,384 1395,389 1464,394 1534,401"/>
+                <TextEquiv>
+                    <Unicode>call: he may yet, but Gray has reason</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="118,573 239,605 400,569 468,630 546,582 948,631 1014,590 1147,628 1248,580 1340,628 1447,599 1448,517 1373,538 1291,472 1229,506 1170,462 1045,535 820,491 597,544 302,496 220,535 119,489"/>
+                <Baseline points="128,559 193,561 259,563 324,564 390,565 455,565 521,566 586,565 652,565 717,565 783,565 848,565 914,565 979,565 1045,566 1110,567 1176,569 1241,572 1307,575 1372,579 1438,584"/>
+                <TextEquiv>
+                    <Unicode>to Monterey to see the forest of Cup.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:6;}">
+                <Coords points="145,474 187,476 229,476 271,477 313,477 355,476 397,476 439,475 481,475 523,474 565,473 607,472 649,471 691,471 733,470 775,470 817,471 859,471 901,472 943,474 986,476 1060,467 1085,464 1110,462 1135,461 1160,461 1185,462 1210,463 1235,464 1260,466 1285,469 1310,472 1335,475 1360,477 1385,481 1410,483 1435,485 1460,487 1486,489 1487,474 1461,472 1436,470 1411,468 1387,466 1362,462 1336,460 1312,457 1287,454 1261,451 1236,449 1211,448 1186,447 1160,446 1135,446 1109,447 1084,449 1058,452 985,461 944,459 902,457 859,456 817,456 775,455 733,455 691,456 649,456 607,457 565,458 523,459 481,460 439,460 397,461 355,461 313,462 271,462 229,461 187,461 146,459"/>
+                <Baseline points="145,474 187,476 229,476 271,477 313,477 355,476 397,476 439,475 481,475 523,474 565,473 607,472 649,471 691,471 733,470 775,470 817,471 859,471 901,472 943,474 986,476 1060,467 1085,464 1110,462 1135,461 1160,461 1185,462 1210,463 1235,464 1260,466 1285,469 1310,472 1335,475 1360,477 1385,481 1410,483 1435,485 1460,487 1486,489"/>
+                <TextEquiv>
+                    <Unicode>to think him strange. We go hence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="108,662 1505,690 1506,628 1424,595 1323,651 1200,602 1076,641 688,581 597,616 454,616 401,570 337,615 110,593"/>
+                <Baseline points="118,637 186,640 255,642 324,644 393,646 462,648 531,649 600,651 669,652 738,654 807,655 875,657 944,659 1013,660 1082,662 1151,664 1220,666 1289,667 1358,670 1427,672 1496,675"/>
+                <TextEquiv>
+                    <Unicode>macrocarpa &amp; P[inus]. insignis, then N. to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="116,738 605,740 718,797 802,745 1451,776 1452,685 1223,718 1126,679 634,702 543,652 117,668"/>
+                <Baseline points="124,727 189,728 255,730 321,731 387,733 453,734 519,735 585,736 651,738 717,739 783,740 848,740 914,741 980,742 1046,743 1112,744 1178,744 1244,745 1310,745 1376,745 1442,746"/>
+                <TextEquiv>
+                    <Unicode>Mendocino County to visit the forests</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="66,879 170,817 789,834 873,892 958,837 1527,870 1527,767 1222,785 1119,742 921,748 819,805 663,750 576,797 249,741 67,785"/>
+                <Baseline points="75,818 147,820 219,822 291,823 363,825 435,826 507,827 580,828 652,828 724,829 796,829 868,829 940,829 1012,829 1085,829 1157,828 1229,828 1301,828 1373,827 1445,827 1518,827"/>
+                <TextEquiv>
+                    <Unicode>of Red wood (Sequoia) &amp;c; then if possible</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="101,955 659,904 768,953 958,914 1435,938 1457,849 1027,885 939,854 872,892 668,822 101,842"/>
+                <Baseline points="109,922 175,919 242,916 309,914 376,913 443,912 510,912 577,912 644,912 711,913 778,914 844,915 911,916 978,917 1045,918 1112,919 1179,919 1246,920 1313,920 1380,920 1447,920"/>
+                <TextEquiv>
+                    <Unicode>to Shasta Butte to find out what is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="99,1031 738,1068 812,1012 1021,993 1424,1042 1449,932 1117,923 1062,961 456,916 99,971"/>
+                <Baseline points="108,1007 174,1007 241,1007 307,1007 374,1007 441,1007 507,1007 574,1007 640,1007 707,1006 774,1006 840,1006 907,1005 973,1005 1040,1005 1106,1005 1173,1005 1240,1006 1306,1006 1373,1007 1440,1008"/>
+                <TextEquiv>
+                    <Unicode>meant by Picea grandis: &amp; I hope</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="124,1141 281,1157 380,1113 548,1158 979,1093 1030,1140 1488,1121 1488,1065 1385,1018 793,1026 737,1068 618,1034 512,1072 124,1018"/>
+                <Baseline points="132,1096 199,1097 266,1098 334,1099 401,1099 469,1099 536,1099 603,1099 671,1099 738,1099 806,1099 873,1099 940,1098 1008,1098 1075,1098 1143,1098 1210,1097 1277,1097 1345,1097 1412,1097 1480,1097"/>
+                <TextEquiv>
+                    <Unicode>to get away from Boston on the steamer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="192,1250 520,1187 638,1229 798,1201 853,1245 944,1197 1365,1189 1364,1124 1284,1107 1056,1174 994,1135 922,1169 718,1136 380,1164 340,1127 256,1177 191,1154"/>
+                <Baseline points="200,1197 257,1200 315,1202 373,1204 431,1205 489,1206 546,1206 604,1205 662,1204 720,1203 778,1201 835,1200 893,1198 951,1196 1009,1195 1067,1193 1124,1191 1182,1190 1240,1189 1298,1189 1356,1188"/>
+                <TextEquiv>
+                    <Unicode>of the 22d. -- What with narrow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="133,1316 416,1326 522,1282 714,1334 773,1279 941,1263 1483,1292 1482,1225 1366,1190 1303,1225 1047,1195 897,1249 643,1244 554,1187 480,1246 429,1207 204,1254 132,1226"/>
+                <Baseline points="141,1281 207,1280 274,1278 340,1277 407,1276 474,1275 540,1274 607,1274 673,1273 740,1273 807,1272 873,1272 940,1272 1006,1271 1073,1270 1139,1270 1206,1269 1273,1268 1339,1267 1406,1266 1473,1264"/>
+                <TextEquiv>
+                    <Unicode>gauge lumber trains, 2--, 4--, 5-- horse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="153,1394 364,1371 595,1414 678,1348 794,1399 1138,1346 1339,1393 1427,1367 1426,1300 1361,1272 1270,1323 865,1272 719,1333 507,1294 412,1331 152,1318"/>
+                <Baseline points="161,1358 223,1359 286,1360 349,1360 412,1360 475,1360 538,1359 600,1359 663,1358 726,1356 789,1355 852,1354 915,1353 978,1352 1040,1351 1103,1350 1166,1349 1229,1349 1292,1349 1355,1349 1418,1350"/>
+                <TextEquiv>
+                    <Unicode>wagons, ponys, mules &amp; our legs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="140,1494 268,1496 327,1450 523,1507 617,1440 1331,1473 1435,1431 1435,1376 895,1368 817,1414 502,1393 461,1427 138,1396"/>
+                <Baseline points="148,1450 215,1450 282,1450 349,1450 417,1449 484,1447 551,1446 619,1444 686,1442 753,1439 821,1437 888,1435 955,1433 1023,1431 1090,1430 1157,1429 1225,1428 1292,1428 1359,1429 1427,1430"/>
+                <TextEquiv>
+                    <Unicode>we get over a monstrous deal of ground</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="78,1562 760,1539 800,1573 1124,1518 1354,1551 1478,1531 1477,1484 1032,1449 768,1507 621,1441 469,1513 328,1450 271,1497 76,1484"/>
+                <Baseline points="86,1531 155,1536 224,1539 293,1542 362,1543 431,1543 500,1542 569,1541 638,1539 707,1537 777,1534 846,1531 915,1528 984,1525 1053,1523 1122,1521 1191,1519 1260,1519 1329,1519 1398,1520 1468,1523"/>
+                <TextEquiv>
+                    <Unicode>regardless of expense, fatigue, &amp; wear</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="120,1649 1414,1630 1433,1579 1136,1519 881,1580 489,1538 366,1594 119,1578"/>
+                <Baseline points="129,1617 193,1621 258,1623 323,1625 388,1625 452,1624 517,1623 582,1622 647,1620 711,1618 776,1616 841,1613 906,1612 970,1610 1035,1609 1100,1609 1165,1610 1229,1611 1294,1614 1359,1618 1424,1624"/>
+                <TextEquiv>
+                    <Unicode>sleep &amp; food, &amp; pick up an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="104,1737 223,1700 297,1755 636,1757 741,1693 932,1740 1017,1694 1364,1727 1386,1618 993,1662 926,1617 767,1675 408,1687 103,1651"/>
+                <Baseline points="113,1697 176,1701 239,1704 302,1706 365,1706 429,1706 492,1706 555,1705 618,1703 681,1701 745,1699 808,1697 871,1695 934,1693 997,1692 1061,1692 1124,1692 1187,1693 1250,1695 1313,1699 1377,1703"/>
+                <TextEquiv>
+                    <Unicode>enormous deal of Botany en-route.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="145,1803 240,1845 536,1836 683,1772 939,1774 989,1821 1071,1782 1240,1839 1371,1812 1370,1724 1292,1716 1055,1701 856,1756 760,1706 639,1757 276,1762 144,1713"/>
+                <Baseline points="155,1789 215,1789 275,1789 335,1789 396,1788 456,1786 516,1785 577,1783 637,1781 697,1780 758,1778 818,1776 878,1775 938,1774 999,1773 1059,1773 1119,1774 1180,1775 1240,1777 1300,1780 1361,1783"/>
+                <TextEquiv>
+                    <Unicode>This is a queer climate, fancy my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="79,1895 447,1863 597,1909 874,1855 1441,1892 1464,1818 1250,1845 677,1773 612,1839 78,1833"/>
+                <Baseline points="87,1878 155,1876 223,1875 292,1873 360,1870 429,1868 497,1866 565,1864 634,1863 702,1861 771,1860 839,1859 907,1859 976,1859 1044,1859 1113,1860 1181,1862 1249,1864 1318,1867 1386,1871 1455,1875"/>
+                <TextEquiv>
+                    <Unicode>being cold during the day, with an overcoat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="97,1984 264,1955 341,2003 410,1955 674,1995 766,1938 900,1975 1111,1938 1400,1990 1494,1965 1493,1884 1270,1867 1170,1912 1084,1860 1027,1894 873,1856 596,1910 491,1871 397,1932 96,1912"/>
+                <Baseline points="106,1970 174,1964 243,1959 312,1955 381,1951 450,1947 519,1944 588,1942 657,1940 726,1938 795,1937 863,1936 932,1936 1001,1937 1070,1938 1139,1939 1208,1941 1277,1943 1346,1945 1415,1949 1484,1952"/>
+                <TextEquiv>
+                    <Unicode>on &amp; my thick scotch plaid -- all through</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="127,2077 307,2053 389,2103 460,2056 685,2075 725,2034 1314,2044 1364,2035 1363,1988 1076,1981 1022,1944 921,2001 789,1940 715,2011 125,1995"/>
+                <Baseline points="136,2063 200,2059 264,2054 328,2051 392,2048 456,2045 520,2043 585,2040 649,2039 713,2037 777,2035 841,2034 905,2033 970,2031 1034,2030 1098,2029 1162,2028 1226,2027 1290,2025 1355,2024"/>
+                <TextEquiv>
+                    <Unicode>the strong W. wind over the Pacific:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="143,2156 412,2165 586,2118 742,2130 823,2187 1079,2114 1427,2163 1424,2066 1297,2036 941,2091 832,2057 544,2102 476,2055 389,2105 247,2054 141,2096"/>
+                <Baseline points="152,2144 215,2140 278,2138 341,2135 405,2133 468,2131 531,2129 594,2127 658,2126 721,2124 784,2122 847,2121 911,2120 974,2119 1037,2117 1100,2116 1164,2115 1227,2114 1290,2112 1353,2110 1417,2109"/>
+                <TextEquiv>
+                    <Unicode>which blows, usually with thick fog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="153,2224 769,2266 834,2211 914,2245 1124,2199 1251,2258 1319,2207 1457,2231 1456,2166 1362,2188 1279,2138 1160,2176 963,2139 823,2188 705,2153 644,2193 418,2188 313,2147 153,2181"/>
+                <Baseline points="163,2213 227,2215 291,2216 355,2216 420,2216 484,2215 548,2213 612,2212 677,2210 741,2209 805,2207 869,2205 934,2204 998,2203 1062,2203 1126,2203 1191,2203 1255,2205 1319,2208 1383,2211 1448,2216"/>
+                <TextEquiv>
+                    <Unicode>at this season, every afternoon. You see</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="137,2311 706,2289 787,2321 933,2281 1051,2331 1128,2291 1349,2309 1348,2276 1214,2234 935,2256 835,2212 769,2259 505,2232 316,2272 137,2225"/>
+                <Baseline points="146,2286 205,2290 265,2293 325,2295 384,2296 444,2296 504,2295 563,2293 623,2291 683,2289 743,2287 802,2284 862,2283 922,2281 981,2281 1041,2281 1101,2282 1160,2284 1220,2287 1280,2292 1340,2299"/>
+                <TextEquiv>
+                    <Unicode>ladies wrapped in furs every where.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="174,2385 1420,2373 1329,2314 1232,2335 1134,2290 1058,2332 905,2292 744,2329 174,2322"/>
+                <Baseline points="183,2364 244,2366 305,2366 367,2367 428,2366 489,2366 551,2365 612,2364 673,2363 735,2361 796,2360 857,2359 919,2358 980,2357 1041,2357 1103,2357 1164,2358 1225,2359 1287,2361 1348,2363 1410,2367"/>
+                <TextEquiv>
+                    <Unicode>I was delighted to see the Pacific again</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>seen. Bolander has cut Botany &amp; taken
+to education, we called twice on him to
+was out both times &amp;
+day -- but he has not ever returned our
+call: he may yet, but Gray has reason
+We go hence
+to think him strange.
+to Monterey to see the forest of Cup.
+macrocarpa &amp; P[inus]. insignis, then N. to
+Mendocino County to visit the forests
+of Red wood (Sequoia) &amp;c; then if possible
+to Shasta Butte to find out what is
+meant by Picea grandis: &amp; I hope
+to get away from Boston on the steamer
+of the 22d. -- What with narrow
+gauge lumber trains, 2--, 4--, 5-- horse
+wagons, ponys, mules &amp; our legs
+we get over a monstrous deal of ground
+regardless of expense, fatigue, &amp; wear
+sleep &amp; food, &amp; pick up an
+enormous deal of Botany en-route.
+This is a queer climate, fancy my
+being cold during the day, with an overcoat
+on &amp; my thick scotch plaid -- all through
+the strong W. wind over the Pacific:
+which blows, usually with thick fog
+at this season, every afternoon. You see
+ladies wrapped in furs every where.
+I was delighted to see the Pacific again</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
