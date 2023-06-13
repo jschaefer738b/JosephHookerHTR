@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=provided:date=08_03_2023_19:12</Creator>
+        <Created>2023-03-08T20:00:50.525+01:00</Created>
+        <LastChange>2023-04-05T16:21:54.336+02:00</LastChange>
+        <TranskribusMetadata docId="1357649" pageId="53168133" pageNr="2" tsid="118067697" status="DONE" userId="151145" imgUrl="https://files.transkribus.eu/Get?id=NLANPHIRNPVUANRUCWZCYOPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LSOGDXMWHHIHCOXLIISNLEHC" imageId="43170141"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_86_002.jpg" imageWidth="1436" imageHeight="2197">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330764614" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_5"/>
+                <RegionRefIndexed index="3" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="134,398 1260,398 1260,838 134,838"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="144,500 455,478 580,518 936,459 1255,462 1230,408 1023,380 718,446 147,402"/>
+                <Baseline points="152,484 178,478 208,476 238,474 268,472 298,472 328,472 358,472 388,472 418,474 448,474 478,472 508,474 538,476 568,476 598,476 628,476 658,476 688,476 718,476 748,474 778,472 808,470 838,468 868,466 898,464 928,462 958,460 988,458 1018,456 1048,456 1078,454 1108,454 1138,450 1168,448 1198,448 1228,448 1258,452"/>
+                <TextEquiv>
+                    <Unicode>Museum ones, for the new room</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="134,583 837,599 955,547 1245,556 1248,493 983,478 864,538 137,516"/>
+                <Baseline points="142,576 170,576 200,574 230,574 260,572 290,570 320,568 350,568 380,568 410,568 440,568 470,568 500,568 530,568 560,566 590,566 620,566 650,566 680,566 710,564 740,564 770,562 800,560 830,558 860,556 890,554 920,550 950,548 980,546 1010,544 1040,544 1070,540 1100,540 1130,538 1160,536 1190,534 1220,534 1250,538"/>
+                <TextEquiv>
+                    <Unicode>I shall find egregious blunders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="127,653 284,693 475,647 886,671 972,631 1256,630 1258,599 128,606"/>
+                <Baseline points="134,650 150,652 180,652 210,652 240,652 270,652 300,650 330,648 360,650 390,648 420,646 450,646 480,646 510,648 540,648 570,648 600,648 630,648 660,646 690,646 720,646 750,644 780,642 810,640 840,640 870,636 900,634 930,632 960,630 990,628 1020,628 1050,626 1080,624 1110,622 1140,622 1170,620 1200,622 1230,622 1260,624"/>
+                <TextEquiv>
+                    <Unicode>in my work from mismatching on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="144,742 744,736 797,768 936,709 1193,721 1196,650 1130,621 975,681 922,644 859,693 661,686 624,650 146,716"/>
+                <Baseline points="152,742 182,740 212,738 242,738 272,736 302,734 332,732 362,730 392,730 422,728 452,728 482,726 512,728 542,726 572,724 602,724 632,722 662,720 692,720 722,720 752,716 782,716 812,714 842,710 872,704 902,704 932,704 962,700 992,698 1022,698 1052,694 1082,694 1112,694 1142,694 1172,696 1198,694"/>
+                <TextEquiv>
+                    <Unicode>one hand &amp; failing to detect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="131,840 212,828 303,881 369,834 499,856 628,814 684,852 890,800 1136,803 1117,711 731,774 307,737 134,792"/>
+                <Baseline points="140,828 150,828 180,826 210,824 240,822 270,822 300,822 330,820 360,820 390,818 420,816 450,816 480,816 510,814 540,814 570,814 600,814 630,810 660,810 690,806 720,806 750,806 780,804 810,802 840,802 870,800 900,796 930,796 960,794 990,792 1020,792 1050,790 1080,790 1110,792 1140,790"/>
+                <TextEquiv>
+                    <Unicode>identily of parts on the other.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="120,816 1240,816 1240,1268 120,1268"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="127,945 322,920 371,968 483,909 796,887 977,933 1048,884 1178,892 1183,803 1033,858 577,824 387,884 132,840"/>
+                <Baseline points="136,918 164,918 194,918 224,916 254,916 284,914 314,914 344,914 374,910 404,910 434,908 464,906 494,906 524,904 554,900 584,900 614,898 644,894 674,894 704,892 734,890 764,888 794,888 824,886 854,886 884,886 914,884 944,882 974,878 1004,872 1034,868 1064,872 1094,870 1124,868 1154,866 1184,866"/>
+                <TextEquiv>
+                    <Unicode>I am doing this in revising the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="127,1023 1205,958 1206,918 1055,900 980,936 812,911 129,965"/>
+                <Baseline points="136,1010 158,1008 188,1006 218,1006 248,1006 278,1004 308,1002 338,1000 368,1000 398,998 428,996 458,996 488,992 518,990 548,988 578,986 608,984 638,982 668,982 698,980 728,976 758,974 788,972 818,970 848,968 878,968 908,970 938,964 968,962 998,962 1028,964 1058,962 1088,958 1118,956 1148,954 1178,954 1208,954"/>
+                <TextEquiv>
+                    <Unicode>two herbarium collections, &amp; it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="127,1102 652,1071 715,1102 812,1074 902,1098 974,1087 978,1018 433,1000 296,1052 129,1061"/>
+                <Baseline points="136,1090 140,1090 170,1088 200,1088 230,1086 260,1086 290,1084 320,1082 350,1082 380,1080 410,1080 440,1082 470,1080 500,1078 530,1076 560,1074 590,1072 620,1070 650,1066 680,1064 710,1062 740,1056 770,1054 800,1052 830,1050 860,1048 890,1048 920,1046 950,1048 980,1050"/>
+                <TextEquiv>
+                    <Unicode>not pleasant or assuring.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="200,1178 262,1206 584,1161 721,1203 771,1165 1195,1153 1196,1105 484,1095 388,1126 252,1087 203,1114"/>
+                <Baseline points="210,1164 238,1168 268,1166 298,1166 328,1166 358,1164 388,1162 418,1162 448,1162 478,1160 508,1160 538,1160 568,1158 598,1156 628,1156 658,1154 688,1152 718,1152 748,1150 778,1148 808,1146 838,1150 868,1152 898,1154 928,1152 958,1150 988,1150 1018,1148 1048,1146 1078,1144 1108,1142 1138,1142 1168,1142 1198,1146"/>
+                <TextEquiv>
+                    <Unicode>The mason's work of your room</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="112,1264 243,1258 334,1305 463,1249 764,1277 834,1234 1237,1242 1239,1183 444,1180 113,1228"/>
+                <Baseline points="120,1258 130,1256 160,1258 190,1256 220,1254 250,1252 280,1252 310,1250 340,1248 370,1248 400,1244 430,1244 460,1244 490,1242 520,1242 550,1242 580,1238 610,1238 640,1238 670,1234 700,1234 730,1234 760,1234 790,1232 820,1234 850,1232 880,1232 910,1228 940,1228 970,1228 1000,1224 1030,1222 1060,1222 1090,1220 1120,1220 1150,1220 1180,1220 1210,1222 1240,1222"/>
+                <TextEquiv>
+                    <Unicode>is nearly finished &amp; the sashes are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_5" custom="readingOrder {index:2;}">
+            <Coords points="134,1272 1264,1272 1264,1608 134,1608"/>
+            <TextLine id="tr_5_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="134,1351 203,1340 247,1367 290,1354 319,1367 352,1343 418,1355 480,1327 515,1345 555,1331 547,1274 509,1287 410,1268 310,1318 237,1308 187,1281 137,1302"/>
+                <Baseline points="144,1340 168,1338 198,1336 228,1334 258,1334 288,1330 318,1330 348,1330 378,1330 408,1330 438,1330 468,1328 498,1324 528,1324 558,1322"/>
+                <TextEquiv>
+                    <Unicode>being put in.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="138,1446 1105,1380 1243,1405 1246,1334 1098,1305 880,1373 143,1354"/>
+                <Baseline points="148,1422 168,1422 198,1420 228,1420 258,1420 288,1418 318,1418 348,1418 378,1418 408,1416 438,1414 468,1412 498,1412 528,1410 558,1406 588,1404 618,1404 648,1402 678,1400 708,1402 738,1400 768,1400 798,1398 828,1398 858,1396 888,1398 918,1396 948,1394 978,1390 1008,1388 1038,1386 1068,1384 1098,1380 1128,1378 1158,1378 1188,1378 1218,1374 1248,1372"/>
+                <TextEquiv>
+                    <Unicode>The new Foremen seem to be very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="127,1508 533,1515 668,1483 828,1532 922,1517 925,1443 706,1420 544,1467 435,1443 128,1470"/>
+                <Baseline points="134,1506 148,1504 178,1500 208,1498 238,1498 268,1496 298,1498 328,1498 358,1498 388,1496 418,1496 448,1496 478,1494 508,1494 538,1492 568,1490 598,1488 628,1486 658,1482 688,1480 718,1478 748,1478 778,1476 808,1476 838,1476 868,1476 898,1476 928,1476"/>
+                <TextEquiv>
+                    <Unicode>industrious &amp; willing.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="224,1626 463,1602 547,1640 690,1589 912,1621 1075,1585 1261,1621 1262,1542 959,1505 878,1536 434,1520 322,1565 225,1518"/>
+                <Baseline points="232,1590 244,1590 274,1594 304,1596 334,1598 364,1596 394,1598 424,1596 454,1594 484,1594 514,1594 544,1592 574,1590 604,1592 634,1588 664,1586 694,1586 724,1584 754,1584 784,1584 814,1586 844,1586 874,1584 904,1584 934,1584 964,1582 994,1582 1024,1582 1054,1582 1084,1584 1114,1586 1144,1588 1174,1588 1204,1590 1234,1594 1264,1588"/>
+                <TextEquiv>
+                    <Unicode>Yes, I thought the title -- page of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:3;}">
+            <Coords points="130,1622 1308,1622 1308,2084 130,2084"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="121,1733 363,1693 1145,1708 1145,1629 1059,1610 970,1657 872,1611 805,1651 563,1638 516,1674 328,1617 122,1630"/>
+                <Baseline points="130,1692 158,1690 188,1690 218,1692 248,1690 278,1688 308,1688 338,1688 368,1688 398,1688 428,1690 458,1690 488,1690 518,1690 548,1690 578,1688 608,1688 638,1686 668,1684 698,1684 728,1684 758,1682 788,1682 818,1680 848,1682 878,1682 908,1680 938,1678 968,1678 998,1678 1028,1676 1058,1676 1088,1674 1118,1674 1148,1672"/>
+                <TextEquiv>
+                    <Unicode>the Darwin notices far too.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="144,1801 212,1810 299,1779 521,1793 521,1748 472,1755 393,1727 335,1746 291,1720 243,1727 212,1707 144,1733"/>
+                <Baseline points="152,1776 182,1774 212,1774 242,1774 272,1774 302,1774 332,1774 362,1774 392,1776 422,1776 452,1778 482,1778 512,1780 524,1782"/>
+                <TextEquiv>
+                    <Unicode>pretentious.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="221,1901 465,1871 547,1924 616,1877 793,1870 842,1914 921,1880 1027,1926 1143,1868 1286,1879 1287,1821 840,1835 774,1793 621,1818 415,1783 222,1852"/>
+                <Baseline points="230,1870 260,1868 290,1866 320,1866 350,1868 380,1868 410,1866 440,1866 470,1868 500,1868 530,1870 560,1868 590,1870 620,1872 650,1870 680,1872 710,1870 740,1870 770,1868 800,1868 830,1866 860,1864 890,1864 920,1864 950,1862 980,1864 1010,1862 1040,1862 1070,1862 1100,1862 1130,1862 1160,1862 1190,1864 1220,1864 1250,1868 1280,1870 1290,1872"/>
+                <TextEquiv>
+                    <Unicode>Mr Porter (the Nancy man) came</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="374,1927 399,1932 415,1921 452,1930 463,1924 477,1933 494,1930 496,1873 472,1876 463,1871 447,1874 431,1885 425,1879 412,1885 403,1880 393,1891 375,1891"/>
+                <Baseline points="382,1920 408,1918 438,1918 468,1918 498,1916"/>
+                <TextEquiv>
+                    <Unicode>work</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="127,1995 1252,1977 1227,1895 1078,1948 768,1880 522,1939 202,1882 127,1908"/>
+                <Baseline points="134,1964 162,1968 192,1970 222,1968 252,1968 282,1968 312,1968 342,1968 372,1966 402,1964 432,1964 462,1968 492,1968 522,1970 552,1968 582,1966 612,1964 642,1964 672,1964 702,1964 732,1964 762,1962 792,1960 822,1960 852,1958 882,1958 912,1960 942,1960 972,1962 1002,1960 1032,1960 1062,1960 1092,1962 1122,1962 1152,1964 1182,1964 1212,1964 1242,1966 1256,1966"/>
+                <TextEquiv>
+                    <Unicode>for 10 days at the Museum, he is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="124,2082 425,2066 525,2104 874,2063 1245,2126 1306,2119 1305,2029 1023,2001 949,2038 790,1991 731,2030 630,1989 461,2035 122,2023"/>
+                <Baseline points="132,2064 162,2064 192,2064 222,2066 252,2066 282,2066 312,2066 342,2064 372,2064 402,2064 432,2066 462,2066 492,2066 522,2064 552,2062 582,2062 612,2060 642,2062 672,2062 702,2062 732,2060 762,2062 792,2060 822,2058 852,2060 882,2060 912,2060 942,2060 972,2064 1002,2062 1032,2062 1062,2066 1092,2068 1122,2072 1152,2072 1182,2072 1212,2072 1242,2072 1272,2074 1302,2074 1308,2074"/>
+                <TextEquiv>
+                    <Unicode>a connection of the Barnards, a likely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

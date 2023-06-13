@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-20T22:12:24.746-04:00</Created>
+        <LastChange>2020-06-23T03:23:01.404+02:00</LastChange>
+        <TranskribusMetadata docId="416482" pageId="16536065" pageNr="1" tsid="32423125" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NKBOBPOUQLVMEBHVMSNNOYZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KQTEFIXNISYVOFCPKGYBFZWG" imageId="12329027"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_157_003.jpg" imageWidth="1339" imageHeight="2171">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330940362" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="70,175 70,2050 1258,2050 1258,175"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="90,274 265,306 630,250 733,281 951,224 1251,238 1247,162 1168,199 1019,166 962,207 877,177 664,217 479,189 419,218 285,168 89,235"/>
+                <Baseline points="97,269 154,269 211,269 268,267 326,265 383,263 440,261 498,258 555,256 612,252 670,249 727,246 784,243 841,239 899,237 956,233 1013,231 1071,228 1128,226 1185,224 1243,223"/>
+                <TextEquiv>
+                    <Unicode> in England, &amp; 100 gone to America.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="99,394 579,395 843,347 988,398 1155,350 1153,296 920,326 620,293 569,338 481,307 403,346 171,302 97,343"/>
+                <Baseline points="105,370 157,371 209,371 261,371 313,370 365,369 417,368 469,367 521,365 573,363 626,361 678,359 730,357 782,355 834,353 886,351 938,348 990,347 1042,345 1094,344 1147,343"/>
+                <TextEquiv>
+                    <Unicode>It has cost me £50 already &amp; I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="94,484 1096,458 1072,382 495,442 92,397"/>
+                <Baseline points="101,469 150,470 199,470 249,470 298,470 348,470 397,470 446,470 496,469 545,468 595,467 644,466 693,465 743,463 792,461 842,459 891,457 940,454 990,450 1039,447 1089,443"/>
+                <TextEquiv>
+                    <Unicode>shall never see 1d. of it back.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="95,563 318,568 380,617 475,559 1143,566 1177,503 1051,483 953,533 877,510 710,549 553,489 95,522"/>
+                <Baseline points="103,552 156,554 209,556 262,557 316,558 369,559 422,560 476,561 529,561 582,561 636,561 689,561 742,560 795,559 849,558 902,557 955,555 1009,553 1062,551 1115,548 1169,545"/>
+                <TextEquiv>
+                    <Unicode>Nevertheless I am more than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="62,675 209,705 330,665 1238,667 1247,587 1084,628 978,593 516,637 61,612"/>
+                <Baseline points="70,666 128,666 187,665 245,665 304,664 362,663 421,661 479,660 538,659 596,657 655,656 713,655 772,653 830,652 889,651 947,651 1006,650 1064,650 1123,650 1181,651 1240,652"/>
+                <TextEquiv>
+                    <Unicode>satisfied with its reception here &amp; in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="74,781 643,758 831,789 1021,732 1104,786 1220,769 1217,686 1075,676 747,736 448,702 218,747 71,706"/>
+                <Baseline points="81,761 137,764 194,765 250,766 307,766 363,765 420,764 476,762 533,760 589,758 646,755 702,753 759,750 815,747 872,744 928,741 985,739 1041,736 1098,735 1154,733 1211,732"/>
+                <TextEquiv>
+                    <Unicode>America &amp; Australia, &amp; find myself</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="90,896 230,873 314,908 476,867 587,919 748,864 1205,874 1204,821 1058,785 989,826 940,786 822,835 587,838 454,797 373,844 88,806"/>
+                <Baseline points="96,866 151,865 206,865 261,865 316,864 371,864 426,863 481,862 536,861 591,860 646,859 701,858 756,857 811,856 866,854 921,853 976,852 1031,850 1086,849 1141,847 1197,846"/>
+                <TextEquiv>
+                    <Unicode>proud of having given Banks a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="90,994 1176,970 1175,900 1094,881 892,878 805,940 726,886 573,920 504,896 362,955 89,918"/>
+                <Baseline points="97,968 150,969 204,969 257,970 311,970 365,970 418,970 472,969 525,969 579,968 633,967 686,965 740,964 793,962 847,961 901,959 954,957 1008,955 1061,952 1115,950 1169,947"/>
+                <TextEquiv>
+                    <Unicode>lift up amongst his posterity.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="147,1082 1157,1076 1255,1061 1254,1012 636,1040 503,998 389,1035 211,1000 146,1040"/>
+                <Baseline points="154,1070 208,1071 263,1071 318,1071 372,1070 427,1070 482,1069 536,1068 591,1066 646,1065 701,1064 755,1062 810,1061 865,1059 919,1058 974,1057 1029,1056 1083,1056 1138,1056 1193,1056 1248,1057"/>
+                <TextEquiv>
+                    <Unicode>Sir Saul Samuel has sent me a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="71,1189 329,1157 494,1206 590,1160 1014,1152 1211,1197 1219,1112 1048,1093 844,1132 719,1089 579,1134 69,1094"/>
+                <Baseline points="77,1157 133,1158 190,1159 247,1159 304,1159 360,1158 417,1158 474,1157 531,1156 587,1155 644,1154 701,1152 758,1151 814,1150 871,1148 928,1147 985,1146 1041,1145 1098,1144 1155,1144 1212,1143"/>
+                <TextEquiv>
+                    <Unicode>printed list of a large collection of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="84,1277 1210,1244 1209,1194 1158,1176 1099,1224 988,1179 876,1237 674,1203 434,1238 275,1195 226,1229 167,1194 83,1221"/>
+                <Baseline points="91,1261 146,1259 202,1257 257,1256 313,1255 369,1255 424,1254 480,1254 535,1253 591,1253 647,1252 702,1252 758,1251 813,1250 869,1249 925,1247 980,1245 1036,1243 1091,1241 1147,1237 1203,1234"/>
+                <TextEquiv>
+                    <Unicode>Banksian correspondence that he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="114,1374 232,1406 546,1347 1265,1367 1264,1288 1224,1285 1093,1323 770,1282 623,1315 574,1279 478,1335 419,1296 352,1332 113,1294"/>
+                <Baseline points="121,1358 177,1358 234,1357 291,1357 348,1356 405,1354 462,1353 518,1351 575,1349 632,1347 689,1346 746,1344 803,1343 860,1342 916,1341 973,1341 1030,1341 1087,1342 1144,1343 1201,1346 1258,1349"/>
+                <TextEquiv>
+                    <Unicode>brought from Lord Brabourne! Also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="102,1467 439,1500 480,1463 696,1461 765,1517 868,1456 1194,1469 1194,1413 971,1383 807,1429 747,1394 663,1417 551,1350 439,1431 212,1396 102,1437"/>
+                <Baseline points="109,1457 162,1456 216,1455 270,1455 324,1454 378,1454 432,1454 485,1454 539,1454 593,1454 647,1454 701,1454 755,1455 809,1455 862,1455 916,1455 970,1454 1024,1454 1078,1453 1132,1453 1186,1452"/>
+                <TextEquiv>
+                    <Unicode>a volume of Records of N S Wales</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="78,1595 225,1551 476,1622 550,1571 655,1612 715,1567 1197,1588 1197,1547 1005,1550 927,1513 653,1550 514,1498 246,1533 79,1503"/>
+                <Baseline points="86,1572 141,1568 196,1566 251,1564 306,1563 362,1562 417,1563 472,1563 527,1564 582,1565 638,1567 693,1568 748,1570 803,1571 858,1572 914,1573 969,1573 1024,1573 1079,1573 1134,1571 1190,1569"/>
+                <TextEquiv>
+                    <Unicode>1783-1789. full of most curious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="86,1686 465,1674 557,1722 783,1671 834,1705 1093,1661 1182,1682 1182,1645 1083,1608 1029,1639 986,1602 770,1640 678,1599 568,1647 86,1625"/>
+                <Baseline points="94,1672 148,1671 202,1670 256,1670 310,1669 364,1669 418,1670 472,1670 526,1670 580,1671 634,1671 688,1672 742,1672 796,1672 850,1672 904,1672 958,1672 1012,1671 1066,1671 1120,1670 1175,1668"/>
+                <TextEquiv>
+                    <Unicode>matter, including Bank's efforts in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="93,1817 276,1797 389,1843 475,1802 575,1847 670,1796 1094,1797 1094,1736 742,1755 619,1700 464,1757 286,1760 170,1707 92,1718"/>
+                <Baseline points="100,1791 149,1790 198,1789 247,1788 297,1787 346,1787 395,1786 445,1785 494,1784 543,1784 593,1783 642,1783 691,1782 740,1782 790,1782 839,1782 888,1782 938,1782 987,1782 1036,1783 1086,1784"/>
+                <TextEquiv>
+                    <Unicode>the cause of the Colony &amp;c &amp;c &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="117,1922 726,1910 904,1962 1059,1909 1245,1943 1245,1857 333,1885 186,1807 117,1827"/>
+                <Baseline points="124,1899 179,1902 235,1905 291,1907 346,1908 402,1909 458,1909 513,1909 569,1909 625,1909 681,1909 736,1908 792,1908 848,1907 903,1907 959,1907 1015,1907 1070,1908 1126,1909 1182,1911 1238,1912"/>
+                <TextEquiv>
+                    <Unicode>There is a mention in it of a short</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="114,2027 262,2009 411,2058 472,2019 566,2051 710,2007 1001,2065 1176,2029 1062,1948 961,1995 756,1936 544,1936 487,1982 395,1984 116,1940"/>
+                <Baseline points="122,2002 174,2005 226,2007 279,2008 331,2010 383,2012 436,2014 488,2016 540,2017 593,2018 645,2020 697,2021 750,2022 802,2023 854,2024 907,2024 959,2025 1011,2025 1064,2025 1116,2025 1169,2026"/>
+                <TextEquiv>
+                    <Unicode>Memoir of Sir J. B. "written from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> in England, &amp; 100 gone to America.&#13;
+It has cost me £50 already &amp; I&#13;
+shall never see 1d. of it back.&#13;
+Nevertheless I am more than&#13;
+satisfied with its reception here &amp; in&#13;
+America &amp; Australia, &amp; find myself&#13;
+proud of having given Banks a&#13;
+lift up amongst his posterity.&#13;
+Sir Saul Samuel has sent me a&#13;
+printed list of a large collection of&#13;
+Banksian correspondence that he&#13;
+brought from Lord Brabourne! Also&#13;
+a volume of Records of N S Wales&#13;
+1783-1789. full of most curious&#13;
+matter, including Bank's efforts in&#13;
+the cause of the Colony &amp;c &amp;c &amp;c.&#13;
+There is a mention in it of a short&#13;
+Memoir of Sir J. B. "written from</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

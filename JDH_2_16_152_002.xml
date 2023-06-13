@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-20T22:09:18.731-04:00</Created>
+        <LastChange>2020-06-22T22:18:25.174+02:00</LastChange>
+        <TranskribusMetadata docId="416478" pageId="16536059" pageNr="1" tsid="32411899" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TBXPAYOPIHNBXNCVJRKTBDUA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KEOPABXUXFBPTVFBBVSMEDRX" imageId="12329021"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_152_002.jpg" imageWidth="1389" imageHeight="2167">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330944825" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="149,181 149,2079 1351,2079 1351,181"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="171,331 484,259 1266,233 1330,265 1356,170 746,227 166,199"/>
+                <Baseline points="176,274 234,269 293,266 352,262 411,259 469,257 528,255 587,253 646,251 704,249 763,248 822,246 881,245 939,243 998,241 1057,239 1116,237 1174,235 1233,232 1292,229 1351,225"/>
+                <TextEquiv>
+                    <Unicode>Ceylon species are concerned, supported</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="186,381 686,360 1082,395 1218,350 1217,312 1174,301 982,338 817,296 712,324 599,303 318,359 185,324"/>
+                <Baseline points="194,377 244,374 295,371 346,369 397,367 448,366 498,365 549,364 600,364 651,363 702,363 752,362 803,361 854,361 905,360 956,358 1006,357 1057,355 1108,352 1159,349 1210,346"/>
+                <TextEquiv>
+                    <Unicode>his work: -- but this does not go</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="150,533 204,545 257,509 279,520 325,496 350,500 363,492 383,500 381,444 356,445 333,427 300,450 289,445 250,463 192,444 147,444"/>
+                <Baseline points="156,492 183,488 210,486 238,484 265,483 292,483 320,483 347,482 375,481"/>
+                <TextEquiv>
+                    <Unicode>very far.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="252,599 416,567 533,602 647,561 1219,567 1217,496 1179,493 855,535 760,502 643,533 564,503 380,533 250,510"/>
+                <Baseline points="259,567 306,567 354,567 401,567 449,567 497,567 544,566 592,565 639,564 687,563 735,561 782,560 830,558 877,556 925,555 973,553 1020,551 1068,550 1115,548 1163,546 1211,544"/>
+                <TextEquiv>
+                    <Unicode>My orchideae all want to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="149,706 433,676 495,710 1077,641 1187,690 1183,600 1072,589 853,637 790,594 676,652 146,635"/>
+                <Baseline points="155,675 206,678 257,680 308,681 359,680 410,679 461,678 512,675 563,672 614,669 666,666 717,662 768,659 819,655 870,653 921,650 972,648 1023,646 1074,645 1125,645 1177,646"/>
+                <TextEquiv>
+                    <Unicode>done over again, the additions of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="168,814 289,781 398,809 490,773 536,803 684,751 814,783 1102,747 1148,714 715,682 651,725 164,739"/>
+                <Baseline points="174,782 222,780 270,777 319,775 367,772 415,769 464,767 512,763 560,761 609,758 657,755 705,751 754,749 802,746 850,744 899,742 947,740 995,738 1044,737 1092,736 1141,735"/>
+                <TextEquiv>
+                    <Unicode>species by King &amp; Ridley are so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="169,878 289,917 403,858 477,890 656,849 748,876 1076,826 1156,848 1156,795 1014,785 895,828 804,802 167,831"/>
+                <Baseline points="176,869 224,867 273,864 321,862 370,861 419,859 467,858 516,857 565,856 613,854 662,853 711,851 759,850 808,848 857,846 905,844 954,841 1003,838 1051,835 1100,830 1149,825"/>
+                <TextEquiv>
+                    <Unicode>many &amp; my own supplements so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="179,974 565,983 871,926 954,963 1041,942 1039,898 841,883 665,926 578,904 176,924"/>
+                <Baseline points="185,957 227,959 269,960 312,961 354,960 397,959 439,958 481,956 524,953 566,950 609,947 651,944 693,941 736,938 778,935 821,932 863,930 905,928 948,927 990,926 1033,927"/>
+                <TextEquiv>
+                    <Unicode>large, &amp; corrections so many.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="330,1066 713,1077 791,1040 1054,1033 1112,1079 1164,1056 1161,983 1123,961 1003,1007 949,984 807,996 641,1042 587,1019 473,1033 381,983 327,1001"/>
+                <Baseline points="337,1050 377,1054 418,1057 459,1059 500,1060 541,1060 582,1060 623,1059 664,1057 705,1055 746,1053 786,1049 827,1046 868,1043 909,1041 950,1037 991,1035 1032,1032 1073,1029 1114,1028 1155,1026"/>
+                <TextEquiv>
+                    <Unicode>I have written to ask King</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="142,1184 1172,1154 1210,1092 1023,1110 942,1079 393,1143 299,1112 140,1151"/>
+                <Baseline points="149,1174 201,1174 254,1174 307,1173 360,1171 413,1170 465,1168 518,1166 571,1163 624,1161 677,1158 729,1155 782,1152 835,1148 888,1145 941,1142 993,1138 1046,1134 1099,1130 1152,1127 1205,1123"/>
+                <TextEquiv>
+                    <Unicode>whether &amp; at what cost he could</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="179,1307 403,1282 483,1328 544,1283 1187,1265 1184,1199 1087,1189 1021,1234 755,1196 555,1251 176,1227"/>
+                <Baseline points="185,1285 234,1283 284,1282 334,1281 383,1279 433,1278 483,1277 532,1275 582,1274 632,1272 682,1271 731,1269 781,1267 831,1266 880,1264 930,1262 980,1260 1029,1258 1079,1255 1129,1253 1179,1250"/>
+                <TextEquiv>
+                    <Unicode>get copies of all the later Cal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="425,1354 432,1354 437,1349 446,1348 458,1342 463,1336 472,1335 469,1303 454,1304 448,1302 447,1304 436,1294 430,1295 427,1292 419,1293"/>
+                <Baseline points="430,1338 465,1335"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="256,1358 290,1362 318,1348 345,1345 354,1354 380,1343 401,1354 417,1348 415,1316 400,1320 368,1295 361,1302 349,1302 328,1320 294,1292 268,1316 253,1320"/>
+                <Baseline points="263,1349 292,1345 321,1342 350,1341 379,1340 409,1339"/>
+                <TextEquiv>
+                    <Unicode>Orchids</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="193,1427 312,1387 684,1372 802,1407 1235,1359 1233,1312 1141,1289 962,1327 749,1313 662,1363 497,1319 425,1368 237,1328 191,1361"/>
+                <Baseline points="199,1385 250,1386 301,1387 353,1388 404,1387 456,1386 507,1385 558,1383 610,1381 661,1379 713,1376 764,1373 815,1370 867,1368 918,1365 970,1362 1021,1360 1072,1358 1124,1355 1175,1353 1227,1352"/>
+                <TextEquiv>
+                    <Unicode>Garden &amp; ones supplied for Kew.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="191,1507 740,1469 858,1495 1048,1457 1212,1482 1209,1413 1098,1431 935,1396 661,1451 517,1419 476,1458 252,1420 189,1463"/>
+                <Baseline points="197,1491 247,1491 297,1490 347,1489 398,1488 448,1486 498,1485 549,1483 599,1481 649,1478 700,1476 750,1473 800,1471 850,1468 901,1466 951,1463 1001,1460 1052,1457 1102,1455 1152,1451 1203,1449"/>
+                <TextEquiv>
+                    <Unicode>It would be well that he should</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="158,1633 278,1596 711,1582 849,1618 921,1578 1256,1568 1225,1507 921,1539 813,1507 636,1570 495,1518 419,1559 219,1532 156,1558"/>
+                <Baseline points="165,1601 219,1598 273,1596 327,1594 381,1592 436,1590 490,1589 544,1587 598,1586 652,1584 707,1583 761,1581 815,1580 869,1578 923,1576 978,1573 1032,1570 1086,1567 1140,1564 1194,1560 1249,1555"/>
+                <TextEquiv>
+                    <Unicode> publish them in a Vol. of the Annals;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="177,1700 317,1691 398,1732 576,1683 1192,1688 1207,1638 175,1647"/>
+                <Baseline points="183,1692 233,1692 284,1691 335,1690 386,1689 437,1687 488,1686 539,1685 590,1683 641,1682 692,1680 742,1679 793,1677 844,1676 895,1675 946,1674 997,1673 1048,1673 1099,1672 1150,1672 1201,1672"/>
+                <TextEquiv>
+                    <Unicode>but they would not be coloured:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="177,1815 340,1852 584,1798 757,1833 916,1756 1145,1817 1144,1754 1080,1736 986,1762 870,1722 581,1764 517,1728 359,1768 221,1721 176,1739"/>
+                <Baseline points="184,1799 231,1799 279,1799 326,1798 374,1797 422,1797 469,1795 517,1794 565,1793 612,1791 660,1790 708,1789 755,1788 803,1786 851,1786 898,1785 946,1785 994,1785 1041,1785 1089,1786 1137,1787"/>
+                <TextEquiv>
+                    <Unicode>he might however get a copy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="175,1919 367,1907 444,1942 570,1906 660,1924 686,1919 685,1837 625,1855 593,1826 539,1852 475,1844 431,1873 359,1859 314,1883 278,1857 174,1872"/>
+                <Baseline points="182,1897 208,1900 234,1902 260,1903 286,1904 312,1904 338,1904 365,1903 391,1903 417,1902 443,1901 469,1899 495,1898 522,1897 548,1897 574,1896 600,1896 626,1897 652,1897 679,1899"/>
+                <TextEquiv>
+                    <Unicode>coloured for Kew.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="701,1949 735,1944 795,1961 822,1946 880,1969 898,1952 929,1973 951,1951 983,1963 1008,1932 1081,1902 1077,1870 1042,1854 1006,1865 955,1855 901,1879 844,1872 784,1833 734,1890 695,1891"/>
+                <Baseline points="707,1933 733,1936 759,1937 785,1938 811,1938 837,1937 863,1934 890,1932 916,1928 942,1924 968,1920 994,1916 1020,1911 1046,1907 1073,1902"/>
+                <TextEquiv>
+                    <Unicode>Ever afly yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="898,2069 942,2065 971,2078 1004,2060 1073,2051 1182,2072 1181,2022 1111,1985 1076,1991 1028,1964 991,1973 952,1950 920,1982 896,1983"/>
+                <Baseline points="905,2054 931,2056 958,2057 985,2057 1012,2055 1039,2053 1066,2050 1093,2049 1120,2049 1147,2051 1174,2055"/>
+                <TextEquiv>
+                    <Unicode>J.D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ceylon species are concerned, supported&#13;
+his work: -- but this does not go&#13;
+very far.&#13;
+My orchideae all want to be&#13;
+done over again, the additions of&#13;
+species by King &amp; Ridley are so&#13;
+many &amp; my own supplements so&#13;
+large, &amp; corrections so many.&#13;
+I have written to ask King&#13;
+whether &amp; at what cost he could&#13;
+get copies of all the later Cal&#13;
+&#13;
+Orchids&#13;
+Garden &amp; ones supplied for Kew.&#13;
+It would be well that he should&#13;
+ publish them in a Vol. of the Annals;&#13;
+but they would not be coloured:&#13;
+he might however get a copy&#13;
+coloured for Kew.&#13;
+Ever afly yrs&#13;
+J.D. Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

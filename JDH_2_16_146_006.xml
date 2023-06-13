@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-18T19:04:57.153-04:00</Created>
+        <LastChange>2020-06-19T03:08:33.584+02:00</LastChange>
+        <TranskribusMetadata docId="415447" pageId="16484251" pageNr="2" tsid="32168889" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=FARCLPQDUYISRJMKMIFUPNKK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PFHPHFBPHLDGJRTKMYNUHITB" imageId="12277864"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_146_006.jpg" imageWidth="1429" imageHeight="2190">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330957786" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="127,175 127,1589 1307,1589 1307,175"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="164,279 835,271 877,233 1140,294 1207,248 1315,258 1313,167 1232,208 1127,155 879,214 490,171 163,218"/>
+                <Baseline points="171,266 227,263 284,261 341,259 398,257 455,256 511,255 568,255 625,254 682,254 739,253 795,252 852,252 909,251 966,249 1023,248 1079,245 1136,243 1193,239 1250,235 1307,230"/>
+                <TextEquiv>
+                    <Unicode>we see the women in the labourers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="120,407 171,379 1112,393 1111,318 928,330 844,277 657,347 454,279 367,330 172,289 119,310"/>
+                <Baseline points="127,375 175,376 224,376 273,376 322,377 371,376 420,376 469,376 518,375 567,375 616,374 664,373 713,373 762,372 811,371 860,371 909,370 958,370 1007,370 1056,370 1105,370"/>
+                <TextEquiv>
+                    <Unicode>plots. Technical Education</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="126,517 421,497 540,526 627,491 1210,524 1181,411 838,449 703,402 622,467 547,435 419,473 183,421 124,447"/>
+                <Baseline points="133,495 186,498 239,499 293,500 346,500 400,499 453,497 506,496 560,494 613,492 667,489 720,486 773,484 827,482 880,480 934,478 987,476 1040,475 1094,475 1147,476 1201,477"/>
+                <TextEquiv>
+                    <Unicode>turned into that direction</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="143,612 1151,619 1223,586 1221,532 1090,520 966,571 816,541 142,586"/>
+                <Baseline points="150,608 203,609 256,610 309,611 363,611 416,611 469,610 522,609 576,608 629,606 682,604 735,602 789,600 842,598 895,596 948,594 1002,592 1055,590 1108,588 1161,586 1215,585"/>
+                <TextEquiv>
+                    <Unicode>would do more good than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="164,723 500,717 592,763 836,737 932,773 1075,697 1269,719 1268,670 1128,620 974,677 536,674 466,634 164,685"/>
+                <Baseline points="172,719 226,719 280,718 335,718 389,718 444,718 498,718 553,717 607,717 662,716 716,716 770,715 825,714 879,712 934,711 988,709 1043,707 1097,704 1152,701 1206,699 1261,695"/>
+                <TextEquiv>
+                    <Unicode>would the training of young Ladies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="269,811 307,787 335,782 372,785 388,796 432,778 473,789 494,781 494,747 433,754 418,746 407,756 358,742 321,720 282,754 268,755"/>
+                <Baseline points="275,783 301,782 328,781 354,780 381,780 407,779 434,779 460,778 487,777"/>
+                <TextEquiv>
+                    <Unicode>to flower</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="157,850 164,852 176,846 203,854 229,759 222,757 186,777 177,775"/>
+                <Baseline points="169,834 199,842"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="314,853 365,864 423,854 557,892 573,876 665,856 664,819 623,824 568,801 506,820 451,799 418,820 386,805 312,820"/>
+                <Baseline points="321,861 346,856 372,852 398,849 424,847 450,846 476,845 501,845 527,845 553,846 579,846 605,846 631,845 657,844"/>
+                <TextEquiv>
+                    <Unicode>gardening.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="184,908 192,905 204,912 211,912 224,907 238,915 247,914 238,841 231,842 221,852 215,852 208,862 199,860 194,865 179,868"/>
+                <Baseline points="189,895 237,889"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="510,1032 646,1025 789,1089 812,1065 845,1071 900,1016 961,1003 956,911 910,913 855,960 784,936 732,949 615,904 554,963 506,958"/>
+                <Baseline points="517,1021 542,1022 568,1024 593,1024 619,1024 645,1024 670,1023 696,1022 722,1021 747,1020 773,1018 799,1016 824,1013 850,1010 876,1008 901,1005 927,1002 953,998"/>
+                <TextEquiv>
+                    <Unicode>E affy yours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="750,1291 824,1240 896,1252 945,1234 1027,1251 1149,1224 1221,1241 1215,1105 1160,1115 1093,1081 1008,1074 921,1120 875,1104 833,1143 743,1151"/>
+                <Baseline points="754,1242 779,1241 805,1240 830,1239 856,1238 881,1237 907,1235 932,1234 958,1233 983,1232 1009,1231 1034,1230 1060,1228 1085,1227 1111,1226 1136,1225 1162,1224 1187,1224 1213,1223"/>
+                <TextEquiv>
+                    <Unicode>Jos. D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="168,1444 345,1464 749,1419 919,1463 965,1423 1314,1427 1313,1355 1083,1330 605,1401 166,1313"/>
+                <Baseline points="175,1430 231,1430 288,1430 344,1430 401,1429 457,1428 514,1427 570,1426 627,1424 683,1423 740,1422 797,1420 853,1419 910,1418 966,1417 1023,1416 1079,1415 1136,1415 1192,1415 1249,1415 1306,1416"/>
+                <TextEquiv>
+                    <Unicode>Mr. Darwin is vastly pleased</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="195,1561 380,1552 504,1583 548,1557 683,1570 723,1544 760,1562 828,1551 827,1516 731,1530 571,1455 400,1508 334,1480 195,1519"/>
+                <Baseline points="203,1559 233,1558 264,1558 295,1558 326,1558 357,1558 388,1558 419,1558 450,1558 481,1558 512,1558 542,1558 573,1558 604,1558 635,1557 666,1556 697,1555 728,1554 759,1552 790,1550 821,1548"/>
+                <TextEquiv>
+                    <Unicode>with the "Index". --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>we see the women in the labourers&#13;
+plots. Technical Education&#13;
+turned into that direction&#13;
+would do more good than&#13;
+would the training of young Ladies&#13;
+to flower&#13;
+1&#13;
+gardening.&#13;
+&#13;
+E affy yours&#13;
+Jos. D. Hooker&#13;
+Mr. Darwin is vastly pleased&#13;
+with the "Index". --</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

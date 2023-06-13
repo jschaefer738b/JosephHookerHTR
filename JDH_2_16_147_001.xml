@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-18T19:12:25.350-04:00</Created>
+        <LastChange>2020-06-19T04:40:34.978+02:00</LastChange>
+        <TranskribusMetadata docId="415448" pageId="16484252" pageNr="1" tsid="32170728" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=OCXMCHZSYAKQWJQSQFUZLFMN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQHCDCWETOYJFZOYIRBATVLM" imageId="12277865"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_147_001.jpg" imageWidth="1397" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330954931" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="106,203 106,391 182,391 182,203"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="105,282 112,279 131,283 143,269 153,266 161,268 163,262 170,258 145,199 138,203 132,213 118,207 109,210 101,206 90,206 85,213 77,216"/>
+                <Baseline points="108,274 134,265 160,252"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="177,34 177,2062 1326,2062 1326,34"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1031,91 1076,98 1093,89 1123,105 1178,73 1200,94 1208,87 1221,91 1221,-10 1203,-10 1193,1 1030,0"/>
+                <Baseline points="1038,85 1063,80 1088,77 1113,76 1138,76 1163,77 1188,80 1214,83"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="980,211 1030,187 1039,197 1125,194 1211,247 1277,214 1308,222 1311,124 1266,106 1227,126 1165,131 1134,159 1055,92 983,119"/>
+                <Baseline points="988,191 1014,190 1040,189 1066,188 1092,189 1118,189 1144,190 1170,191 1196,192 1222,194 1248,196 1274,198 1301,200"/>
+                <TextEquiv>
+                    <Unicode>March 8/96.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="283,285 297,286 313,280 317,284 344,283 352,289 369,281 363,208 350,208 344,203 325,200 318,208 308,211 276,207"/>
+                <Baseline points="288,267 324,267 360,261"/>
+                <TextEquiv>
+                    <Unicode>96</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1044,287 1076,290 1113,277 1168,289 1201,278 1223,288 1239,281 1240,240 1189,253 1139,235 1118,247 1089,243 1083,250 1071,239 1044,239"/>
+                <Baseline points="1051,272 1077,273 1103,274 1129,274 1155,274 1181,274 1207,273 1233,274"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1018,358 1053,350 1077,362 1103,347 1161,364 1204,350 1258,358 1275,351 1275,321 1216,316 1195,323 1155,297 1112,311 1100,304 1060,323 1035,306 1018,310"/>
+                <Baseline points="1024,341 1051,343 1078,344 1105,344 1132,344 1159,343 1186,343 1213,342 1240,342 1268,341"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="192,618 228,617 258,641 358,579 481,584 523,602 642,576 642,543 539,526 505,504 447,549 379,527 335,537 266,479 207,517 190,512"/>
+                <Baseline points="198,584 223,581 249,579 275,578 300,577 326,577 352,577 377,577 403,577 429,577 455,577 480,577 506,577 532,576 557,575 583,573 609,571 635,567"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="494,691 653,702 1020,659 1240,682 1333,649 1331,599 1234,591 1083,632 1007,612 953,644 898,614 857,644 660,658 490,606"/>
+                <Baseline points="501,682 542,682 583,682 624,681 666,680 707,679 748,678 789,676 831,674 872,672 913,669 954,667 996,665 1037,663 1078,660 1119,657 1161,655 1202,653 1243,650 1284,649 1326,647"/>
+                <TextEquiv>
+                    <Unicode>We are shocked &amp; distressed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="171,817 372,804 427,845 551,791 1249,771 1163,706 919,714 863,755 762,718 470,771 330,733 169,765"/>
+                <Baseline points="177,803 230,802 283,802 336,801 389,799 443,797 496,795 549,792 602,789 655,786 709,783 762,780 815,777 868,773 921,771 975,767 1028,765 1081,762 1134,760 1187,758 1241,756"/>
+                <TextEquiv>
+                    <Unicode>to hear of your Mother's state: &amp; can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="202,928 261,952 350,901 562,912 661,872 1230,893 1228,817 534,825 493,857 373,837 199,877"/>
+                <Baseline points="207,895 257,894 308,893 359,892 410,890 460,888 511,886 562,884 613,882 663,879 714,876 765,874 816,870 866,868 917,865 968,862 1019,859 1069,856 1120,853 1171,851 1222,848"/>
+                <TextEquiv>
+                    <Unicode>only hope that the operation may</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="222,1032 466,992 752,997 823,1042 888,987 1286,980 1283,920 1199,910 649,974 509,939 391,982 219,957"/>
+                <Baseline points="227,1000 279,1000 332,1000 384,999 437,998 490,997 542,995 595,993 647,991 700,989 753,986 805,983 858,981 910,978 963,976 1016,973 1068,970 1121,968 1173,966 1226,964 1279,962"/>
+                <TextEquiv>
+                    <Unicode>give a longer spell of relief than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="243,1113 869,1077 1000,1121 1085,1071 1295,1058 1293,1022 1190,996 924,1057 876,1023 839,1056 663,1013 597,1072 391,1044 242,1086"/>
+                <Baseline points="249,1097 300,1097 352,1096 404,1095 456,1094 508,1092 560,1090 612,1087 664,1084 716,1081 768,1078 819,1075 871,1072 923,1068 975,1066 1027,1063 1079,1059 1131,1057 1183,1055 1235,1053 1287,1051"/>
+                <TextEquiv>
+                    <Unicode>you expect.  It recalls my Mother's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="225,1104 232,1101 234,1098 238,1098 240,1095 245,1094 247,1089 258,1085 240,1048 235,1050 232,1055 225,1055 222,1060 206,1065"/>
+                <Baseline points="230,1100 253,1089"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="215,1225 1121,1195 1175,1174 1173,1118 963,1169 698,1147 609,1180 415,1144 351,1186 213,1172"/>
+                <Baseline points="221,1203 268,1203 315,1203 363,1203 410,1202 458,1201 505,1200 552,1199 600,1198 647,1197 695,1196 742,1194 789,1192 837,1190 884,1188 932,1186 979,1184 1026,1181 1074,1178 1121,1176 1169,1173"/>
+                <TextEquiv>
+                    <Unicode>case to me: who survived the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="246,1317 671,1294 744,1333 1284,1268 1299,1230 1062,1211 939,1253 847,1223 782,1265 620,1218 559,1256 462,1233 361,1281 304,1243 244,1276"/>
+                <Baseline points="251,1298 303,1298 355,1298 407,1298 459,1297 511,1296 563,1295 615,1294 667,1292 719,1291 772,1289 824,1286 876,1283 928,1281 980,1278 1032,1276 1084,1273 1136,1269 1188,1266 1240,1262 1293,1259"/>
+                <TextEquiv>
+                    <Unicode>operation in her leg longer than we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="222,1414 820,1392 1057,1418 1285,1392 1285,1330 1160,1314 994,1376 820,1346 708,1378 648,1332 423,1388 220,1367"/>
+                <Baseline points="228,1406 280,1407 333,1408 385,1408 438,1407 490,1406 543,1405 595,1403 648,1402 700,1399 753,1397 806,1395 858,1392 911,1390 963,1387 1016,1385 1068,1383 1121,1382 1173,1380 1226,1379 1279,1379"/>
+                <TextEquiv>
+                    <Unicode>at one time had reason to hope --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="245,1535 756,1504 958,1546 1087,1497 1291,1503 1290,1464 1225,1438 1062,1482 816,1444 615,1492 244,1446"/>
+                <Baseline points="251,1500 302,1503 354,1505 405,1506 457,1507 509,1508 560,1508 612,1507 664,1506 715,1505 767,1504 819,1502 870,1501 922,1499 974,1497 1025,1496 1077,1494 1129,1493 1180,1492 1232,1491 1284,1490"/>
+                <TextEquiv>
+                    <Unicode>but she was a much younger woman,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="252,1619 1097,1623 1295,1602 1322,1535 1170,1563 1114,1530 928,1589 685,1561 506,1589 386,1544 325,1593 251,1578"/>
+                <Baseline points="258,1610 313,1611 369,1612 425,1612 480,1612 536,1611 592,1611 648,1610 703,1608 759,1607 815,1605 871,1603 926,1601 982,1599 1038,1597 1094,1594 1149,1592 1205,1590 1261,1587 1317,1585"/>
+                <TextEquiv>
+                    <Unicode>&amp; the circumstances are not parallel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="337,1739 616,1718 775,1743 924,1704 1216,1730 1226,1692 1144,1682 1099,1641 910,1689 842,1659 554,1683 407,1644 336,1669"/>
+                <Baseline points="343,1721 386,1722 430,1722 474,1722 518,1721 562,1719 605,1718 649,1716 693,1715 737,1713 781,1711 824,1710 868,1708 912,1707 956,1706 1000,1706 1043,1706 1087,1707 1131,1708 1175,1710 1219,1713"/>
+                <TextEquiv>
+                    <Unicode>We shall be glad to hear</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="217,1848 421,1831 502,1862 993,1816 1058,1850 1237,1848 1237,1811 1073,1763 841,1806 677,1780 631,1810 563,1764 440,1765 377,1814 217,1783"/>
+                <Baseline points="224,1826 274,1829 324,1830 374,1830 425,1831 475,1830 525,1830 576,1829 626,1828 676,1827 727,1826 777,1825 827,1824 877,1824 928,1823 978,1823 1028,1824 1079,1825 1129,1827 1179,1830 1230,1833"/>
+                <TextEquiv>
+                    <Unicode>when the operation is over, &amp; your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="235,1964 827,1988 935,1959 1011,2015 1071,1966 1250,1964 1251,1918 1097,1941 574,1902 469,1937 235,1898"/>
+                <Baseline points="241,1952 291,1954 341,1956 391,1956 441,1957 491,1957 541,1957 592,1957 642,1956 692,1956 742,1955 792,1955 842,1955 892,1954 943,1954 993,1955 1043,1955 1093,1957 1143,1959 1193,1961 1244,1964"/>
+                <TextEquiv>
+                    <Unicode>mind is, temporarily at any rate,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="259,2052 287,2045 328,2052 338,2043 367,2054 398,2050 426,2067 463,2046 502,2067 548,2055 549,2022 524,2021 505,2003 430,2021 403,1999 334,1979 312,1998 262,1995"/>
+                <Baseline points="267,2032 292,2033 317,2034 342,2036 367,2037 392,2038 417,2040 442,2041 467,2042 492,2042 517,2043 542,2043"/>
+                <TextEquiv>
+                    <Unicode>relieved.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+March 8/96.&#13;
+96&#13;
+THE CAMP.&#13;
+SUNNINGDALE.&#13;
+My dear Dyer&#13;
+We are shocked &amp; distressed&#13;
+to hear of your Mother's state: &amp; can&#13;
+only hope that the operation may&#13;
+give a longer spell of relief than&#13;
+you expect.  It recalls my Mother's&#13;
+&#13;
+case to me: who survived the&#13;
+operation in her leg longer than we&#13;
+at one time had reason to hope --&#13;
+but she was a much younger woman,&#13;
+&amp; the circumstances are not parallel.&#13;
+We shall be glad to hear&#13;
+when the operation is over, &amp; your&#13;
+mind is, temporarily at any rate,&#13;
+relieved.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

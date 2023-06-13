@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-11T20:32:25.218-04:00</Created>
+        <LastChange>2020-06-12T07:20:56.343+02:00</LastChange>
+        <TranskribusMetadata docId="407725" pageId="16124212" pageNr="1" tsid="31454547" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=WKFVEPSJYUUIYZQGTSYVYNDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVBEJPABYDNIVSCTXZLSVLNI" imageId="11931794"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_144_001.jpg" imageWidth="1423" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330959906" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="196,34 196,2074 1369,2074 1369,34"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="944,189 1098,194 1159,235 1209,193 1274,185 1273,111 1244,116 1221,98 1105,123 1076,98 995,79 956,103 943,97"/>
+                <Baseline points="951,178 977,179 1003,180 1030,181 1056,181 1082,181 1109,181 1135,180 1161,180 1188,179 1214,177 1240,175 1267,173"/>
+                <TextEquiv>
+                    <Unicode>Dec 21/95</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1075,276 1144,265 1195,278 1227,264 1238,272 1253,259 1277,274 1278,232 1225,235 1184,221 1158,237 1076,222"/>
+                <Baseline points="1082,255 1108,258 1135,259 1162,260 1189,260 1216,260 1243,260 1270,261"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1046,336 1090,333 1106,341 1139,332 1165,340 1207,329 1249,347 1270,337 1312,341 1313,313 1277,302 1242,306 1212,288 1132,303 1099,293 1081,300 1047,294"/>
+                <Baseline points="1054,325 1079,326 1104,327 1129,327 1154,327 1179,327 1204,327 1229,327 1254,328 1279,328 1305,330"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="215,597 272,630 359,575 396,603 488,576 587,585 627,573 626,526 578,528 523,487 448,528 393,523 300,460 213,511"/>
+                <Baseline points="221,569 247,570 274,572 300,572 327,573 353,573 380,573 406,572 433,572 459,571 486,570 512,568 539,566 565,564 592,563 619,561"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="509,677 699,665 763,692 916,656 1091,688 1325,648 1322,580 1097,576 724,645 632,593 506,614"/>
+                <Baseline points="515,657 555,659 595,661 635,662 675,662 715,661 755,661 795,660 835,658 875,656 916,654 956,651 996,648 1036,645 1076,642 1116,640 1156,636 1196,634 1236,631 1276,628 1317,626"/>
+                <TextEquiv>
+                    <Unicode>I have gone into Callitris,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="189,793 470,816 660,768 902,799 961,764 1315,747 1358,707 1277,672 1103,733 1049,698 902,737 721,704 360,768 250,727 187,749"/>
+                <Baseline points="196,780 253,781 311,782 369,782 427,781 485,780 542,779 600,776 658,774 716,771 774,768 831,764 889,761 947,757 1005,753 1063,750 1120,747 1178,744 1236,741 1294,738 1352,736"/>
+                <TextEquiv>
+                    <Unicode>&amp; am satisfied that, whatever shd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="212,888 623,862 752,905 1374,856 1346,796 1118,780 998,828 595,806 533,848 374,861 267,821 211,859"/>
+                <Baseline points="219,882 276,881 333,880 391,878 448,876 505,874 563,871 620,868 677,865 735,862 792,860 849,857 907,855 964,852 1021,850 1079,849 1136,848 1193,847 1251,847 1308,848 1366,849"/>
+                <TextEquiv>
+                    <Unicode>be done with Widdringtonia, Tetraclinis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="235,996 828,991 976,953 1170,999 1246,954 1362,958 1361,930 1256,883 968,935 746,905 655,943 233,945"/>
+                <Baseline points="241,984 296,985 352,984 408,983 463,982 519,979 575,976 630,973 686,969 742,965 798,961 853,958 909,955 965,952 1020,949 1076,947 1132,946 1187,946 1243,946 1299,948 1355,951"/>
+                <TextEquiv>
+                    <Unicode>should stand. It differs wholly from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="246,1095 521,1122 732,1073 812,1093 882,1054 1307,1048 1305,999 1226,979 1156,1023 903,1001 712,1039 245,1044"/>
+                <Baseline points="253,1081 305,1080 357,1079 410,1078 462,1076 514,1074 567,1072 619,1069 671,1067 724,1064 776,1062 828,1059 881,1056 933,1054 985,1052 1038,1051 1090,1049 1142,1048 1195,1047 1247,1047 1300,1048"/>
+                <TextEquiv>
+                    <Unicode>Widdringtonia &amp; Callitris in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="262,1181 450,1177 485,1205 650,1159 947,1172 1107,1133 1217,1145 1216,1105 260,1134"/>
+                <Baseline points="268,1165 315,1164 362,1164 409,1164 456,1163 503,1162 550,1161 597,1160 644,1159 691,1157 738,1156 785,1154 832,1152 879,1150 926,1148 973,1146 1020,1144 1067,1141 1114,1138 1161,1136 1209,1133"/>
+                <TextEquiv>
+                    <Unicode>character of its articulations -- as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="271,1283 687,1281 734,1246 808,1267 979,1227 1201,1245 1211,1193 1085,1169 1017,1209 782,1196 741,1233 652,1197 602,1232 542,1204 428,1244 268,1222"/>
+                <Baseline points="278,1265 324,1265 370,1265 417,1264 463,1263 509,1261 556,1259 602,1257 648,1254 695,1252 741,1249 787,1246 834,1242 880,1239 926,1236 973,1233 1019,1230 1065,1227 1112,1225 1158,1223 1205,1221"/>
+                <TextEquiv>
+                    <Unicode>indeed the two last do from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="262,1376 1274,1324 1271,1248 1086,1313 919,1269 844,1322 494,1300 260,1346"/>
+                <Baseline points="268,1360 320,1359 373,1356 425,1355 478,1353 530,1351 583,1349 636,1347 688,1345 741,1343 793,1341 846,1338 898,1335 951,1333 1004,1330 1056,1327 1109,1322 1161,1318 1214,1314 1267,1309"/>
+                <TextEquiv>
+                    <Unicode>one another, &amp; if you throw in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="266,1489 500,1445 1249,1425 1129,1370 1075,1411 752,1407 665,1369 407,1421 265,1410"/>
+                <Baseline points="273,1441 321,1441 369,1441 418,1441 466,1440 515,1440 563,1439 611,1438 660,1437 708,1436 757,1435 805,1434 853,1432 902,1431 950,1430 999,1429 1047,1428 1095,1427 1144,1426 1192,1426 1241,1425"/>
+                <TextEquiv>
+                    <Unicode>geographical Element you have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="278,1540 420,1575 1136,1510 1269,1530 1288,1475 778,1515 384,1509 322,1471 277,1493"/>
+                <Baseline points="285,1531 334,1534 384,1537 434,1539 484,1539 534,1540 583,1539 633,1537 683,1536 733,1533 783,1530 832,1528 882,1525 932,1522 982,1519 1032,1517 1081,1514 1131,1512 1181,1511 1231,1510 1281,1509"/>
+                <TextEquiv>
+                    <Unicode>3 as good genera as can well be --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="317,1650 595,1655 698,1627 923,1644 1003,1621 1002,1567 832,1587 786,1557 679,1615 556,1616 529,1592 456,1608 361,1569 315,1592"/>
+                <Baseline points="324,1630 357,1632 391,1634 424,1635 458,1636 492,1636 525,1636 559,1635 592,1634 626,1632 660,1631 693,1629 727,1628 760,1626 794,1624 828,1622 861,1620 895,1619 928,1618 962,1616 996,1616"/>
+                <TextEquiv>
+                    <Unicode>Tetraclinis -- N. Africa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="650,1707 664,1710 693,1695 709,1701 733,1683 754,1693 767,1677 791,1691 804,1687 799,1652 787,1657 761,1637 749,1647 713,1643 706,1651 688,1641 670,1649 657,1667 645,1670"/>
+                <Baseline points="656,1690 683,1688 711,1685 739,1681 767,1676 795,1673"/>
+                <TextEquiv>
+                    <Unicode>1833)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="337,1730 696,1713 842,1745 1010,1700 1092,1738 1212,1696 1377,1734 1375,1668 1308,1629 656,1705 599,1676 335,1684"/>
+                <Baseline points="344,1715 395,1720 446,1723 497,1724 549,1724 600,1723 651,1721 702,1718 754,1715 805,1712 856,1708 907,1705 959,1702 1010,1700 1061,1698 1112,1698 1164,1699 1215,1702 1266,1707 1317,1713 1369,1722"/>
+                <TextEquiv>
+                    <Unicode>Pachylepis alias Widdringtonia (1842)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="670,1817 716,1792 769,1796 778,1804 827,1789 906,1794 928,1785 928,1769 894,1763 874,1771 854,1754 796,1734 750,1744 710,1731 669,1746"/>
+                <Baseline points="677,1786 704,1787 731,1788 758,1787 785,1786 812,1785 839,1785 866,1784 893,1784 921,1786"/>
+                <TextEquiv>
+                    <Unicode>S. Africa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="545,1841 559,1843 562,1839 581,1839 586,1835 597,1842 602,1835 616,1829 627,1834 640,1833 633,1771 591,1772 586,1777 562,1770 556,1778 539,1784"/>
+                <Baseline points="551,1829 577,1825 604,1822 631,1821"/>
+                <TextEquiv>
+                    <Unicode>180</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="340,1853 436,1875 474,1857 565,1873 618,1854 657,1873 991,1857 991,1833 923,1836 884,1810 838,1837 693,1805 660,1838 560,1842 472,1799 429,1818 381,1787 340,1801"/>
+                <Baseline points="348,1852 379,1853 411,1854 443,1855 475,1855 507,1856 538,1856 570,1856 602,1856 634,1856 666,1856 697,1856 729,1855 761,1855 793,1855 825,1854 856,1854 888,1853 920,1853 952,1852 984,1852"/>
+                <TextEquiv>
+                    <Unicode>Callitris Australia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="452,1943 1132,1903 1317,1923 1334,1882 1277,1850 1236,1879 1090,1848 1042,1886 983,1859 909,1894 861,1868 726,1904 516,1866 450,1890"/>
+                <Baseline points="458,1922 501,1923 544,1923 588,1923 631,1923 675,1922 718,1921 762,1919 805,1918 849,1916 892,1914 935,1913 979,1911 1022,1909 1066,1907 1109,1906 1153,1905 1196,1904 1240,1904 1283,1904 1327,1905"/>
+                <TextEquiv>
+                    <Unicode>With love &amp; hearty good wishes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="250,2034 347,1998 629,1996 746,2028 824,2002 961,2057 1083,2003 1083,1950 1005,1963 936,1933 855,1978 798,1939 749,1979 648,1950 561,1977 304,1943 250,1964"/>
+                <Baseline points="257,2012 300,2007 343,2004 386,2001 429,2000 472,1999 515,1999 558,2000 601,2001 644,2002 688,2003 731,2005 774,2006 817,2007 860,2007 903,2007 946,2006 989,2004 1032,2000 1076,1996"/>
+                <TextEquiv>
+                    <Unicode>from us to you all Evr affy yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="1051,2074 1123,2069 1160,2052 1189,2061 1224,2052 1250,2059 1261,2049 1299,2076 1351,2077 1347,2001 1331,2002 1282,1968 1266,1975 1192,1934 1151,1940 1078,2003 1048,2007"/>
+                <Baseline points="1057,2059 1082,2058 1108,2056 1134,2052 1160,2049 1186,2046 1212,2043 1238,2041 1264,2041 1290,2044 1316,2047 1342,2053"/>
+                <TextEquiv>
+                    <Unicode>JDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dec 21/95&#13;
+THE CAMP.&#13;
+SUNNINGDALE.&#13;
+My dear Dyer&#13;
+I have gone into Callitris,&#13;
+&amp; am satisfied that, whatever shd&#13;
+be done with Widdringtonia, Tetraclinis&#13;
+should stand. It differs wholly from&#13;
+Widdringtonia &amp; Callitris in the&#13;
+character of its articulations -- as&#13;
+indeed the two last do from&#13;
+one another, &amp; if you throw in the&#13;
+geographical Element you have&#13;
+3 as good genera as can well be --&#13;
+Tetraclinis -- N. Africa&#13;
+1833)&#13;
+Pachylepis alias Widdringtonia (1842)&#13;
+S. Africa&#13;
+180&#13;
+Callitris Australia.&#13;
+With love &amp; hearty good wishes&#13;
+from us to you all Evr affy yrs&#13;
+JDHooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=none:date=20_03_2023_13:39</Creator>
+        <Created>2023-03-20T13:13:19.632+01:00</Created>
+        <LastChange>2023-05-17T15:30:59.761+02:00</LastChange>
+        <TranskribusMetadata docId="1368401" pageId="53385110" pageNr="3" tsid="121985628" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XZIEMMXVQTOYDSSURVVGHNDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SUTFHNXDNPJXNDKWBOEPAQPS" imageId="43359036"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_98_003.jpg" imageWidth="1404" imageHeight="2211">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330737010" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="95,157 1305,157 1305,539 95,539"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="95,233 119,233 149,233 179,233 209,233 239,233 269,233 299,233 329,233 359,231 389,229 419,227 449,225 479,223 509,221 539,217 569,217 599,217 629,215 659,213 689,213 719,215 749,215 779,211 898,245 902,231 780,196 748,200 719,200 689,198 659,198 628,200 599,202 569,202 538,202 508,206 478,208 448,210 418,212 388,214 358,216 329,218 299,218 269,218 239,218 209,218 179,218 149,218 119,218 95,218"/>
+                <Baseline points="95,233 119,233 149,233 179,233 209,233 239,233 269,233 299,233 329,233 359,231 389,229 419,227 449,225 479,223 509,221 539,217 569,217 599,217 629,215 659,213 689,213 719,215 749,215 779,211 898,245"/>
+                <TextEquiv>
+                    <Unicode>unspeakable blessing!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="163,404 684,463 823,389 976,419 1301,383 1301,306 1230,275 989,328 820,304 746,353 268,282 165,311"/>
+                <Baseline points="171,393 195,395 225,395 255,395 285,393 315,395 345,395 375,395 405,393 435,393 465,393 495,389 525,387 555,387 585,383 615,383 645,383 675,383 705,383 735,383 765,383 795,383 825,385 855,385 885,385 915,385 945,385 975,385 1005,387 1035,389 1065,387 1095,383 1125,381 1155,377 1185,375 1215,377 1245,375 1275,371 1305,373"/>
+                <TextEquiv>
+                    <Unicode>I will bring my letter from Lord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="118,535 309,519 386,559 501,515 851,499 851,470 755,441 692,471 470,440 409,484 214,419 121,438"/>
+                <Baseline points="125,529 135,527 165,523 195,523 225,521 255,519 285,517 315,515 345,517 375,517 405,519 435,517 465,517 495,515 525,515 555,515 585,515 615,517 645,515 675,513 705,511 735,507 765,507 795,503 825,501 855,495"/>
+                <TextEquiv>
+                    <Unicode>Iddesleigh this evening</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="391,563 1179,563 1179,1023 391,1023"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="383,663 600,655 648,677 697,653 783,665 850,716 925,701 929,592 897,580 756,617 685,570 572,624 526,617 443,546 387,572"/>
+                <Baseline points="391,657 421,657 451,653 481,657 511,657 541,655 571,655 601,655 631,655 661,653 691,653 721,653 751,651 781,649 811,649 841,645 871,639 901,633 931,625"/>
+                <TextEquiv>
+                    <Unicode>Ever heartily</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="641,820 830,829 902,861 1027,786 1158,780 1159,692 1129,682 1060,707 997,699 951,726 865,711 837,731 643,699"/>
+                <Baseline points="649,779 651,781 681,783 711,781 741,781 771,781 801,781 831,779 861,775 891,773 921,775 951,773 981,783 1011,783 1041,775 1071,775 1101,773 1131,773 1161,775"/>
+                <TextEquiv>
+                    <Unicode>Yr Aff father</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="731,1013 747,1007 777,1007 807,1009 837,1007 867,1011 897,1009 927,1011 957,1009 987,1007 1017,1007 1055,1007 1085,1007 1115,1007 1145,1009 1175,1013 1179,1013 1179,998 1176,998 1146,994 1115,992 1085,992 1055,992 1017,992 987,992 956,994 927,996 897,994 867,996 837,992 807,994 777,992 744,992 726,999"/>
+                <Baseline points="731,1013 747,1007 777,1007 807,1009 837,1007 867,1011 897,1009 927,1011 957,1009 987,1007 1017,1007 1055,1007 1085,1007 1115,1007 1145,1009 1175,1013 1179,1013"/>
+                <TextEquiv>
+                    <Unicode>Jos D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

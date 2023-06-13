@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-18T19:12:25.488-04:00</Created>
+        <LastChange>2020-06-19T04:39:49.429+02:00</LastChange>
+        <TranskribusMetadata docId="415448" pageId="16484254" pageNr="3" tsid="32170721" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=LTCKKIWCTONWCFRBLQLMEYJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ESBJUXNWPNMGCHUZGFXTDVCW" imageId="12277867"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_147_003.jpg" imageWidth="1397" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330955433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="130,48 130,1212 1309,1212 1309,48"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="481,90 514,94 522,86 543,92 560,78 609,108 628,92 650,91 647,29 606,25 581,37 569,29 550,34 540,27 478,43"/>
+                <Baseline points="488,86 513,84 539,82 565,80 590,78 616,78 642,80"/>
+                <TextEquiv>
+                    <Unicode>bring</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="196,181 307,153 516,172 655,146 760,169 950,140 949,111 863,123 816,87 546,121 451,81 384,121 287,85 195,110"/>
+                <Baseline points="203,157 241,155 280,153 319,150 358,149 397,148 436,147 475,146 514,145 553,145 591,144 630,144 669,143 708,143 747,142 786,141 825,140 864,139 903,138 942,136"/>
+                <TextEquiv>
+                    <Unicode>Shall I send it up?.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="189,279 1301,253 1316,205 1062,177 625,225 542,172 424,214 186,178"/>
+                <Baseline points="195,259 250,258 306,256 362,255 417,253 473,252 529,250 584,250 640,248 696,247 752,246 807,245 863,244 919,242 974,241 1030,240 1086,238 1141,237 1197,235 1253,233 1309,231"/>
+                <TextEquiv>
+                    <Unicode>The Brit Mus want to purchase</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="124,400 194,419 357,359 471,406 881,334 941,368 1254,356 1291,303 1001,278 796,325 647,279 576,319 122,331"/>
+                <Baseline points="130,359 187,360 245,360 303,359 361,359 418,358 476,357 534,356 592,354 649,353 707,351 765,350 823,348 880,346 938,345 996,343 1054,341 1111,339 1169,338 1227,336 1285,335"/>
+                <TextEquiv>
+                    <Unicode>my portrait of R. Brown *3.  I told them</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="137,502 273,465 485,500 840,446 1140,462 1147,408 1077,425 1031,396 978,427 922,383 874,414 606,407 518,445 393,407 308,442 134,430"/>
+                <Baseline points="143,478 192,478 242,478 292,477 342,476 392,474 442,473 492,471 542,469 592,467 642,464 691,463 741,460 791,458 841,455 891,453 941,451 991,449 1041,447 1091,445 1141,443"/>
+                <TextEquiv>
+                    <Unicode>that Kew or the R.S. had a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="436,525 451,527 459,521 462,524 477,526 484,523 493,531 503,529 501,495 490,495 486,500 481,496 471,498 467,493 464,495 455,487 450,487 442,496 435,496"/>
+                <Baseline points="443,519 469,518 495,517"/>
+                <TextEquiv>
+                    <Unicode>im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="328,536 370,530 385,543 401,530 422,526 422,474 406,477 398,472 373,493 357,493 344,506 328,507"/>
+                <Baseline points="335,521 361,522 388,522 415,521"/>
+                <TextEquiv>
+                    <Unicode>cla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="139,601 303,572 522,617 904,552 1107,574 1161,560 1159,503 1101,519 979,474 902,537 705,499 273,550 136,516"/>
+                <Baseline points="145,574 195,575 245,575 296,575 346,574 397,573 447,572 497,570 548,568 598,566 649,563 699,561 749,559 800,556 850,554 901,551 951,549 1001,548 1052,546 1102,545 1153,544"/>
+                <TextEquiv>
+                    <Unicode>prior option of possession, but I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="158,697 330,704 402,669 1162,684 1188,646 935,598 901,633 798,609 714,650 472,613 157,652"/>
+                <Baseline points="165,676 215,678 266,678 317,678 368,678 419,677 469,676 520,675 571,673 622,672 673,670 723,668 774,667 825,666 876,664 927,664 977,664 1028,664 1079,665 1130,666 1181,668"/>
+                <TextEquiv>
+                    <Unicode>suspect that it is beyond your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="172,778 219,773 234,780 245,773 264,783 295,774 307,780 425,775 425,752 380,748 369,738 354,745 333,730 300,740 282,730 258,740 219,726 199,737 173,733"/>
+                <Baseline points="179,766 205,765 231,765 258,765 284,765 311,766 337,767 364,768 390,769 417,770"/>
+                <TextEquiv>
+                    <Unicode>means.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="479,853 574,857 626,835 728,849 840,819 966,833 1036,806 1033,749 926,791 826,760 763,784 702,755 644,777 576,728 525,771 476,773"/>
+                <Baseline points="485,831 512,832 539,832 566,832 593,832 621,832 648,831 675,830 702,829 729,828 757,826 784,824 811,823 838,821 865,819 893,817 920,815 947,812 974,811 1001,809 1029,806"/>
+                <TextEquiv>
+                    <Unicode>Love to Harriet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="634,953 692,947 760,961 798,989 864,982 932,1009 997,938 1071,918 1063,846 1050,845 963,863 944,884 875,869 803,905 687,851 629,904"/>
+                <Baseline points="641,944 667,948 693,950 719,951 746,950 772,949 798,947 825,943 851,940 877,936 904,932 930,927 956,923 983,919 1009,916 1035,913 1062,910"/>
+                <TextEquiv>
+                    <Unicode>Ever Affy Yr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="767,1227 808,1196 945,1205 994,1182 1042,1197 1073,1174 1104,1184 1151,1167 1215,1185 1218,1040 1115,1070 1048,1034 1017,1048 985,1031 934,1071 892,1047 762,1152"/>
+                <Baseline points="772,1191 798,1193 824,1194 850,1194 877,1192 903,1191 929,1188 956,1186 982,1183 1008,1180 1034,1177 1061,1174 1087,1172 1113,1171 1140,1170 1166,1170 1192,1171 1219,1174"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bring&#13;
+Shall I send it up?.&#13;
+The Brit Mus want to purchase&#13;
+my portrait of R. Brown *3.  I told them&#13;
+that Kew or the R.S. had a&#13;
+im&#13;
+cla&#13;
+prior option of possession, but I&#13;
+suspect that it is beyond your&#13;
+means.&#13;
+Love to Harriet&#13;
+Ever Affy Yr&#13;
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-18T20:29:57.692-04:00</Created>
+        <LastChange>2020-06-19T05:15:03.314+02:00</LastChange>
+        <TranskribusMetadata docId="415458" pageId="16484265" pageNr="2" tsid="32170948" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=QDKGBXOGGYETURPDNBZEADOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDSIVAEQKANWGUFXXPIHHDMG" imageId="12277870"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_148_002.jpg" imageWidth="1359" imageHeight="2166">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330953309" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="94,299 94,455 136,455 136,299"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="85,413 98,415 101,420 110,421 112,424 141,427 148,377 137,374 131,367 113,375 104,368 91,368"/>
+                <Baseline points="94,399 136,405"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="154,212 154,2025 1341,2025 1341,212"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="182,304 840,273 945,323 1124,258 1281,296 1279,193 1195,183 1106,245 868,201 660,252 180,203"/>
+                <Baseline points="188,283 242,283 296,283 350,282 405,281 459,280 513,279 568,278 622,276 676,275 731,273 785,272 839,270 893,269 948,268 1002,267 1056,267 1111,266 1165,267 1219,267 1274,268"/>
+                <TextEquiv>
+                    <Unicode>him, &amp; he said nothing -- but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="148,450 366,439 408,471 480,432 779,419 841,449 898,413 984,460 1085,405 1253,416 1218,346 1045,388 707,345 638,382 512,358 323,401 220,350 146,370"/>
+                <Baseline points="155,427 209,429 264,429 318,429 373,429 427,428 482,426 536,424 591,422 645,420 700,417 754,415 809,412 863,411 918,408 972,407 1027,406 1081,406 1136,406 1190,407 1245,409"/>
+                <TextEquiv>
+                    <Unicode>I seriously hope that if any such</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="173,572 1264,528 1262,468 1186,498 1096,451 484,526 412,476 367,507 170,468"/>
+                <Baseline points="179,544 232,545 286,545 340,545 394,544 448,543 502,542 556,539 610,537 664,535 718,533 771,530 825,529 879,527 933,525 987,524 1041,523 1095,523 1149,523 1203,524 1257,526"/>
+                <TextEquiv>
+                    <Unicode>proposition is made that it will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="163,676 1073,653 1191,631 1190,598 1056,566 991,604 922,564 740,630 430,583 161,613"/>
+                <Baseline points="169,657 219,658 270,659 321,659 371,660 422,660 473,659 523,658 574,657 625,656 676,654 726,653 777,651 828,648 878,645 929,643 980,639 1030,636 1081,632 1132,628 1183,624"/>
+                <TextEquiv>
+                    <Unicode>not be entertained. The Kew</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="165,798 609,811 721,771 1212,749 1052,691 595,757 361,756 221,710 163,731"/>
+                <Baseline points="171,775 222,777 274,779 326,780 377,781 429,781 481,780 532,779 584,778 636,775 688,774 739,771 791,769 843,767 894,764 946,762 998,759 1049,758 1101,756 1153,754 1205,753"/>
+                <TextEquiv>
+                    <Unicode>Herbarium is, as it stands, one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="155,905 1253,861 1251,818 1202,804 1066,841 957,810 861,853 744,812 670,863 553,836 316,862 237,828 153,862"/>
+                <Baseline points="161,895 215,896 269,897 323,897 377,896 432,895 486,894 540,892 594,890 648,887 703,884 757,881 811,878 865,875 919,872 974,868 1028,866 1082,863 1136,860 1190,859 1245,856"/>
+                <TextEquiv>
+                    <Unicode>&amp; indivisible, as the representation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="149,1015 581,1033 1010,972 1244,1020 1241,937 1079,911 1008,961 839,926 528,981 376,947 147,967"/>
+                <Baseline points="157,1009 210,1013 264,1015 318,1016 372,1015 426,1014 480,1012 534,1009 588,1007 642,1003 696,999 749,996 803,992 857,989 911,985 965,983 1019,981 1073,980 1127,981 1181,982 1235,984"/>
+                <TextEquiv>
+                    <Unicode>in all Orders but the lower Algae, of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="158,1154 362,1131 507,1179 617,1133 698,1170 1315,1108 1288,1048 942,1080 569,1041 474,1079 241,1036 156,1067"/>
+                <Baseline points="164,1128 221,1129 278,1129 335,1130 392,1129 450,1129 507,1128 564,1127 621,1126 678,1124 736,1123 793,1121 850,1119 907,1117 964,1115 1022,1113 1079,1111 1136,1109 1193,1108 1250,1106 1308,1105"/>
+                <TextEquiv>
+                    <Unicode> the Botany of the Century; &amp; is the work,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="198,1289 471,1248 556,1288 631,1245 738,1287 974,1225 1349,1269 1347,1189 1167,1164 983,1205 864,1160 531,1228 196,1183"/>
+                <Baseline points="205,1243 261,1246 318,1249 375,1250 432,1251 489,1250 545,1250 602,1248 659,1246 716,1244 773,1241 829,1239 886,1237 943,1235 1000,1233 1057,1232 1113,1231 1170,1231 1227,1232 1284,1234 1341,1238"/>
+                <TextEquiv>
+                    <Unicode> for 80 years of it, of two individuals,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="182,1394 240,1371 308,1423 426,1366 1298,1350 1253,1311 923,1280 772,1341 583,1310 424,1342 352,1302 181,1328"/>
+                <Baseline points="188,1370 243,1369 298,1369 353,1368 408,1367 463,1366 518,1365 574,1364 629,1363 684,1362 739,1361 794,1360 849,1359 904,1358 960,1357 1015,1355 1070,1354 1125,1353 1180,1351 1235,1350 1291,1348"/>
+                <TextEquiv>
+                    <Unicode> &amp; it further contains the evidences</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="668,1426 682,1422 708,1427 713,1421 741,1425 764,1409 773,1408 772,1379 762,1379 749,1367 737,1363 721,1368 708,1364 704,1369 695,1365 677,1378 666,1376"/>
+                <Baseline points="674,1416 704,1415 735,1415 766,1412"/>
+                <TextEquiv>
+                    <Unicode>two</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="179,1550 366,1490 621,1486 701,1534 791,1480 1318,1495 1317,1426 1254,1445 1196,1399 1014,1440 930,1408 831,1452 579,1400 516,1449 430,1419 176,1452"/>
+                <Baseline points="184,1500 240,1497 296,1494 353,1492 409,1489 465,1486 522,1485 578,1482 634,1480 691,1478 747,1477 803,1475 860,1474 916,1473 972,1472 1029,1471 1085,1471 1141,1471 1198,1471 1254,1472 1311,1472"/>
+                <TextEquiv>
+                    <Unicode>of all that these hands published.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="255,1639 411,1620 475,1670 640,1605 1237,1594 1235,1551 1149,1512 1026,1556 774,1560 712,1529 664,1564 583,1542 497,1576 330,1535 252,1576"/>
+                <Baseline points="261,1617 309,1617 357,1616 406,1615 454,1613 503,1612 551,1610 599,1607 648,1605 696,1603 745,1601 793,1598 841,1595 890,1593 938,1590 987,1587 1035,1585 1083,1583 1132,1580 1180,1579 1229,1577"/>
+                <TextEquiv>
+                    <Unicode>Probably, the Musci &amp; algae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="147,1744 1275,1737 1282,1693 1087,1665 907,1695 783,1660 735,1706 627,1710 530,1638 402,1706 145,1696"/>
+                <Baseline points="154,1740 210,1741 266,1741 322,1741 378,1740 434,1739 490,1738 546,1736 602,1734 658,1732 714,1730 770,1728 826,1726 882,1724 938,1722 994,1721 1050,1719 1106,1718 1162,1718 1218,1718 1275,1718"/>
+                <TextEquiv>
+                    <Unicode>are what Evans had in view --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="221,1871 790,1861 872,1909 975,1848 1222,1847 1199,1780 988,1828 949,1800 885,1825 510,1795 412,1828 294,1783 220,1806"/>
+                <Baseline points="229,1859 278,1860 327,1862 376,1863 426,1863 475,1863 524,1863 573,1862 623,1861 672,1860 721,1859 770,1858 820,1856 869,1854 918,1852 967,1850 1017,1849 1066,1846 1115,1845 1164,1843 1214,1842"/>
+                <TextEquiv>
+                    <Unicode>-- to rob the collection of which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="190,2007 589,1996 677,2031 735,1991 845,2021 945,1986 1011,2027 1172,2021 1170,1924 1032,1959 891,1918 821,1970 764,1928 534,1970 189,1960"/>
+                <Baseline points="197,1996 245,1997 293,1997 342,1998 390,1998 438,1998 487,1997 535,1997 583,1996 632,1995 680,1994 728,1993 777,1992 825,1990 873,1989 922,1987 970,1985 1018,1983 1067,1981 1115,1979 1164,1977"/>
+                <TextEquiv>
+                    <Unicode>would indeed be pulling up</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>him, &amp; he said nothing -- but&#13;
+I seriously hope that if any such&#13;
+proposition is made that it will&#13;
+not be entertained. The Kew&#13;
+Herbarium is, as it stands, one&#13;
+&amp; indivisible, as the representation&#13;
+in all Orders but the lower Algae, of&#13;
+ the Botany of the Century; &amp; is the work,&#13;
+ for 80 years of it, of two individuals,&#13;
+ &amp; it further contains the evidences&#13;
+two&#13;
+of all that these hands published.&#13;
+Probably, the Musci &amp; algae&#13;
+are what Evans had in view --&#13;
+-- to rob the collection of which&#13;
+would indeed be pulling up</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

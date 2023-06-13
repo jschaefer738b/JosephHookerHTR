@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-20T22:09:53.512-04:00</Created>
+        <LastChange>2020-06-23T02:45:32.871+02:00</LastChange>
+        <TranskribusMetadata docId="416479" pageId="16536062" pageNr="3" tsid="32422370" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=VZKFJCRKSJAHFHISSBHMIXKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNGJDRHREUNVBKAWDZILJYKX" imageId="12329024"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_154_004.jpg" imageWidth="1437" imageHeight="2155">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330944269" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="109,83 109,705 1187,705 1187,83"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="265,164 283,173 308,159 324,159 334,45 325,44 312,50 306,44 299,47 291,45 282,51 276,50"/>
+                <Baseline points="274,140 318,144"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="282,200 291,202 296,209 303,211 314,168 307,166 306,164 297,166 291,164"/>
+                <Baseline points="290,196 299,198"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="102,311 364,280 573,322 726,280 1130,290 1193,280 1193,243 1101,201 781,256 605,215 431,269 101,210"/>
+                <Baseline points="109,289 162,289 216,288 270,287 324,287 378,286 432,285 486,284 540,283 594,282 648,280 701,279 755,278 809,277 863,276 917,276 971,275 1025,274 1079,274 1133,273 1187,273"/>
+                <TextEquiv>
+                    <Unicode>the house is being turned upside down</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="129,410 435,393 678,443 751,410 751,344 724,331 665,358 604,321 557,366 511,370 394,332 212,363 162,318 129,329"/>
+                <Baseline points="136,392 166,390 196,390 227,389 257,389 288,390 318,390 349,391 379,392 410,393 440,394 470,394 501,395 531,395 562,395 592,394 623,393 653,392 684,389 714,386 745,382"/>
+                <TextEquiv>
+                    <Unicode>for a children's party.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="493,521 566,515 628,554 687,547 779,585 862,510 910,511 906,431 880,421 842,441 810,437 757,475 691,436 619,468 553,417 523,437 489,435"/>
+                <Baseline points="499,506 524,508 549,511 574,512 599,514 624,515 649,515 674,515 700,515 725,513 750,511 775,509 800,506 825,502 850,497 875,491 901,484"/>
+                <TextEquiv>
+                    <Unicode>Evr affy yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="781,703 843,689 864,670 901,680 961,660 1146,685 1146,643 1067,601 978,604 880,520 780,580"/>
+                <Baseline points="787,677 812,674 837,670 862,667 887,665 912,664 937,663 963,663 988,663 1013,664 1038,665 1063,666 1088,667 1113,669 1139,671"/>
+                <TextEquiv>
+                    <Unicode>Jos. D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+the house is being turned upside down&#13;
+for a children's party.&#13;
+Evr affy yrs&#13;
+Jos. D. Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

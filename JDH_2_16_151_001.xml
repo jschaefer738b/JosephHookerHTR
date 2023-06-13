@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-20T22:08:19.183-04:00</Created>
+        <LastChange>2020-06-22T21:39:18.148+02:00</LastChange>
+        <TranskribusMetadata docId="416477" pageId="16536058" pageNr="1" tsid="32410250" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=IVYBJSVALRUWGFRSNOTXYWEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FVLEGTJYKSRRTKIVUHASINVK" imageId="12329020"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_151_001.jpg" imageWidth="1314" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330945247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="42,35 42,2038 1253,2038 1253,35"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1079,91 1101,89 1112,97 1120,93 1129,101 1137,93 1180,101 1198,90 1222,87 1219,26 1155,23 1124,4 1096,17 1075,15"/>
+                <Baseline points="1086,84 1111,82 1137,79 1162,77 1188,77 1214,79"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="882,126 927,124 968,162 1007,124 1022,124 1033,115 1058,121 1059,61 980,54 943,31 896,67 883,67"/>
+                <Baseline points="890,104 916,103 943,103 970,105 997,105 1024,106 1051,104"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="897,231 908,233 923,228 931,222 938,223 945,184 931,181 926,175 923,175 917,180 915,179 914,181 905,178"/>
+                <Baseline points="910,194 936,198"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="914,173 959,192 1012,245 1089,224 1127,248 1177,230 1231,233 1239,137 1201,127 1147,157 1105,148 1066,176 1022,153 1009,162 915,156"/>
+                <Baseline points="920,184 945,188 970,191 996,194 1021,196 1047,198 1072,200 1097,202 1123,204 1148,206 1174,207 1199,209 1225,212"/>
+                <TextEquiv>
+                    <Unicode>Jany 23/96</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="35,257 213,270 276,311 308,295 361,310 559,218 555,136 412,185 219,99 128,93 65,138 29,141"/>
+                <Baseline points="42,257 67,258 92,259 118,261 143,263 169,265 194,267 220,269 245,270 271,271 296,272 321,272 347,270 372,268 398,265 423,261 449,256 474,248 500,239 525,228 551,215"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="981,274 1008,287 1035,281 1047,290 1062,281 1100,281 1111,292 1123,286 1152,286 1165,296 1189,292 1191,257 1160,244 1141,255 1103,253 1096,245 1060,255 1041,244 983,240"/>
+                <Baseline points="988,271 1015,274 1043,276 1071,277 1098,278 1126,278 1154,280 1182,283"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="371,380 421,367 435,351 463,356 487,331 564,327 632,293 652,276 629,204 580,234 559,233 465,294 404,299 373,336 357,338"/>
+                <Baseline points="369,352 394,352 419,349 444,343 469,334 494,323 519,313 544,301 569,292 594,285 619,281 645,279"/>
+                <TextEquiv>
+                    <Unicode>29.12.96</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="956,362 987,370 1001,357 1070,350 1093,370 1117,371 1138,352 1170,364 1189,353 1217,358 1218,320 1194,316 1177,330 1134,325 1126,316 1046,325 1018,314 990,316 982,307 957,311"/>
+                <Baseline points="964,343 991,344 1018,346 1046,347 1073,348 1100,349 1128,349 1155,350 1182,350 1210,350"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="288,392 295,387 295,385 301,379 302,375 311,368 313,368 313,365 319,360 311,350 303,356 300,361 297,362 277,378"/>
+                <Baseline points="289,381 313,363"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="103,397 167,403 180,414 200,400 247,399 310,360 308,305 278,309 241,344 219,325 178,333 169,325 151,329 100,292"/>
+                <Baseline points="110,380 137,376 165,377 192,378 220,379 247,380 275,375 303,365"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="128,494 214,542 251,513 331,495 606,503 606,453 489,405 391,455 323,447 214,400 128,446"/>
+                <Baseline points="135,489 160,489 186,489 212,489 238,489 263,489 289,489 315,490 341,490 367,491 392,491 418,491 444,491 470,491 495,491 521,491 547,491 573,490 599,490"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="229,622 462,608 553,649 672,605 1038,606 1037,549 936,531 864,550 767,526 674,570 407,529 229,575"/>
+                <Baseline points="237,610 276,609 316,607 356,606 395,605 435,605 475,604 514,603 554,603 594,603 634,602 673,602 713,602 753,601 792,600 832,600 872,599 911,597 951,596 991,594 1031,591"/>
+                <TextEquiv>
+                    <Unicode>&amp; I thought that I had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="133,718 411,743 521,705 603,736 851,737 901,696 1039,705 1038,638 884,640 847,668 621,647 584,682 503,640 438,691 253,647 132,680"/>
+                <Baseline points="139,710 183,710 228,709 272,709 317,709 362,708 406,708 451,707 496,706 540,706 585,705 630,704 674,703 719,702 764,700 808,699 853,697 898,695 942,693 987,691 1032,689"/>
+                <TextEquiv>
+                    <Unicode>written on the back of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="83,852 184,822 313,857 388,821 456,859 858,801 1160,818 1171,736 999,780 900,746 356,792 143,747 81,780"/>
+                <Baseline points="89,812 142,814 196,816 250,817 304,818 358,818 411,818 465,818 519,817 573,816 627,815 680,813 734,811 788,809 842,807 896,804 949,802 1003,799 1057,796 1111,792 1165,789"/>
+                <TextEquiv>
+                    <Unicode>photographs of Banks &amp; his wife</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="113,932 350,970 426,931 791,959 955,914 1252,927 1260,849 1129,876 973,836 768,908 648,861 569,904 347,858 281,889 178,842 112,873"/>
+                <Baseline points="119,915 175,918 232,921 289,923 345,925 402,926 459,926 515,927 572,926 629,926 686,925 742,924 799,922 856,920 912,918 969,917 1026,914 1082,912 1139,910 1196,907 1253,905"/>
+                <TextEquiv>
+                    <Unicode>that they were taken from Wedgewood</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="140,1031 594,1033 662,1059 791,1025 792,965 670,984 568,964 469,1010 387,974 347,1001 251,992 195,950 140,984"/>
+                <Baseline points="147,1019 178,1020 210,1022 242,1023 274,1024 306,1025 338,1026 370,1027 402,1028 434,1028 466,1028 497,1028 529,1028 561,1028 593,1028 625,1027 657,1027 689,1026 721,1025 753,1023 785,1022"/>
+                <TextEquiv>
+                    <Unicode>Medallions -- 3 x 1 1/2  in.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="113,1135 556,1135 626,1167 695,1122 1180,1146 1180,1081 1086,1045 866,1102 774,1065 693,1111 614,1079 258,1098 189,1035 113,1052"/>
+                <Baseline points="120,1127 172,1129 225,1130 277,1131 330,1132 383,1132 435,1132 488,1131 541,1130 593,1130 646,1129 699,1128 751,1127 804,1126 857,1125 909,1124 962,1123 1015,1123 1067,1122 1120,1122 1173,1123"/>
+                <TextEquiv>
+                    <Unicode>The small head of Banks is from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="114,1237 278,1277 771,1241 925,1280 1001,1243 1153,1252 1153,1197 388,1211 242,1170 114,1213"/>
+                <Baseline points="121,1234 172,1236 223,1238 274,1239 326,1240 377,1240 428,1240 479,1240 531,1239 582,1239 633,1238 684,1238 736,1237 787,1237 838,1236 889,1236 941,1236 992,1237 1043,1238 1094,1239 1146,1241"/>
+                <TextEquiv>
+                    <Unicode>a Tassie (glass) medallion, white</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="121,1350 1183,1361 1182,1301 1107,1319 1013,1274 919,1323 713,1288 530,1329 251,1283 121,1306"/>
+                <Baseline points="128,1335 180,1339 232,1343 285,1346 337,1348 390,1349 442,1350 494,1351 547,1351 599,1350 652,1349 704,1348 756,1347 809,1345 861,1344 914,1342 966,1341 1018,1340 1071,1339 1123,1338 1176,1337"/>
+                <TextEquiv>
+                    <Unicode>on black ground, 2 1/8  x 2 in. This is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="136,1465 943,1502 1015,1463 1210,1461 1209,1403 1158,1393 824,1433 412,1394 304,1427 194,1377 135,1413"/>
+                <Baseline points="143,1454 198,1456 254,1457 310,1458 365,1459 421,1460 477,1460 533,1461 588,1461 644,1461 700,1460 756,1460 811,1459 867,1459 923,1458 979,1458 1034,1457 1090,1456 1146,1455 1202,1454"/>
+                <TextEquiv>
+                    <Unicode>I should think (judging from their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="175,1569 269,1565 338,1610 392,1579 592,1614 687,1575 1210,1592 1231,1522 859,1544 672,1506 338,1540 175,1498"/>
+                <Baseline points="182,1559 234,1563 286,1565 338,1568 390,1570 442,1571 494,1572 546,1572 598,1572 650,1572 703,1572 755,1572 807,1571 859,1571 911,1571 963,1571 1015,1571 1067,1571 1119,1572 1171,1573 1224,1575"/>
+                <TextEquiv>
+                    <Unicode>likenesses) a faithful portrait. As</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="170,1714 442,1671 676,1719 826,1672 1037,1710 1126,1680 1125,1614 1020,1639 960,1605 880,1633 803,1603 576,1646 427,1612 267,1633 235,1604 169,1643"/>
+                <Baseline points="177,1672 224,1674 271,1676 318,1677 365,1677 412,1677 459,1677 506,1677 553,1676 600,1676 647,1675 694,1674 741,1673 788,1672 835,1671 882,1670 929,1669 976,1669 1023,1669 1070,1669 1118,1669"/>
+                <TextEquiv>
+                    <Unicode>for the Wedgewood of Banks I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="175,1822 1244,1808 1244,1742 1184,1736 1119,1777 821,1731 475,1776 329,1733 175,1741"/>
+                <Baseline points="182,1790 234,1791 287,1792 340,1793 392,1793 445,1793 498,1793 550,1793 603,1793 656,1792 709,1792 761,1792 814,1792 867,1792 919,1792 972,1792 1025,1792 1077,1793 1130,1794 1183,1795 1236,1797"/>
+                <TextEquiv>
+                    <Unicode>greatly doubt its resemblance, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="150,1897 547,1927 944,1891 1148,1928 1238,1913 1238,1845 1073,1818 1012,1862 885,1866 598,1826 473,1880 387,1833 150,1869"/>
+                <Baseline points="157,1890 210,1892 264,1894 318,1894 371,1895 425,1895 479,1895 532,1894 586,1893 640,1892 694,1891 747,1890 801,1889 855,1888 908,1888 962,1887 1016,1887 1069,1888 1123,1889 1177,1890 1231,1892"/>
+                <TextEquiv>
+                    <Unicode>must bow to the name impressed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="177,2022 303,1997 408,2044 524,2011 605,2041 687,2007 768,2054 901,2020 1109,2056 1151,2043 1154,1946 777,1942 723,1969 594,1938 529,1975 462,1943 390,1967 179,1934"/>
+                <Baseline points="185,1996 233,1995 281,1995 329,1995 377,1996 425,1996 473,1997 521,1998 569,2000 617,2001 665,2003 713,2005 761,2007 809,2008 857,2010 905,2012 953,2013 1001,2014 1049,2016 1097,2017 1145,2017"/>
+                <TextEquiv>
+                    <Unicode>on the clay itself. As for the Lady </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+&#13;
+Jany 23/96&#13;
+&#13;
+THE CAMP.&#13;
+29.12.96&#13;
+SUNNINGDALE.&#13;
+&#13;
+&#13;
+My dear Dyer&#13;
+&amp; I thought that I had&#13;
+written on the back of the&#13;
+photographs of Banks &amp; his wife&#13;
+that they were taken from Wedgewood&#13;
+Medallions -- 3 x 1 1/2  in.&#13;
+The small head of Banks is from&#13;
+a Tassie (glass) medallion, white&#13;
+on black ground, 2 1/8  x 2 in. This is&#13;
+I should think (judging from their&#13;
+likenesses) a faithful portrait. As&#13;
+for the Wedgewood of Banks I&#13;
+greatly doubt its resemblance, but&#13;
+must bow to the name impressed&#13;
+on the clay itself. As for the Lady </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

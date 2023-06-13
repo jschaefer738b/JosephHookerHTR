@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-20T22:10:58.713-04:00</Created>
+        <LastChange>2020-06-23T02:55:51.377+02:00</LastChange>
+        <TranskribusMetadata docId="416480" pageId="16536063" pageNr="1" tsid="32422582" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=FEWCVNBETDGXXVAYDBEKFPJX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RPOLHXTZIUNQIZTUGSESQLKI" imageId="12329025"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_155_001.jpg" imageWidth="1350" imageHeight="2158">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330941436" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="150,50 150,1995 1254,1995 1254,50"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="972,102 1039,99 1062,114 1090,96 1120,118 1169,120 1174,41 1137,45 1107,25 1085,33 1074,24 1054,30 1007,20 977,25"/>
+                <Baseline points="979,95 1005,94 1031,95 1057,96 1084,97 1110,100 1136,103 1163,106"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="847,257 879,243 926,253 1000,197 1101,225 1157,215 1169,209 1169,136 1127,144 1096,124 972,142 919,102 870,141 847,142"/>
+                <Baseline points="854,210 879,201 905,195 931,191 956,190 982,190 1008,191 1033,193 1059,195 1085,198 1110,200 1136,200 1162,200"/>
+                <TextEquiv>
+                    <Unicode>Jay 26 /97.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1019,289 1057,290 1065,297 1103,284 1133,302 1177,290 1221,302 1222,275 1181,262 1147,267 1107,249 1081,262 1048,248 1036,253 1021,247"/>
+                <Baseline points="1026,283 1053,285 1080,285 1107,286 1134,287 1161,288 1188,289 1215,290"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="453,260 481,274 504,309 520,302 534,313 604,298 620,311 645,305 667,318 697,314 719,204 707,198 686,211 654,180 621,175 611,164 538,188 506,153 473,160"/>
+                <Baseline points="459,264 484,267 510,272 536,277 562,283 587,289 613,294 639,301 665,305 691,308"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="983,359 1005,368 1033,363 1047,376 1080,361 1107,374 1130,365 1149,373 1165,363 1249,371 1250,332 1238,328 1226,333 1196,323 1169,337 1126,319 1078,327 1055,317 1042,326 985,312"/>
+                <Baseline points="990,352 1015,353 1040,353 1065,354 1091,355 1116,356 1141,357 1167,358 1192,359 1217,359 1243,360"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="513,412 582,439 597,431 617,441 687,440 697,314 675,322 639,352 602,350 579,360 520,326"/>
+                <Baseline points="520,402 547,403 574,405 601,408 628,410 655,413 682,414"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="144,564 168,557 212,585 263,541 291,556 407,541 467,558 514,542 543,551 566,541 565,495 437,480 345,512 219,437 142,486"/>
+                <Baseline points="150,550 175,546 201,543 226,541 252,540 277,539 303,538 328,538 354,538 380,538 405,538 431,538 456,538 482,537 507,535 533,534 559,531"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="358,642 806,625 916,654 980,607 1247,587 1244,521 1067,567 885,583 757,558 576,604 353,549"/>
+                <Baseline points="364,628 407,628 451,628 495,628 539,628 583,627 627,626 670,625 714,624 758,622 802,620 846,618 890,615 934,613 977,610 1021,606 1065,602 1109,599 1153,594 1197,589 1241,584"/>
+                <TextEquiv>
+                    <Unicode>As soon as I can get to Kew</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="170,746 717,727 984,754 1173,700 1143,647 1071,689 900,672 863,701 675,667 626,713 563,683 413,710 257,661 169,690"/>
+                <Baseline points="177,737 226,737 276,736 325,735 375,734 424,733 474,732 523,731 573,730 622,729 672,727 721,726 771,724 820,722 870,720 919,718 969,716 1018,713 1068,710 1117,708 1167,705"/>
+                <TextEquiv>
+                    <Unicode>I will go into the matter of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="171,860 229,883 904,804 1221,807 1219,774 1097,742 851,793 697,738 526,816 456,782 315,818 233,770 168,800"/>
+                <Baseline points="177,839 228,840 280,841 332,841 384,840 436,838 488,836 539,833 591,830 643,827 695,824 747,820 799,817 851,813 902,810 954,808 1006,805 1058,803 1110,802 1162,801 1214,800"/>
+                <TextEquiv>
+                    <Unicode>Cypripedia. The Indian Orchideae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="183,963 692,921 833,982 957,910 1229,923 1239,848 977,890 740,857 484,907 419,874 319,905 179,882"/>
+                <Baseline points="188,935 240,935 292,935 344,934 397,932 449,931 501,929 554,927 606,925 658,922 711,919 763,916 815,914 867,912 920,909 972,907 1024,905 1077,903 1129,902 1181,901 1234,900"/>
+                <TextEquiv>
+                    <Unicode>want revision throughout -- the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="200,1046 687,1017 763,1064 879,1007 1052,1020 1210,984 1208,956 1095,935 869,992 660,962 461,998 197,981"/>
+                <Baseline points="205,1029 254,1028 304,1028 354,1026 404,1025 454,1024 504,1023 554,1021 604,1019 654,1018 704,1016 753,1014 803,1011 853,1009 903,1007 953,1004 1003,1001 1053,998 1103,995 1153,992 1203,988"/>
+                <TextEquiv>
+                    <Unicode>task was too heavy a one for a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="198,1138 895,1092 992,1127 1052,1092 1256,1106 1253,1035 1105,1025 987,1068 922,1026 618,1085 194,1056"/>
+                <Baseline points="203,1125 255,1124 307,1124 359,1122 412,1120 464,1117 516,1114 569,1111 621,1108 673,1104 726,1100 778,1097 830,1094 882,1091 935,1088 987,1086 1039,1085 1092,1083 1144,1083 1196,1084 1249,1085"/>
+                <TextEquiv>
+                    <Unicode>Flora that had to be brought out</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="210,1216 792,1225 1030,1182 1262,1224 1260,1145 1135,1132 930,1167 845,1134 674,1185 509,1151 380,1195 209,1170"/>
+                <Baseline points="217,1211 268,1210 320,1210 372,1209 424,1208 476,1206 528,1204 579,1202 631,1200 683,1198 735,1196 787,1194 839,1191 891,1189 942,1187 994,1185 1046,1184 1098,1182 1150,1181 1202,1180 1254,1180"/>
+                <TextEquiv>
+                    <Unicode>within a reasonable period, &amp; my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="211,1327 367,1305 520,1348 612,1294 781,1274 893,1301 1039,1264 1220,1277 1231,1191 1132,1245 728,1232 592,1263 468,1232 383,1282 208,1261"/>
+                <Baseline points="216,1302 266,1302 317,1301 367,1299 418,1298 468,1296 519,1294 569,1292 620,1288 670,1286 721,1283 772,1280 822,1278 873,1275 923,1273 974,1270 1024,1268 1075,1266 1125,1264 1176,1263 1227,1263"/>
+                <TextEquiv>
+                    <Unicode>copy is full of notes errata and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="207,1405 237,1398 284,1416 327,1394 374,1401 412,1390 456,1416 485,1412 483,1368 434,1347 419,1346 399,1364 371,1357 341,1365 319,1354 282,1362 205,1357"/>
+                <Baseline points="213,1394 239,1394 265,1393 292,1392 318,1390 345,1389 371,1387 397,1386 424,1386 450,1386 477,1388"/>
+                <TextEquiv>
+                    <Unicode>addenda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="355,1493 814,1471 889,1513 1104,1447 1102,1396 1053,1392 948,1435 855,1404 806,1435 724,1416 548,1459 449,1413 353,1437"/>
+                <Baseline points="361,1482 397,1481 434,1479 471,1477 508,1476 545,1476 581,1475 618,1475 655,1474 692,1474 729,1474 765,1473 802,1472 839,1470 876,1469 913,1467 949,1464 986,1461 1023,1457 1060,1452 1097,1446"/>
+                <TextEquiv>
+                    <Unicode>I had not heard of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="189,1604 288,1589 375,1628 527,1592 651,1583 734,1616 903,1585 1023,1623 1095,1575 1172,1582 1172,1536 1045,1513 910,1561 807,1527 189,1551"/>
+                <Baseline points="196,1585 244,1585 293,1584 341,1583 390,1583 438,1583 487,1582 535,1582 584,1582 632,1582 681,1582 729,1582 778,1582 826,1582 875,1582 923,1581 972,1581 1020,1581 1069,1580 1117,1579 1166,1579"/>
+                <TextEquiv>
+                    <Unicode>discovery of Antherozoids in Cycas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="218,1686 580,1684 672,1654 1143,1713 1143,1647 1085,1632 797,1645 757,1614 489,1656 329,1606 291,1640 218,1630"/>
+                <Baseline points="224,1676 269,1677 315,1678 360,1678 406,1678 452,1678 497,1677 543,1676 588,1676 634,1675 680,1674 725,1673 771,1672 816,1672 862,1672 908,1672 953,1672 999,1673 1044,1675 1090,1677 1136,1679"/>
+                <TextEquiv>
+                    <Unicode>&amp; Salisburia -- it is a very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="201,1839 308,1780 336,1794 516,1785 582,1816 630,1776 773,1786 773,1758 727,1738 593,1760 554,1759 526,1731 470,1753 397,1735 339,1746 276,1707 201,1739"/>
+                <Baseline points="208,1777 235,1778 263,1779 291,1780 319,1780 347,1780 375,1780 403,1780 431,1780 459,1779 487,1778 514,1778 542,1778 570,1777 598,1776 626,1776 654,1776 682,1776 710,1776 738,1776 766,1777"/>
+                <TextEquiv>
+                    <Unicode>far reaching one.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="313,1877 1086,1844 1172,1865 1170,1803 1057,1784 759,1839 711,1810 487,1842 374,1791 311,1807"/>
+                <Baseline points="319,1864 361,1864 403,1863 445,1863 488,1862 530,1861 572,1860 615,1859 657,1858 699,1857 742,1856 784,1854 826,1853 868,1851 911,1850 953,1849 995,1847 1038,1846 1080,1844 1122,1843 1165,1842"/>
+                <TextEquiv>
+                    <Unicode>Scotts  researches interest me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="200,2009 276,1966 383,2002 702,1960 969,1992 1051,1945 1150,1989 1153,1909 898,1930 835,1898 666,1939 619,1906 561,1942 500,1910 323,1938 253,1912 198,1938"/>
+                <Baseline points="205,1973 252,1971 299,1969 346,1967 393,1966 440,1965 487,1964 535,1964 582,1963 629,1963 676,1962 723,1961 770,1961 817,1960 865,1958 912,1957 959,1955 1006,1953 1053,1951 1100,1947 1148,1943"/>
+                <TextEquiv>
+                    <Unicode>greatly, though overleaping my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+Jay 26 /97.&#13;
+THE CAMP.&#13;
+&#13;
+SUNNINGDALE.&#13;
+&#13;
+My dear Dyer&#13;
+As soon as I can get to Kew&#13;
+I will go into the matter of the&#13;
+Cypripedia. The Indian Orchideae&#13;
+want revision throughout -- the&#13;
+task was too heavy a one for a&#13;
+Flora that had to be brought out&#13;
+within a reasonable period, &amp; my&#13;
+copy is full of notes errata and&#13;
+addenda.&#13;
+I had not heard of the&#13;
+discovery of Antherozoids in Cycas&#13;
+&amp; Salisburia -- it is a very&#13;
+far reaching one.&#13;
+Scotts  researches interest me&#13;
+greatly, though overleaping my</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

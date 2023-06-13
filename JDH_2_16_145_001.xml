@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-16T22:20:44.298-04:00</Created>
+        <LastChange>2020-06-19T00:07:02.663+02:00</LastChange>
+        <TranskribusMetadata docId="414293" pageId="16412625" pageNr="1" tsid="32166265" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ZSQHPAMXRCFPOHJBVKDPZWSH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OUXGHXAAVSCGIGZNLZYXGVDD" imageId="12208209"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_145_001.jpg" imageWidth="1386" imageHeight="2161">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330959230" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="91,205 91,361 157,361 157,205"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="86,333 115,340 127,350 132,345 153,345 156,340 167,338 159,248 126,240 108,252 103,249 96,257 79,258"/>
+                <Baseline points="91,311 124,310 157,305"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="181,51 181,2044 1281,2044 1281,51"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1053,125 1069,129 1097,109 1112,110 1138,130 1163,124 1193,141 1209,134 1221,139 1230,14 1186,15 1117,45 1103,40 1085,46 1060,36"/>
+                <Baseline points="1063,95 1088,94 1114,95 1139,98 1165,101 1190,103 1216,102"/>
+                <TextEquiv>
+                    <Unicode>[145]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="943,226 960,224 995,253 1079,203 1087,212 1130,207 1175,244 1220,208 1266,221 1268,155 1230,165 1201,137 1175,135 1088,156 999,100 948,112"/>
+                <Baseline points="952,194 977,193 1003,193 1029,194 1054,195 1080,197 1106,198 1131,200 1157,201 1183,203 1208,203 1234,203 1260,202"/>
+                <TextEquiv>
+                    <Unicode>Jay 14/96</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="266,217 281,217 290,225 295,225 308,239 314,235 322,235 322,155 310,157 289,147 281,153 280,151 275,155 266,155"/>
+                <Baseline points="273,207 315,207"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1013,289 1056,297 1100,281 1118,294 1149,295 1157,287 1187,291 1214,272 1233,280 1233,246 1220,247 1210,237 1176,244 1167,235 1142,239 1123,231 1109,237 1099,230 1089,239 1058,219 1036,230 1014,229"/>
+                <Baseline points="1020,263 1045,264 1071,264 1097,264 1123,265 1148,265 1174,266 1200,267 1226,268"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="992,335 1069,345 1100,337 1153,362 1227,339 1268,341 1268,315 1237,302 1121,302 1089,311 1065,296 993,288"/>
+                <Baseline points="999,333 1025,335 1051,335 1077,336 1103,336 1130,337 1156,336 1182,336 1208,336 1234,336 1261,335"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="195,606 250,597 286,617 378,572 436,580 495,566 558,580 636,562 635,541 534,521 488,496 423,529 378,522 329,538 257,493 224,525 193,530"/>
+                <Baseline points="201,577 226,576 251,574 276,573 301,572 326,571 352,570 377,569 402,569 427,568 452,568 477,568 503,567 528,567 553,567 578,566 603,566 629,566"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="482,715 621,671 742,697 993,654 1199,660 1217,618 1037,611 966,642 824,606 646,650 477,598"/>
+                <Baseline points="488,676 524,676 560,676 596,675 632,674 668,673 704,672 741,670 777,669 813,668 849,665 885,663 921,661 957,660 994,657 1030,655 1066,653 1102,651 1138,649 1174,647 1211,645"/>
+                <TextEquiv>
+                    <Unicode>Of course Oliver's name</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="175,811 1278,777 1276,711 741,722 672,769 556,736 301,771 173,747"/>
+                <Baseline points="181,791 235,792 290,793 344,793 399,792 453,791 508,789 562,787 617,785 671,783 726,780 780,777 835,774 889,772 944,769 998,767 1053,765 1107,763 1162,762 1216,761 1271,761"/>
+                <TextEquiv>
+                    <Unicode>must disappear form the title pages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="213,945 286,909 548,929 667,886 885,943 967,871 1288,878 1284,807 836,845 751,796 608,871 539,878 465,830 417,870 208,858"/>
+                <Baseline points="219,920 272,915 325,911 378,906 431,902 484,898 537,895 590,891 643,888 696,885 750,882 803,880 856,877 909,874 962,872 1015,870 1068,867 1121,865 1174,862 1227,860 1281,857"/>
+                <TextEquiv>
+                    <Unicode>of the "Icones." The only draw- back</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="226,1035 1076,989 1241,1023 1239,962 1135,930 832,969 384,948 225,982"/>
+                <Baseline points="233,1012 283,1010 333,1009 383,1007 433,1005 483,1003 533,1002 583,1000 633,999 683,997 733,995 783,994 833,993 883,991 933,990 983,989 1033,988 1083,987 1133,987 1183,986 1233,986"/>
+                <TextEquiv>
+                    <Unicode>which I see to your undertaking</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="224,1129 1228,1119 1205,1043 1002,1081 794,1044 223,1058"/>
+                <Baseline points="231,1116 280,1116 329,1116 379,1116 428,1115 478,1115 527,1114 577,1113 626,1113 676,1112 725,1111 774,1110 824,1109 873,1108 923,1107 972,1106 1022,1104 1071,1103 1121,1101 1170,1100 1220,1098"/>
+                <TextEquiv>
+                    <Unicode>the editorship is the labour &amp; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="230,1252 492,1243 579,1277 685,1226 1111,1235 1202,1223 1224,1164 1137,1189 991,1146 937,1196 880,1171 716,1202 596,1173 412,1207 228,1194"/>
+                <Baseline points="237,1236 286,1237 335,1238 384,1237 433,1236 482,1235 531,1234 580,1232 629,1230 678,1228 727,1226 776,1224 825,1222 874,1220 923,1218 972,1217 1021,1216 1070,1215 1119,1214 1168,1214 1218,1214"/>
+                <TextEquiv>
+                    <Unicode>responsibility involved. I speak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="216,1370 324,1351 431,1388 491,1330 697,1375 785,1332 1172,1300 1202,1289 1199,1233 1082,1276 791,1260 512,1313 454,1279 358,1314 267,1274 213,1313"/>
+                <Baseline points="221,1336 269,1337 318,1337 367,1336 415,1335 464,1334 513,1332 561,1331 610,1328 659,1326 708,1324 756,1321 805,1318 854,1315 902,1311 951,1308 1000,1305 1048,1302 1097,1299 1146,1296 1195,1293"/>
+                <TextEquiv>
+                    <Unicode>feelingly, having regard to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="238,1447 590,1430 688,1462 912,1418 1124,1440 1191,1423 1190,1388 977,1366 837,1399 629,1365 471,1415 236,1381"/>
+                <Baseline points="245,1436 294,1436 343,1435 393,1434 442,1433 492,1432 541,1430 590,1428 640,1426 689,1424 739,1423 788,1421 838,1419 887,1418 936,1416 986,1415 1035,1414 1085,1414 1134,1414 1184,1414"/>
+                <TextEquiv>
+                    <Unicode>Botanical Magazine; which is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="458,1515 472,1511 498,1483 512,1493 535,1486 550,1495 576,1482 607,1491 621,1487 617,1433 602,1438 592,1432 564,1452 544,1437 520,1446 505,1437 464,1468 454,1467"/>
+                <Baseline points="463,1485 488,1484 513,1483 538,1481 563,1478 588,1476 614,1474"/>
+                <TextEquiv>
+                    <Unicode>of both</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="244,1554 441,1582 512,1533 673,1566 780,1527 1223,1508 1179,1475 1011,1488 978,1458 933,1485 816,1469 774,1514 627,1472 582,1513 506,1487 370,1523 242,1507"/>
+                <Baseline points="251,1542 299,1545 347,1546 395,1547 443,1547 492,1546 540,1544 588,1542 636,1539 684,1536 733,1532 781,1528 829,1525 877,1522 925,1518 974,1515 1022,1512 1070,1509 1118,1507 1166,1506 1215,1506"/>
+                <TextEquiv>
+                    <Unicode>even less as I have not to drive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="261,1665 796,1661 971,1616 1062,1665 1252,1612 1249,1554 1058,1591 939,1549 849,1604 603,1572 454,1622 343,1589 259,1630"/>
+                <Baseline points="266,1650 317,1649 369,1647 420,1646 472,1643 523,1641 575,1639 626,1637 678,1634 729,1631 781,1629 832,1626 884,1623 935,1620 987,1618 1038,1615 1090,1612 1141,1610 1193,1608 1245,1606"/>
+                <TextEquiv>
+                    <Unicode>others in harness. It might be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="229,1779 371,1749 412,1774 757,1740 802,1778 938,1735 1175,1745 1173,1698 869,1685 766,1712 660,1680 598,1719 435,1692 227,1725"/>
+                <Baseline points="235,1749 281,1750 328,1751 374,1751 421,1751 468,1750 514,1749 561,1747 608,1745 654,1742 701,1740 748,1738 794,1736 841,1734 888,1732 934,1731 981,1730 1028,1730 1074,1731 1121,1733 1168,1735"/>
+                <TextEquiv>
+                    <Unicode>well to add Hemsely's name, as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="267,1889 355,1845 473,1867 578,1825 733,1827 781,1863 838,1827 1207,1835 1262,1816 1261,1767 642,1784 524,1818 478,1782 265,1821"/>
+                <Baseline points="272,1840 321,1839 370,1838 419,1837 468,1835 518,1834 567,1832 616,1830 665,1828 714,1826 764,1824 813,1821 862,1819 911,1818 960,1816 1010,1815 1059,1813 1108,1812 1157,1812 1206,1812 1256,1812"/>
+                <TextEquiv>
+                    <Unicode>assisting -he being so prominent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="248,1949 1194,1903 1224,1890 1220,1829 998,1886 376,1874 246,1918"/>
+                <Baseline points="255,1948 303,1943 351,1938 399,1934 447,1931 495,1928 543,1925 591,1922 639,1920 687,1918 736,1916 784,1914 832,1912 880,1910 928,1907 976,1905 1024,1902 1072,1899 1120,1895 1168,1892 1217,1887"/>
+                <TextEquiv>
+                    <Unicode>in the Herbarium. You can think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="286,2050 1171,2009 1216,1999 1214,1935 1145,1966 1099,1933 833,1961 791,1990 687,1950 575,2002 358,1959 284,1988"/>
+                <Baseline points="291,2021 336,2023 382,2023 428,2023 474,2023 520,2022 566,2021 612,2020 658,2018 704,2016 750,2014 795,2012 841,2010 887,2007 933,2005 979,2003 1025,2001 1071,1999 1117,1997 1163,1995 1209,1994"/>
+                <TextEquiv>
+                    <Unicode>it over. I cannot but think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>[145]&#13;
+Jay 14/96&#13;
+9&#13;
+THE CAMP.&#13;
+SUNNINGDALE.&#13;
+My dear Dyer&#13;
+Of course Oliver's name&#13;
+must disappear form the title pages&#13;
+of the "Icones." The only draw- back&#13;
+which I see to your undertaking&#13;
+the editorship is the labour &amp; the&#13;
+responsibility involved. I speak&#13;
+feelingly, having regard to the&#13;
+Botanical Magazine; which is&#13;
+of both&#13;
+even less as I have not to drive&#13;
+others in harness. It might be&#13;
+well to add Hemsely's name, as&#13;
+assisting -he being so prominent&#13;
+in the Herbarium. You can think&#13;
+it over. I cannot but think</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

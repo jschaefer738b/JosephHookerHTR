@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-18T19:04:57.083-04:00</Created>
+        <LastChange>2020-06-19T03:27:40.917+02:00</LastChange>
+        <TranskribusMetadata docId="415447" pageId="16484250" pageNr="1" tsid="32169698" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TJPKPUCXJMJXGRBNJKRYIYZC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WITOWIRCWYBNKSUUSIHDJRCZ" imageId="12277863"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_146_004.jpg" imageWidth="1446" imageHeight="2171">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330956391" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="101,141 101,2090 1357,2090 1357,141"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="105,233 178,259 417,197 573,229 639,189 811,210 1030,167 1306,199 1302,127 1216,109 387,139 102,188"/>
+                <Baseline points="112,226 171,222 230,219 289,215 349,210 408,207 467,203 526,198 586,194 645,191 704,186 763,183 823,180 882,177 941,174 1000,172 1060,171 1119,170 1178,170 1237,170 1297,171"/>
+                <TextEquiv>
+                    <Unicode>affects the useless attempts at classifying</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="666,271 674,271 683,260 689,258 695,262 704,255 707,258 717,256 715,222 705,221 704,223 700,220 693,220 688,216 676,215 670,211 663,212"/>
+                <Baseline points="672,246 710,244"/>
+                <TextEquiv>
+                    <Unicode>y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="95,330 1292,285 1291,246 998,220 937,260 809,254 766,221 697,265 482,235 378,281 235,245 93,277"/>
+                <Baseline points="101,308 160,306 219,304 278,302 337,300 397,298 456,295 515,293 574,291 633,289 693,286 752,284 811,282 870,280 929,278 989,276 1048,274 1107,273 1166,272 1225,271 1285,270"/>
+                <TextEquiv>
+                    <Unicode>varieties. Which with from Herbm specimens is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="113,413 224,432 537,388 595,435 817,378 877,403 1101,380 1100,348 998,317 718,361 541,319 467,377 367,341 112,381"/>
+                <Baseline points="121,404 169,403 218,402 266,401 315,400 364,399 412,397 461,396 509,394 558,392 607,391 655,389 704,388 752,386 801,384 850,382 898,380 947,379 995,377 1044,375 1093,373"/>
+                <TextEquiv>
+                    <Unicode>impossible to any good purpose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="235,559 1344,502 1323,447 951,488 763,439 688,492 230,465"/>
+                <Baseline points="241,536 295,534 350,533 405,531 460,529 514,527 569,525 624,522 679,520 733,517 788,515 843,512 898,510 952,507 1007,504 1062,502 1117,499 1171,497 1226,495 1281,493 1336,490"/>
+                <TextEquiv>
+                    <Unicode>I think the herbarium descriptive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="135,669 590,678 782,628 1229,606 1259,565 1079,516 1014,567 797,598 730,565 572,605 496,569 132,594"/>
+                <Baseline points="142,640 197,640 253,641 308,640 364,640 419,638 475,637 530,635 586,632 641,630 697,627 753,624 808,620 864,617 919,614 975,610 1030,606 1086,603 1141,600 1197,597 1253,594"/>
+                <TextEquiv>
+                    <Unicode>work of Hemsley, Brown &amp; Rolfe is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="137,771 578,784 716,732 819,724 875,764 970,713 1182,717 1162,660 899,683 810,653 733,702 646,678 560,710 135,713"/>
+                <Baseline points="143,740 194,742 246,742 297,743 349,742 400,741 452,740 503,738 555,737 606,734 658,732 710,730 761,727 813,725 864,722 916,720 967,717 1019,715 1070,713 1122,711 1174,710"/>
+                <TextEquiv>
+                    <Unicode>really excellent. -- Though I do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="126,852 740,858 1042,817 1109,843 1270,772 439,827 123,797"/>
+                <Baseline points="133,843 189,846 246,847 302,848 359,848 415,848 472,846 528,845 585,843 641,841 698,838 755,834 811,831 868,828 924,824 981,821 1037,817 1094,814 1150,811 1207,808 1264,805"/>
+                <TextEquiv>
+                    <Unicode> wish you could limit on diagnoses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="167,966 774,921 999,947 1200,920 1199,876 1112,854 896,896 786,866 566,912 489,879 427,918 165,895"/>
+                <Baseline points="173,941 226,939 280,937 333,936 387,934 441,933 494,931 548,930 602,928 655,927 709,925 762,924 816,922 870,921 923,920 977,918 1031,917 1084,915 1138,914 1192,912"/>
+                <TextEquiv>
+                    <Unicode>proceeding the general descriptions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="163,1044 1004,1025 1275,989 1273,931 1121,978 1038,943 973,984 912,955 767,995 690,950 629,997 425,952 319,1009 247,977 161,997"/>
+                <Baseline points="170,1037 224,1032 279,1028 334,1025 389,1023 444,1021 499,1019 554,1018 609,1017 664,1016 719,1016 773,1015 828,1013 883,1012 938,1010 993,1007 1048,1004 1103,999 1158,994 1213,988 1268,980"/>
+                <TextEquiv>
+                    <Unicode>where these are long -- which is not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="182,1164 386,1128 1230,1112 1247,1053 770,1093 517,1057 390,1115 178,1080"/>
+                <Baseline points="188,1138 240,1137 293,1135 345,1133 398,1131 451,1129 503,1127 556,1124 609,1122 661,1119 714,1117 767,1114 819,1111 872,1109 925,1107 977,1105 1030,1103 1083,1101 1135,1100 1188,1099 1241,1098"/>
+                <TextEquiv>
+                    <Unicode>the case in the "Decas" just received</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="509,1176 940,1180 939,1135 893,1127 865,1139 839,1123 796,1139 759,1117 673,1146 567,1122 509,1143"/>
+                <Baseline points="517,1171 542,1171 568,1171 594,1171 620,1171 646,1171 672,1171 698,1171 724,1170 750,1170 776,1170 802,1169 828,1169 854,1168 880,1167 906,1167 932,1166"/>
+                <TextEquiv>
+                    <Unicode>characters hold</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="173,1252 274,1266 436,1222 709,1228 776,1260 893,1222 1181,1214 1161,1160 842,1195 438,1194 400,1161 325,1203 260,1170 171,1188"/>
+                <Baseline points="180,1236 229,1235 279,1234 328,1233 378,1232 428,1231 477,1229 527,1228 577,1226 626,1224 676,1223 726,1221 775,1219 825,1217 875,1215 924,1214 974,1212 1024,1210 1073,1208 1123,1207 1173,1205"/>
+                <TextEquiv>
+                    <Unicode>where the descriptions a good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="174,1348 885,1306 1042,1345 1318,1307 1303,1245 173,1303"/>
+                <Baseline points="181,1324 237,1327 294,1329 350,1329 407,1330 463,1329 520,1328 576,1326 633,1323 689,1321 746,1319 802,1316 859,1314 915,1311 972,1309 1028,1307 1085,1306 1141,1305 1198,1305 1254,1306 1311,1307"/>
+                <TextEquiv>
+                    <Unicode>mean between a bold diagnosis &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="150,1439 612,1436 652,1466 714,1421 1272,1427 1268,1347 1209,1331 955,1341 789,1394 681,1352 599,1413 464,1366 148,1390"/>
+                <Baseline points="157,1430 212,1433 267,1434 322,1435 378,1435 433,1435 488,1434 543,1431 599,1429 654,1426 709,1422 764,1419 820,1416 875,1411 930,1408 985,1404 1041,1400 1096,1397 1151,1394 1206,1390 1262,1388"/>
+                <TextEquiv>
+                    <Unicode>a descripton. If, as no doubt they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="162,1568 922,1549 982,1512 1098,1564 1362,1524 1360,1445 1245,1482 1074,1448 928,1501 763,1476 693,1515 413,1463 326,1527 159,1499"/>
+                <Baseline points="169,1545 228,1544 287,1542 346,1541 406,1540 465,1538 524,1537 583,1536 643,1534 702,1532 761,1531 820,1529 880,1527 939,1525 998,1523 1057,1520 1117,1517 1176,1514 1235,1511 1294,1508 1354,1504"/>
+                <TextEquiv>
+                    <Unicode>are, these are careful, they quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="154,1675 680,1638 841,1678 946,1624 1123,1664 1359,1629 1357,1573 1288,1554 1206,1590 1045,1562 152,1610"/>
+                <Baseline points="161,1652 220,1651 280,1649 339,1648 399,1646 458,1644 518,1642 577,1640 637,1638 696,1635 756,1633 815,1631 875,1629 934,1627 994,1625 1053,1623 1113,1621 1172,1620 1232,1618 1291,1617 1351,1615"/>
+                <TextEquiv>
+                    <Unicode>suit the requirements of utility with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="183,1788 259,1761 355,1806 912,1725 1272,1742 1299,1676 1091,1653 917,1707 828,1676 673,1713 497,1676 445,1711 272,1688 180,1725"/>
+                <Baseline points="189,1751 244,1754 299,1756 354,1756 409,1756 465,1756 520,1754 575,1752 630,1750 685,1747 741,1744 796,1741 851,1738 906,1734 961,1730 1017,1727 1072,1724 1127,1721 1182,1718 1237,1716 1293,1714"/>
+                <TextEquiv>
+                    <Unicode>speedy publication. -- 6-7 lines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="169,1870 654,1851 814,1895 897,1835 1365,1838 1363,1788 1306,1773 168,1825"/>
+                <Baseline points="177,1858 236,1858 295,1858 354,1857 413,1855 472,1854 531,1851 590,1849 649,1846 708,1843 767,1840 826,1838 885,1835 944,1832 1003,1830 1062,1828 1121,1827 1180,1826 1239,1826 1298,1826 1357,1827"/>
+                <TextEquiv>
+                    <Unicode>with a postscript of dimensions &amp;c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="169,1965 241,1996 320,1955 388,1970 445,1946 558,1972 614,1952 766,1967 766,1889 586,1910 521,1884 450,1915 413,1893 279,1885 169,1910"/>
+                <Baseline points="176,1945 205,1947 234,1948 263,1949 292,1950 321,1950 350,1950 380,1950 409,1949 438,1949 467,1948 496,1947 525,1946 554,1945 584,1945 613,1944 642,1944 671,1944 700,1944 729,1945 759,1946"/>
+                <TextEquiv>
+                    <Unicode>might be the rule.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="230,2078 453,2100 1217,2033 1248,2020 1244,1939 920,2021 785,1974 687,2039 589,1981 504,2027 411,2032 296,1971 226,2004"/>
+                <Baseline points="237,2069 287,2068 337,2067 387,2065 437,2064 488,2062 538,2061 588,2059 638,2057 688,2055 739,2053 789,2050 839,2047 889,2044 939,2041 990,2038 1040,2035 1090,2030 1140,2026 1190,2022 1241,2017"/>
+                <TextEquiv>
+                    <Unicode>I should have told you that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>affects the useless attempts at classifying&#13;
+y&#13;
+varieties. Which with from Herbm specimens is&#13;
+impossible to any good purpose&#13;
+I think the herbarium descriptive&#13;
+work of Hemsley, Brown &amp; Rolfe is&#13;
+really excellent. -- Though I do&#13;
+ wish you could limit on diagnoses&#13;
+proceeding the general descriptions&#13;
+where these are long -- which is not&#13;
+the case in the "Decas" just received&#13;
+characters hold&#13;
+where the descriptions a good&#13;
+mean between a bold diagnosis &amp;&#13;
+a descripton. If, as no doubt they&#13;
+are, these are careful, they quite&#13;
+suit the requirements of utility with&#13;
+speedy publication. -- 6-7 lines&#13;
+with a postscript of dimensions &amp;c&#13;
+might be the rule.&#13;
+I should have told you that</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=none:date=20_03_2023_12:38</Creator>
+        <Created>2023-03-14T00:33:05.180+01:00</Created>
+        <LastChange>2023-04-05T17:23:48.545+02:00</LastChange>
+        <TranskribusMetadata docId="1362477" pageId="53240175" pageNr="2" tsid="118072351" status="DONE" userId="151145" imgUrl="https://files.transkribus.eu/Get?id=IQBMCJEXDGCKYUFWRNJEYZMJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRBABOINQCSNXIICMYPJTBOS" imageId="43230720"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_93_002.jpg" imageWidth="1213" imageHeight="1900">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330754310" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="96,174 1094,174 1094,938 96,938"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="113,377 1004,297 1008,224 947,219 475,281 349,251 244,313 120,279"/>
+                <Baseline points="122,354 138,354 168,354 198,352 228,348 258,342 288,342 318,342 348,340 378,338 408,336 438,334 468,334 498,336 528,332 558,328 588,326 618,322 648,320 678,318 708,318 738,316 768,312 798,308 828,308 858,308 888,302 918,300 948,300 978,296 1008,294"/>
+                <TextEquiv>
+                    <Unicode>his knee troubles him.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="88,461 389,447 472,480 548,433 828,411 903,459 1031,429 1035,360 983,337 684,381 606,344 465,404 383,373 91,409"/>
+                <Baseline points="96,458 104,456 134,454 164,452 194,450 224,450 254,448 284,444 314,444 344,440 374,436 404,436 434,436 464,434 494,430 524,430 554,428 584,428 614,424 644,420 674,416 704,414 734,414 764,412 794,412 824,410 854,408 884,408 914,406 944,406 974,404 1004,400 1034,402"/>
+                <TextEquiv>
+                    <Unicode>He talks of Mentone for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="123,567 197,567 243,547 303,559 407,539 520,540 521,501 432,480 393,511 335,485 291,511 208,484 127,491"/>
+                <Baseline points="132,554 134,554 164,548 194,548 224,546 254,546 284,542 314,540 344,538 374,536 404,534 434,532 464,532 494,532 524,534"/>
+                <TextEquiv>
+                    <Unicode>the winter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="245,650 556,624 670,650 828,598 1044,606 1091,590 1094,550 958,578 718,540 544,575 252,552"/>
+                <Baseline points="254,634 284,632 314,630 344,628 374,626 404,624 434,622 464,618 494,616 524,616 554,614 584,612 614,612 644,610 674,606 704,606 734,604 764,602 794,598 824,598 854,596 884,594 914,594 944,592 974,592 1004,590 1034,590 1064,588 1094,584"/>
+                <TextEquiv>
+                    <Unicode>The train brought on my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="111,735 732,720 1076,759 1080,642 880,615 686,684 571,646 113,659"/>
+                <Baseline points="120,720 122,720 152,722 182,720 212,720 242,720 272,720 302,718 332,718 362,718 392,716 422,716 452,716 482,714 512,712 542,710 572,708 602,708 632,708 662,706 692,706 722,704 752,700 782,698 812,696 842,694 872,694 902,692 932,692 962,690 992,692 1022,696 1052,698 1082,704"/>
+                <TextEquiv>
+                    <Unicode>ear--ache again. But after</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="132,828 193,823 252,882 365,819 586,842 775,806 912,840 923,748 509,730 432,768 364,739 292,784 132,788"/>
+                <Baseline points="140,822 144,820 174,820 204,818 234,818 264,818 294,818 324,820 354,820 384,820 414,818 444,816 474,814 504,814 534,812 564,812 594,812 624,810 654,806 684,806 714,804 744,802 774,802 804,802 834,802 864,802 894,802 924,800"/>
+                <TextEquiv>
+                    <Unicode>a very bad night it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="152,930 361,923 408,940 459,922 552,964 624,947 627,863 611,858 542,868 495,839 432,844 361,900 272,870 235,896 201,864 155,866"/>
+                <Baseline points="160,928 178,926 208,924 238,922 268,922 298,922 328,920 358,920 388,918 418,916 448,916 478,912 508,912 538,914 568,912 598,916 628,916"/>
+                <TextEquiv>
+                    <Unicode>better to day.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="108,986 1174,986 1174,1440 108,1440"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="336,1040 469,1056 558,1039 634,1056 707,1119 775,1115 870,1044 892,1051 891,954 835,947 794,971 608,946 531,988 456,996 392,946 335,948"/>
+                <Baseline points="344,1040 356,1038 386,1038 416,1036 446,1036 476,1038 506,1040 536,1040 566,1040 596,1042 626,1044 656,1044 686,1044 716,1044 746,1046 776,1042 806,1040 836,1042 866,1040 896,1036"/>
+                <TextEquiv>
+                    <Unicode>Ever affy yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="623,1224 666,1232 734,1220 794,1252 848,1228 872,1238 918,1216 968,1215 971,1156 924,1156 879,1124 832,1143 800,1120 768,1127 718,1112 626,1135"/>
+                <Baseline points="630,1216 642,1210 672,1208 702,1206 732,1204 762,1202 792,1202 822,1200 852,1200 882,1198 912,1198 942,1202 972,1202"/>
+                <TextEquiv>
+                    <Unicode>JDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="120,1362 1068,1354 1070,1299 894,1320 791,1262 607,1303 453,1254 388,1286 260,1222 121,1248"/>
+                <Baseline points="128,1342 142,1340 172,1342 202,1340 232,1340 262,1338 292,1338 322,1338 352,1338 382,1336 412,1338 442,1336 472,1336 502,1334 532,1332 562,1332 592,1334 622,1334 652,1332 682,1332 712,1330 742,1332 772,1332 802,1334 832,1332 862,1332 892,1330 922,1330 952,1332 982,1330 1012,1330 1042,1330 1072,1334"/>
+                <TextEquiv>
+                    <Unicode>Love to Harriet we were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="100,1440 224,1479 598,1431 744,1486 1006,1498 1172,1435 1172,1354 1014,1342 836,1394 779,1355 594,1396 319,1352 100,1380"/>
+                <Baseline points="108,1430 124,1428 154,1428 184,1428 214,1428 244,1428 274,1426 304,1426 334,1424 364,1424 394,1424 424,1424 454,1428 484,1426 514,1424 544,1426 574,1426 604,1424 634,1424 664,1424 694,1422 724,1424 754,1426 784,1426 814,1428 844,1426 874,1428 904,1428 934,1426 964,1426 994,1426 1024,1426 1054,1424 1084,1426 1114,1422 1144,1422 1174,1426"/>
+                <TextEquiv>
+                    <Unicode>delighted to find her so bright.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

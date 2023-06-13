@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-20T22:07:28.257-04:00</Created>
+        <LastChange>2020-06-21T21:26:23.811+02:00</LastChange>
+        <TranskribusMetadata docId="416476" pageId="16536056" pageNr="1" tsid="32319489" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=OGGQQFFDBLWIEFDONMTEFCOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPBAVBMDDHFHUXIWQPJKAAEA" imageId="12329018"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_150_001.jpg" imageWidth="1464" imageHeight="2187">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330951524" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="264,49 264,2120 1406,2120 1406,49"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1073,126 1089,128 1102,116 1112,118 1145,106 1174,122 1192,118 1208,123 1211,54 1183,49 1175,42 1156,44 1143,34 1102,52 1091,44 1076,51"/>
+                <Baseline points="1081,94 1111,99 1141,100 1171,100 1202,100"/>
+                <TextEquiv>
+                    <Unicode>152</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="982,204 1052,189 1192,234 1346,207 1345,123 1321,129 1258,101 1216,121 1181,119 1120,154 1076,139 1020,175 1006,162 981,167"/>
+                <Baseline points="989,187 1014,188 1039,189 1064,190 1089,190 1114,191 1139,191 1164,191 1189,190 1214,190 1239,188 1264,187 1289,186 1314,184 1339,181"/>
+                <TextEquiv>
+                    <Unicode>Decr 15/96</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="660,312 681,305 746,342 815,338 854,314 889,268 933,266 913,135 897,140 809,86 731,89 686,103 668,123 632,125"/>
+                <Baseline points="660,269 686,270 712,268 738,265 764,261 791,255 817,249 843,245 869,241 895,239 922,240"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1085,272 1109,285 1173,287 1190,281 1208,288 1215,281 1234,286 1255,274 1271,282 1285,279 1286,241 1239,250 1226,239 1200,245 1175,230 1144,245 1120,231 1086,236"/>
+                <Baseline points="1092,269 1118,271 1145,272 1172,273 1198,273 1225,273 1252,272 1279,271"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1052,349 1147,345 1187,358 1260,344 1300,356 1322,349 1323,318 1233,322 1198,306 1174,318 1134,320 1053,304"/>
+                <Baseline points="1059,336 1084,338 1110,340 1135,341 1161,342 1187,342 1212,342 1238,342 1263,342 1289,341 1315,342"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="728,398 748,402 756,397 767,405 778,394 789,398 811,392 814,387 829,392 839,383 849,384 845,325 819,336 810,346 795,340 776,351 749,339 725,351"/>
+                <Baseline points="734,375 760,374 787,373 814,371 841,367"/>
+                <TextEquiv>
+                    <Unicode>KE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="262,605 271,604 288,581 294,579 299,572 306,568 315,568 306,511 297,512 295,516 286,509 274,509 265,514 262,511 258,514 252,509 245,510"/>
+                <Baseline points="264,582 310,574"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="282,632 321,641 396,593 795,608 803,517 748,531 669,466 569,546 480,513 430,551 370,524 281,574"/>
+                <Baseline points="289,585 314,584 339,583 365,583 390,583 416,583 441,583 466,583 492,583 517,583 543,583 568,583 593,583 619,583 644,583 670,582 695,580 720,579 746,577 771,575 797,572"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="499,730 751,718 794,743 871,711 1031,711 1212,734 1211,654 1139,642 1046,684 924,637 727,701 659,652 497,628"/>
+                <Baseline points="505,715 540,716 575,717 610,717 645,718 680,718 715,718 750,717 785,717 820,716 855,716 890,715 925,714 960,713 995,712 1030,711 1065,711 1100,710 1135,709 1170,708 1205,707"/>
+                <TextEquiv>
+                    <Unicode>I will do Mueller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="264,860 415,825 553,874 831,829 930,871 1006,827 1300,846 1338,839 1338,756 1269,795 1112,758 905,807 756,749 617,802 561,755 460,798 323,751 264,784"/>
+                <Baseline points="271,823 324,824 377,824 430,824 483,825 536,825 589,825 642,825 695,825 748,825 801,825 854,825 907,825 960,824 1013,824 1066,823 1119,823 1172,822 1225,822 1278,821 1331,820"/>
+                <TextEquiv>
+                    <Unicode>before long &amp; I have just sent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="307,992 476,966 573,992 631,954 1249,973 1247,882 1197,872 1140,901 1069,865 972,934 825,862 750,926 504,882 414,917 306,898"/>
+                <Baseline points="314,966 360,963 406,960 453,957 499,956 546,954 592,953 638,952 685,952 731,952 778,951 824,951 870,951 917,951 963,950 1010,949 1056,949 1102,948 1149,946 1195,944 1242,941"/>
+                <TextEquiv>
+                    <Unicode>off Hodgson.  These Society</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="291,1085 446,1073 521,1106 592,1068 852,1064 964,1102 1096,1053 1162,1080 1209,1045 1357,1058 1356,1019 1158,985 1071,1036 798,997 503,1044 383,1000 291,1051"/>
+                <Baseline points="298,1070 350,1069 403,1069 455,1068 508,1068 560,1067 613,1067 665,1066 718,1065 770,1064 823,1063 876,1062 928,1061 981,1059 1033,1057 1086,1055 1138,1053 1191,1051 1243,1048 1296,1045 1349,1042"/>
+                <TextEquiv>
+                    <Unicode>obituarys are becoming a tax, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="302,1194 761,1201 1127,1157 1405,1182 1403,1108 1131,1124 1017,1076 908,1148 783,1116 701,1142 591,1112 512,1157 429,1114 301,1130"/>
+                <Baseline points="309,1171 363,1174 417,1176 472,1177 526,1178 581,1177 635,1176 689,1174 744,1173 798,1171 853,1168 907,1166 961,1164 1016,1162 1070,1161 1125,1160 1179,1159 1233,1159 1288,1160 1342,1162 1397,1165"/>
+                <TextEquiv>
+                    <Unicode>rather have been thid to me, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="298,1289 540,1286 631,1343 765,1285 995,1351 1066,1311 1143,1346 1275,1287 1413,1317 1413,1226 1264,1211 1197,1255 1028,1258 834,1222 444,1267 298,1200"/>
+                <Baseline points="304,1278 359,1281 414,1284 469,1286 524,1287 579,1287 634,1287 689,1286 744,1285 799,1284 855,1283 910,1282 965,1281 1020,1280 1075,1280 1130,1280 1185,1281 1240,1282 1295,1285 1350,1289 1406,1294"/>
+                <TextEquiv>
+                    <Unicode>I am nearly at the end of my tether!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="425,1425 476,1401 535,1429 666,1426 768,1497 931,1412 1081,1427 1180,1401 1180,1372 1095,1337 943,1390 820,1364 752,1384 686,1336 627,1378 575,1379 495,1311 424,1359"/>
+                <Baseline points="431,1412 468,1412 505,1412 542,1413 579,1413 616,1413 653,1413 690,1413 727,1413 764,1413 802,1413 839,1413 876,1412 913,1411 950,1411 987,1410 1024,1409 1061,1407 1098,1405 1135,1403 1173,1401"/>
+                <TextEquiv>
+                    <Unicode>I am having a lot of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="270,1532 480,1567 584,1530 1303,1544 1316,1477 1125,1447 1036,1495 870,1468 788,1502 495,1473 399,1500 338,1451 269,1481"/>
+                <Baseline points="277,1527 328,1529 380,1530 431,1531 483,1531 535,1531 586,1531 638,1531 689,1530 741,1529 793,1528 844,1527 896,1526 947,1526 999,1525 1051,1524 1102,1523 1154,1522 1205,1522 1257,1521 1309,1521"/>
+                <TextEquiv>
+                    <Unicode>correspondence about Banks.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="381,1670 497,1653 574,1690 788,1643 887,1676 965,1639 1297,1660 1330,1620 851,1598 776,1624 704,1583 638,1620 478,1567 380,1633"/>
+                <Baseline points="387,1656 433,1655 480,1654 527,1652 574,1651 621,1650 667,1649 714,1648 761,1647 808,1646 855,1645 901,1644 948,1643 995,1643 1042,1642 1089,1641 1135,1641 1182,1640 1229,1640 1276,1640 1323,1640"/>
+                <TextEquiv>
+                    <Unicode>Mr Ings has sent me some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="273,1772 396,1773 492,1827 614,1778 797,1772 866,1815 928,1778 1050,1801 1104,1761 1304,1770 1303,1711 1156,1695 980,1740 903,1689 794,1730 611,1694 467,1743 325,1687 272,1721"/>
+                <Baseline points="279,1762 329,1765 380,1766 431,1768 482,1769 533,1769 584,1768 635,1768 686,1767 737,1765 788,1764 838,1762 889,1760 940,1759 991,1758 1042,1757 1093,1756 1144,1756 1195,1756 1246,1757 1297,1759"/>
+                <TextEquiv>
+                    <Unicode>letters of Solander Cunningham &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="290,1895 868,1915 1060,1883 1199,1912 1343,1870 1342,1829 688,1840 627,1872 347,1821 289,1856"/>
+                <Baseline points="297,1881 351,1883 406,1885 461,1887 515,1887 570,1888 625,1888 679,1888 734,1887 789,1886 843,1885 898,1884 953,1883 1007,1881 1062,1879 1117,1878 1171,1876 1226,1874 1281,1873 1336,1872"/>
+                <TextEquiv>
+                    <Unicode>Anderson which I shall give to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="289,2021 350,2007 399,2025 445,2023 459,2038 496,2017 530,2023 533,1964 501,1975 476,1960 439,1962 430,1954 403,1968 378,1944 348,1933 292,1939"/>
+                <Baseline points="297,2002 322,2003 347,2003 372,2003 397,2003 422,2004 447,2005 472,2007 497,2010 523,2015"/>
+                <TextEquiv>
+                    <Unicode>Herbm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="331,2119 1175,2085 1312,2059 1309,1994 1063,2015 995,1987 905,2055 765,2021 525,2072 326,2024"/>
+                <Baseline points="337,2100 385,2100 433,2100 482,2098 530,2097 579,2095 627,2093 675,2090 724,2087 772,2085 821,2082 869,2078 917,2075 966,2073 1014,2070 1063,2066 1111,2065 1159,2062 1208,2060 1256,2059 1305,2058"/>
+                <TextEquiv>
+                    <Unicode>It is good news that you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>152&#13;
+Decr 15/96&#13;
+&#13;
+THE CAMP.&#13;
+SUNNINGDALE.&#13;
+KE&#13;
+&#13;
+My dear Dyer&#13;
+I will do Mueller&#13;
+before long &amp; I have just sent&#13;
+off Hodgson.  These Society&#13;
+obituarys are becoming a tax, or&#13;
+rather have been thid to me, but&#13;
+I am nearly at the end of my tether!&#13;
+I am having a lot of&#13;
+correspondence about Banks.&#13;
+Mr Ings has sent me some&#13;
+letters of Solander Cunningham &amp;&#13;
+Anderson which I shall give to&#13;
+Herbm.&#13;
+It is good news that you</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

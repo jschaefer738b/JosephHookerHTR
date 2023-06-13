@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-20T22:07:28.357-04:00</Created>
+        <LastChange>2020-06-21T22:05:24.228+02:00</LastChange>
+        <TranskribusMetadata docId="416476" pageId="16536057" pageNr="2" tsid="32319800" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=PMMEEUDXLFWURSLXHFRFTZEW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UWTVVBHGDRJOYYVXXWABVNMN" imageId="12329019"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_150_002.jpg" imageWidth="1416" imageHeight="2157">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330951770" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="130,258 130,2036 1350,2036 1350,258"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="192,361 342,366 408,323 1237,313 1236,235 1205,228 1001,289 779,245 443,284 317,211 191,234"/>
+                <Baseline points="199,312 250,314 302,315 353,316 405,317 456,317 508,317 559,317 611,316 662,316 714,315 765,314 817,313 868,312 920,312 971,311 1023,310 1074,309 1126,309 1177,309 1229,309"/>
+                <TextEquiv>
+                    <Unicode>will undertake Finances for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="135,467 320,461 370,496 468,445 736,426 833,464 917,425 1229,426 1203,369 1054,401 921,348 827,401 725,367 653,413 539,402 452,361 344,396 244,369 133,414"/>
+                <Baseline points="143,457 196,455 250,452 304,449 358,446 412,443 466,440 520,438 574,435 628,433 682,430 735,428 789,426 843,424 897,423 951,422 1005,421 1059,420 1113,420 1167,421 1221,422"/>
+                <TextEquiv>
+                    <Unicode>R.S. I feared it might go into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="164,591 273,560 1195,576 1195,521 1119,495 1027,536 863,467 755,542 640,496 566,535 515,490 373,532 246,471 164,487"/>
+                <Baseline points="171,562 221,562 272,562 323,562 374,562 425,562 475,562 526,562 577,562 628,561 679,561 729,561 780,560 831,560 882,559 933,559 983,558 1034,558 1085,558 1136,557 1187,557"/>
+                <TextEquiv>
+                    <Unicode>Brittens' hands.  I have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="165,707 258,690 329,722 411,676 662,674 899,726 969,671 1109,695 1109,620 936,603 841,651 572,608 517,644 318,660 222,603 165,630"/>
+                <Baseline points="173,680 219,680 265,680 312,679 358,679 405,678 451,678 498,677 544,676 591,676 637,675 683,675 730,674 776,674 823,674 869,674 916,674 962,675 1009,675 1055,676 1102,677"/>
+                <TextEquiv>
+                    <Unicode>poring over the vols of Ceylon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="170,825 285,828 373,781 587,838 976,778 1257,810 1293,757 1004,751 950,711 788,756 466,719 366,762 168,723"/>
+                <Baseline points="176,795 231,794 287,792 342,791 398,790 453,788 509,787 564,785 620,784 675,782 731,781 786,780 842,779 897,778 953,778 1008,778 1064,778 1119,779 1175,780 1230,782 1286,784"/>
+                <TextEquiv>
+                    <Unicode>Flora &amp; trying my hand at some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="212,942 582,922 676,950 876,895 1207,908 1235,861 964,830 896,876 689,855 605,900 355,842 209,862"/>
+                <Baseline points="218,910 268,914 319,917 369,918 420,919 470,919 521,919 571,918 622,916 672,914 723,911 774,909 824,906 875,903 925,900 976,897 1026,894 1077,892 1127,890 1178,888 1229,887"/>
+                <TextEquiv>
+                    <Unicode>of the genera -- Carex and Fimbristylis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="167,1032 378,1077 440,1029 567,1013 876,1039 1157,1002 1155,945 1124,943 1047,985 984,945 861,983 731,964 559,1000 365,957 167,998"/>
+                <Baseline points="175,1016 223,1018 272,1020 321,1021 369,1022 418,1022 467,1022 515,1021 564,1020 613,1019 662,1018 710,1016 759,1014 808,1012 856,1010 905,1008 954,1005 1002,1004 1051,1000 1100,999 1149,996"/>
+                <TextEquiv>
+                    <Unicode>with Clarkes work, &amp; find it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="171,1153 270,1139 351,1180 435,1136 1030,1133 1179,1091 1177,1040 1093,1033 1042,1069 985,1040 873,1076 782,1048 533,1066 419,1110 362,1072 169,1072"/>
+                <Baseline points="177,1121 226,1123 276,1125 326,1126 375,1126 425,1127 475,1127 524,1126 574,1125 624,1124 674,1123 723,1121 773,1119 823,1116 872,1113 922,1110 972,1107 1021,1103 1071,1100 1121,1095 1171,1090"/>
+                <TextEquiv>
+                    <Unicode>necessary with the latter to fall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="208,1244 887,1260 1230,1226 1230,1197 1102,1167 765,1216 511,1165 419,1217 268,1160 207,1189"/>
+                <Baseline points="216,1237 266,1238 316,1238 367,1238 417,1238 467,1238 518,1237 568,1237 618,1236 669,1235 719,1233 769,1232 820,1231 870,1230 920,1228 971,1226 1021,1225 1071,1223 1122,1222 1172,1221 1223,1219"/>
+                <TextEquiv>
+                    <Unicode>back on Bentham a good deal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="123,1359 417,1332 706,1379 768,1331 864,1360 1157,1330 1156,1271 1016,1283 975,1254 903,1306 739,1267 620,1314 406,1272 123,1292"/>
+                <Baseline points="130,1337 181,1336 232,1335 283,1334 334,1333 385,1333 436,1332 487,1332 538,1332 589,1332 640,1332 691,1332 742,1332 793,1331 844,1331 895,1330 946,1329 997,1327 1048,1326 1099,1324 1150,1321"/>
+                <TextEquiv>
+                    <Unicode>As you told me, I find that it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="134,1455 630,1467 690,1440 791,1480 827,1449 1143,1439 1143,1385 839,1382 793,1424 690,1423 613,1376 546,1425 349,1365 287,1405 134,1398"/>
+                <Baseline points="141,1441 190,1443 240,1444 290,1445 340,1446 389,1447 439,1447 489,1447 539,1447 588,1447 638,1447 688,1447 738,1447 787,1446 837,1445 887,1445 937,1444 986,1443 1036,1442 1086,1440 1136,1439"/>
+                <TextEquiv>
+                    <Unicode>will take 2 vols to finish the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="164,1576 352,1572 417,1611 540,1565 1052,1563 1358,1608 1357,1481 1276,1465 1172,1530 1071,1507 1005,1541 458,1512 276,1548 164,1513"/>
+                <Baseline points="171,1569 233,1572 295,1574 357,1575 419,1575 481,1575 543,1574 605,1573 667,1572 729,1571 791,1570 853,1569 915,1568 977,1567 1039,1567 1101,1568 1163,1570 1225,1572 1287,1576 1350,1580"/>
+                <TextEquiv>
+                    <Unicode>work.  If I undertake it I must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="153,1700 929,1684 1262,1758 1316,1741 1318,1627 1277,1604 1207,1656 1063,1671 764,1613 153,1659"/>
+                <Baseline points="160,1681 217,1684 274,1686 332,1688 389,1689 447,1689 504,1688 561,1688 619,1687 676,1687 734,1686 791,1686 848,1687 906,1688 963,1690 1021,1692 1078,1696 1135,1701 1193,1707 1250,1715 1308,1725"/>
+                <TextEquiv>
+                    <Unicode>think about it for a couple of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="175,1814 741,1786 962,1838 1067,1786 1138,1791 1138,1753 823,1736 765,1768 633,1737 520,1766 463,1733 359,1774 174,1743"/>
+                <Baseline points="183,1797 230,1796 277,1796 325,1795 372,1794 419,1793 467,1792 514,1792 561,1791 609,1790 656,1790 703,1789 751,1788 798,1788 845,1787 893,1787 940,1786 987,1786 1035,1786 1082,1786 1130,1786"/>
+                <TextEquiv>
+                    <Unicode>years.  It will be drudgery &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="189,1915 269,1945 582,1890 654,1923 799,1878 1023,1888 1080,1928 1133,1886 1246,1882 1244,1753 952,1839 858,1803 691,1856 188,1825"/>
+                <Baseline points="196,1891 248,1891 300,1891 352,1890 404,1890 456,1889 508,1889 560,1888 612,1887 664,1886 717,1885 769,1884 821,1883 873,1883 925,1881 977,1881 1029,1880 1081,1879 1133,1879 1185,1878 1238,1878"/>
+                <TextEquiv>
+                    <Unicode>the Govt. must gild the pill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="265,2029 409,2011 501,2052 559,2008 1026,1982 1136,2043 1197,2011 1195,1952 1090,1923 1000,1966 921,1922 866,1968 729,1931 692,1967 540,1959 479,1990 335,1933 263,1980"/>
+                <Baseline points="272,2011 317,2011 363,2011 409,2011 455,2010 501,2009 546,2008 592,2006 638,2004 684,2002 730,2000 775,1998 821,1997 867,1994 913,1992 959,1990 1004,1989 1050,1987 1096,1986 1142,1985 1188,1984"/>
+                <TextEquiv>
+                    <Unicode>I have just heard from King</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>will undertake Finances for the&#13;
+R.S. I feared it might go into&#13;
+Brittens' hands.  I have been&#13;
+poring over the vols of Ceylon&#13;
+Flora &amp; trying my hand at some&#13;
+of the genera -- Carex and Fimbristylis&#13;
+with Clarkes work, &amp; find it&#13;
+necessary with the latter to fall&#13;
+back on Bentham a good deal.&#13;
+As you told me, I find that it&#13;
+will take 2 vols to finish the&#13;
+work.  If I undertake it I must&#13;
+think about it for a couple of&#13;
+years.  It will be drudgery &amp;&#13;
+the Govt. must gild the pill.&#13;
+I have just heard from King</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

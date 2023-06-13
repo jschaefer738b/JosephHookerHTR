@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-11T20:32:25.312-04:00</Created>
+        <LastChange>2020-06-17T04:52:50.859+02:00</LastChange>
+        <TranskribusMetadata docId="407725" pageId="16124213" pageNr="2" tsid="31959722" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=IWUUPLVPTTSSVQNCWWFPWHQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OOVSGTFEPBPSUJLULSZYKODB" imageId="11931795"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_144_002.jpg" imageWidth="1448" imageHeight="2152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330960217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="52,111 52,1071 1075,1071 1075,111"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="134,216 206,205 272,237 336,187 535,212 588,172 679,186 726,156 822,214 884,159 1081,154 1077,85 1000,124 640,140 591,114 519,149 128,108"/>
+                <Baseline points="139,197 185,194 232,192 279,189 326,186 373,183 419,180 466,177 513,175 560,172 607,169 653,166 700,164 747,161 794,159 841,156 887,154 934,151 981,149 1028,147 1075,145"/>
+                <TextEquiv>
+                    <Unicode>Stapf will complicate my work</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="150,305 530,263 618,300 666,262 943,236 940,194 901,184 648,239 484,242 421,215 366,255 326,230 241,251 190,217 146,240"/>
+                <Baseline points="155,290 194,287 233,284 272,282 311,280 350,278 389,276 428,273 467,271 506,268 546,266 585,263 624,261 663,259 702,257 741,254 780,252 819,249 858,246 897,244 937,241"/>
+                <TextEquiv>
+                    <Unicode>by what he is doing with the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="160,393 200,407 304,366 501,389 533,365 1009,363 1008,337 856,332 759,272 622,342 457,295 365,340 262,336 216,305 159,328"/>
+                <Baseline points="165,366 206,366 248,365 290,364 332,363 374,363 416,362 458,361 500,360 542,359 584,358 625,358 667,357 709,357 751,356 793,356 835,356 877,356 919,356 961,357 1003,357"/>
+                <TextEquiv>
+                    <Unicode>African grasses -- These come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="96,474 747,475 886,468 913,433 777,392 483,441 369,398 264,422 172,395 95,412"/>
+                <Baseline points="101,469 141,468 181,466 221,465 262,464 302,464 342,464 383,463 423,463 463,463 504,463 544,463 584,463 624,462 665,461 705,461 745,459 786,457 826,455 866,452 907,449"/>
+                <TextEquiv>
+                    <Unicode>to hard blows with the Indian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="106,565 207,572 304,542 396,563 644,545 747,567 747,498 648,510 587,486 500,513 436,496 381,529 272,501 106,521"/>
+                <Baseline points="112,544 143,546 175,547 206,547 238,548 269,548 301,547 332,547 364,546 395,546 427,545 458,545 490,544 521,544 553,544 584,545 616,545 647,547 679,548 710,551 742,553"/>
+                <TextEquiv>
+                    <Unicode>as well as with those of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="84,651 146,636 347,647 388,629 660,644 659,586 611,598 581,573 474,614 409,577 343,618 175,600 144,575 83,589"/>
+                <Baseline points="89,632 117,632 145,632 173,632 202,633 230,633 258,633 286,633 315,633 343,633 371,632 399,632 428,632 456,632 484,631 512,631 541,630 569,629 597,629 625,628 654,627"/>
+                <TextEquiv>
+                    <Unicode>their own house!. &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="90,715 218,727 274,709 377,713 428,730 501,713 614,729 630,673 589,658 560,684 498,676 472,693 429,672 377,702 322,673 278,699 90,659"/>
+                <Baseline points="96,705 122,708 148,710 175,711 201,712 228,713 254,714 280,715 307,715 333,715 360,715 386,714 412,714 439,714 465,714 492,714 518,714 544,714 571,715 597,715 624,716"/>
+                <TextEquiv>
+                    <Unicode>require me to make</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="98,775 222,773 299,789 372,771 492,789 552,784 553,759 468,760 421,729 378,763 295,730 206,750 169,715 99,727"/>
+                <Baseline points="104,762 130,764 156,767 182,768 208,770 234,771 260,772 286,773 312,774 338,775 364,776 390,777 416,777 442,778 468,778 494,778 520,779 546,779"/>
+                <TextEquiv>
+                    <Unicode>alterations even in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="98,864 168,844 208,870 266,835 319,853 383,843 464,859 506,845 507,833 456,810 390,821 332,799 258,810 235,799 199,819 139,791 100,803"/>
+                <Baseline points="105,839 131,839 157,839 184,839 210,840 236,840 263,841 289,842 315,843 342,844 368,844 394,845 421,846 447,847 473,847 500,848"/>
+                <TextEquiv>
+                    <Unicode>proofs &amp; revises!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="114,915 169,909 211,941 248,911 297,903 318,916 391,913 437,938 466,914 494,911 495,855 450,881 396,884 362,873 340,883 312,861 211,878 177,846 115,859"/>
+                <Baseline points="120,899 146,898 172,898 198,898 225,898 251,898 277,899 304,899 330,900 356,901 382,902 409,903 435,904 461,905 488,906"/>
+                <TextEquiv>
+                    <Unicode>It only shows up</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="46,990 170,977 208,991 250,1033 313,979 347,981 385,965 385,937 336,923 321,938 263,954 246,941 186,944 129,916 47,931"/>
+                <Baseline points="52,974 77,973 102,973 127,974 152,975 177,975 202,977 228,977 253,978 278,979 303,978 328,977 353,976 379,973"/>
+                <TextEquiv>
+                    <Unicode>the state of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="70,1056 90,1050 113,1061 141,1045 159,1055 191,1053 214,1070 223,1062 256,1066 259,1040 230,1032 210,1036 178,998 155,1009 128,988 89,1013 75,1012"/>
+                <Baseline points="78,1039 107,1040 136,1041 165,1044 194,1047 223,1052 252,1055"/>
+                <TextEquiv>
+                    <Unicode>order!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Stapf will complicate my work&#13;
+by what he is doing with the&#13;
+African grasses -- These come&#13;
+to hard blows with the Indian&#13;
+as well as with those of&#13;
+their own house!. &amp;&#13;
+require me to make&#13;
+alterations even in&#13;
+proofs &amp; revises!&#13;
+It only shows up&#13;
+the state of the&#13;
+order!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
