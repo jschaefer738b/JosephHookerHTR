@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:36:43.018-04:00</Created>
+        <LastChange>2020-06-26T05:55:15.175+02:00</LastChange>
+        <TranskribusMetadata docId="419518" pageId="16700546" pageNr="3" tsid="32729493" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XHEHPAMFWFLQIOHFZZQPVEOU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWEDIJWCJWYZCBKEPLCNREII" imageId="12478856"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_179_003.jpg" imageWidth="1416" imageHeight="2183">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330914814" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="156,171 156,1386 1292,1386 1292,171"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="149,262 832,225 899,264 1012,212 1245,223 1243,171 1077,134 1013,180 849,188 145,157"/>
+                <Baseline points="156,250 210,247 264,244 318,242 372,240 426,237 480,235 534,232 588,230 642,227 696,225 750,223 804,221 858,219 912,218 966,216 1020,214 1074,213 1128,212 1182,210 1237,209"/>
+                <TextEquiv>
+                    <Unicode>the knees (but not painfull), &amp; they are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="156,358 557,385 1017,360 1137,346 1137,294 808,337 726,296 561,335 383,304 155,323"/>
+                <Baseline points="163,352 211,354 259,355 308,355 356,356 404,357 453,357 501,357 549,357 598,356 646,356 694,355 743,354 791,353 839,351 888,349 936,347 984,345 1033,343 1081,340 1130,337"/>
+                <TextEquiv>
+                    <Unicode>marvellous in number interest &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="164,465 1200,472 1231,416 534,414 451,448 163,410"/>
+                <Baseline points="171,457 223,460 276,462 328,463 381,464 434,465 486,465 539,465 592,465 644,464 697,463 750,462 802,461 855,461 908,460 960,459 1013,458 1066,458 1118,458 1171,458 1224,458"/>
+                <TextEquiv>
+                    <Unicode>execution -- No naval exped ever did</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="810,536 848,536 881,517 893,525 910,508 950,529 966,525 980,512 999,515 997,486 978,490 953,475 924,470 907,482 871,470 846,481 805,481"/>
+                <Baseline points="816,522 841,518 866,514 891,510 916,508 941,507 966,507 992,510"/>
+                <TextEquiv>
+                    <Unicode>&amp; bodies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="217,578 656,568 756,607 973,568 1067,598 1193,557 1193,490 960,537 911,508 854,542 628,499 475,545 217,494"/>
+                <Baseline points="224,566 272,565 320,565 368,565 416,565 464,564 512,564 560,564 608,564 656,564 705,564 753,564 801,564 849,563 897,563 945,563 993,562 1041,562 1089,561 1137,561 1186,560"/>
+                <TextEquiv>
+                    <Unicode>the like -- the heads of birds by Dr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="201,696 1285,683 1285,635 1150,613 1001,653 619,604 525,647 338,648 201,611"/>
+                <Baseline points="207,667 260,669 314,670 367,671 421,672 474,673 528,673 581,674 635,674 688,674 742,674 796,673 849,673 903,673 956,672 1010,672 1063,671 1117,671 1170,670 1224,670 1278,669"/>
+                <TextEquiv>
+                    <Unicode>Wilson are the perfection of orni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="164,778 528,778 635,821 765,782 952,816 1038,774 1166,807 1299,784 1299,752 1141,720 658,755 360,739 242,690 165,721"/>
+                <Baseline points="171,768 227,770 283,772 339,773 395,774 451,775 507,776 563,777 619,777 675,778 731,778 787,778 843,778 899,778 955,778 1011,778 1067,778 1123,778 1179,778 1235,778 1292,777"/>
+                <TextEquiv>
+                    <Unicode>-thological drawing &amp; coloring -- they are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="181,876 377,902 414,886 475,913 584,890 705,902 707,854 682,851 603,867 577,839 427,846 402,827 293,850 260,823 183,841"/>
+                <Baseline points="188,872 213,875 239,876 264,878 290,879 315,879 341,881 366,881 392,882 417,882 443,883 468,883 494,884 519,884 545,885 570,886 596,887 621,888 647,890 672,891 698,892"/>
+                <TextEquiv>
+                    <Unicode>absolutely alive.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="360,991 1296,1016 1299,956 1165,937 913,968 729,927 601,961 364,899"/>
+                <Baseline points="368,974 414,973 460,972 506,973 552,974 598,975 644,977 690,979 736,982 782,985 829,989 875,992 921,995 967,997 1013,999 1059,1002 1105,1003 1151,1004 1197,1005 1243,1004 1290,1003"/>
+                <TextEquiv>
+                    <Unicode>I hope you will enjoy your short</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="196,1084 310,1081 383,1134 565,1084 827,1123 890,1103 893,1036 767,1057 500,1011 321,1048 294,1020 200,1006"/>
+                <Baseline points="204,1069 239,1069 275,1069 311,1070 346,1071 382,1072 418,1073 454,1075 489,1077 525,1078 561,1081 597,1082 632,1085 668,1087 704,1089 740,1092 775,1094 811,1096 847,1098 883,1100"/>
+                <TextEquiv>
+                    <Unicode>holiday with Harriet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="861,1194 876,1189 882,1182 884,1184 889,1182 897,1188 908,1185 902,1142 894,1143 885,1151 875,1151 869,1156 856,1159"/>
+                <Baseline points="869,1204 902,1200"/>
+                <TextEquiv>
+                    <Unicode>y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="603,1212 638,1224 674,1208 687,1218 733,1216 784,1252 833,1262 846,1252 893,1267 897,1197 872,1198 812,1146 772,1145 742,1166 711,1167 665,1125 608,1120"/>
+                <Baseline points="610,1197 635,1197 660,1199 686,1201 711,1204 737,1206 762,1209 788,1211 813,1212 839,1212 864,1210 890,1208"/>
+                <TextEquiv>
+                    <Unicode>Ever affy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="844,1401 939,1378 962,1387 1130,1371 1164,1383 1210,1370 1208,1287 1162,1271 1099,1285 1059,1267 1012,1282 914,1225 880,1252 842,1252"/>
+                <Baseline points="850,1363 875,1365 900,1366 925,1367 950,1367 975,1367 1000,1366 1026,1365 1051,1364 1076,1363 1101,1362 1126,1362 1151,1361 1176,1361 1202,1362"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>the knees (but not painfull), &amp; they are&#13;
+marvellous in number interest &amp;&#13;
+execution -- No naval exped ever did&#13;
+&amp; bodies&#13;
+the like -- the heads of birds by Dr&#13;
+Wilson are the perfection of orni&#13;
+-thological drawing &amp; coloring -- they are&#13;
+absolutely alive.&#13;
+I hope you will enjoy your short&#13;
+holiday with Harriet.&#13;
+y&#13;
+Ever affy&#13;
+Jos D Hooker.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

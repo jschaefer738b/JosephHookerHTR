@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:48:48.171-04:00</Created>
+        <LastChange>2020-06-28T04:40:36.646+02:00</LastChange>
+        <TranskribusMetadata docId="421882" pageId="16787531" pageNr="3" tsid="32842104" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XUXVTJMDHXNEJFZTTOUMKSDV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QUYTIFNVHBTTMGMUKAPJVNSP" imageId="12542319"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_196_004.jpg" imageWidth="1452" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330905055" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="24,86 24,238 44,238 44,86"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="19,205 31,204 32,202 34,204 41,197 52,197 45,129 38,130 33,126 31,129 28,130 27,128 20,135 11,134"/>
+                <Baseline points="24,188 44,186"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="116,125 116,1241 1239,1241 1239,125"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="253,181 425,203 529,156 621,185 1012,152 1064,185 1154,168 1153,102 843,134 582,100 550,129 298,119 252,144"/>
+                <Baseline points="260,174 304,172 348,171 393,169 437,167 481,165 526,163 570,161 614,160 659,158 703,156 747,155 792,154 836,153 880,152 925,152 969,153 1013,153 1058,154 1102,156 1147,158"/>
+                <TextEquiv>
+                    <Unicode>A superb Impatiens arrived for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="110,282 222,259 342,290 461,247 816,278 863,235 1088,226 1115,191 905,171 692,221 107,225"/>
+                <Baseline points="116,270 165,266 215,262 264,259 314,257 364,253 413,251 463,249 513,246 562,244 612,241 662,239 711,237 761,234 811,232 860,229 910,225 960,223 1009,219 1059,215 1109,211"/>
+                <TextEquiv>
+                    <Unicode>Kew today, collected by one of Sander's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="121,343 960,284 1179,315 1192,235 1009,236 961,273 877,239 749,292 669,261 550,304 425,263 119,296"/>
+                <Baseline points="127,329 180,329 233,328 286,327 339,325 392,323 445,321 498,319 551,316 604,313 657,310 710,307 763,303 816,301 869,297 922,293 975,290 1028,286 1081,283 1134,280 1187,276"/>
+                <TextEquiv>
+                    <Unicode>scouts in Siam. Whence Kew had only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="227,365 241,367 244,364 247,366 263,364 272,372 281,372 283,329 269,330 259,336 254,336 245,326 229,328"/>
+                <Baseline points="234,360 274,362"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="138,417 1221,365 1219,328 859,313 698,367 583,343 279,379 186,343 136,370"/>
+                <Baseline points="144,404 197,403 250,402 304,400 357,398 411,396 464,394 518,392 571,389 625,386 678,383 731,380 785,377 838,374 892,371 945,368 999,365 1052,362 1106,359 1159,356 1213,353"/>
+                <TextEquiv>
+                    <Unicode>species, it is allied to the Jenkin ones.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="505,495 538,507 602,497 669,519 700,506 752,526 823,485 895,487 893,439 865,443 830,424 802,440 724,429 635,457 560,415 502,441"/>
+                <Baseline points="511,489 536,489 561,489 586,489 611,488 636,487 661,487 686,486 711,484 736,483 761,481 786,480 811,478 836,476 861,474 887,472"/>
+                <TextEquiv>
+                    <Unicode>Ever affectionately yors</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="808,639 888,605 1125,586 1184,598 1181,530 1147,545 1080,508 1021,534 980,515 904,518 865,491 799,514"/>
+                <Baseline points="812,604 838,604 864,603 890,601 916,598 942,596 968,593 995,590 1021,588 1047,586 1073,585 1099,584 1125,583 1151,584 1178,586"/>
+                <TextEquiv>
+                    <Unicode>Jos. D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="162,781 227,767 273,802 544,745 1188,726 1165,662 1109,693 541,694 485,728 230,679 158,705"/>
+                <Baseline points="168,764 218,763 269,761 319,759 370,757 421,754 471,751 522,748 572,745 623,741 674,738 724,735 775,731 825,727 876,724 927,722 977,719 1028,717 1078,715 1129,714 1180,713"/>
+                <TextEquiv>
+                    <Unicode>Lady Hooker thanks you very much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="187,883 515,830 821,852 999,795 1157,791 1154,762 1057,743 1019,779 796,763 618,806 524,781 408,822 221,792 182,815"/>
+                <Baseline points="192,860 239,856 287,851 335,846 383,842 431,838 479,834 527,830 575,826 623,822 671,819 718,815 766,812 814,809 862,806 910,803 958,800 1006,798 1054,795 1102,793 1150,791"/>
+                <TextEquiv>
+                    <Unicode>for your letters, which gave her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="182,983 257,940 541,940 638,901 698,926 843,882 1118,888 1144,820 1008,857 953,835 841,869 644,854 542,891 176,907"/>
+                <Baseline points="185,939 232,937 280,934 328,931 376,927 424,924 472,920 519,915 567,911 615,907 663,902 711,897 759,894 807,890 854,886 902,883 950,879 998,876 1046,873 1094,872 1142,870"/>
+                <TextEquiv>
+                    <Unicode>great pleasure &amp; joins me in best</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="200,1044 306,1014 417,1032 677,991 811,1009 854,975 938,991 915,937 794,931 750,954 667,935 619,974 567,942 517,977 440,959 392,990 329,968 197,1003"/>
+                <Baseline points="205,1021 241,1020 277,1018 313,1017 349,1015 386,1011 422,1009 458,1006 494,1003 530,999 567,996 603,992 639,989 675,986 711,983 748,980 784,977 820,974 856,972 892,970 929,968"/>
+                <TextEquiv>
+                    <Unicode>wishes for the New Year.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="135,1159 370,1120 604,1157 793,1103 1200,1114 1246,1097 1243,1017 1147,1055 743,1037 596,1047 554,1087 132,1089"/>
+                <Baseline points="141,1142 195,1137 250,1133 305,1128 360,1124 415,1121 470,1117 525,1114 580,1111 635,1109 690,1106 744,1104 799,1102 854,1100 909,1098 964,1097 1019,1095 1074,1094 1129,1092 1184,1091 1239,1090"/>
+                <TextEquiv>
+                    <Unicode>I am reading Galton's Life -- it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="152,1227 376,1253 775,1205 1203,1227 1173,1180 910,1152 403,1201 210,1159 151,1197"/>
+                <Baseline points="159,1220 210,1221 262,1222 314,1221 366,1221 418,1220 470,1219 521,1217 573,1215 625,1213 677,1212 729,1210 781,1208 833,1207 884,1206 936,1206 988,1206 1040,1207 1092,1208 1144,1210 1196,1213"/>
+                <TextEquiv>
+                    <Unicode>is very curious &amp; interesting.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A superb Impatiens arrived for&#13;
+Kew today, collected by one of Sander's&#13;
+scouts in Siam. Whence Kew had only&#13;
+4&#13;
+species, it is allied to the Jenkin ones.&#13;
+Ever affectionately yors&#13;
+Jos. D Hooker&#13;
+Lady Hooker thanks you very much&#13;
+for your letters, which gave her&#13;
+great pleasure &amp; joins me in best&#13;
+wishes for the New Year.&#13;
+I am reading Galton's Life -- it&#13;
+is very curious &amp; interesting.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

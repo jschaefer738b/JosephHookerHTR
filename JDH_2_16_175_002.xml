@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:30:12.836-04:00</Created>
+        <LastChange>2020-06-25T02:50:26.975+02:00</LastChange>
+        <TranskribusMetadata docId="419498" pageId="16700367" pageNr="2" tsid="32636129" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=DLVXMEYSVETEZLWCGTEQYUZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WWZRVKEDGMYOCQZNEVJSIWZG" imageId="12478685"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_175_002.jpg" imageWidth="1428" imageHeight="2158">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330918639" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="173,306 173,2069 1298,2069 1298,306"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="205,388 534,359 764,393 920,351 1218,375 1238,287 1091,284 991,328 771,331 665,291 434,332 341,293 204,312"/>
+                <Baseline points="211,358 262,359 313,359 364,360 415,360 466,360 517,360 568,359 619,359 670,358 721,358 772,357 823,357 874,356 925,355 976,355 1027,355 1078,354 1129,354 1180,355 1232,355"/>
+                <TextEquiv>
+                    <Unicode>the procession passing us at little</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="168,479 1099,486 1152,476 1152,431 542,423 495,463 400,418 168,438"/>
+                <Baseline points="175,471 223,474 272,475 320,477 369,478 417,478 466,479 514,479 563,479 611,479 660,478 708,478 757,477 805,476 854,476 902,475 951,474 999,474 1048,473 1096,473 1145,473"/>
+                <TextEquiv>
+                    <Unicode>more than hand-shake distance:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="186,591 1198,597 1197,541 1158,534 1032,562 553,532 424,561 236,526 186,554"/>
+                <Baseline points="193,585 242,584 292,584 342,583 392,583 442,583 492,582 542,582 592,582 642,582 692,582 741,582 791,582 841,582 891,582 941,582 991,582 1041,583 1091,583 1141,583 1191,583"/>
+                <TextEquiv>
+                    <Unicode>but the weather was so gloomy &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="198,710 517,695 595,725 772,696 859,729 949,691 1233,701 1233,649 728,636 658,671 463,649 370,675 273,632 198,662"/>
+                <Baseline points="205,694 256,695 307,695 358,695 409,695 460,695 511,695 562,694 613,694 664,694 715,694 766,694 817,693 868,693 919,693 970,693 1021,693 1072,692 1123,692 1174,692 1226,692"/>
+                <TextEquiv>
+                    <Unicode>the windows of the abbey so blocked,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="189,813 689,825 911,788 1274,819 1295,749 1000,777 885,750 754,788 189,758"/>
+                <Baseline points="196,796 250,798 305,799 359,800 414,801 469,802 523,802 578,802 632,802 687,802 742,802 796,801 851,801 905,800 960,800 1015,799 1069,799 1124,798 1178,798 1233,797 1288,797"/>
+                <TextEquiv>
+                    <Unicode>that the diamonds did not sparkle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="203,900 374,896 527,944 572,914 1172,944 1174,888 1079,879 852,896 597,853 205,855"/>
+                <Baseline points="210,891 257,893 305,894 353,896 401,898 449,901 496,903 544,906 592,908 640,911 688,913 735,916 783,917 831,919 879,920 927,921 974,921 1022,921 1070,920 1118,918 1166,915"/>
+                <TextEquiv>
+                    <Unicode>The variety of costumes was very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="195,1010 406,1038 480,1010 537,1059 742,1016 1224,1055 1290,1049 1291,988 1051,963 983,998 650,995 499,940 414,982 248,945 195,968"/>
+                <Baseline points="202,997 256,1001 310,1004 364,1007 418,1009 472,1011 526,1013 580,1015 634,1016 688,1017 743,1018 797,1018 851,1018 905,1019 959,1019 1013,1019 1067,1018 1121,1018 1175,1018 1229,1017 1284,1017"/>
+                <TextEquiv>
+                    <Unicode>striking, their gorgeousness was depressing --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="187,1121 1033,1134 1087,1165 1270,1142 1271,1114 1097,1079 958,1106 829,1078 775,1108 736,1079 639,1103 188,1067"/>
+                <Baseline points="194,1108 247,1111 301,1114 354,1116 408,1118 461,1120 515,1122 568,1124 622,1125 675,1127 729,1128 782,1129 836,1130 889,1131 943,1132 996,1133 1050,1134 1103,1135 1157,1136 1210,1137 1264,1137"/>
+                <TextEquiv>
+                    <Unicode>The Lords Peers' coronets the most hideous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="186,1247 1205,1232 1205,1183 1063,1156 972,1189 909,1161 846,1206 763,1177 662,1207 360,1206 245,1157 186,1178"/>
+                <Baseline points="193,1218 243,1221 293,1224 343,1225 394,1226 444,1227 494,1227 544,1228 595,1227 645,1227 695,1227 745,1226 796,1226 846,1225 896,1225 946,1225 997,1225 1047,1226 1097,1226 1147,1228 1198,1229"/>
+                <TextEquiv>
+                    <Unicode>head-gear conceivable. &amp; the caps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="237,1365 309,1332 813,1322 971,1356 1072,1332 1125,1368 1305,1352 1305,1316 1150,1270 1029,1304 871,1271 691,1269 627,1305 484,1273 416,1303 337,1268 238,1286"/>
+                <Baseline points="245,1326 297,1326 350,1326 402,1326 455,1326 508,1325 560,1325 613,1324 666,1324 718,1324 771,1324 824,1324 876,1325 929,1326 982,1327 1034,1328 1087,1330 1140,1333 1192,1336 1245,1340 1298,1344"/>
+                <TextEquiv>
+                    <Unicode>of maintenance little better, the crowns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="216,1445 361,1436 432,1479 544,1439 680,1476 743,1438 874,1477 961,1440 1155,1468 1216,1453 1217,1407 881,1414 782,1378 594,1412 521,1381 373,1416 217,1395"/>
+                <Baseline points="223,1430 272,1431 321,1432 371,1432 420,1433 469,1434 519,1434 568,1435 617,1436 667,1436 716,1437 765,1438 815,1439 864,1440 913,1441 963,1443 1012,1444 1061,1446 1111,1447 1160,1449 1210,1451"/>
+                <TextEquiv>
+                    <Unicode>were very becoming -- though the jewels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="227,1537 627,1531 748,1567 870,1536 991,1581 1076,1544 1198,1570 1199,1499 1125,1475 1043,1518 965,1484 921,1517 611,1470 422,1506 319,1473 227,1518"/>
+                <Baseline points="233,1535 280,1532 328,1531 376,1530 424,1529 472,1528 520,1528 568,1529 616,1529 664,1530 712,1531 759,1532 807,1533 855,1534 903,1535 951,1537 999,1538 1047,1539 1095,1540 1143,1541 1191,1542"/>
+                <TextEquiv>
+                    <Unicode>did not scintillate, for want of light</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="199,1675 651,1648 894,1692 1138,1659 1212,1712 1270,1696 1272,1625 550,1595 393,1627 202,1583"/>
+                <Baseline points="207,1638 259,1639 312,1640 365,1641 418,1642 471,1643 524,1645 576,1646 629,1647 682,1649 735,1650 788,1652 841,1654 894,1655 946,1657 999,1659 1052,1661 1105,1663 1158,1664 1211,1666 1264,1668"/>
+                <TextEquiv>
+                    <Unicode>of course we saw nothing of the ceremony,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="185,1770 575,1760 615,1788 667,1747 1166,1777 1242,1747 1242,1706 1009,1738 357,1686 185,1715"/>
+                <Baseline points="192,1758 244,1756 296,1754 348,1752 400,1752 453,1751 505,1751 557,1751 609,1752 661,1753 714,1753 766,1754 818,1755 870,1756 922,1756 975,1757 1027,1757 1079,1756 1131,1756 1183,1754 1236,1753"/>
+                <TextEquiv>
+                    <Unicode>the "Theatre" being crammed with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="165,1863 286,1861 354,1900 443,1848 512,1872 738,1854 776,1888 836,1854 1126,1858 1110,1805 817,1825 670,1795 637,1823 569,1784 166,1826"/>
+                <Baseline points="173,1852 220,1852 267,1852 314,1852 362,1851 409,1851 456,1851 504,1851 551,1850 598,1850 646,1850 693,1850 740,1851 787,1851 835,1851 882,1852 929,1853 977,1854 1024,1856 1071,1858 1119,1860"/>
+                <TextEquiv>
+                    <Unicode>the nobility &amp;c &amp;c The cheering was both</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="175,1942 297,1971 352,1940 669,1946 722,1976 1019,1934 1164,1978 1192,1899 324,1892 271,1920 175,1886"/>
+                <Baseline points="181,1941 231,1939 281,1938 331,1937 381,1937 432,1937 482,1938 532,1939 582,1940 632,1941 683,1943 733,1945 783,1946 833,1947 883,1948 934,1948 984,1948 1034,1947 1084,1946 1134,1944 1185,1941"/>
+                <TextEquiv>
+                    <Unicode>hearty and solemn:- vy effective. My</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="177,2047 1260,2063 1261,2018 1068,2022 931,1975 747,2026 537,1986 178,1989"/>
+                <Baseline points="184,2030 237,2031 291,2033 344,2035 398,2037 451,2038 505,2040 558,2042 612,2043 665,2044 719,2045 772,2046 826,2047 879,2047 933,2047 986,2046 1040,2045 1093,2044 1147,2042 1200,2040 1254,2037"/>
+                <TextEquiv>
+                    <Unicode>blue mantle was a horrid nuisance,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>the procession passing us at little&#13;
+more than hand-shake distance:&#13;
+but the weather was so gloomy &amp;&#13;
+the windows of the abbey so blocked,&#13;
+that the diamonds did not sparkle.&#13;
+The variety of costumes was very&#13;
+striking, their gorgeousness was depressing --&#13;
+The Lords Peers' coronets the most hideous&#13;
+head-gear conceivable. &amp; the caps&#13;
+of maintenance little better, the crowns&#13;
+were very becoming -- though the jewels&#13;
+did not scintillate, for want of light&#13;
+of course we saw nothing of the ceremony,&#13;
+the "Theatre" being crammed with&#13;
+the nobility &amp;c &amp;c The cheering was both&#13;
+hearty and solemn:- vy effective. My&#13;
+blue mantle was a horrid nuisance,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

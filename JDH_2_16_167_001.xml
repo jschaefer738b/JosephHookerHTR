@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:45:17.108-04:00</Created>
+        <LastChange>2020-06-24T05:44:43.878+02:00</LastChange>
+        <TranskribusMetadata docId="418295" pageId="16659309" pageNr="1" tsid="32542557" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=MCDQFBENZBJYKPFFMEALNVGX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OIRPYGUWDUJOLUPYGSFGDUDL" imageId="12444765"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_167_001.jpg" imageWidth="1428" imageHeight="2191">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330931665" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="281,75 281,2044 1323,2044 1323,75"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1065,148 1090,139 1121,151 1145,130 1165,125 1182,140 1201,134 1215,143 1241,132 1259,141 1256,41 1234,36 1214,43 1201,34 1185,42 1167,33 1158,41 1127,37 1112,44 1101,36 1061,48"/>
+                <Baseline points="1070,128 1096,127 1122,125 1148,123 1174,121 1200,121 1226,122 1252,124"/>
+                <TextEquiv>
+                    <Unicode>1167</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="988,284 1102,258 1120,269 1175,240 1224,270 1271,242 1279,250 1329,238 1327,200 1302,192 1170,195 1141,181 1102,189 1044,161 984,185"/>
+                <Baseline points="993,245 1018,246 1043,246 1069,246 1094,246 1119,245 1145,244 1170,243 1196,242 1221,240 1246,238 1272,236 1297,235 1323,233"/>
+                <TextEquiv>
+                    <Unicode>Jan 3 1900</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1040,341 1059,349 1078,337 1100,340 1129,326 1147,337 1177,341 1205,332 1217,338 1247,333 1247,303 1211,294 1184,300 1154,284 1140,293 1114,291 1105,300 1066,285 1041,293"/>
+                <Baseline points="1047,320 1074,321 1102,322 1129,322 1157,322 1184,323 1212,324 1240,325"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1013,398 1043,405 1072,397 1096,412 1157,406 1171,395 1188,402 1218,396 1264,410 1288,399 1289,371 1151,372 1143,363 1102,370 1083,362 1065,369 1030,353 1014,358"/>
+                <Baseline points="1019,390 1045,391 1071,391 1097,391 1124,391 1150,392 1176,392 1203,393 1229,394 1255,395 1282,397"/>
+                <TextEquiv>
+                    <Unicode>SUNNINCDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="293,661 362,690 408,658 493,650 538,667 576,642 636,658 762,632 761,603 693,599 637,558 576,572 500,621 407,609 348,561 291,580"/>
+                <Baseline points="299,648 324,648 349,647 375,647 400,647 425,647 451,647 476,647 501,647 527,647 552,646 577,646 603,644 628,644 653,642 679,640 704,639 729,636 755,633"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="587,770 640,749 723,770 1018,748 1063,778 1233,716 1295,720 1284,669 1231,691 1027,679 923,723 872,692 840,716 794,698 746,715 649,677 584,693"/>
+                <Baseline points="593,749 627,749 662,750 697,750 732,750 767,749 801,749 836,748 871,747 906,745 941,744 975,743 1010,741 1045,739 1080,736 1115,734 1149,731 1184,729 1219,726 1254,723 1289,719"/>
+                <TextEquiv>
+                    <Unicode>I shall be delighted to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="275,871 1291,840 1288,769 1210,805 1032,777 749,826 601,789 529,828 273,817"/>
+                <Baseline points="281,862 331,862 381,861 431,860 481,858 531,856 581,854 632,851 682,849 732,846 782,843 832,841 882,839 932,836 983,835 1033,833 1083,832 1133,832 1183,832 1233,832 1284,834"/>
+                <TextEquiv>
+                    <Unicode>have the Pisum in Bot. Mag. -- of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="298,962 954,974 995,939 1304,929 1303,881 296,927"/>
+                <Baseline points="304,954 353,954 403,955 452,955 502,955 552,955 601,954 651,954 701,953 750,951 800,950 850,948 899,946 949,944 999,940 1048,938 1098,934 1148,931 1197,927 1247,924 1297,919"/>
+                <TextEquiv>
+                    <Unicode>which I knew nothing till Mr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="289,1070 1281,1056 1280,1001 1231,987 1182,1022 1131,993 918,1026 288,1006"/>
+                <Baseline points="295,1053 344,1054 393,1054 442,1054 491,1053 540,1053 589,1052 638,1051 687,1050 736,1049 785,1048 834,1047 883,1045 932,1044 981,1043 1030,1042 1079,1041 1128,1040 1177,1040 1226,1039 1275,1039"/>
+                <TextEquiv>
+                    <Unicode>Burkill came to me about it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="300,1148 580,1136 666,1162 898,1127 1047,1159 1233,1126 1233,1084 1202,1074 908,1102 819,1056 725,1116 645,1088 607,1117 507,1081 473,1104 300,1075"/>
+                <Baseline points="307,1129 353,1131 399,1132 445,1132 491,1133 537,1134 583,1134 629,1134 675,1134 721,1134 767,1134 813,1133 859,1133 905,1132 951,1131 997,1130 1043,1129 1089,1128 1135,1126 1181,1125 1227,1123"/>
+                <TextEquiv>
+                    <Unicode>last Monday. I could get it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="289,1227 574,1257 707,1214 939,1223 1006,1265 1118,1222 1239,1250 1226,1148 1094,1179 1049,1157 1005,1197 907,1158 820,1197 572,1169 288,1196"/>
+                <Baseline points="296,1229 342,1228 389,1228 436,1227 483,1226 530,1225 576,1224 623,1222 670,1221 717,1219 764,1217 810,1216 857,1214 904,1212 951,1211 998,1210 1044,1208 1091,1207 1138,1206 1185,1205 1232,1205"/>
+                <TextEquiv>
+                    <Unicode>into the April number if Miss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="299,1335 462,1325 513,1298 658,1343 781,1344 824,1306 935,1304 934,1272 850,1254 718,1282 661,1245 620,1283 548,1253 502,1276 377,1278 347,1256 297,1278"/>
+                <Baseline points="304,1312 335,1312 366,1313 397,1312 429,1312 460,1312 491,1311 522,1310 554,1309 585,1308 616,1307 647,1306 679,1305 710,1304 741,1302 772,1301 804,1301 835,1300 866,1299 897,1299 929,1299"/>
+                <TextEquiv>
+                    <Unicode>Smith has drawn it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="463,1427 814,1404 959,1456 1061,1405 1302,1403 1301,1371 1132,1345 1048,1368 942,1345 900,1369 829,1344 605,1382 462,1365"/>
+                <Baseline points="469,1414 510,1414 551,1414 592,1413 634,1413 675,1412 716,1412 758,1411 799,1411 840,1410 882,1409 923,1408 964,1408 1005,1406 1047,1405 1088,1404 1129,1402 1171,1400 1212,1399 1253,1397 1295,1394"/>
+                <TextEquiv>
+                    <Unicode>I wrote to Rayleigh at once</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="285,1526 849,1489 1153,1511 1272,1486 1272,1446 1211,1434 1157,1471 999,1431 937,1481 718,1444 542,1483 482,1446 284,1469"/>
+                <Baseline points="291,1499 339,1500 388,1501 437,1501 486,1502 534,1502 583,1502 632,1501 681,1501 729,1501 778,1500 827,1499 876,1498 924,1497 973,1496 1022,1494 1071,1493 1119,1491 1168,1489 1217,1487 1266,1485"/>
+                <TextEquiv>
+                    <Unicode>pointing out that a site for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="305,1606 482,1600 588,1638 654,1616 716,1651 790,1605 1212,1589 1211,1527 944,1578 304,1546"/>
+                <Baseline points="311,1593 355,1595 400,1596 445,1597 489,1599 534,1599 579,1600 623,1600 668,1600 713,1600 758,1600 802,1599 847,1598 892,1597 936,1595 981,1594 1026,1592 1070,1589 1115,1586 1160,1582 1205,1579"/>
+                <TextEquiv>
+                    <Unicode>Laboratory any where near the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="298,1732 385,1697 735,1694 774,1721 818,1690 1091,1688 1212,1714 1231,1661 1090,1644 1046,1671 970,1643 804,1675 561,1641 502,1680 350,1634 297,1655"/>
+                <Baseline points="303,1695 349,1694 395,1694 441,1693 487,1693 533,1692 579,1692 625,1691 671,1691 717,1691 764,1691 810,1691 856,1690 902,1690 948,1689 994,1689 1040,1688 1086,1687 1132,1686 1178,1685 1225,1684"/>
+                <TextEquiv>
+                    <Unicode>Garden boundary, would ruin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="295,1808 368,1795 428,1831 525,1803 585,1837 856,1795 1258,1808 1307,1773 1219,1744 858,1771 810,1740 715,1773 643,1740 565,1773 514,1743 401,1771 294,1745"/>
+                <Baseline points="301,1791 351,1794 401,1796 451,1798 501,1799 551,1799 601,1799 651,1799 701,1798 751,1797 801,1796 851,1794 901,1793 951,1792 1001,1790 1051,1789 1101,1788 1151,1788 1201,1788 1251,1788 1301,1789"/>
+                <TextEquiv>
+                    <Unicode>one of the finest landscapes within</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="284,1909 528,1933 679,1898 756,1940 857,1904 1307,1905 1307,1860 1257,1830 1198,1869 1037,1843 1004,1871 941,1835 873,1884 285,1828"/>
+                <Baseline points="291,1889 341,1890 392,1891 442,1892 493,1893 543,1895 594,1896 644,1897 695,1898 745,1899 796,1899 846,1900 897,1900 947,1900 998,1900 1048,1899 1099,1898 1149,1897 1200,1895 1250,1893 1301,1890"/>
+                <TextEquiv>
+                    <Unicode>the fume distance of London, &amp; be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="293,2044 362,2018 547,2049 950,2041 1058,2013 1120,2060 1203,2019 1273,2027 1273,1999 1153,1965 983,1987 761,1946 619,1995 435,1953 293,1980"/>
+                <Baseline points="300,2006 348,2012 396,2015 445,2018 493,2019 541,2020 590,2021 638,2021 686,2020 735,2019 783,2018 831,2017 880,2016 928,2015 976,2014 1025,2013 1073,2013 1121,2014 1170,2015 1218,2017 1267,2020"/>
+                <TextEquiv>
+                    <Unicode>an eye-sore for the Gardens for a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1167&#13;
+Jan 3 1900&#13;
+THE CAMP.&#13;
+SUNNINCDALE.&#13;
+My dear Dyer&#13;
+I shall be delighted to&#13;
+have the Pisum in Bot. Mag. -- of&#13;
+which I knew nothing till Mr&#13;
+Burkill came to me about it&#13;
+last Monday. I could get it&#13;
+into the April number if Miss&#13;
+Smith has drawn it.&#13;
+I wrote to Rayleigh at once&#13;
+pointing out that a site for the&#13;
+Laboratory any where near the&#13;
+Garden boundary, would ruin&#13;
+one of the finest landscapes within&#13;
+the fume distance of London, &amp; be&#13;
+an eye-sore for the Gardens for a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

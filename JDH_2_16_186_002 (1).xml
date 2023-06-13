@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T13:51:09.007-04:00</Created>
+        <LastChange>2020-06-27T23:28:57.989+02:00</LastChange>
+        <TranskribusMetadata docId="421804" pageId="16781690" pageNr="2" tsid="32837435" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=AWJFGWGKZQOYRAUJJHSTMUAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFGFFCDZTVOFUQHSYMYELPDJ" imageId="12536531"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_186_002 (1).jpg" imageWidth="1385" imageHeight="2139">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330911347" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="166,168 166,1390 1205,1390 1205,168"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="174,276 432,281 687,229 889,252 1056,217 1055,185 995,165 936,194 777,157 695,215 439,183 312,214 238,183 172,198"/>
+                <Baseline points="180,242 223,241 266,241 310,240 353,240 397,239 440,238 484,237 527,236 571,234 614,233 657,231 701,230 744,228 788,227 831,225 875,223 918,220 962,218 1005,216 1049,214"/>
+                <TextEquiv>
+                    <Unicode>educate Frances -- I shall be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="160,343 433,373 481,331 567,358 808,318 914,352 975,321 1196,322 1195,263 928,299 787,259 676,303 554,272 159,304"/>
+                <Baseline points="166,338 217,337 268,336 319,335 370,334 422,332 473,331 524,330 575,328 626,327 678,325 729,324 780,322 831,320 882,319 934,317 985,315 1036,314 1087,312 1138,310 1190,308"/>
+                <TextEquiv>
+                    <Unicode>surprised if Brian gets anything to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="169,442 462,430 500,453 573,425 692,451 806,417 974,420 973,387 884,360 579,403 536,382 421,403 357,374 283,414 228,382 167,387"/>
+                <Baseline points="175,430 214,430 254,430 293,430 333,430 373,430 412,429 452,428 491,427 531,426 571,424 610,423 650,421 689,419 729,417 769,416 808,414 848,411 887,409 927,408 967,405"/>
+                <TextEquiv>
+                    <Unicode>do - his wife may for him. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="283,541 426,533 470,554 537,525 760,510 813,535 933,493 933,464 843,440 781,489 581,468 460,505 350,474 279,481"/>
+                <Baseline points="289,528 322,528 356,528 389,527 423,526 457,525 490,523 524,521 558,519 591,518 625,515 658,512 692,510 726,507 759,505 793,502 827,499 860,496 894,494 928,491"/>
+                <TextEquiv>
+                    <Unicode>We are off tomorrow for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="449,656 516,668 608,624 716,636 741,618 855,610 879,623 894,610 946,625 943,575 811,579 750,543 687,586 658,567 601,575 544,559 478,560 444,584"/>
+                <Baseline points="454,642 479,638 505,633 530,630 556,627 581,624 607,621 632,619 658,617 683,615 709,613 734,612 760,611 785,610 811,609 836,608 862,608 887,608 913,608 939,608"/>
+                <TextEquiv>
+                    <Unicode>7 York Terrace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="660,748 681,753 768,718 862,722 883,710 922,723 985,707 1012,716 1009,641 955,645 885,683 845,690 784,683 713,642 655,684"/>
+                <Baseline points="664,724 690,721 716,719 742,717 769,714 795,713 821,711 848,710 874,708 900,706 927,704 953,701 979,698 1006,694"/>
+                <TextEquiv>
+                    <Unicode>Sidmouth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="763,868 776,860 784,861 812,835 828,834 837,841 853,835 863,843 881,842 876,798 846,807 793,783 786,785 774,800 755,802"/>
+                <Baseline points="765,829 791,827 818,823 844,820 871,817"/>
+                <TextEquiv>
+                    <Unicode>yours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="320,840 359,844 375,831 389,838 407,829 468,858 521,841 521,800 504,795 481,813 467,805 456,808 376,750 320,756"/>
+                <Baseline points="326,832 353,831 380,831 407,831 434,831 461,831 488,831 515,830"/>
+                <TextEquiv>
+                    <Unicode>Ever a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="513,877 529,878 534,875 539,878 562,857 576,859 580,765 572,764 568,768 557,766 540,781 530,785 518,783"/>
+                <Baseline points="521,860 569,862"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="605,884 626,876 650,888 666,873 675,876 684,870 691,874 698,871 677,767 664,769 657,776 638,772 607,808 589,809"/>
+                <Baseline points="610,878 636,874 663,866 690,864"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="757,1038 822,1011 843,1020 896,1006 1079,1002 1160,960 1158,939 1056,892 1005,885 937,906 896,894 846,927 823,916 803,940 748,938"/>
+                <Baseline points="761,1011 787,1009 813,1007 840,1004 866,1002 892,999 919,996 945,994 971,991 998,987 1024,984 1050,982 1077,981 1103,980 1129,979 1156,979"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="193,1198 951,1194 1021,1161 1212,1167 1210,1098 1025,1100 917,1143 556,1109 493,1148 294,1093 190,1110"/>
+                <Baseline points="199,1174 249,1175 299,1177 349,1177 400,1177 450,1177 500,1176 551,1175 601,1174 651,1173 702,1171 752,1170 802,1168 852,1166 903,1164 953,1162 1003,1161 1054,1159 1104,1158 1154,1156 1205,1156"/>
+                <TextEquiv>
+                    <Unicode>Capt Scott has sent me his 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="181,1291 1127,1291 1183,1265 1183,1212 1050,1240 956,1202 797,1254 181,1225"/>
+                <Baseline points="188,1272 237,1272 286,1272 336,1272 385,1272 435,1273 484,1273 533,1273 583,1274 632,1274 682,1274 731,1274 780,1274 830,1274 879,1273 929,1272 978,1271 1027,1270 1077,1267 1126,1265 1176,1262"/>
+                <TextEquiv>
+                    <Unicode>ponderous volumes. I like all I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="186,1374 437,1371 539,1403 571,1380 673,1370 804,1396 804,1345 742,1316 651,1312 595,1348 552,1325 489,1351 373,1322 310,1341 187,1296"/>
+                <Baseline points="193,1359 223,1360 253,1361 283,1362 314,1363 344,1364 374,1365 404,1366 435,1367 465,1368 495,1368 525,1369 556,1369 586,1369 616,1369 646,1369 677,1369 707,1369 737,1369 767,1368 798,1367"/>
+                <TextEquiv>
+                    <Unicode>have seen of them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>educate Frances -- I shall be&#13;
+surprised if Brian gets anything to&#13;
+do - his wife may for him. &#13;
+We are off tomorrow for&#13;
+7 York Terrace&#13;
+Sidmouth&#13;
+yours&#13;
+Ever a&#13;
+&#13;
+&#13;
+Jos D Hooker&#13;
+Capt Scott has sent me his 2&#13;
+ponderous volumes. I like all I&#13;
+have seen of them.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

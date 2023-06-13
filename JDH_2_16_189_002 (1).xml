@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T13:52:30.036-04:00</Created>
+        <LastChange>2020-06-27T23:53:36.668+02:00</LastChange>
+        <TranskribusMetadata docId="421806" pageId="16781692" pageNr="1" tsid="32838092" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=DSAUCLPTOPUZIHYCMCIJVTSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYMOBGAEYORNGVNUVRWBQLFM" imageId="12536533"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_189_002 (1).jpg" imageWidth="1418" imageHeight="2148">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330909800" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="160,400 160,2070 1247,2070 1247,400"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="219,428 515,433 551,462 613,428 1208,430 1207,382 1036,380 984,345 933,385 645,383 609,412 557,385 475,414 218,390"/>
+                <Baseline points="226,432 274,431 323,430 372,429 421,429 469,428 518,427 567,427 616,426 664,426 713,426 762,425 811,425 859,425 908,424 957,424 1006,423 1054,423 1103,422 1152,421 1201,421"/>
+                <TextEquiv>
+                    <Unicode>dominance of credulity. It explains</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="231,489 787,471 877,489 887,444 821,426 799,444 718,432 631,455 596,438 558,457 496,438 428,465 363,440 230,467"/>
+                <Baseline points="238,486 270,486 302,485 334,484 366,482 398,481 430,480 463,479 495,477 527,476 559,474 591,473 623,472 655,471 688,470 720,469 752,469 784,469 816,469 848,470 881,471"/>
+                <TextEquiv>
+                    <Unicode>all the above erratic beliefs!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="176,554 497,541 628,577 725,529 1048,541 1062,478 981,502 729,475 649,514 597,486 543,508 436,489 313,529 222,481 174,501"/>
+                <Baseline points="183,545 226,544 270,543 314,541 357,540 401,538 445,537 488,535 532,533 576,532 620,530 663,528 707,527 751,526 794,524 838,524 882,523 925,523 969,523 1013,524 1057,525"/>
+                <TextEquiv>
+                    <Unicode>I am rereading Bates with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="165,656 915,652 1020,616 1119,651 1157,642 1155,575 163,612"/>
+                <Baseline points="170,639 221,638 273,636 324,635 376,634 427,634 479,633 530,633 582,632 633,632 685,631 736,630 788,628 839,626 891,624 942,621 994,618 1045,614 1097,609 1149,603"/>
+                <TextEquiv>
+                    <Unicode>increased admiration. My</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="161,745 568,723 703,750 805,707 907,738 1148,729 1147,685 947,663 721,698 482,661 427,701 160,701"/>
+                <Baseline points="167,725 215,726 264,727 313,727 361,727 410,727 459,725 507,724 556,723 605,722 654,720 702,718 751,717 800,716 848,715 897,714 946,713 994,713 1043,713 1092,714 1141,716"/>
+                <TextEquiv>
+                    <Unicode>ancient Entomological experiences</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="173,847 638,819 816,843 978,808 1040,840 1148,822 1146,754 952,785 912,758 862,795 677,766 593,804 537,775 472,814 170,773"/>
+                <Baseline points="179,828 227,829 275,829 323,829 371,829 419,828 467,827 515,826 563,824 611,822 660,820 708,818 756,816 804,814 852,812 900,810 948,808 996,807 1044,805 1092,804 1141,803"/>
+                <TextEquiv>
+                    <Unicode>helps me over the great defect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="201,972 356,934 1196,918 1193,858 931,896 840,863 766,904 593,877 364,902 329,873 199,903"/>
+                <Baseline points="207,938 256,937 305,935 354,933 403,932 452,930 501,928 550,926 599,925 648,923 698,921 747,920 796,918 845,916 894,915 943,913 992,911 1041,909 1090,907 1139,905 1189,903"/>
+                <TextEquiv>
+                    <Unicode>of the work, which is the constant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="183,1038 494,1028 552,1062 707,1024 773,1050 853,1018 1188,1020 1201,981 1111,946 1038,981 868,957 812,1000 663,979 431,1007 381,974 332,1011 182,1010"/>
+                <Baseline points="189,1028 239,1029 289,1030 339,1030 390,1030 440,1029 490,1028 541,1027 591,1026 641,1024 692,1023 742,1020 792,1018 842,1016 893,1014 943,1012 993,1010 1044,1008 1094,1006 1144,1005 1195,1003"/>
+                <TextEquiv>
+                    <Unicode>insistence of giving the scientific</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="196,1125 345,1116 469,1154 552,1117 711,1111 749,1139 884,1114 976,1141 1103,1110 1104,1068 830,1061 691,1098 537,1059 439,1095 196,1075"/>
+                <Baseline points="202,1115 246,1115 291,1115 336,1115 381,1115 425,1115 470,1116 515,1116 560,1116 604,1116 649,1116 694,1116 739,1116 783,1115 828,1115 873,1114 918,1112 962,1111 1007,1109 1052,1106 1097,1103"/>
+                <TextEquiv>
+                    <Unicode>names of genera, of butterflies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="154,1222 336,1228 400,1270 491,1220 620,1210 1184,1218 1183,1169 1100,1147 748,1193 610,1164 572,1193 153,1178"/>
+                <Baseline points="160,1213 210,1215 261,1216 312,1216 363,1217 414,1217 465,1217 515,1217 566,1217 617,1216 668,1216 719,1215 770,1214 821,1213 871,1212 922,1212 973,1211 1024,1209 1075,1209 1126,1208 1177,1207"/>
+                <TextEquiv>
+                    <Unicode>especially, which an expert alone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1010,1292 1023,1295 1029,1290 1037,1290 1044,1285 1050,1284 1055,1289 1061,1290 1065,1254 1056,1253 1052,1250 1025,1270 1020,1264 1013,1263"/>
+                <Baseline points="1018,1285 1055,1289"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1070,1275 1096,1288 1120,1310 1133,1306 1146,1311 1157,1303 1173,1311 1200,1314 1205,1240 1180,1237 1158,1246 1147,1240 1126,1243 1102,1259 1072,1249"/>
+                <Baseline points="1076,1291 1105,1296 1135,1297 1165,1298 1195,1300"/>
+                <TextEquiv>
+                    <Unicode>The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="163,1325 821,1315 932,1345 1076,1279 162,1286"/>
+                <Baseline points="170,1317 217,1318 264,1319 311,1319 359,1320 406,1320 453,1319 501,1319 548,1318 595,1318 643,1317 690,1316 737,1314 785,1313 832,1311 879,1308 927,1306 974,1304 1021,1301 1069,1298"/>
+                <TextEquiv>
+                    <Unicode>can attach any meaning to.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="604,1359 748,1358 784,1379 1133,1351 1235,1363 1254,1356 1253,1310 1179,1328 992,1308 933,1344 775,1317 698,1342 603,1333"/>
+                <Baseline points="611,1351 642,1354 674,1356 706,1358 738,1359 770,1360 801,1360 833,1360 865,1359 897,1358 929,1357 960,1356 992,1354 1024,1353 1056,1352 1088,1351 1119,1350 1151,1349 1183,1349 1215,1349 1247,1350"/>
+                <TextEquiv>
+                    <Unicode>an alphabetical appendix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="179,1426 462,1450 800,1399 1250,1428 1250,1360 1129,1392 1046,1358 900,1388 179,1373"/>
+                <Baseline points="185,1410 237,1411 290,1411 343,1411 396,1411 449,1411 502,1410 555,1409 608,1409 661,1408 714,1408 766,1407 819,1407 872,1406 925,1406 978,1406 1031,1406 1084,1407 1137,1407 1190,1408 1243,1410"/>
+                <TextEquiv>
+                    <Unicode>The book sadly wants as descriptive list</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="196,1545 400,1506 525,1535 784,1494 1167,1514 1149,1453 1065,1481 621,1454 567,1488 196,1478"/>
+                <Baseline points="203,1508 250,1506 298,1505 346,1505 394,1504 442,1504 490,1503 537,1503 585,1503 633,1503 681,1503 729,1503 777,1503 825,1503 872,1503 920,1503 968,1503 1016,1503 1064,1502 1112,1502 1160,1501"/>
+                <TextEquiv>
+                    <Unicode>of names of beasts, birds, insects,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1087,1572 1136,1559 1153,1560 1180,1579 1205,1563 1227,1560 1251,1567 1251,1525 1229,1521 1213,1509 1167,1536 1131,1511 1116,1518 1087,1517"/>
+                <Baseline points="1094,1557 1119,1558 1144,1558 1169,1557 1194,1557 1219,1558 1244,1559"/>
+                <TextEquiv>
+                    <Unicode>too often</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="206,1621 614,1586 768,1626 900,1594 1241,1612 1224,1576 1095,1575 1061,1542 933,1573 898,1548 206,1555"/>
+                <Baseline points="212,1601 263,1598 314,1596 365,1594 416,1592 467,1591 518,1590 569,1589 620,1589 671,1589 723,1589 774,1589 825,1590 876,1591 927,1592 978,1593 1029,1594 1080,1596 1131,1597 1182,1599 1234,1601"/>
+                <TextEquiv>
+                    <Unicode>foods &amp; implements of which he gives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="180,1692 410,1670 588,1705 790,1673 941,1702 1060,1673 1108,1706 1158,1694 1158,1629 626,1659 272,1650 230,1613 180,1635"/>
+                <Baseline points="187,1678 235,1678 283,1679 331,1679 379,1679 428,1679 476,1678 524,1678 572,1677 620,1677 669,1676 717,1675 765,1675 813,1674 861,1673 910,1673 958,1673 1006,1672 1054,1672 1102,1673 1151,1673"/>
+                <TextEquiv>
+                    <Unicode>Indian names, or scientific only.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="215,1784 782,1760 896,1801 1076,1771 1245,1789 1245,1757 1038,1706 849,1747 788,1711 673,1742 216,1723"/>
+                <Baseline points="222,1761 272,1762 323,1764 374,1765 425,1765 476,1765 526,1765 577,1765 628,1765 679,1765 730,1765 780,1765 831,1765 882,1765 933,1766 984,1767 1034,1769 1085,1770 1136,1773 1187,1776 1238,1781"/>
+                <TextEquiv>
+                    <Unicode>His travels are intensely human,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="180,1866 962,1889 1153,1871 1154,1818 959,1845 761,1803 697,1833 475,1803 181,1817"/>
+                <Baseline points="187,1853 235,1855 283,1857 331,1858 379,1859 427,1860 475,1861 523,1861 571,1862 619,1862 667,1862 715,1863 763,1863 811,1863 859,1863 907,1863 955,1863 1003,1864 1051,1864 1099,1864 1147,1865"/>
+                <TextEquiv>
+                    <Unicode>like Scotts Antarctic narration &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="185,1962 244,1957 269,1977 412,1960 486,1992 545,1962 580,1983 641,1959 702,1963 701,1923 621,1906 519,1933 467,1911 434,1927 413,1914 338,1945 267,1933 225,1893 185,1895"/>
+                <Baseline points="192,1953 217,1955 242,1957 267,1958 292,1959 317,1959 342,1959 368,1959 393,1958 418,1958 443,1957 468,1957 493,1956 518,1956 544,1955 569,1955 594,1955 619,1955 644,1956 669,1956 695,1958"/>
+                <TextEquiv>
+                    <Unicode>hence delightful.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="229,2017 236,2017 237,2019 240,2019 246,2012 250,2013 259,2023 269,2024 269,1988 259,1987 257,1990 252,1990 249,1987 241,1988 238,1986 229,1986"/>
+                <Baseline points="235,2012 262,2012"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="220,2070 1194,2058 1193,1985 980,2024 825,1982 648,2019 471,1987 405,2029 219,2027"/>
+                <Baseline points="226,2058 274,2059 322,2059 370,2059 418,2058 466,2057 514,2056 562,2055 610,2054 658,2052 707,2051 755,2049 803,2048 851,2047 899,2046 947,2045 995,2044 1043,2044 1091,2045 1139,2045 1188,2047"/>
+                <TextEquiv>
+                    <Unicode>Do you happen to know what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dominance of credulity. It explains&#13;
+all the above erratic beliefs!&#13;
+I am rereading Bates with&#13;
+increased admiration. My&#13;
+ancient Entomological experiences&#13;
+helps me over the great defect&#13;
+of the work, which is the constant&#13;
+insistence of giving the scientific&#13;
+names of genera, of butterflies&#13;
+especially, which an expert alone&#13;
+&#13;
+The&#13;
+can attach any meaning to.&#13;
+an alphabetical appendix&#13;
+The book sadly wants as descriptive list&#13;
+of names of beasts, birds, insects,&#13;
+too often&#13;
+foods &amp; implements of which he gives&#13;
+Indian names, or scientific only.&#13;
+His travels are intensely human,&#13;
+like Scotts Antarctic narration &amp;&#13;
+hence delightful.&#13;
+&#13;
+Do you happen to know what</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1261,1254 1261,1406 1287,1406 1287,1254"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1253,1364 1260,1365 1263,1363 1271,1371 1275,1368 1278,1370 1284,1367 1293,1367 1296,1324 1289,1322 1286,1323 1284,1320 1277,1323 1274,1323 1272,1320 1257,1320"/>
+                <Baseline points="1261,1354 1287,1356"/>
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:51:15.709-04:00</Created>
+        <LastChange>2020-06-28T22:47:15.037+02:00</LastChange>
+        <TranskribusMetadata docId="421885" pageId="16787537" pageNr="1" tsid="32896673" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TACHFWKUDWVIOJUSOWHUAYSR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HCPKIHHUHMKPJQQMNLDEROIV" imageId="12542325"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_199_002.jpg" imageWidth="1432" imageHeight="2144">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330901479" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="137,144 137,1912 1255,1912 1255,144"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="176,245 256,275 372,229 450,254 534,215 609,245 913,189 1039,196 1036,156 879,168 785,143 511,194 173,195"/>
+                <Baseline points="181,231 223,230 266,229 308,227 351,225 393,223 436,222 478,220 521,217 563,216 606,213 648,211 691,208 733,206 776,203 818,200 861,198 903,194 946,192 988,188 1031,186"/>
+                <TextEquiv>
+                    <Unicode>My description of the Burdwan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="145,341 320,356 446,310 587,341 819,290 1003,326 1076,284 1235,278 1233,233 1121,257 1053,226 987,269 687,247 602,286 143,293"/>
+                <Baseline points="151,325 204,324 258,323 312,321 366,319 420,316 474,314 528,311 582,308 636,305 690,302 743,299 797,296 851,293 905,291 959,289 1013,286 1067,285 1121,283 1175,282 1229,282"/>
+                <TextEquiv>
+                    <Unicode>coal flora in my Himalayan Journals</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="160,422 446,404 499,442 702,405 734,431 781,392 996,416 1055,374 1263,396 1262,354 1156,321 1062,365 831,343 373,380 207,347 159,378"/>
+                <Baseline points="167,410 221,409 275,407 330,405 384,404 439,402 493,400 547,398 602,396 656,394 711,393 765,391 819,389 874,387 928,386 983,385 1037,384 1091,383 1146,383 1200,382 1255,383"/>
+                <TextEquiv>
+                    <Unicode>had entirely left my memory -- I am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="181,524 648,509 710,473 881,508 955,469 1004,502 1070,457 1223,478 1220,432 1106,408 1067,443 179,488"/>
+                <Baseline points="187,505 238,505 289,504 341,503 392,501 444,499 495,497 546,494 598,491 649,488 701,485 752,482 803,479 855,476 906,473 958,470 1009,467 1060,465 1112,462 1163,460 1215,458"/>
+                <TextEquiv>
+                    <Unicode>amused at your idea of my being</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="170,632 382,597 461,631 547,576 721,593 805,560 961,562 932,508 886,534 827,496 741,541 562,547 521,520 476,555 417,533 354,574 164,548"/>
+                <Baseline points="175,605 213,603 252,601 291,599 330,597 369,594 408,591 447,588 486,585 525,581 564,577 602,574 641,571 680,568 719,565 758,563 797,560 836,558 875,557 914,556 953,555"/>
+                <TextEquiv>
+                    <Unicode>father to Godwam land.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="204,707 346,690 425,728 658,674 1004,680 1056,660 1055,614 511,660 339,640 289,607 201,632"/>
+                <Baseline points="210,694 254,691 298,688 342,686 386,684 430,683 474,681 519,680 563,679 607,678 651,677 695,676 739,674 784,673 828,672 872,670 916,668 960,665 1004,663 1049,660"/>
+                <TextEquiv>
+                    <Unicode>The only work in which I can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="154,786 468,771 668,807 753,764 1035,763 1057,704 769,705 707,746 152,745"/>
+                <Baseline points="161,780 205,780 250,780 294,779 339,779 383,777 428,776 472,775 517,773 561,771 606,768 650,766 695,763 739,760 784,758 828,755 873,752 917,749 962,747 1006,744 1051,741"/>
+                <TextEquiv>
+                    <Unicode>remember discussing the types of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="171,886 1048,849 1038,809 788,834 572,806 523,829 492,802 430,843 392,826 334,852 168,814"/>
+                <Baseline points="177,874 220,870 263,867 306,865 349,863 393,860 436,858 479,857 522,855 565,854 609,853 652,852 695,850 738,849 781,848 825,847 868,846 911,844 954,842 997,841 1041,838"/>
+                <TextEquiv>
+                    <Unicode>India &amp; Mediterranea genera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="211,967 323,999 447,948 723,929 1008,957 1093,936 1093,912 913,880 857,909 784,884 748,911 674,894 488,924 449,899 209,930"/>
+                <Baseline points="217,961 260,957 304,955 347,951 391,949 434,947 478,944 521,942 565,941 608,939 652,938 695,937 739,936 782,935 826,934 869,933 913,933 956,932 1000,931 1043,930 1087,929"/>
+                <TextEquiv>
+                    <Unicode>across Africa is in the Marocco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="205,1060 371,1067 432,1044 461,1065 512,1040 558,1063 591,1037 634,1032 679,1055 760,1034 741,1002 693,1010 643,987 560,1016 473,983 440,1005 397,990 370,1014 250,987 203,1023"/>
+                <Baseline points="211,1050 238,1051 265,1051 292,1050 319,1049 346,1048 373,1047 400,1045 427,1044 454,1041 482,1040 509,1038 536,1037 563,1035 590,1034 617,1034 644,1033 671,1034 698,1034 725,1036 753,1038"/>
+                <TextEquiv>
+                    <Unicode>book. p. 404 seq</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="267,1156 476,1133 587,1156 628,1130 715,1162 1002,1117 1151,1126 1149,1085 1079,1068 1018,1097 868,1068 667,1109 602,1075 407,1124 318,1080 265,1105"/>
+                <Baseline points="273,1141 316,1140 360,1139 403,1138 447,1136 490,1136 534,1134 577,1133 621,1132 664,1131 708,1130 751,1128 795,1127 838,1126 882,1124 925,1122 969,1120 1012,1118 1056,1115 1099,1112 1143,1109"/>
+                <TextEquiv>
+                    <Unicode>Bees are the principle pollinating</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="130,1236 310,1268 461,1228 611,1224 651,1253 848,1199 1046,1204 1026,1167 795,1155 523,1203 483,1172 342,1209 128,1201"/>
+                <Baseline points="137,1238 182,1238 227,1238 272,1238 317,1237 362,1236 407,1234 452,1231 497,1229 542,1226 588,1223 633,1220 678,1217 723,1213 768,1210 813,1207 858,1203 903,1201 948,1198 993,1195 1039,1193"/>
+                <TextEquiv>
+                    <Unicode>agents of the Himalayan &amp; American</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="149,1339 480,1332 533,1361 677,1313 1160,1300 1181,1252 1080,1225 829,1288 711,1265 385,1307 146,1275"/>
+                <Baseline points="155,1331 206,1332 257,1331 308,1330 359,1329 410,1327 461,1325 512,1322 563,1319 614,1316 665,1313 716,1309 767,1306 818,1303 869,1300 920,1296 971,1293 1022,1291 1073,1288 1124,1286 1175,1285"/>
+                <TextEquiv>
+                    <Unicode>Balsams in my garden, which have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="180,1432 250,1470 280,1442 329,1445 367,1428 452,1427 476,1445 561,1419 623,1434 622,1394 551,1375 465,1397 425,1371 397,1392 364,1374 313,1393 265,1376 226,1395 179,1382"/>
+                <Baseline points="187,1424 212,1425 237,1425 262,1426 287,1426 312,1426 338,1427 363,1426 388,1426 413,1426 438,1425 463,1424 489,1423 514,1422 539,1420 564,1418 589,1415 615,1413"/>
+                <TextEquiv>
+                    <Unicode>very short spurs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="274,1518 971,1458 1134,1500 1239,1465 1236,1410 1064,1433 954,1407 844,1447 752,1416 647,1460 603,1433 528,1465 437,1442 272,1483"/>
+                <Baseline points="280,1514 327,1511 375,1509 422,1505 470,1501 518,1497 565,1493 613,1489 660,1485 708,1481 756,1477 803,1474 851,1469 898,1466 946,1464 994,1462 1041,1460 1089,1460 1136,1460 1184,1461 1232,1462"/>
+                <TextEquiv>
+                    <Unicode>Burkill has been observing &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="149,1613 323,1603 371,1632 429,1586 1160,1553 1145,1491 1034,1527 768,1506 712,1556 528,1528 475,1563 147,1561"/>
+                <Baseline points="155,1590 204,1591 254,1591 304,1591 354,1590 404,1588 454,1586 504,1583 554,1580 604,1576 654,1572 703,1569 753,1565 803,1562 853,1558 903,1555 953,1552 1003,1550 1053,1548 1103,1547 1153,1546"/>
+                <TextEquiv>
+                    <Unicode>describing in India, the pollinating</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="163,1674 281,1672 348,1715 426,1668 516,1697 591,1646 1218,1643 1214,1568 1171,1566 973,1608 857,1576 810,1611 756,1578 522,1638 161,1638"/>
+                <Baseline points="170,1670 222,1670 274,1669 326,1667 378,1664 430,1662 482,1658 534,1654 586,1650 638,1646 690,1642 742,1638 794,1635 846,1632 898,1629 950,1627 1002,1626 1054,1627 1106,1628 1158,1630 1210,1634"/>
+                <TextEquiv>
+                    <Unicode>actions of many insects -- but not in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="171,1762 279,1751 327,1786 373,1788 438,1748 621,1755 645,1733 706,1732 704,1691 651,1703 586,1683 507,1703 486,1688 378,1703 343,1728 290,1699 260,1722 168,1712"/>
+                <Baseline points="177,1746 203,1747 229,1747 255,1747 281,1747 307,1747 333,1746 359,1745 385,1744 411,1743 438,1741 464,1740 490,1739 516,1737 542,1735 568,1733 594,1731 620,1729 646,1727 672,1725 699,1722"/>
+                <TextEquiv>
+                    <Unicode>matter of Balsams.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="487,1825 564,1838 614,1831 647,1861 678,1840 732,1855 770,1834 776,1758 757,1754 729,1767 706,1744 605,1784 575,1775 545,1745 491,1771"/>
+                <Baseline points="495,1818 521,1818 548,1819 575,1820 602,1823 629,1824 655,1827 682,1830 709,1832 736,1834 763,1836"/>
+                <TextEquiv>
+                    <Unicode>Ever affy ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="848,1915 873,1902 895,1908 926,1886 961,1893 984,1878 1050,1890 1105,1867 1134,1869 1128,1808 1085,1795 1050,1816 1032,1808 1007,1819 903,1763 857,1815 839,1816"/>
+                <Baseline points="853,1891 880,1887 907,1883 935,1879 962,1876 990,1873 1017,1870 1044,1869 1072,1867 1099,1867 1127,1867"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>My description of the Burdwan&#13;
+coal flora in my Himalayan Journals&#13;
+had entirely left my memory -- I am&#13;
+amused at your idea of my being&#13;
+father to Godwam land.&#13;
+The only work in which I can&#13;
+remember discussing the types of&#13;
+India &amp; Mediterranea genera&#13;
+across Africa is in the Marocco&#13;
+book. p. 404 seq&#13;
+Bees are the principle pollinating&#13;
+agents of the Himalayan &amp; American&#13;
+Balsams in my garden, which have&#13;
+very short spurs.&#13;
+Burkill has been observing &amp;&#13;
+describing in India, the pollinating&#13;
+actions of many insects -- but not in the&#13;
+matter of Balsams.&#13;
+Ever affy ys&#13;
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

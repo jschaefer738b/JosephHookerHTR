@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T13:50:41.545-04:00</Created>
+        <LastChange>2023-05-16T17:20:53.171+02:00</LastChange>
+        <TranskribusMetadata docId="421842" pageId="16787436" pageNr="1" tsid="121935351" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ZIBUHQKVUBPKIBYVLPURJALO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LYVELVTTGFOJLUVSJHGBQAYA" imageId="12542228"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_185_001 (1).jpg" imageWidth="1404" imageHeight="2159">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330909366" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="191,44 191,2089 1331,2089 1331,44"/>
+            <TextLine id="r3l2" custom="readingOrder {index:0;}">
+                <Coords points="871,204 912,194 953,215 984,194 1062,201 1099,182 1158,188 1193,177 1190,124 1171,133 1153,121 1126,145 1049,166 940,105 866,126"/>
+                <Baseline points="877,187 902,186 928,184 954,183 979,183 1005,182 1031,182 1056,181 1082,180 1108,178 1133,174 1159,170 1185,165"/>
+                <TextEquiv>
+                    <Unicode>Sept 05</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:1;}">
+                <Coords points="1001,292 1047,289 1061,304 1088,288 1113,300 1129,300 1141,290 1205,300 1207,245 1171,250 1153,236 1141,240 1114,229 1071,247 1045,234 1003,230"/>
+                <Baseline points="1008,281 1035,283 1062,283 1089,284 1117,285 1144,286 1171,287 1199,288"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:2;}">
+                <Coords points="974,366 1103,362 1135,373 1168,365 1222,384 1237,381 1238,340 1228,343 1195,324 1135,335 1089,324 1074,333 975,321"/>
+                <Baseline points="981,350 1008,351 1036,353 1064,354 1091,354 1119,355 1147,356 1174,356 1202,356 1230,357"/>
+                <TextEquiv>
+                    <Unicode>SUNNINCDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:3;}">
+                <Coords points="253,664 301,656 344,681 448,647 702,643 702,617 610,588 567,550 516,589 485,582 420,602 300,532 255,529"/>
+                <Baseline points="260,641 285,638 311,636 336,634 362,634 387,634 413,634 439,635 464,636 490,638 515,638 541,640 567,641 592,641 618,641 643,641 669,639 695,637"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:4;}">
+                <Coords points="481,763 917,777 1278,754 1276,706 1215,691 1080,719 479,694"/>
+                <Baseline points="487,756 526,757 565,758 604,759 643,759 682,759 721,758 761,758 800,757 839,756 878,754 917,753 956,752 995,750 1035,749 1074,748 1113,746 1152,745 1191,744 1230,743 1270,743"/>
+                <TextEquiv>
+                    <Unicode>I think that enclosed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:5;}">
+                <Coords points="185,883 481,898 986,852 1182,881 1181,820 1050,813 898,844 591,811 184,828"/>
+                <Baseline points="191,866 240,868 289,870 338,871 387,871 437,872 486,871 535,871 584,870 633,869 683,867 732,866 781,864 830,863 879,861 929,860 978,858 1027,857 1076,856 1125,855 1175,854"/>
+                <TextEquiv>
+                    <Unicode>is the best for the purpose in view,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:6;}">
+                <Coords points="209,981 316,1006 422,967 1258,974 1289,933 1051,913 844,949 512,908 316,950 208,923"/>
+                <Baseline points="216,971 269,970 322,970 376,970 429,969 482,969 536,969 589,968 642,968 696,967 749,967 802,966 856,966 909,965 962,965 1016,964 1069,964 1122,964 1176,963 1229,963 1283,963"/>
+                <TextEquiv>
+                    <Unicode>though the back views are the more</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:7;}">
+                <Coords points="236,1080 453,1107 587,1067 681,1102 794,1071 1182,1080 1182,1026 1107,1009 1069,1039 893,1013 841,1049 788,1017 585,1010 454,1045 236,1020"/>
+                <Baseline points="242,1063 288,1065 335,1066 381,1067 428,1068 475,1068 521,1068 568,1068 615,1067 661,1067 708,1066 755,1066 801,1066 848,1065 895,1065 941,1065 988,1066 1035,1067 1081,1068 1128,1070 1175,1072"/>
+                <TextEquiv>
+                    <Unicode>enticing. Many thanks for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:8;}">
+                <Coords points="240,1180 1188,1187 1166,1116 1018,1154 925,1109 784,1147 667,1108 518,1156 240,1109"/>
+                <Baseline points="247,1168 293,1170 340,1172 387,1174 433,1175 480,1175 527,1175 573,1175 620,1174 667,1174 714,1173 760,1172 807,1171 854,1170 900,1170 947,1169 994,1169 1040,1168 1087,1169 1134,1169 1181,1170"/>
+                <TextEquiv>
+                    <Unicode>others which I have passed on to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:9;}">
+                <Coords points="229,1290 1294,1282 1228,1217 1186,1245 882,1221 679,1251 595,1213 470,1244 229,1214"/>
+                <Baseline points="236,1271 288,1273 341,1274 393,1275 446,1275 499,1276 551,1276 604,1276 656,1276 709,1276 762,1276 814,1276 867,1276 919,1276 972,1276 1025,1276 1077,1275 1130,1275 1182,1275 1235,1276 1288,1276"/>
+                <TextEquiv>
+                    <Unicode>Lady H to have bound in with her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:10;}">
+                <Coords points="234,1392 351,1431 582,1382 624,1398 698,1383 751,1407 840,1394 842,1341 805,1343 770,1311 662,1365 534,1318 488,1350 388,1330 236,1344"/>
+                <Baseline points="242,1373 271,1372 301,1371 330,1370 360,1370 390,1370 419,1370 449,1371 478,1372 508,1373 538,1375 567,1376 597,1377 626,1379 656,1380 686,1381 715,1382 745,1383 774,1384 804,1384 834,1385"/>
+                <TextEquiv>
+                    <Unicode>copy of my father's Life.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:11;}">
+                <Coords points="391,1496 506,1509 554,1484 747,1526 826,1493 1026,1528 1233,1503 1234,1453 1133,1471 1024,1434 934,1460 883,1433 768,1475 393,1417"/>
+                <Baseline points="398,1472 439,1475 480,1478 522,1481 563,1483 605,1485 646,1487 687,1489 729,1490 770,1491 812,1492 853,1493 894,1493 936,1494 977,1495 1019,1495 1060,1495 1101,1496 1143,1496 1184,1496 1226,1496"/>
+                <TextEquiv>
+                    <Unicode>I find among the Herb. Calcutta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:12;}">
+                <Coords points="222,1591 601,1611 702,1652 856,1604 1126,1626 1309,1577 1228,1536 1127,1573 1045,1530 986,1571 704,1540 556,1585 223,1527"/>
+                <Baseline points="230,1568 283,1577 337,1584 390,1589 444,1594 498,1597 551,1600 605,1601 658,1602 712,1602 766,1602 819,1601 873,1600 926,1599 980,1598 1034,1597 1087,1596 1141,1596 1194,1596 1248,1597 1302,1598"/>
+                <TextEquiv>
+                    <Unicode>Balsams a set of Forbes, Sumatran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:13;}">
+                <Coords points="227,1704 334,1683 515,1729 1263,1696 1263,1650 1132,1626 705,1687 424,1629 228,1636"/>
+                <Baseline points="234,1672 285,1679 336,1685 387,1690 438,1693 489,1697 540,1699 591,1701 642,1702 693,1703 745,1703 796,1702 847,1701 898,1700 949,1699 1000,1697 1051,1695 1102,1693 1153,1691 1204,1689 1256,1687"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. The species are vile, &amp; have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:14;}">
+                <Coords points="237,1818 538,1802 616,1832 709,1792 754,1816 1189,1779 1252,1805 1288,1789 1288,1726 1121,1732 1047,1772 919,1727 760,1775 544,1740 367,1777 236,1742"/>
+                <Baseline points="243,1782 294,1787 346,1792 398,1795 450,1797 502,1798 554,1798 606,1798 658,1797 710,1796 762,1795 813,1793 865,1791 917,1790 969,1788 1021,1786 1073,1785 1125,1785 1177,1784 1229,1785 1281,1786"/>
+                <TextEquiv>
+                    <Unicode>given me truly a week's labour, all the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:15;}">
+                <Coords points="233,1884 425,1919 504,1889 618,1935 734,1887 1054,1876 1107,1904 1179,1885 1179,1840 1109,1827 1025,1865 918,1829 858,1855 705,1838 626,1876 545,1845 480,1873 441,1840 400,1867 233,1862"/>
+                <Baseline points="239,1884 285,1888 332,1891 379,1893 425,1894 472,1894 519,1894 565,1893 612,1892 659,1890 706,1888 752,1886 799,1885 846,1883 892,1882 939,1881 986,1881 1032,1881 1079,1882 1126,1884 1173,1887"/>
+                <TextEquiv>
+                    <Unicode>more for being cemented on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:16;}">
+                <Coords points="240,1996 1338,1984 1155,1917 1122,1948 733,1957 531,1923 469,1954 239,1938"/>
+                <Baseline points="246,1977 300,1979 354,1980 408,1980 463,1980 517,1980 571,1979 625,1978 680,1976 734,1975 788,1973 842,1972 897,1971 951,1970 1005,1970 1059,1970 1114,1970 1168,1972 1222,1973 1276,1976 1331,1980"/>
+                <TextEquiv>
+                    <Unicode>sheets &amp; strapped down as if they were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:17;}">
+                <Coords points="255,2096 391,2070 1210,2087 1263,2075 1264,2027 992,2047 729,2011 673,2047 599,2016 552,2052 255,2003"/>
+                <Baseline points="261,2058 310,2061 360,2063 410,2065 460,2066 510,2067 559,2068 609,2068 659,2068 709,2068 759,2068 808,2067 858,2067 908,2067 958,2066 1008,2066 1057,2066 1107,2066 1157,2067 1207,2068 1257,2069"/>
+                <TextEquiv>
+                    <Unicode>fugitives. The localities are quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sept 05&#13;
+THE CAMP.&#13;
+SUNNINCDALE.&#13;
+My dear Dyer&#13;
+I think that enclosed&#13;
+is the best for the purpose in view,&#13;
+though the back views are the more&#13;
+enticing. Many thanks for the&#13;
+others which I have passed on to&#13;
+Lady H to have bound in with her&#13;
+copy of my father's Life.&#13;
+I find among the Herb. Calcutta&#13;
+Balsams a set of Forbes, Sumatran&#13;
+&amp;c. The species are vile, &amp; have&#13;
+given me truly a week's labour, all the&#13;
+more for being cemented on the&#13;
+sheets &amp; strapped down as if they were&#13;
+fugitives. The localities are quite</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

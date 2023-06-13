@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T13:48:26.104-04:00</Created>
+        <LastChange>2020-06-27T23:01:06.147+02:00</LastChange>
+        <TranskribusMetadata docId="421800" pageId="16781685" pageNr="2" tsid="32835739" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=DKPXFHAQPSVKBBWOCFHYIJDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RBNAGDOAUVSAPZWKIIUQNAKC" imageId="12536526"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_182_002 (1).jpg" imageWidth="1438" imageHeight="2176">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330912259" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="172,149 172,2059 1281,2059 1281,149"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="217,245 610,245 764,208 966,236 1101,186 1260,211 1266,97 877,184 215,187"/>
+                <Baseline points="223,218 275,223 327,226 379,229 431,230 483,230 535,229 587,226 639,224 691,221 743,217 795,213 847,210 899,206 951,203 1003,200 1055,197 1107,196 1159,195 1211,195 1263,197"/>
+                <TextEquiv>
+                    <Unicode>with which I first surveyed that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="168,354 491,372 623,317 788,308 1237,341 1241,271 1035,278 935,243 764,294 655,263 357,315 166,292"/>
+                <Baseline points="175,333 228,334 281,334 334,333 387,332 440,330 493,327 546,325 599,322 652,319 705,316 758,314 811,311 864,308 917,305 970,303 1023,302 1076,301 1129,300 1182,301 1235,302"/>
+                <TextEquiv>
+                    <Unicode>scene &amp; that it had rankled in my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="166,440 1115,450 1261,418 1260,367 1187,359 978,401 713,359 559,408 165,382"/>
+                <Baseline points="172,435 226,434 280,433 334,432 388,431 442,431 496,430 550,429 604,428 658,428 713,427 767,426 821,425 875,424 929,423 983,422 1037,421 1091,420 1145,418 1199,417 1254,415"/>
+                <TextEquiv>
+                    <Unicode>heart ever since -- If that is the light</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="166,535 858,545 1166,513 1165,466 1045,460 826,502 738,468 665,509 472,477 364,512 166,500"/>
+                <Baseline points="173,523 222,525 271,528 320,529 370,530 419,531 468,531 518,531 567,531 616,530 666,529 715,528 764,526 813,524 863,522 912,520 961,517 1011,514 1060,512 1109,509 1159,506"/>
+                <TextEquiv>
+                    <Unicode>under which our legislators look</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="186,635 325,665 571,624 753,656 999,610 1204,626 1202,569 1142,549 747,601 317,570 186,605"/>
+                <Baseline points="193,627 243,628 293,629 343,629 393,629 443,629 493,628 544,627 594,625 644,624 694,622 744,620 794,618 844,616 895,614 945,612 995,610 1045,609 1095,608 1145,607 1196,606"/>
+                <TextEquiv>
+                    <Unicode>&amp; passes the business of the country</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="195,735 530,760 626,726 774,751 833,717 1061,736 1281,698 1161,646 1095,689 944,649 828,682 673,663 629,697 567,675 522,707 194,694"/>
+                <Baseline points="201,724 254,726 308,727 362,727 415,727 469,727 523,726 576,725 630,724 684,723 738,721 791,719 845,718 899,715 952,714 1006,712 1060,710 1113,708 1167,707 1221,705 1275,704"/>
+                <TextEquiv>
+                    <Unicode>what must the people think of them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="192,847 1287,838 1286,765 1153,799 899,767 656,813 250,776 192,801"/>
+                <Baseline points="199,832 253,832 307,832 361,831 415,830 469,830 523,829 577,828 631,827 685,826 740,825 794,824 848,823 902,822 956,822 1010,821 1064,820 1118,820 1172,819 1226,819 1281,818"/>
+                <TextEquiv>
+                    <Unicode>But it is only one sign of the determination</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="207,941 513,973 922,933 997,969 1094,928 1212,931 1212,892 1018,876 937,903 740,882 669,918 531,891 480,923 403,885 322,915 207,887"/>
+                <Baseline points="214,934 263,936 313,938 362,939 412,940 462,940 511,940 561,940 610,939 660,939 710,937 759,936 809,935 858,934 908,933 958,931 1007,930 1057,930 1106,929 1156,929 1206,929"/>
+                <TextEquiv>
+                    <Unicode>or rather demoralisation of our</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="202,1060 637,1039 737,1075 1221,1038 1220,985 834,1026 687,991 599,1030 531,993 476,1024 201,996"/>
+                <Baseline points="209,1043 259,1045 309,1047 359,1048 410,1049 460,1049 510,1049 560,1049 611,1049 661,1048 711,1047 761,1046 812,1045 862,1044 912,1042 962,1041 1013,1039 1063,1038 1113,1037 1163,1035 1214,1034"/>
+                <TextEquiv>
+                    <Unicode>Parliament. Bryce quite agreed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="170,1142 1274,1129 1273,1087 1137,1079 731,1112 652,1061 409,1117 170,1102"/>
+                <Baseline points="177,1134 231,1136 286,1138 340,1140 395,1141 449,1142 504,1143 558,1144 613,1144 667,1144 722,1143 776,1142 831,1141 885,1139 940,1137 994,1135 1049,1132 1103,1129 1158,1126 1212,1122 1267,1117"/>
+                <TextEquiv>
+                    <Unicode>with me &amp; said that I did not know</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="202,1257 1199,1247 1198,1196 1126,1181 976,1212 696,1183 656,1221 567,1188 429,1217 201,1189"/>
+                <Baseline points="208,1234 257,1237 306,1239 355,1240 404,1241 454,1241 503,1241 552,1241 601,1241 650,1240 700,1239 749,1239 798,1237 847,1237 896,1235 946,1235 995,1234 1044,1233 1093,1233 1142,1233 1192,1234"/>
+                <TextEquiv>
+                    <Unicode>the worst of it -- for that improper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="183,1351 1211,1341 1211,1280 1169,1272 1097,1310 1023,1283 885,1313 813,1265 660,1310 585,1276 376,1314 183,1277"/>
+                <Baseline points="190,1325 240,1329 291,1331 342,1333 392,1335 443,1336 494,1336 544,1336 595,1336 646,1335 697,1334 747,1333 798,1332 849,1330 899,1330 950,1329 1001,1328 1051,1328 1102,1328 1153,1328 1204,1329"/>
+                <TextEquiv>
+                    <Unicode>persons were brought there who other</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="192,1438 1213,1445 1263,1432 1263,1394 1031,1367 892,1412 649,1379 359,1419 238,1372 191,1401"/>
+                <Baseline points="199,1430 251,1430 304,1430 357,1430 410,1430 463,1430 516,1430 568,1429 621,1429 674,1429 727,1428 780,1428 833,1427 886,1427 938,1427 991,1426 1044,1426 1097,1426 1150,1426 1203,1426 1256,1426"/>
+                <TextEquiv>
+                    <Unicode>Ladies would not meet. I told him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="198,1544 963,1542 1036,1514 1204,1576 1241,1569 1241,1487 1130,1495 1074,1449 960,1490 863,1461 354,1505 197,1477"/>
+                <Baseline points="204,1521 255,1523 307,1524 358,1525 410,1525 461,1525 513,1524 564,1523 616,1522 667,1521 719,1519 770,1518 822,1517 873,1516 925,1516 976,1516 1028,1517 1079,1518 1131,1520 1182,1523 1234,1527"/>
+                <TextEquiv>
+                    <Unicode>he ought to take the matter up himself,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="195,1622 584,1662 960,1627 1244,1691 1246,1617 1094,1612 1044,1571 884,1607 774,1560 651,1605 510,1568 391,1600 309,1557 196,1574"/>
+                <Baseline points="202,1611 253,1615 305,1619 357,1621 409,1623 461,1625 512,1626 564,1627 616,1627 668,1628 720,1628 771,1629 823,1629 875,1630 927,1632 979,1633 1030,1636 1082,1639 1134,1642 1186,1647 1238,1653"/>
+                <TextEquiv>
+                    <Unicode>&amp; I am keeping at him, especially as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="199,1726 724,1727 873,1773 934,1736 1179,1750 1208,1712 743,1699 671,1669 508,1711 352,1659 201,1665"/>
+                <Baseline points="206,1709 255,1714 305,1719 355,1723 404,1725 454,1728 504,1729 553,1731 603,1731 653,1732 703,1732 752,1733 802,1733 852,1733 901,1733 951,1734 1001,1735 1050,1736 1100,1738 1150,1740 1200,1743"/>
+                <TextEquiv>
+                    <Unicode>he told me that many members</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="188,1823 1261,1847 1262,1811 1152,1780 969,1798 884,1762 780,1810 558,1767 467,1806 190,1754"/>
+                <Baseline points="196,1803 251,1808 307,1813 363,1817 418,1819 474,1821 530,1823 586,1824 641,1824 697,1825 753,1825 809,1825 864,1825 920,1825 976,1826 1032,1827 1087,1828 1143,1830 1199,1833 1255,1837"/>
+                <TextEquiv>
+                    <Unicode>were of his opinion, I wonder how</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="167,1907 392,1948 501,1920 811,1911 789,1879 701,1854 673,1875 598,1856 533,1886 485,1863 372,1892 234,1851 167,1878"/>
+                <Baseline points="174,1902 205,1905 237,1907 268,1909 300,1911 331,1912 363,1913 394,1914 426,1914 457,1914 489,1914 520,1914 552,1914 583,1914 615,1913 646,1913 678,1913 709,1912 741,1912 772,1911 804,1911"/>
+                <TextEquiv>
+                    <Unicode>it originated &amp; when.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="278,2042 572,2025 636,2058 762,2021 1130,2022 1240,2055 1252,1982 1059,1988 1005,1959 819,1990 720,1959 661,1989 596,1953 549,1985 482,1955 279,1997"/>
+                <Baseline points="285,2022 335,2020 385,2019 436,2018 486,2018 537,2017 587,2017 638,2017 688,2018 739,2018 789,2019 840,2020 890,2021 941,2023 991,2024 1042,2026 1092,2028 1143,2031 1193,2033 1244,2036"/>
+                <TextEquiv>
+                    <Unicode>Mrs Paisley tells me that her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>with which I first surveyed that&#13;
+scene &amp; that it had rankled in my&#13;
+heart ever since -- If that is the light&#13;
+under which our legislators look&#13;
+&amp; passes the business of the country&#13;
+what must the people think of them.&#13;
+But it is only one sign of the determination&#13;
+or rather demoralisation of our&#13;
+Parliament. Bryce quite agreed&#13;
+with me &amp; said that I did not know&#13;
+the worst of it -- for that improper&#13;
+persons were brought there who other&#13;
+Ladies would not meet. I told him&#13;
+he ought to take the matter up himself,&#13;
+&amp; I am keeping at him, especially as&#13;
+he told me that many members&#13;
+were of his opinion, I wonder how&#13;
+it originated &amp; when.&#13;
+Mrs Paisley tells me that her</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

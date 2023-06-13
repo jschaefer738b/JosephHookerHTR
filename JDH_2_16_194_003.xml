@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:48:23.253-04:00</Created>
+        <LastChange>2020-06-28T03:55:02.487+02:00</LastChange>
+        <TranskribusMetadata docId="421881" pageId="16787528" pageNr="1" tsid="32841430" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NGUMMOREXYPHVEZOEHUGQWLM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NMUZTCAEVKVSRWVFZAYFXKTT" imageId="12542316"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_194_003.jpg" imageWidth="1387" imageHeight="2175">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330906200" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="166,165 166,777 1295,777 1295,165"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="172,242 617,213 932,234 1114,214 1133,152 1028,176 750,136 598,197 533,170 315,201 170,184"/>
+                <Baseline points="178,238 225,235 273,231 320,228 368,225 415,223 463,221 510,219 558,217 605,215 653,213 700,212 748,211 795,210 843,210 890,210 938,210 985,210 1033,211 1080,211 1128,212"/>
+                <TextEquiv>
+                    <Unicode>Excuse more I am dizzy with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="159,340 268,334 321,371 688,315 1147,329 1271,295 1269,249 1039,231 930,290 630,255 157,305"/>
+                <Baseline points="166,334 220,332 275,331 330,329 385,327 440,325 495,323 549,321 604,319 659,317 714,315 769,313 824,311 879,309 933,306 988,304 1043,302 1098,300 1153,297 1208,295 1263,293"/>
+                <TextEquiv>
+                    <Unicode>writing &amp; my hand vibrates. With best</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="180,448 376,467 1286,405 1300,352 748,398 177,385"/>
+                <Baseline points="186,439 241,438 296,437 352,435 407,433 463,431 518,429 574,426 629,423 685,420 740,417 795,414 851,411 906,408 962,405 1017,402 1073,400 1128,397 1184,395 1239,393 1295,391"/>
+                <TextEquiv>
+                    <Unicode>love to Harriet who has sent me such</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="166,551 344,565 466,533 622,545 693,515 799,522 824,504 823,468 723,456 557,498 448,475 278,503 231,476 162,492"/>
+                <Baseline points="172,531 204,532 236,533 268,533 301,532 333,532 365,531 398,529 430,528 462,526 495,525 527,522 559,520 591,518 624,515 656,513 688,511 721,509 753,507 785,505 818,503"/>
+                <TextEquiv>
+                    <Unicode>delightful congratulations.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="428,681 462,661 504,660 533,635 600,662 641,650 698,685 759,654 821,649 818,573 704,592 629,570 569,603 487,549 424,574"/>
+                <Baseline points="434,641 459,638 484,636 509,634 535,632 560,631 585,630 610,630 636,629 661,628 686,628 711,627 737,626 762,625 787,623 813,621"/>
+                <TextEquiv>
+                    <Unicode>Eve affely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="795,796 868,762 951,767 980,757 1058,769 1093,741 1111,740 1110,688 1082,686 1057,667 1009,682 952,656 914,662 858,632 814,655 791,654"/>
+                <Baseline points="801,752 826,753 851,754 877,754 902,754 927,753 953,752 978,751 1003,749 1029,748 1054,748 1079,748 1105,749"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Excuse more I am dizzy with&#13;
+writing &amp; my hand vibrates. With best&#13;
+love to Harriet who has sent me such&#13;
+delightful congratulations.&#13;
+Eve affely&#13;
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

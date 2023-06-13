@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:44:35.456-04:00</Created>
+        <LastChange>2020-06-24T05:34:56.071+02:00</LastChange>
+        <TranskribusMetadata docId="418294" pageId="16659304" pageNr="1" tsid="32542426" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NPVTGLMPNNAXEZNLKCCIMEYI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTAKGBCWMAMNCJEYXQJMCBWO" imageId="12444760"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_166_001.jpg" imageWidth="1387" imageHeight="2146">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330933124" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="152,62 152,1944 1294,1944 1294,62"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1102,123 1118,117 1126,123 1143,116 1160,123 1174,112 1194,118 1222,106 1224,-14 1214,-15 1200,-1 1104,-2"/>
+                <Baseline points="1109,100 1135,103 1162,104 1188,103 1215,102"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="771,176 819,159 845,176 881,167 923,187 947,184 976,156 1023,158 1038,170 1075,165 1077,99 1044,123 1006,121 942,82 917,94 870,67 775,59"/>
+                <Baseline points="779,136 805,136 831,137 857,137 884,138 910,140 936,141 962,142 989,143 1015,144 1041,144 1068,143"/>
+                <TextEquiv>
+                    <Unicode>The Camp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1090,190 1148,195 1156,187 1199,190 1215,179 1234,191 1251,181 1262,190 1273,178 1295,172 1294,135 1254,140 1227,131 1192,155 1175,153 1139,123 1120,125 1101,142 1088,141"/>
+                <Baseline points="1097,183 1124,184 1151,184 1178,183 1206,182 1233,180 1260,178 1288,176"/>
+                <TextEquiv>
+                    <Unicode>Dec2/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="181,628 258,638 313,586 416,587 437,573 514,596 561,573 598,589 608,545 553,525 533,535 485,502 416,532 380,511 304,519 262,478 180,520"/>
+                <Baseline points="188,570 213,570 239,571 265,572 291,572 317,572 342,572 368,572 394,572 420,572 446,571 471,571 497,570 523,570 549,569 575,568 601,567"/>
+                <TextEquiv>
+                    <Unicode>My dea Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="376,674 475,667 535,710 578,674 719,689 867,653 1188,673 1231,626 1288,631 1284,564 990,613 890,586 592,614 371,590"/>
+                <Baseline points="383,663 427,665 472,666 517,666 562,665 607,664 652,663 696,660 741,658 786,655 831,652 876,648 921,645 966,640 1010,637 1055,633 1100,630 1145,626 1190,623 1235,619 1280,617"/>
+                <TextEquiv>
+                    <Unicode>Though I fear I must not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="180,765 517,752 631,781 1081,733 1185,767 1172,682 1082,703 1030,676 981,714 887,688 820,724 178,687"/>
+                <Baseline points="187,745 236,748 286,749 335,751 385,752 434,752 484,753 533,753 583,752 632,752 682,751 731,749 781,747 830,745 880,743 929,740 979,737 1028,733 1078,730 1127,726 1177,721"/>
+                <TextEquiv>
+                    <Unicode>congratulate you on the honor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="150,867 549,854 724,885 810,840 1189,810 1165,772 1060,799 991,755 906,800 836,772 781,813 622,828 488,798 406,830 204,782 148,814"/>
+                <Baseline points="156,848 207,849 258,850 309,850 361,850 412,850 463,849 515,848 566,847 617,846 669,844 720,842 771,840 822,838 874,835 925,831 976,828 1028,824 1079,820 1130,815 1182,810"/>
+                <TextEquiv>
+                    <Unicode>that you have received, I must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="158,949 418,991 572,941 918,924 1022,971 1089,937 1190,965 1218,894 749,873 654,917 204,883 157,910"/>
+                <Baseline points="164,941 216,941 268,940 321,940 373,939 426,938 478,937 530,936 583,934 635,933 688,931 740,930 792,928 845,927 897,925 950,924 1002,923 1054,922 1107,921 1159,921 1212,921"/>
+                <TextEquiv>
+                    <Unicode>express my sincere pleasure : feeling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="183,1050 370,1071 461,1033 1099,1018 1245,1044 1270,970 1128,947 1013,997 875,935 757,1007 540,972 436,1020 182,999"/>
+                <Baseline points="190,1039 243,1039 297,1039 351,1038 404,1037 458,1036 512,1034 565,1033 619,1031 673,1029 727,1027 780,1025 834,1023 888,1022 941,1020 995,1019 1049,1018 1102,1018 1156,1018 1210,1018 1264,1019"/>
+                <TextEquiv>
+                    <Unicode>that you deserved it. I own to it's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="187,1134 390,1153 470,1124 560,1176 620,1131 831,1107 1276,1122 1288,1058 1209,1088 863,1045 738,1098 186,1088"/>
+                <Baseline points="194,1121 248,1121 302,1120 357,1120 411,1119 466,1118 520,1117 574,1117 629,1116 683,1114 738,1113 792,1112 846,1111 901,1110 955,1109 1010,1108 1064,1107 1118,1106 1173,1105 1227,1104 1282,1104"/>
+                <TextEquiv>
+                    <Unicode>touching my pride, that it should</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="280,1187 298,1189 313,1182 336,1193 346,1186 359,1189 368,1184 373,1189 386,1183 394,1192 404,1187 428,1192 430,1151 414,1148 393,1161 382,1154 367,1159 330,1142 301,1152 291,1162 281,1160"/>
+                <Baseline points="288,1176 314,1181 341,1182 368,1182 395,1182 422,1184"/>
+                <TextEquiv>
+                    <Unicode>down</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="163,1264 256,1215 890,1212 972,1252 1149,1205 1255,1233 1252,1141 1015,1172 744,1133 585,1183 512,1147 423,1200 160,1168"/>
+                <Baseline points="168,1216 224,1219 281,1220 338,1220 395,1220 451,1218 508,1216 565,1213 622,1210 679,1206 735,1203 792,1200 849,1196 906,1194 963,1192 1019,1191 1076,1190 1133,1191 1190,1193 1247,1196"/>
+                <TextEquiv>
+                    <Unicode>go down as an honor to my family,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="186,1304 828,1320 1016,1276 1112,1301 1111,1255 1053,1242 509,1285 185,1261"/>
+                <Baseline points="193,1295 238,1298 284,1301 329,1303 375,1304 421,1305 466,1305 512,1305 557,1304 603,1303 649,1302 694,1300 740,1297 785,1295 831,1293 877,1290 922,1287 968,1284 1013,1282 1059,1279 1105,1276"/>
+                <TextEquiv>
+                    <Unicode>both on your own account &amp; on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="145,1410 793,1414 930,1374 1061,1411 1205,1368 1205,1322 1129,1349 908,1322 821,1362 726,1323 440,1364 356,1332 144,1349"/>
+                <Baseline points="152,1393 204,1390 256,1388 309,1386 361,1385 413,1383 466,1382 518,1381 570,1381 623,1380 675,1380 727,1379 780,1378 832,1378 884,1377 937,1376 989,1374 1041,1373 1094,1370 1146,1367 1199,1364"/>
+                <TextEquiv>
+                    <Unicode>Harriet's. Also I am proud of it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="148,1474 545,1528 613,1472 749,1459 1193,1473 1192,1437 1043,1400 759,1443 698,1408 658,1436 531,1412 148,1454"/>
+                <Baseline points="156,1477 207,1477 259,1477 310,1476 362,1475 413,1474 465,1472 516,1470 568,1469 619,1467 671,1465 722,1463 774,1461 825,1459 877,1458 928,1457 980,1456 1031,1456 1083,1456 1134,1457 1186,1458"/>
+                <TextEquiv>
+                    <Unicode>in view of the lustre it reflects on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="177,1570 546,1595 592,1563 1048,1544 1171,1577 1210,1570 1208,1501 1110,1472 1001,1515 817,1493 615,1544 429,1513 175,1533"/>
+                <Baseline points="183,1565 236,1567 290,1568 343,1568 397,1567 451,1566 504,1565 558,1563 612,1561 665,1559 719,1556 772,1553 826,1551 880,1549 933,1547 987,1545 1041,1544 1094,1543 1148,1542 1202,1542"/>
+                <TextEquiv>
+                    <Unicode>Kew. Happily it need not carry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="159,1656 1070,1674 1302,1645 1301,1595 1127,1585 1084,1619 864,1583 807,1624 656,1597 452,1644 158,1615"/>
+                <Baseline points="166,1652 222,1655 278,1657 335,1658 391,1659 448,1659 504,1658 560,1656 617,1655 673,1652 730,1650 786,1648 842,1645 899,1643 955,1640 1012,1638 1068,1636 1124,1634 1181,1633 1237,1632 1294,1632"/>
+                <TextEquiv>
+                    <Unicode>with it, in your case, as it does &amp; ever</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="177,1760 486,1785 816,1739 1044,1791 1245,1755 1283,1706 1098,1677 907,1717 767,1683 511,1724 176,1699"/>
+                <Baseline points="184,1746 238,1747 293,1748 347,1748 402,1748 457,1747 511,1746 566,1745 620,1743 675,1742 730,1740 784,1739 839,1738 893,1737 948,1736 1003,1737 1057,1737 1112,1738 1166,1740 1221,1743 1276,1747"/>
+                <TextEquiv>
+                    <Unicode>will in mine, the keen sense of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="174,1843 490,1831 615,1882 819,1834 1233,1828 1233,1792 1064,1780 922,1808 759,1782 720,1812 663,1779 526,1805 174,1782"/>
+                <Baseline points="181,1829 233,1829 285,1829 337,1829 389,1829 442,1829 494,1830 546,1830 598,1831 650,1832 703,1832 755,1833 807,1833 859,1834 911,1834 964,1835 1016,1835 1068,1835 1120,1835 1172,1834 1225,1834"/>
+                <TextEquiv>
+                    <Unicode>neglects my father's services met</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="160,1935 656,1928 735,1981 842,1925 886,1950 1119,1928 1118,1842 911,1888 858,1853 606,1892 510,1840 437,1892 160,1893"/>
+                <Baseline points="167,1922 214,1923 261,1924 308,1925 355,1925 403,1925 450,1924 497,1923 544,1922 591,1922 639,1921 686,1920 733,1919 780,1918 827,1917 875,1917 922,1917 969,1917 1016,1918 1063,1920 1111,1922"/>
+                <TextEquiv>
+                    <Unicode>with at the hands of the govt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+The Camp&#13;
+Dec2/&#13;
+My dea Dyer&#13;
+Though I fear I must not&#13;
+congratulate you on the honor&#13;
+that you have received, I must&#13;
+express my sincere pleasure : feeling&#13;
+that you deserved it. I own to it's&#13;
+touching my pride, that it should&#13;
+down&#13;
+go down as an honor to my family,&#13;
+both on your own account &amp; on&#13;
+Harriet's. Also I am proud of it&#13;
+in view of the lustre it reflects on&#13;
+Kew. Happily it need not carry&#13;
+with it, in your case, as it does &amp; ever&#13;
+will in mine, the keen sense of the&#13;
+neglects my father's services met&#13;
+with at the hands of the govt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

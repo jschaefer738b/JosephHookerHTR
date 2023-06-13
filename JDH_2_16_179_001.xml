@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:36:42.909-04:00</Created>
+        <LastChange>2020-06-26T05:40:19.826+02:00</LastChange>
+        <TranskribusMetadata docId="419518" pageId="16700544" pageNr="1" tsid="32729256" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=EPAGWAUAGFQMYNDXMVJSSDHM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAQJFXHTDFKQGIJVZVLMOJON" imageId="12478854"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_179_001.jpg" imageWidth="1416" imageHeight="2183">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330914291" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="182,211 182,376 252,376 252,211"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="176,265 195,264 198,267 218,269 218,215 209,215 207,213 202,218 192,222 182,213 176,213"/>
+                <Baseline points="182,258 212,258"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="187,377 201,379 210,373 223,373 245,359 259,361 258,305 251,305 236,296 224,296 212,303 206,299 195,301 191,297 185,297"/>
+                <Baseline points="193,353 222,353 252,352"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="259,75 259,2020 1311,2020 1311,75"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1035,129 1052,133 1079,154 1129,137 1147,149 1212,146 1223,54 1150,40 1072,78 1041,76"/>
+                <Baseline points="1042,119 1069,116 1097,117 1124,121 1152,126 1179,131 1207,134"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="917,219 1031,210 1127,246 1155,222 1192,240 1238,225 1260,237 1285,226 1287,169 1211,181 1130,169 1084,188 1028,176 978,144 919,166"/>
+                <Baseline points="924,207 949,209 974,210 1000,210 1025,211 1050,211 1076,212 1101,212 1126,213 1152,214 1177,215 1202,216 1228,218 1253,220 1279,222"/>
+                <TextEquiv>
+                    <Unicode>Novr 19 1904</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="937,298 952,294 970,303 980,296 1037,296 1062,304 1073,294 1088,294 1122,305 1141,302 1143,263 1118,260 1111,252 1081,256 1060,244 1044,252 1027,250 1005,265 963,243 939,250"/>
+                <Baseline points="944,285 971,287 998,289 1025,289 1053,290 1080,290 1107,292 1135,294"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="916,370 941,375 1046,361 1086,375 1110,369 1130,382 1175,381 1175,348 1143,334 1120,339 1087,328 1016,337 1003,329 957,337 926,315 917,318"/>
+                <Baseline points="923,354 950,356 977,357 1005,358 1032,358 1059,359 1087,359 1114,359 1141,360 1169,362"/>
+                <TextEquiv>
+                    <Unicode>SUNNINCDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="269,630 351,665 416,630 451,637 517,607 580,631 669,619 670,580 618,584 571,546 454,576 428,565 393,585 314,517 273,516"/>
+                <Baseline points="276,600 301,602 327,604 353,606 378,607 404,609 430,610 456,611 481,611 507,612 533,612 559,613 584,613 610,613 636,613 662,612"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="424,734 654,729 746,768 854,735 1170,741 1171,698 1080,672 994,718 822,683 652,704 589,680 535,694 470,652 426,666"/>
+                <Baseline points="431,715 467,716 504,717 540,718 577,720 614,721 650,723 687,725 724,727 760,728 797,730 834,731 870,732 907,734 944,734 980,735 1017,735 1054,734 1090,734 1127,732 1164,730"/>
+                <TextEquiv>
+                    <Unicode>Presumably it was Aiton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="253,807 362,839 475,809 534,844 882,818 986,863 1206,842 1207,802 821,776 733,799 599,765 564,793 514,762 403,791 254,758"/>
+                <Baseline points="259,807 306,809 353,811 400,812 447,814 494,816 541,817 588,818 635,820 682,821 729,822 776,823 823,825 870,826 917,827 964,828 1011,830 1058,831 1105,832 1152,834 1200,835"/>
+                <TextEquiv>
+                    <Unicode>inspired by Brown who engineered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="284,932 567,926 632,965 785,927 1247,952 1229,899 1095,915 1045,885 1001,910 820,867 611,906 286,870"/>
+                <Baseline points="291,916 338,917 386,919 433,920 481,921 528,922 576,923 623,923 671,924 718,925 766,925 813,926 861,927 908,928 956,929 1003,930 1051,932 1098,934 1146,936 1193,940 1241,943"/>
+                <TextEquiv>
+                    <Unicode>the transfer of the Bauer drawings</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="280,1023 573,1026 618,1047 668,1024 850,1026 983,1054 1003,981 821,989 794,966 684,999 581,961 535,978 282,957"/>
+                <Baseline points="287,1011 322,1011 357,1012 393,1012 428,1013 464,1014 499,1014 535,1015 570,1016 606,1017 641,1018 676,1019 712,1020 747,1021 783,1023 818,1024 854,1025 889,1026 925,1027 960,1028 996,1029"/>
+                <TextEquiv>
+                    <Unicode>to the Brit. Mus. Bot. Dept.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="419,1134 1294,1184 1296,1142 1152,1101 1022,1124 984,1099 936,1128 851,1093 796,1119 615,1114 547,1066 423,1056"/>
+                <Baseline points="426,1117 469,1121 512,1124 555,1127 598,1130 641,1132 684,1134 727,1137 770,1138 813,1141 857,1143 900,1145 943,1146 986,1148 1029,1150 1072,1152 1115,1154 1158,1157 1201,1159 1244,1162 1288,1165"/>
+                <TextEquiv>
+                    <Unicode>I well remember Miss Alderson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="269,1205 885,1276 947,1251 1023,1290 1070,1261 1263,1271 1266,1231 271,1165"/>
+                <Baseline points="275,1205 324,1208 373,1212 422,1215 471,1219 520,1221 569,1225 618,1228 667,1231 716,1233 766,1237 815,1239 864,1243 913,1246 962,1249 1011,1252 1060,1255 1109,1259 1158,1262 1207,1265 1257,1269"/>
+                <TextEquiv>
+                    <Unicode>as a constant visitant for days together</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="276,1332 364,1327 430,1369 565,1345 625,1382 822,1358 1040,1390 1179,1384 1182,1316 963,1334 666,1278 566,1323 495,1290 278,1281"/>
+                <Baseline points="283,1324 327,1326 372,1329 416,1331 461,1334 505,1336 550,1339 594,1340 639,1343 683,1345 728,1347 773,1349 817,1351 862,1353 906,1355 951,1356 995,1358 1040,1360 1084,1361 1129,1362 1174,1363"/>
+                <TextEquiv>
+                    <Unicode>at my Aunt's, Lady Palgrave's, at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="253,1442 504,1450 560,1489 899,1459 984,1493 1300,1475 1302,1414 357,1414 255,1375"/>
+                <Baseline points="260,1428 311,1433 363,1437 415,1441 466,1445 518,1448 570,1450 621,1453 673,1455 725,1456 777,1457 828,1458 880,1459 932,1459 983,1460 1035,1460 1087,1459 1138,1459 1190,1459 1242,1458 1294,1458"/>
+                <TextEquiv>
+                    <Unicode>Hampstead. Both Frank &amp; Gifford were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="265,1567 1025,1597 1105,1573 1149,1602 1317,1576 1304,1530 1162,1543 1097,1501 922,1544 829,1507 760,1550 534,1498 267,1507"/>
+                <Baseline points="272,1537 326,1541 381,1545 436,1548 490,1552 545,1555 600,1557 654,1560 709,1562 764,1564 818,1566 873,1567 928,1569 982,1570 1037,1571 1092,1571 1146,1572 1201,1572 1256,1573 1311,1573"/>
+                <TextEquiv>
+                    <Unicode>over head &amp; ears in love with her, &amp; I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="254,1683 1213,1678 1214,1639 1110,1663 1015,1609 800,1650 697,1622 647,1642 592,1603 418,1641 257,1578"/>
+                <Baseline points="262,1649 309,1653 356,1656 403,1659 450,1661 498,1663 545,1666 592,1668 639,1669 686,1671 734,1672 781,1674 828,1675 875,1676 922,1677 970,1678 1017,1679 1064,1679 1111,1680 1158,1681 1206,1683"/>
+                <TextEquiv>
+                    <Unicode>recognised her at once the Passionate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="259,1774 280,1780 308,1764 329,1764 372,1793 428,1766 483,1771 485,1747 462,1743 450,1731 436,1739 413,1736 373,1704 360,1706 340,1691 311,1694 301,1686 277,1690 266,1684"/>
+                <Baseline points="267,1746 293,1748 319,1750 346,1752 372,1755 398,1756 425,1759 451,1761 478,1763"/>
+                <TextEquiv>
+                    <Unicode>Pilgrim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="358,1853 709,1888 1265,1886 1266,1826 1223,1840 1169,1806 942,1839 612,1814 518,1840 359,1789"/>
+                <Baseline points="364,1844 408,1848 453,1852 498,1855 542,1858 587,1860 632,1862 676,1864 721,1866 766,1867 811,1868 855,1869 900,1869 945,1869 989,1870 1034,1870 1079,1870 1123,1870 1168,1870 1213,1870 1258,1870"/>
+                <TextEquiv>
+                    <Unicode>I am in agonies over the forms</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="278,1997 844,2015 1036,1984 1265,2024 1267,1976 1033,1927 880,1967 624,1912 561,1940 433,1907 280,1919"/>
+                <Baseline points="286,1958 334,1961 383,1965 432,1968 480,1970 529,1973 578,1975 626,1977 675,1979 724,1980 773,1982 821,1983 870,1985 919,1986 967,1987 1016,1989 1065,1990 1113,1992 1162,1994 1211,1996 1260,1998"/>
+                <TextEquiv>
+                    <Unicode>of Impatiens Balsamina , &amp; have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+Novr 19 1904&#13;
+THE CAMP.&#13;
+SUNNINCDALE.&#13;
+My dear Dyer&#13;
+Presumably it was Aiton&#13;
+inspired by Brown who engineered&#13;
+the transfer of the Bauer drawings&#13;
+to the Brit. Mus. Bot. Dept.&#13;
+I well remember Miss Alderson&#13;
+as a constant visitant for days together&#13;
+at my Aunt's, Lady Palgrave's, at&#13;
+Hampstead. Both Frank &amp; Gifford were&#13;
+over head &amp; ears in love with her, &amp; I&#13;
+recognised her at once the Passionate&#13;
+Pilgrim.&#13;
+I am in agonies over the forms&#13;
+of Impatiens Balsamina , &amp; have been</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

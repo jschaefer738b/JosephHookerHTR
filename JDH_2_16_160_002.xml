@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:39:21.835-04:00</Created>
+        <LastChange>2020-06-23T22:00:22.874+02:00</LastChange>
+        <TranskribusMetadata docId="418289" pageId="16659295" pageNr="1" tsid="32533520" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=OLIOICKMNJFPKXMEBIYKJACC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOKKILJRECUPKXVGXFJMNLGZ" imageId="12444751"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_160_002.jpg" imageWidth="1401" imageHeight="2159">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330938887" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="118,299 118,2058 1325,2058 1325,299"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="164,378 703,353 872,396 1016,332 1171,384 1169,308 1081,292 424,310 368,340 162,314"/>
+                <Baseline points="171,363 220,365 270,367 319,368 369,368 419,367 468,366 518,365 567,363 617,361 667,359 716,356 766,354 815,353 865,351 915,350 964,350 1014,350 1063,351 1113,354 1163,357"/>
+                <TextEquiv>
+                    <Unicode> distinction, &amp; one wholly to my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="111,482 275,511 1239,487 1239,441 1163,418 1059,451 832,410 786,448 685,405 606,446 467,410 283,453 111,419"/>
+                <Baseline points="118,470 173,473 229,475 285,476 340,477 396,477 452,478 507,478 563,477 619,477 675,477 730,476 786,476 842,475 897,475 953,476 1009,476 1064,477 1120,478 1176,480 1232,482"/>
+                <TextEquiv>
+                    <Unicode>liking.-- As for P.C., except steps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="116,599 821,587 963,658 1204,610 1204,556 1127,530 1059,572 753,533 446,574 338,529 251,577 117,539"/>
+                <Baseline points="124,592 177,594 231,596 284,597 338,597 392,597 445,597 499,596 553,595 606,594 660,593 714,593 767,592 821,592 875,592 928,593 982,594 1036,596 1089,599 1143,603 1197,609"/>
+                <TextEquiv>
+                    <Unicode>were taken to include many other</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="132,728 1152,735 1224,722 1224,684 1116,653 1071,679 1007,637 819,680 675,652 620,687 519,658 364,682 329,652 132,686"/>
+                <Baseline points="139,711 192,711 246,711 300,711 354,710 408,710 462,709 516,709 570,708 624,707 678,707 731,706 785,706 839,706 893,706 947,706 1001,706 1055,707 1109,707 1163,708 1217,710"/>
+                <TextEquiv>
+                    <Unicode>scientific men, it would have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="146,830 331,868 385,835 495,864 679,824 876,863 987,824 1193,825 1193,755 963,786 839,749 782,788 665,746 526,787 291,749 146,776"/>
+                <Baseline points="154,812 205,815 257,817 308,818 360,819 412,820 463,820 515,820 566,820 618,820 670,820 721,819 773,818 824,818 876,817 928,817 979,817 1031,816 1082,816 1134,817 1186,817"/>
+                <TextEquiv>
+                    <Unicode>out of place, I think. What</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="149,944 564,980 696,923 1145,919 1267,963 1319,907 1172,844 980,895 856,856 506,902 148,887"/>
+                <Baseline points="156,929 213,930 271,930 329,930 387,929 445,928 502,927 560,926 618,925 676,923 734,922 791,921 849,920 907,919 965,919 1023,919 1080,920 1138,921 1196,922 1254,925 1312,928"/>
+                <TextEquiv>
+                    <Unicode>you tell me of Sir Stewart Bailey's </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="177,1055 350,1071 500,1024 700,1074 802,1017 987,1069 1084,1024 1165,1037 1191,1001 1091,956 745,997 534,971 335,1015 176,983"/>
+                <Baseline points="184,1033 234,1034 284,1035 334,1036 384,1036 434,1035 484,1034 534,1033 584,1032 634,1030 684,1028 734,1027 784,1026 834,1024 884,1023 934,1022 984,1021 1034,1021 1084,1022 1134,1023 1184,1024"/>
+                <TextEquiv>
+                    <Unicode>opinion, &amp; that of his fellow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="133,1140 537,1135 868,1189 959,1132 1112,1173 1265,1134 1265,1079 1205,1062 1115,1103 959,1062 831,1112 134,1067"/>
+                <Baseline points="141,1127 196,1129 252,1130 308,1131 364,1132 420,1132 475,1133 531,1133 587,1133 643,1133 699,1133 754,1133 810,1133 866,1133 922,1132 978,1132 1033,1132 1089,1132 1145,1133 1201,1133 1257,1133"/>
+                <TextEquiv>
+                    <Unicode>councillors immeasurably heightens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="145,1260 344,1260 393,1296 630,1250 1062,1249 1100,1276 1147,1263 1148,1193 639,1235 556,1192 494,1232 452,1205 260,1224 185,1176 145,1197"/>
+                <Baseline points="152,1248 201,1250 250,1251 300,1253 349,1254 399,1255 448,1255 497,1256 547,1256 596,1255 646,1255 695,1255 744,1255 794,1254 843,1254 893,1253 942,1253 991,1253 1041,1253 1090,1253 1140,1254"/>
+                <TextEquiv>
+                    <Unicode>the satisfaction with which I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="120,1385 346,1357 494,1402 682,1363 974,1417 1333,1396 1112,1303 930,1336 846,1291 794,1324 122,1314"/>
+                <Baseline points="129,1356 188,1357 248,1357 308,1358 368,1359 428,1360 487,1361 547,1361 607,1362 667,1364 727,1365 786,1367 846,1368 906,1370 966,1372 1026,1374 1085,1376 1145,1379 1205,1382 1265,1385 1325,1388"/>
+                <TextEquiv>
+                    <Unicode>regard the gift -- thank you for telling me.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="234,1497 722,1478 1081,1535 1175,1492 1245,1507 1247,1425 1153,1393 1055,1457 813,1401 736,1445 236,1397"/>
+                <Baseline points="242,1464 291,1465 341,1467 391,1468 441,1469 491,1471 540,1472 590,1473 640,1475 690,1476 740,1477 789,1478 839,1479 889,1480 939,1481 989,1482 1038,1483 1088,1483 1138,1484 1188,1485 1238,1485"/>
+                <TextEquiv>
+                    <Unicode>I have written thanking Lord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="123,1612 514,1576 712,1638 804,1597 927,1649 1006,1606 1118,1613 1119,1551 1073,1533 905,1575 605,1515 522,1558 433,1523 374,1558 252,1506 125,1510"/>
+                <Baseline points="131,1587 180,1584 229,1582 278,1581 327,1581 376,1581 425,1581 474,1582 523,1583 572,1585 621,1586 670,1588 719,1589 768,1591 817,1592 866,1593 915,1594 964,1594 1013,1594 1062,1593 1111,1591"/>
+                <TextEquiv>
+                    <Unicode>Hamilton, the only one of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="155,1710 304,1694 446,1740 548,1707 1020,1693 1146,1741 1147,1665 1055,1651 966,1680 781,1636 683,1680 570,1633 321,1665 156,1622"/>
+                <Baseline points="162,1679 210,1682 259,1685 308,1688 357,1690 406,1692 455,1694 504,1696 553,1697 602,1698 651,1699 699,1699 748,1700 797,1700 846,1700 895,1700 944,1699 993,1699 1042,1698 1091,1697 1140,1696"/>
+                <TextEquiv>
+                    <Unicode>council of whom I have any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="157,1825 1254,1829 1255,1792 1146,1795 1060,1746 824,1792 719,1745 579,1773 480,1735 348,1785 160,1730"/>
+                <Baseline points="166,1792 220,1796 274,1798 328,1801 382,1803 436,1804 490,1806 544,1806 598,1807 652,1808 706,1809 760,1809 814,1810 868,1811 922,1813 976,1815 1030,1817 1084,1820 1138,1824 1192,1829 1247,1835"/>
+                <TextEquiv>
+                    <Unicode>personal knowledge, &amp; that is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="151,1923 1313,1929 1313,1894 1077,1852 785,1880 667,1837 535,1875 484,1842 151,1851"/>
+                <Baseline points="158,1898 215,1904 272,1909 330,1913 387,1915 445,1917 502,1918 559,1918 617,1918 674,1917 732,1915 789,1914 846,1913 904,1912 961,1911 1019,1910 1076,1910 1133,1910 1191,1911 1248,1913 1306,1916"/>
+                <TextEquiv>
+                    <Unicode>the slightest. I have told him how</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="166,2034 824,2026 942,2083 1059,2032 1220,2070 1221,1995 1063,1969 865,2006 556,1942 485,2002 338,1948 167,1986"/>
+                <Baseline points="174,2020 226,2019 278,2019 330,2019 382,2018 434,2018 486,2019 538,2019 590,2019 642,2020 694,2020 746,2021 798,2022 850,2023 902,2024 954,2025 1006,2026 1058,2028 1110,2029 1162,2031 1214,2033"/>
+                <TextEquiv>
+                    <Unicode>great was the pleasure of seeing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> distinction, &amp; one wholly to my&#13;
+liking.-- As for P.C., except steps&#13;
+were taken to include many other&#13;
+scientific men, it would have been&#13;
+out of place, I think. What&#13;
+you tell me of Sir Stewart Bailey's &#13;
+opinion, &amp; that of his fellow&#13;
+councillors immeasurably heightens&#13;
+the satisfaction with which I&#13;
+regard the gift -- thank you for telling me.&#13;
+I have written thanking Lord&#13;
+Hamilton, the only one of the&#13;
+council of whom I have any&#13;
+personal knowledge, &amp; that is&#13;
+the slightest. I have told him how&#13;
+great was the pleasure of seeing</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

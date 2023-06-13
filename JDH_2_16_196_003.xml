@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:48:48.128-04:00</Created>
+        <LastChange>2020-06-28T04:34:03.660+02:00</LastChange>
+        <TranskribusMetadata docId="421882" pageId="16787530" pageNr="2" tsid="32842018" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=QVCSUPWPOIZDYBXIOCSURLTD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZGPFFQHFOBGXYVTPYIUZZJF" imageId="12542318"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_196_003.jpg" imageWidth="1316" imageHeight="2140">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330904742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,119 48,2094 1239,2094 1239,119"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="41,207 242,191 306,232 366,180 548,216 653,175 1153,173 1136,102 924,141 652,117 448,154 391,118 309,163 40,163"/>
+                <Baseline points="48,198 102,196 157,193 212,191 267,189 322,187 377,185 431,183 486,181 541,180 596,178 651,176 706,174 761,172 815,170 870,168 925,165 980,163 1035,160 1090,158 1145,154"/>
+                <TextEquiv>
+                    <Unicode>are many Padangs &amp; I have had to ask</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="62,290 789,258 856,300 994,247 1242,255 1241,223 544,234 503,203 200,262 60,239"/>
+                <Baseline points="70,285 128,281 186,277 244,274 303,270 361,267 419,265 477,263 536,261 594,259 652,258 710,256 769,255 827,253 885,252 943,251 1002,249 1060,247 1118,245 1176,244 1235,241"/>
+                <TextEquiv>
+                    <Unicode>him which. My description of the 60 species</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="65,376 1137,341 1192,331 1190,283 599,329 240,306 64,349"/>
+                <Baseline points="72,372 127,368 183,364 238,360 294,357 350,354 405,352 461,350 517,348 572,346 628,344 684,342 739,340 795,338 851,335 906,333 962,330 1018,326 1073,323 1129,318 1185,314"/>
+                <TextEquiv>
+                    <Unicode>of the Paris Herbarium is printed in the "Nouvelles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="75,455 898,426 1098,401 1117,370 902,355 298,416 72,396"/>
+                <Baseline points="82,441 133,440 184,438 236,437 287,435 339,433 390,431 442,429 493,426 545,424 596,421 647,419 699,416 750,413 802,410 853,407 905,404 956,401 1008,398 1059,395 1111,392"/>
+                <TextEquiv>
+                    <Unicode>Archeau", but not yet published. I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="67,524 1117,509 1202,479 1200,428 1106,463 741,443 66,499"/>
+                <Baseline points="74,521 130,519 186,517 242,515 298,512 354,510 410,508 466,505 522,503 578,500 634,498 690,495 746,493 802,490 858,488 914,487 970,485 1026,483 1082,482 1138,481 1194,481"/>
+                <TextEquiv>
+                    <Unicode>now full descriptions of about 170 species from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="83,614 384,622 582,580 678,613 1140,568 1157,535 1048,508 786,527 754,558 531,530 407,571 80,572"/>
+                <Baseline points="90,609 143,606 196,604 249,602 302,600 355,597 408,595 461,592 514,590 567,587 620,583 673,581 726,578 779,575 832,571 885,568 938,566 991,562 1044,559 1097,555 1151,551"/>
+                <TextEquiv>
+                    <Unicode>China proper. I have just sent to Paris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="92,699 556,696 1166,633 1157,570 1007,574 925,619 794,594 666,637 596,610 90,660"/>
+                <Baseline points="98,688 153,685 209,682 265,679 320,676 376,673 432,670 488,667 543,664 599,661 655,657 711,654 766,650 822,646 878,642 934,637 989,633 1045,628 1101,622 1157,616"/>
+                <TextEquiv>
+                    <Unicode>a paper on the few (about 15) known Turkish</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="92,778 1200,726 1197,679 1147,665 90,740"/>
+                <Baseline points="99,767 153,764 208,761 262,758 317,755 372,752 426,750 481,747 535,745 590,742 645,740 699,737 754,735 808,732 863,729 918,726 972,724 1027,721 1081,719 1136,716 1191,713"/>
+                <TextEquiv>
+                    <Unicode>species &amp; their distribution; they harmonise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="80,851 1110,809 1101,758 631,807 505,777 79,811"/>
+                <Baseline points="87,840 137,839 188,838 239,837 290,836 341,835 391,833 442,831 493,829 544,827 595,825 645,823 696,820 747,818 798,815 849,813 899,810 950,807 1001,805 1052,802 1103,800"/>
+                <TextEquiv>
+                    <Unicode>with the Malay Peninsula, but not with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="89,925 463,936 724,897 798,929 948,883 1244,888 1243,847 87,876"/>
+                <Baseline points="95,909 152,912 209,914 266,915 323,914 380,913 437,911 494,909 551,906 608,903 666,899 723,895 780,892 837,888 894,885 951,882 1008,879 1065,877 1122,876 1179,876 1237,876"/>
+                <TextEquiv>
+                    <Unicode>Maln archipelagan or those of China proper.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="80,1005 924,990 1110,962 1143,911 736,961 78,951"/>
+                <Baseline points="87,991 139,992 192,992 244,992 297,992 349,991 402,991 454,990 507,989 559,987 612,985 664,983 717,980 769,978 822,974 874,971 927,967 979,963 1032,958 1084,953 1137,947"/>
+                <TextEquiv>
+                    <Unicode>I shall be glad of your criticism where it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="88,1090 658,1092 842,1039 1226,1028 1183,971 629,1038 85,1043"/>
+                <Baseline points="94,1076 150,1076 206,1075 262,1074 318,1072 375,1069 431,1067 487,1064 543,1060 599,1057 656,1053 712,1050 768,1046 824,1042 880,1039 937,1035 993,1032 1049,1030 1105,1028 1161,1026 1218,1024"/>
+                <TextEquiv>
+                    <Unicode>appears in the forthcoming Bulletin. I think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="103,1200 865,1108 1089,1132 1200,1099 1197,1046 844,1098 347,1094 194,1143 98,1121"/>
+                <Baseline points="108,1164 162,1160 216,1157 270,1153 325,1149 379,1145 433,1142 487,1138 542,1135 596,1131 650,1127 704,1124 759,1120 813,1117 867,1114 921,1110 976,1106 1030,1103 1084,1099 1138,1095 1193,1092"/>
+                <TextEquiv>
+                    <Unicode>my treatment of the subject is novel, but it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="110,1257 559,1237 747,1195 831,1223 969,1190 967,1166 854,1140 800,1177 566,1163 410,1203 107,1212"/>
+                <Baseline points="117,1242 159,1241 201,1240 243,1238 285,1235 328,1233 370,1230 412,1227 454,1224 496,1221 539,1217 581,1213 623,1209 665,1206 707,1202 750,1199 792,1196 834,1192 876,1190 918,1187 961,1184"/>
+                <TextEquiv>
+                    <Unicode>will not set the Thames on fire.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="223,1324 294,1345 607,1296 1156,1296 1154,1237 221,1268"/>
+                <Baseline points="230,1311 275,1309 321,1306 367,1304 413,1302 459,1301 505,1299 550,1297 596,1295 642,1294 688,1292 734,1290 780,1289 826,1287 871,1285 917,1283 963,1282 1009,1280 1055,1278 1101,1276 1147,1273"/>
+                <TextEquiv>
+                    <Unicode>My whole life since I came here has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="50,1413 569,1412 809,1364 945,1401 990,1357 1112,1356 1110,1321 1025,1307 661,1349 537,1322 283,1358 235,1330 178,1380 46,1342"/>
+                <Baseline points="56,1402 108,1399 160,1397 213,1394 265,1392 318,1389 370,1386 422,1383 475,1381 527,1378 580,1375 632,1372 684,1369 737,1366 789,1363 842,1360 894,1357 946,1354 999,1351 1051,1348 1104,1344"/>
+                <TextEquiv>
+                    <Unicode>been directed to Impatiens -- much of it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="81,1512 237,1469 516,1498 565,1452 701,1437 1194,1447 1224,1375 934,1410 750,1374 514,1437 299,1411 237,1450 75,1425"/>
+                <Baseline points="86,1483 142,1480 199,1476 256,1472 312,1468 369,1464 426,1460 482,1457 539,1452 596,1449 653,1444 709,1441 766,1438 823,1434 879,1431 936,1428 993,1426 1049,1424 1106,1422 1163,1420 1220,1419"/>
+                <TextEquiv>
+                    <Unicode>pure taxidermy, for Herbm. specimens are perfectly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="104,1586 1146,1522 1144,1481 1106,1475 331,1510 263,1542 101,1523"/>
+                <Baseline points="110,1562 161,1559 212,1557 264,1555 315,1552 367,1550 418,1547 469,1545 521,1543 572,1540 624,1537 675,1535 726,1533 778,1531 829,1528 881,1526 932,1524 983,1522 1035,1521 1086,1519 1138,1518"/>
+                <TextEquiv>
+                    <Unicode>useless without accompanying drawings of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="119,1660 1127,1616 1125,1578 1055,1563 211,1615 160,1579 117,1609"/>
+                <Baseline points="126,1643 175,1639 225,1636 274,1634 324,1631 374,1629 423,1627 473,1625 523,1623 572,1621 622,1620 672,1618 721,1617 771,1615 821,1613 870,1611 920,1609 970,1607 1019,1605 1069,1602 1119,1600"/>
+                <TextEquiv>
+                    <Unicode>floral organs, not one of which can be even</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="120,1724 606,1692 675,1720 851,1670 1245,1690 1245,1636 670,1634 621,1674 429,1649 118,1689"/>
+                <Baseline points="127,1708 182,1709 238,1709 293,1707 349,1706 405,1704 460,1701 516,1698 571,1695 627,1692 683,1688 738,1685 794,1681 849,1679 905,1676 961,1674 1016,1672 1072,1671 1127,1671 1183,1672 1239,1673"/>
+                <TextEquiv>
+                    <Unicode>imagined except as dissected &amp; laid out. I can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="102,1800 1166,1774 1165,1723 1117,1711 996,1741 101,1746"/>
+                <Baseline points="109,1782 161,1780 214,1778 266,1777 319,1775 371,1774 424,1773 476,1771 529,1770 581,1770 634,1769 686,1768 739,1767 791,1766 844,1765 896,1764 949,1763 1001,1762 1054,1761 1106,1760 1159,1758"/>
+                <TextEquiv>
+                    <Unicode>defy the sharpest eyed botanist to say from the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="117,1885 978,1834 1148,1858 1187,1845 1186,1796 115,1825"/>
+                <Baseline points="123,1859 175,1859 228,1858 281,1857 334,1856 387,1855 439,1854 492,1852 545,1850 598,1848 651,1847 703,1844 756,1843 809,1841 862,1839 915,1837 967,1836 1020,1834 1073,1833 1126,1832 1179,1831"/>
+                <TextEquiv>
+                    <Unicode>dned flowen who the the schels, Noweve, big, an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="112,1948 183,1938 220,1952 276,1938 338,1951 396,1930 427,1941 547,1933 548,1895 448,1886 424,1903 341,1895 311,1912 230,1896 210,1912 139,1893 110,1900"/>
+                <Baseline points="119,1932 145,1934 171,1934 198,1934 224,1934 250,1934 277,1933 303,1932 330,1931 356,1930 382,1928 409,1927 435,1926 461,1925 488,1924 514,1923 541,1923"/>
+                <TextEquiv>
+                    <Unicode>2 or 4 in number.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="119,2007 1145,2034 1124,1961 914,1992 654,1976 602,1943 479,1982 120,1952"/>
+                <Baseline points="127,2005 177,2003 228,2002 278,2001 329,2000 379,2000 430,2000 480,2000 531,2001 581,2001 632,2003 683,2003 733,2005 784,2006 834,2007 885,2008 935,2009 986,2010 1036,2011 1087,2012 1138,2012"/>
+                <TextEquiv>
+                    <Unicode>So I brag away like any other slippered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="150,2084 235,2074 284,2094 350,2078 436,2092 436,2056 392,2041 356,2048 338,2036 282,2028 235,2050 193,2027 150,2053"/>
+                <Baseline points="158,2073 185,2074 212,2075 239,2076 266,2077 293,2077 320,2077 347,2077 374,2076 401,2076 429,2075"/>
+                <TextEquiv>
+                    <Unicode>pantaloon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>are many Padangs &amp; I have had to ask&#13;
+him which. My description of the 60 species&#13;
+of the Paris Herbarium is printed in the "Nouvelles&#13;
+Archeau", but not yet published. I have&#13;
+now full descriptions of about 170 species from&#13;
+China proper. I have just sent to Paris&#13;
+a paper on the few (about 15) known Turkish&#13;
+species &amp; their distribution; they harmonise&#13;
+with the Malay Peninsula, but not with&#13;
+Maln archipelagan or those of China proper.&#13;
+I shall be glad of your criticism where it&#13;
+appears in the forthcoming Bulletin. I think&#13;
+my treatment of the subject is novel, but it&#13;
+will not set the Thames on fire.&#13;
+My whole life since I came here has&#13;
+been directed to Impatiens -- much of it is&#13;
+pure taxidermy, for Herbm. specimens are perfectly&#13;
+useless without accompanying drawings of the&#13;
+floral organs, not one of which can be even&#13;
+imagined except as dissected &amp; laid out. I can&#13;
+defy the sharpest eyed botanist to say from the&#13;
+dned flowen who the the schels, Noweve, big, an&#13;
+2 or 4 in number.&#13;
+So I brag away like any other slippered&#13;
+pantaloon.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

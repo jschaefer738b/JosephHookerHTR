@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:50:09.642-04:00</Created>
+        <LastChange>2023-05-16T17:31:25.336+02:00</LastChange>
+        <TranskribusMetadata docId="421884" pageId="16787536" pageNr="4" tsid="121936150" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=NPWJUDZESHNOBQUQBKGGILRW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XUDPKSEDLXIPEENWSDHELAVU" imageId="12542324"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_198_004.jpg" imageWidth="1509" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330903179" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="104,141 104,2094 1361,2094 1361,141"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="253,273 331,219 583,194 1348,187 1346,147 1283,128 249,162"/>
+                <Baseline points="258,213 312,211 366,209 420,206 474,203 528,199 582,197 636,194 690,191 744,188 799,185 853,183 907,180 961,178 1015,176 1069,175 1123,174 1177,173 1231,173 1285,173 1340,174"/>
+                <TextEquiv>
+                    <Unicode>of Insect Evolution, &amp; it is a question</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="145,317 1299,268 1296,225 1135,213 142,269"/>
+                <Baseline points="151,309 208,307 265,303 322,300 379,296 436,293 493,289 550,285 607,281 664,278 721,274 778,271 835,268 892,265 949,262 1006,260 1063,258 1120,256 1177,255 1234,254 1291,253"/>
+                <TextEquiv>
+                    <Unicode>whether insects have made most Balsam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="176,395 1216,345 1212,286 1132,283 173,351"/>
+                <Baseline points="183,387 234,385 285,382 336,379 387,376 439,373 490,370 541,367 592,363 643,360 695,357 746,354 797,350 848,347 899,344 951,341 1002,338 1053,336 1104,333 1155,331 1207,329"/>
+                <TextEquiv>
+                    <Unicode>or reverse. &amp; I suspect that is the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="169,462 1258,430 1231,374 522,427 370,397 168,435"/>
+                <Baseline points="176,462 229,460 283,457 337,455 391,452 444,450 498,447 552,445 606,442 659,440 713,437 767,435 821,433 874,430 928,428 982,426 1036,425 1089,423 1143,421 1197,420 1251,419"/>
+                <TextEquiv>
+                    <Unicode>Haustellate alone that have operated.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="190,551 996,517 1119,543 1301,506 1256,475 979,492 827,457 776,496 577,469 528,504 189,510"/>
+                <Baseline points="198,545 252,543 307,540 362,538 417,536 472,533 526,531 581,528 636,525 691,523 746,520 800,518 855,516 910,514 965,511 1020,510 1074,508 1129,506 1184,505 1239,504 1294,503"/>
+                <TextEquiv>
+                    <Unicode>I must have examined the upward of 1000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="197,664 239,630 615,632 676,598 1323,595 1321,549 1275,543 195,593"/>
+                <Baseline points="203,627 258,625 314,621 369,619 425,615 481,613 536,609 592,606 647,604 703,601 759,598 814,596 870,594 925,593 981,591 1037,591 1092,590 1148,590 1203,591 1259,592 1315,593"/>
+                <TextEquiv>
+                    <Unicode>flowers &amp; to find an insect in them is the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="205,707 399,733 1332,666 1330,617 1192,612 204,677"/>
+                <Baseline points="212,704 267,703 323,701 378,699 434,697 490,695 545,692 601,689 656,686 712,683 768,679 823,676 879,673 934,670 990,667 1046,665 1101,662 1157,660 1212,659 1268,658 1324,657"/>
+                <TextEquiv>
+                    <Unicode>rarest of events, &amp; then only non haustellate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="214,796 873,757 934,787 1190,751 1189,710 791,742 633,706 569,749 531,719 468,758 333,736 293,765 212,736"/>
+                <Baseline points="221,782 269,783 317,783 365,783 413,782 461,780 509,779 557,777 605,774 653,772 702,769 750,766 798,764 846,761 894,759 942,756 990,754 1038,752 1086,750 1134,749 1183,748"/>
+                <TextEquiv>
+                    <Unicode>On the other hand I find any amount of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="199,870 409,844 693,876 784,842 1059,838 1196,867 1194,810 978,790 199,833"/>
+                <Baseline points="206,863 255,860 304,857 353,854 402,852 451,851 500,849 549,847 598,847 647,845 696,845 745,844 794,843 843,842 892,842 941,841 990,840 1039,838 1088,837 1137,836 1187,834"/>
+                <TextEquiv>
+                    <Unicode>sand &amp; other forms of dirt, especially in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="190,947 558,961 799,924 908,951 1164,928 1187,891 1045,895 1010,864 792,910 687,884 188,902"/>
+                <Baseline points="197,937 246,937 295,937 344,936 393,935 443,935 492,934 541,933 590,931 639,930 689,929 738,927 787,925 836,923 885,921 935,919 984,917 1033,915 1082,913 1131,911 1181,908"/>
+                <TextEquiv>
+                    <Unicode>Chinese species of which so many flower in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="165,1032 1299,996 1296,942 1183,932 364,997 162,974"/>
+                <Baseline points="171,1023 227,1023 283,1022 339,1021 395,1018 451,1016 507,1013 563,1010 619,1006 675,1002 731,999 787,995 843,991 899,988 955,985 1011,982 1067,980 1123,978 1179,977 1235,976 1291,977"/>
+                <TextEquiv>
+                    <Unicode>the dry dusty months The plague of having</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="185,1112 607,1093 707,1133 912,1079 1272,1083 1269,1017 1200,1007 1036,1052 405,1048 350,1085 182,1051"/>
+                <Baseline points="192,1106 245,1104 299,1103 352,1101 406,1099 459,1097 513,1095 566,1093 620,1091 673,1089 727,1087 781,1084 834,1082 888,1080 941,1077 995,1074 1048,1071 1102,1067 1155,1064 1209,1060 1263,1056"/>
+                <TextEquiv>
+                    <Unicode>to wash the stage of your microscope time</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="197,1179 251,1205 992,1151 1131,1176 1304,1165 1303,1119 753,1138 535,1109 196,1159"/>
+                <Baseline points="204,1179 258,1177 313,1175 367,1173 422,1170 477,1168 531,1166 586,1163 640,1161 695,1159 750,1157 804,1155 859,1153 913,1152 968,1151 1023,1150 1077,1149 1132,1149 1186,1150 1241,1150 1296,1152"/>
+                <TextEquiv>
+                    <Unicode>upon time in to imminent danger of your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="198,1269 278,1284 328,1256 589,1238 633,1266 682,1242 769,1267 860,1239 858,1196 766,1206 701,1179 669,1211 478,1217 445,1199 339,1224 256,1203 196,1224"/>
+                <Baseline points="205,1255 237,1254 269,1254 302,1253 334,1251 366,1250 399,1248 431,1247 463,1245 496,1243 528,1241 560,1239 593,1237 625,1235 657,1234 690,1232 722,1231 754,1230 787,1229 819,1228 852,1228"/>
+                <TextEquiv>
+                    <Unicode>dissection is very trying.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="306,1357 1268,1317 1266,1273 1019,1293 946,1255 770,1314 724,1288 304,1307"/>
+                <Baseline points="313,1343 360,1344 407,1344 455,1344 502,1344 549,1343 597,1342 644,1340 691,1338 739,1335 786,1333 833,1330 881,1327 928,1324 975,1322 1023,1319 1070,1316 1117,1314 1165,1312 1212,1310 1260,1308"/>
+                <TextEquiv>
+                    <Unicode>I am glad that you keep so well &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="97,1434 1242,1402 1241,1361 1135,1332 1073,1367 920,1339 468,1397 96,1377"/>
+                <Baseline points="104,1406 160,1411 217,1414 273,1416 330,1417 386,1416 443,1415 499,1413 556,1411 612,1407 669,1404 725,1401 782,1397 838,1394 895,1391 951,1389 1008,1387 1064,1386 1121,1386 1177,1387 1234,1390"/>
+                <TextEquiv>
+                    <Unicode>&amp; Harriet too -- my best love to her. I am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="158,1511 1272,1461 1270,1427 1043,1409 840,1457 157,1471"/>
+                <Baseline points="158,1504 175,1503 232,1503 290,1502 347,1501 404,1499 462,1497 519,1495 576,1492 634,1488 691,1486 748,1482 806,1479 863,1475 920,1471 978,1468 1035,1465 1092,1461 1150,1458 1207,1455 1265,1453"/>
+                <TextEquiv>
+                    <Unicode>well enough but for the most troublesome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="196,1599 932,1578 1246,1527 1243,1488 580,1551 485,1519 394,1565 192,1545"/>
+                <Baseline points="202,1589 253,1587 305,1585 357,1582 409,1579 461,1577 512,1574 564,1571 616,1568 668,1565 720,1562 771,1559 823,1556 875,1552 927,1549 979,1545 1030,1542 1082,1539 1134,1536 1186,1533 1238,1530"/>
+                <TextEquiv>
+                    <Unicode>eczema, that demands daily anointing &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="191,1679 1117,1622 1118,1581 516,1604 483,1635 188,1627"/>
+                <Baseline points="198,1667 243,1665 289,1662 335,1659 380,1656 426,1653 472,1651 517,1647 563,1643 609,1640 655,1637 700,1634 746,1630 792,1627 837,1624 883,1621 929,1618 974,1616 1020,1614 1066,1612 1112,1610"/>
+                <TextEquiv>
+                    <Unicode>unfits me for social visits or even</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="199,1762 634,1693 1369,1673 1365,1612 282,1708 193,1679"/>
+                <Baseline points="204,1736 261,1730 319,1724 377,1719 435,1714 493,1709 551,1705 608,1701 666,1697 724,1694 782,1690 840,1687 898,1684 956,1680 1013,1677 1071,1674 1129,1670 1187,1666 1245,1662 1303,1657 1361,1653"/>
+                <TextEquiv>
+                    <Unicode>functions -- arms &amp; legs are the trials, but my back</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="162,1814 733,1765 900,1832 1035,1773 1035,1729 753,1746 688,1716 556,1745 515,1716 475,1748 449,1727 162,1775"/>
+                <Baseline points="170,1791 212,1784 255,1778 298,1774 341,1770 384,1768 427,1767 470,1767 513,1767 556,1768 599,1769 641,1770 684,1772 727,1774 770,1776 813,1777 856,1777 899,1778 942,1777 985,1776 1028,1774"/>
+                <TextEquiv>
+                    <Unicode>is not spared. Ever dear Dyer affy yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="100,2013 805,1947 917,2001 1022,1940 1259,1931 1256,1870 1092,1850 866,1922 781,1890 333,1954 95,1924"/>
+                <Baseline points="105,1987 162,1985 219,1982 277,1979 334,1976 391,1974 449,1971 506,1967 563,1964 621,1961 678,1957 735,1953 793,1950 850,1946 907,1943 965,1940 1022,1935 1079,1932 1137,1929 1194,1926 1252,1922"/>
+                <TextEquiv>
+                    <Unicode>Grace is no worse &amp; bears her Jos. D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="98,2052 855,2014 884,1964 774,1987 577,1972 494,2001 435,1974 390,2007 242,1994 96,2019"/>
+                <Baseline points="105,2042 143,2040 182,2037 221,2035 259,2033 298,2030 337,2028 375,2026 414,2024 453,2022 492,2020 530,2017 569,2015 608,2013 646,2010 685,2008 724,2006 762,2003 801,2000 840,1997 879,1995"/>
+                <TextEquiv>
+                    <Unicode>sanatorium life with admirable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="102,2088 115,2085 128,2097 144,2089 154,2098 170,2087 208,2087 250,2106 271,2091 326,2082 325,2060 305,2062 279,2046 236,2062 218,2052 209,2060 169,2062 147,2050 101,2066"/>
+                <Baseline points="109,2084 135,2083 161,2082 187,2081 214,2080 240,2080 266,2079 292,2078 319,2075"/>
+                <TextEquiv>
+                    <Unicode>courage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>of Insect Evolution, &amp; it is a question&#13;
+whether insects have made most Balsam&#13;
+or reverse. &amp; I suspect that is the&#13;
+Haustellate alone that have operated.&#13;
+I must have examined the upward of 1000&#13;
+flowers &amp; to find an insect in them is the&#13;
+rarest of events, &amp; then only non haustellate&#13;
+On the other hand I find any amount of&#13;
+sand &amp; other forms of dirt, especially in&#13;
+Chinese species of which so many flower in&#13;
+the dry dusty months The plague of having&#13;
+to wash the stage of your microscope time&#13;
+upon time in to imminent danger of your&#13;
+dissection is very trying.&#13;
+I am glad that you keep so well &amp;&#13;
+&amp; Harriet too -- my best love to her. I am&#13;
+well enough but for the most troublesome&#13;
+eczema, that demands daily anointing &amp;&#13;
+unfits me for social visits or even&#13;
+functions -- arms &amp; legs are the trials, but my back&#13;
+is not spared. Ever dear Dyer affy yrs&#13;
+Grace is no worse &amp; bears her Jos. D Hooker&#13;
+sanatorium life with admirable&#13;
+courage.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="4.712389" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="59,1449 59,1822 151,1822 151,1449"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="121,1533 123,1579 116,1591 120,1598 114,1612 122,1619 124,1629 115,1640 131,1677 130,1708 152,1709 156,1656 161,1646 154,1636 164,1622 161,1612 166,1605 148,1581 153,1537"/>
+                <Baseline points="124,1540 122,1592 125,1622 129,1652 127,1706"/>
+                <TextEquiv>
+                    <Unicode>or more</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="72,1440 84,1474 68,1536 82,1585 65,1629 64,1663 81,1690 64,1732 70,1831 116,1829 105,1757 120,1731 109,1697 122,1680 113,1564 119,1536 111,1498 113,1454"/>
+                <Baseline points="83,1449 83,1476 83,1503 82,1529 81,1556 81,1583 80,1609 79,1636 77,1663 76,1689 75,1716 73,1743 72,1769 70,1796 69,1822"/>
+                <TextEquiv>
+                    <Unicode>facts in geography</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>or more&#13;
+facts in geography</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="4.712389" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="20,63 20,1401 203,1401 203,63"/>
+            <TextLine id="r3l2" custom="readingOrder {index:0;}">
+                <Coords points="125,1012 117,1038 135,1069 138,1135 122,1163 138,1181 124,1256 129,1364 154,1364 189,1275 154,1192 169,1139 163,1072 179,1050 164,1032 166,1013"/>
+                <Baseline points="133,1021 135,1046 136,1072 137,1098 137,1123 137,1149 137,1175 137,1200 136,1226 135,1252 134,1277 133,1303 133,1329 132,1355"/>
+                <TextEquiv>
+                    <Unicode>species in China</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:1;}">
+                <Coords points="123,428 111,510 131,558 96,649 129,719 115,982 180,968 154,941 167,871 151,779 172,737 150,694 177,609 153,580 150,496 177,427"/>
+                <Baseline points="122,437 123,463 123,490 123,517 124,544 124,571 125,597 125,624 126,651 127,678 127,705 128,731 128,758 129,785 130,812 130,839 130,865 130,892 130,919 130,946 130,973"/>
+                <TextEquiv>
+                    <Unicode>there being 180 at least</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:2;}">
+                <Coords points="112,148 126,240 106,264 125,357 91,389 95,411 152,427 160,391 178,374 156,310 166,282 152,244 168,226 185,169"/>
+                <Baseline points="125,160 125,185 125,210 126,235 126,260 127,285 127,310 127,335 127,360 124,385 122,410"/>
+                <TextEquiv>
+                    <Unicode>The fact of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:3;}">
+                <Coords points="61,54 57,1410 117,1409 130,1344 91,54"/>
+                <Baseline points="66,63 66,130 66,197 67,264 67,331 68,398 69,465 70,532 71,599 73,666 74,732 75,799 76,866 77,933 78,1000 79,1067 80,1134 81,1201 81,1268 81,1335 81,1401"/>
+                <TextEquiv>
+                    <Unicode>the Philippines, &amp; only 3 in all Japan is one of the most ghastly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:4;}">
+                <Coords points="27,153 32,1132 76,1082 51,1040 63,153"/>
+                <Baseline points="37,161 35,210 34,258 33,306 33,354 32,402 32,450 31,498 31,546 31,594 31,642 32,691 32,739 32,787 32,835 32,883 32,931 32,979 31,1027 31,1075 30,1123"/>
+                <TextEquiv>
+                    <Unicode>distribution. Entomology must explain it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>species in China&#13;
+there being 180 at least&#13;
+The fact of&#13;
+the Philippines, &amp; only 3 in all Japan is one of the most ghastly&#13;
+distribution. Entomology must explain it.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

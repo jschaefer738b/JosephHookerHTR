@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:28:22.889-04:00</Created>
+        <LastChange>2020-06-25T00:30:05.207+02:00</LastChange>
+        <TranskribusMetadata docId="419493" pageId="16700313" pageNr="2" tsid="32634413" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=VXUNKBYMGYBRXFARDBPTGCYZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHSFCMUHEJDFPZRWMMGNBOEC" imageId="12478631"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_172_002.jpg" imageWidth="1346" imageHeight="2155">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330920132" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="76,132 76,1985 1280,1985 1280,132"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="142,228 1095,196 1093,101 999,147 865,155 631,113 541,170 140,124"/>
+                <Baseline points="149,196 195,196 242,196 289,196 336,195 383,194 430,193 477,192 524,191 571,189 618,188 664,186 711,185 758,183 805,182 852,181 899,181 946,181 993,181 1040,182 1087,183"/>
+                <TextEquiv>
+                    <Unicode>plan of one, however rough.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="235,309 1148,308 1197,295 1197,233 985,269 860,229 672,272 235,244"/>
+                <Baseline points="243,294 290,294 337,295 385,295 432,296 479,296 527,296 574,296 621,295 669,295 716,295 763,294 811,294 858,294 905,293 953,293 1000,292 1047,292 1095,291 1142,291 1190,290"/>
+                <TextEquiv>
+                    <Unicode>I spent several hours with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="132,417 292,396 369,442 408,405 690,402 863,453 952,396 1146,418 1162,360 1008,343 886,378 648,337 416,381 215,322 133,339"/>
+                <Baseline points="140,391 190,394 241,395 292,397 342,398 393,398 444,399 494,399 545,399 596,399 647,400 697,400 748,400 799,400 849,401 900,401 951,402 1001,403 1052,405 1103,407 1154,409"/>
+                <TextEquiv>
+                    <Unicode>Strachey last Monday; he is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="149,515 732,536 1011,506 1229,551 1212,460 1023,485 688,443 545,488 405,449 149,482"/>
+                <Baseline points="157,506 210,508 263,509 316,510 370,510 423,510 476,510 529,509 583,509 636,508 689,508 742,507 796,506 849,506 902,506 955,506 1009,507 1062,508 1115,510 1168,512 1222,515"/>
+                <TextEquiv>
+                    <Unicode>much better, but far from well,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="145,618 407,623 488,665 608,612 808,619 848,654 989,611 1187,669 1211,566 1009,595 902,560 727,592 678,559 625,590 146,558"/>
+                <Baseline points="153,602 205,605 258,607 310,609 363,610 415,611 468,612 520,612 573,612 625,613 678,613 730,613 783,613 835,614 888,615 940,616 993,617 1045,619 1098,621 1150,624 1203,628"/>
+                <TextEquiv>
+                    <Unicode>&amp; desponding- he is up &amp; about,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="135,720 276,731 362,759 380,741 438,729 524,762 526,694 482,673 413,696 344,671 284,680 206,648 136,686"/>
+                <Baseline points="142,718 167,718 192,718 217,719 242,719 267,720 292,720 317,721 342,722 367,723 392,723 417,724 442,725 467,726 492,727 518,728"/>
+                <TextEquiv>
+                    <Unicode>but feeble.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="199,834 1245,863 1265,782 1026,816 934,772 731,818 616,769 448,805 262,750 200,784"/>
+                <Baseline points="206,815 258,820 311,826 363,829 416,832 468,835 521,837 573,838 626,839 678,839 731,840 783,840 836,840 888,840 941,840 993,840 1046,841 1098,842 1151,843 1203,845 1256,847"/>
+                <TextEquiv>
+                    <Unicode>I had a talk with him about</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="68,934 979,976 1059,938 1286,977 1271,892 1037,920 927,879 704,921 442,869 70,871"/>
+                <Baseline points="76,913 136,917 196,921 256,924 316,927 377,929 437,931 497,933 557,935 617,937 678,938 738,939 798,940 858,941 918,942 979,943 1039,943 1099,943 1159,944 1219,944 1280,944"/>
+                <TextEquiv>
+                    <Unicode>Blanford, for whom something ought</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="117,1044 619,1036 730,1075 916,1043 1007,1084 1091,1048 1218,1084 1193,990 1093,1024 924,1022 872,983 816,1015 599,997 541,1030 119,976"/>
+                <Baseline points="125,1024 179,1029 233,1032 287,1034 342,1037 396,1038 450,1040 505,1041 559,1042 613,1042 668,1043 722,1043 776,1044 830,1044 885,1045 939,1046 993,1048 1048,1049 1102,1051 1156,1054 1211,1058"/>
+                <TextEquiv>
+                    <Unicode>to be done in recognition of his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="128,1128 1163,1177 1164,1141 932,1087 774,1119 502,1071 434,1117 129,1092"/>
+                <Baseline points="135,1122 186,1127 237,1131 288,1133 339,1136 390,1139 441,1140 492,1141 543,1142 594,1143 645,1143 696,1144 747,1145 798,1146 849,1147 900,1148 951,1150 1002,1153 1053,1156 1104,1159 1156,1164"/>
+                <TextEquiv>
+                    <Unicode>services to India &amp; to Science.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="123,1268 328,1234 1233,1303 1235,1238 1185,1256 1031,1195 684,1232 617,1175 531,1210 457,1169 126,1207"/>
+                <Baseline points="132,1231 186,1234 241,1236 296,1238 350,1239 405,1241 460,1242 514,1243 569,1244 624,1245 679,1247 733,1248 788,1250 843,1253 897,1256 952,1259 1007,1263 1061,1267 1116,1272 1171,1278 1226,1285"/>
+                <TextEquiv>
+                    <Unicode>Over &amp; above his great labour in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="137,1382 210,1362 292,1410 480,1374 587,1414 891,1376 1203,1410 1205,1353 1039,1316 976,1352 818,1304 714,1355 141,1281"/>
+                <Baseline points="146,1345 198,1350 251,1354 303,1358 356,1361 408,1364 461,1366 513,1367 566,1368 618,1369 671,1370 724,1371 776,1372 829,1373 881,1374 934,1376 986,1378 1039,1380 1091,1384 1144,1387 1197,1392"/>
+                <TextEquiv>
+                    <Unicode>zoology &amp; geology in India, Persia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="131,1458 286,1535 547,1479 1183,1518 1184,1482 975,1476 860,1432 716,1463 633,1413 531,1458 477,1425 436,1452 315,1409 133,1418"/>
+                <Baseline points="139,1461 190,1464 242,1467 294,1469 346,1472 398,1474 449,1477 501,1479 553,1481 605,1483 657,1485 708,1487 760,1490 812,1492 864,1495 916,1498 967,1501 1019,1505 1071,1509 1123,1514 1175,1519"/>
+                <TextEquiv>
+                    <Unicode>&amp; Abyssinia, he is Editor &amp; in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="128,1609 713,1611 793,1661 940,1632 1247,1668 1249,1625 1049,1565 861,1603 639,1541 573,1583 132,1528"/>
+                <Baseline points="137,1588 192,1590 247,1592 302,1594 357,1596 412,1598 467,1600 523,1603 578,1605 633,1608 688,1611 743,1614 798,1617 853,1620 909,1624 964,1628 1019,1632 1074,1636 1129,1641 1184,1646 1240,1651"/>
+                <TextEquiv>
+                    <Unicode>great part author of 11 volumes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="137,1745 267,1715 462,1753 568,1724 617,1762 747,1728 894,1773 947,1745 1192,1762 1194,1718 960,1719 831,1653 746,1715 504,1656 424,1683 142,1646"/>
+                <Baseline points="147,1699 198,1702 250,1704 302,1707 354,1711 406,1713 458,1717 510,1720 562,1723 614,1726 666,1729 717,1732 769,1735 821,1738 873,1741 925,1743 977,1746 1029,1748 1081,1751 1133,1753 1185,1754"/>
+                <TextEquiv>
+                    <Unicode>of Indian zoology. If you agree</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="112,1835 391,1849 457,1820 792,1839 861,1878 941,1851 1181,1873 1183,1822 1124,1830 1061,1778 908,1779 852,1816 737,1810 692,1770 591,1808 509,1767 435,1806 273,1765 230,1790 178,1749 114,1796"/>
+                <Baseline points="120,1820 172,1821 225,1822 277,1823 330,1824 383,1825 435,1826 488,1827 541,1829 593,1830 646,1832 699,1834 751,1836 804,1838 857,1842 909,1845 962,1849 1015,1853 1067,1857 1120,1862 1173,1868"/>
+                <TextEquiv>
+                    <Unicode>I will urge his claim of a Royal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="133,1943 572,1973 905,1950 977,1981 1181,1972 1209,1938 1128,1904 944,1920 588,1877 539,1917 416,1925 363,1890 253,1903 193,1857 134,1874"/>
+                <Baseline points="141,1928 194,1932 247,1935 300,1937 353,1939 406,1940 459,1941 512,1942 565,1942 618,1943 671,1943 724,1943 777,1944 830,1944 883,1945 936,1946 989,1948 1042,1950 1095,1952 1148,1956 1201,1960"/>
+                <TextEquiv>
+                    <Unicode>Medal. I feel ashamed when</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>plan of one, however rough.&#13;
+I spent several hours with&#13;
+Strachey last Monday; he is&#13;
+much better, but far from well,&#13;
+&amp; desponding- he is up &amp; about,&#13;
+but feeble.&#13;
+I had a talk with him about&#13;
+Blanford, for whom something ought&#13;
+to be done in recognition of his&#13;
+services to India &amp; to Science.&#13;
+Over &amp; above his great labour in&#13;
+zoology &amp; geology in India, Persia&#13;
+&amp; Abyssinia, he is Editor &amp; in&#13;
+great part author of 11 volumes&#13;
+of Indian zoology. If you agree&#13;
+I will urge his claim of a Royal&#13;
+Medal. I feel ashamed when</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:46:16.666-04:00</Created>
+        <LastChange>2020-06-28T02:35:50.855+02:00</LastChange>
+        <TranskribusMetadata docId="421879" pageId="16787524" pageNr="1" tsid="32840408" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ZLMHNYPZIHLCKAIFGJYFBCEO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HERMWCPLZELVEQLDENFWJEEM" imageId="12542312"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_190_003.jpg" imageWidth="1390" imageHeight="2146">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330908540" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="85,172 85,2069 1282,2069 1282,172"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="87,243 323,266 954,205 1113,242 1111,177 896,159 450,213 85,192"/>
+                <Baseline points="93,233 143,235 194,236 244,236 295,235 345,234 396,232 446,230 497,228 547,224 598,221 649,219 699,216 750,213 800,211 851,209 901,208 952,207 1002,207 1053,207 1104,209"/>
+                <TextEquiv>
+                    <Unicode>was confined to species illustrative of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="124,340 164,346 234,331 290,345 340,324 382,335 394,322 449,320 447,288 422,292 365,255 296,302 271,288 241,310 205,296 196,305 163,279 121,295"/>
+                <Baseline points="131,329 156,329 182,328 208,327 234,325 260,324 286,322 311,320 337,318 363,316 389,314 415,313 441,311"/>
+                <TextEquiv>
+                    <Unicode>Insect life.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="129,462 366,423 1193,411 1191,354 940,358 906,388 726,364 668,394 125,364"/>
+                <Baseline points="135,420 187,421 240,422 292,422 345,421 397,420 450,419 502,417 555,415 607,413 660,411 712,409 765,406 817,403 870,400 922,398 975,396 1027,394 1080,391 1132,389 1185,388"/>
+                <TextEquiv>
+                    <Unicode>The Dioscorides reproduction must be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="148,559 318,518 533,552 641,508 1271,504 1288,448 975,466 906,430 815,482 649,458 388,495 222,461 145,489"/>
+                <Baseline points="153,520 209,520 265,520 322,518 378,516 435,514 491,512 548,509 604,506 661,503 717,500 773,497 830,494 886,492 943,490 999,488 1056,487 1112,487 1169,487 1225,489 1282,491"/>
+                <TextEquiv>
+                    <Unicode>of extraordinary interest. I long to see it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="795,565 864,555 891,556 910,567 955,546 966,546 982,561 1005,556 1003,492 976,503 955,494 932,503 910,500 881,525 836,515 817,519 794,506"/>
+                <Baseline points="802,542 829,543 857,544 885,544 913,544 941,542 969,540 997,537"/>
+                <TextEquiv>
+                    <Unicode>&amp;out of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="247,634 1218,611 1230,551 486,562 392,608 244,577"/>
+                <Baseline points="253,625 301,625 350,624 398,623 447,621 496,619 544,616 593,614 641,611 690,608 739,606 787,602 836,600 884,598 933,595 982,593 1030,592 1079,590 1127,590 1176,589 1225,590"/>
+                <TextEquiv>
+                    <Unicode>I have had to keep in &amp; out of bed the last</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="100,741 921,688 1026,720 1132,663 696,643 605,681 98,676"/>
+                <Baseline points="106,706 157,709 208,710 259,711 310,711 361,710 412,709 463,707 514,705 565,702 616,700 667,697 718,695 769,692 820,690 871,688 922,687 973,686 1024,686 1075,686 1126,687"/>
+                <TextEquiv>
+                    <Unicode>few days from the incessant calls of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="106,810 833,760 1252,790 1249,718 1127,706 1044,738 892,712 850,743 723,716 610,757 473,729 412,767 104,760"/>
+                <Baseline points="112,788 168,788 225,789 281,788 338,788 395,786 451,784 508,782 564,779 621,777 678,774 734,771 791,769 847,766 904,764 961,761 1017,760 1074,759 1130,758 1187,758 1244,759"/>
+                <TextEquiv>
+                    <Unicode>diarrhoea. I think that, thanks to my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="139,894 1175,846 1173,793 869,831 765,802 471,844 137,834"/>
+                <Baseline points="146,870 197,870 248,870 299,869 350,867 401,866 452,864 503,862 554,860 605,858 657,856 708,854 759,851 810,849 861,848 912,846 963,844 1014,843 1065,842 1116,842 1168,842"/>
+                <TextEquiv>
+                    <Unicode>youth &amp; a good doctor, I am all right</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="150,968 578,938 652,980 748,932 990,913 1267,935 1277,886 148,916"/>
+                <Baseline points="156,948 211,947 267,946 323,945 379,943 434,942 490,940 546,937 602,935 657,932 713,930 769,928 825,925 880,923 936,921 992,919 1048,917 1103,915 1159,914 1215,913 1271,913"/>
+                <TextEquiv>
+                    <Unicode>again. I am at my desk now, clothed &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="96,1039 729,1011 868,1034 867,992 789,965 665,987 585,960 524,992 347,976 295,1001 210,969 95,971"/>
+                <Baseline points="103,1018 140,1019 178,1020 216,1020 254,1020 292,1020 330,1019 368,1018 406,1017 444,1015 482,1014 519,1013 557,1012 595,1010 633,1010 671,1009 709,1009 747,1009 785,1010 823,1011 861,1014"/>
+                <TextEquiv>
+                    <Unicode>with my right bowels (I hope).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="142,1113 1154,1076 1153,1043 1080,1025 970,1058 140,1046"/>
+                <Baseline points="148,1101 197,1100 247,1099 297,1099 347,1098 397,1097 447,1097 497,1096 547,1095 597,1094 647,1093 696,1092 746,1091 796,1089 846,1088 896,1086 946,1083 996,1081 1046,1078 1096,1074 1146,1070"/>
+                <TextEquiv>
+                    <Unicode>Harriet will be glad to hear that Mrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="136,1217 530,1173 670,1204 775,1162 896,1191 974,1153 1109,1186 1156,1172 1154,1124 1018,1095 744,1152 573,1123 262,1171 132,1127"/>
+                <Baseline points="143,1193 193,1192 243,1189 293,1187 344,1185 394,1183 444,1181 494,1179 545,1177 595,1175 645,1173 695,1170 746,1168 796,1165 846,1163 896,1161 947,1158 997,1156 1047,1154 1097,1151 1148,1149"/>
+                <TextEquiv>
+                    <Unicode>Gray is much better -- Miss Loring</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="113,1286 1191,1267 1207,1206 111,1238"/>
+                <Baseline points="120,1277 174,1277 228,1276 282,1275 336,1274 390,1272 444,1271 498,1269 552,1267 606,1265 661,1263 715,1261 769,1259 823,1257 877,1255 931,1254 985,1252 1039,1250 1093,1249 1147,1248 1202,1247"/>
+                <TextEquiv>
+                    <Unicode>writes that the doctors do not think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="111,1364 1057,1358 1215,1323 1189,1274 1044,1305 984,1275 901,1319 109,1305"/>
+                <Baseline points="117,1345 171,1347 226,1348 280,1349 335,1349 389,1348 444,1348 498,1347 553,1345 607,1344 662,1342 716,1340 771,1338 825,1336 880,1333 934,1331 989,1329 1043,1327 1098,1325 1152,1323 1207,1321"/>
+                <TextEquiv>
+                    <Unicode>that the attack was paralytic, though it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="125,1450 1003,1443 1259,1427 1258,1381 124,1415"/>
+                <Baseline points="132,1441 188,1440 244,1439 300,1438 356,1436 412,1435 468,1433 524,1431 580,1429 636,1427 692,1426 748,1424 804,1422 860,1420 916,1419 972,1418 1028,1418 1084,1417 1140,1417 1196,1418 1252,1419"/>
+                <TextEquiv>
+                    <Unicode>certainly affected both speech &amp; muscles of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="123,1543 227,1552 283,1533 418,1535 520,1517 586,1529 585,1491 534,1473 483,1500 449,1476 412,1503 386,1485 277,1496 197,1468 121,1472"/>
+                <Baseline points="130,1524 156,1526 182,1528 209,1528 235,1529 262,1528 288,1527 314,1526 341,1525 367,1523 394,1521 420,1519 446,1517 473,1516 499,1515 526,1515 552,1515 579,1516"/>
+                <TextEquiv>
+                    <Unicode>the trunk &amp; limbs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="191,1632 277,1646 350,1610 560,1603 635,1634 666,1603 1027,1583 1026,1556 928,1531 855,1570 825,1548 574,1570 535,1543 451,1581 362,1556 282,1576 244,1544 189,1580"/>
+                <Baseline points="198,1617 239,1613 280,1609 321,1606 362,1602 403,1600 444,1598 485,1596 526,1594 567,1593 609,1591 650,1590 691,1589 732,1588 773,1587 814,1586 855,1585 896,1583 937,1582 978,1580 1020,1579"/>
+                <TextEquiv>
+                    <Unicode>Lady H is suffering agonies from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="80,1725 475,1686 540,1708 593,1674 706,1699 711,1629 658,1618 537,1658 461,1637 408,1662 311,1648 228,1680 149,1654 76,1667"/>
+                <Baseline points="85,1700 116,1701 147,1700 178,1700 209,1699 240,1697 271,1696 302,1694 333,1692 364,1690 395,1687 426,1685 457,1683 488,1680 519,1678 550,1675 581,1674 612,1671 643,1670 674,1669 706,1668"/>
+                <TextEquiv>
+                    <Unicode>rheumatism in the right leg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="356,1802 450,1803 497,1784 532,1790 585,1828 632,1836 676,1788 700,1785 696,1721 643,1717 602,1739 562,1733 488,1775 406,1720 373,1732 351,1723"/>
+                <Baseline points="362,1790 387,1789 412,1788 437,1788 463,1787 488,1787 513,1785 539,1784 564,1782 589,1780 615,1778 640,1774 665,1770 691,1765"/>
+                <TextEquiv>
+                    <Unicode>Eve affy y </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="689,1896 744,1891 766,1874 806,1881 901,1867 937,1886 1018,1854 1052,1864 1049,1813 1027,1816 1000,1796 966,1793 935,1808 886,1789 801,1794 747,1756 684,1800"/>
+                <Baseline points="695,1871 721,1870 748,1869 775,1868 802,1866 829,1865 856,1863 882,1862 909,1860 936,1859 963,1857 990,1855 1017,1853 1044,1852"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="99,1972 1226,1993 1241,1901 1180,1936 1048,1908 967,1956 476,1928 408,1959 215,1949 99,1893"/>
+                <Baseline points="106,1959 162,1963 218,1967 275,1970 331,1972 387,1974 444,1975 500,1975 556,1976 613,1976 669,1976 725,1975 782,1975 838,1974 894,1974 951,1974 1007,1974 1063,1974 1120,1974 1176,1975 1233,1976"/>
+                <TextEquiv>
+                    <Unicode>I am concerned about poor John Smith. I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="110,2011 293,2007 342,2022 358,2007 420,2033 456,2013 610,2019 610,1989 592,1982 528,1994 485,1975 448,1992 225,1970 166,1990 111,1981"/>
+                <Baseline points="118,2003 143,2004 169,2005 194,2006 220,2006 245,2007 271,2007 296,2008 322,2008 347,2009 373,2009 398,2009 424,2009 449,2009 475,2009 500,2009 526,2009 551,2009 577,2009 603,2009"/>
+                <TextEquiv>
+                    <Unicode>made not very long ago,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="109,2069 320,2103 483,2071 544,2104 676,2054 1247,2060 1247,2026 1162,1999 1104,2033 1012,2004 110,2018"/>
+                <Baseline points="117,2047 173,2048 229,2048 285,2049 341,2049 397,2050 453,2050 509,2051 565,2051 621,2051 678,2052 734,2052 790,2053 846,2053 902,2054 958,2054 1014,2055 1070,2056 1126,2057 1182,2058 1239,2059"/>
+                <TextEquiv>
+                    <Unicode>I have been making enquiries about him from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>was confined to species illustrative of&#13;
+Insect life.&#13;
+The Dioscorides reproduction must be&#13;
+of extraordinary interest. I long to see it.&#13;
+&amp;out of&#13;
+I have had to keep in &amp; out of bed the last&#13;
+few days from the incessant calls of a&#13;
+diarrhoea. I think that, thanks to my&#13;
+youth &amp; a good doctor, I am all right&#13;
+again. I am at my desk now, clothed &amp;&#13;
+with my right bowels (I hope).&#13;
+Harriet will be glad to hear that Mrs&#13;
+Gray is much better -- Miss Loring&#13;
+writes that the doctors do not think&#13;
+that the attack was paralytic, though it&#13;
+certainly affected both speech &amp; muscles of&#13;
+the trunk &amp; limbs.&#13;
+Lady H is suffering agonies from&#13;
+rheumatism in the right leg.&#13;
+Eve affy y &#13;
+Jos D Hooker.&#13;
+I am concerned about poor John Smith. I&#13;
+made not very long ago,&#13;
+I have been making enquiries about him from</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

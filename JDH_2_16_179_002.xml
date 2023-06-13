@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:36:42.970-04:00</Created>
+        <LastChange>2020-06-26T05:49:49.093+02:00</LastChange>
+        <TranskribusMetadata docId="419518" pageId="16700545" pageNr="2" tsid="32729409" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=PSPJCYUKORSRYBNKTQUKKXFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RGUURRXXJWKVQKSEZMSAXBHA" imageId="12478855"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_179_002.jpg" imageWidth="1392" imageHeight="2184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330914623" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="159,260 159,2102 1307,2102 1307,260"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="240,365 433,377 549,319 732,303 1293,325 1276,255 860,275 702,235 451,295 239,216"/>
+                <Baseline points="247,323 301,321 356,319 411,317 465,316 520,314 575,313 629,312 684,311 739,310 793,309 848,308 903,308 957,308 1012,308 1067,309 1121,310 1176,311 1231,312 1286,314"/>
+                <TextEquiv>
+                    <Unicode>for a month: the Devon Peninsula is it's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="173,445 621,457 690,429 731,460 1226,470 1226,401 1179,391 839,415 639,371 363,414 173,374"/>
+                <Baseline points="180,431 234,432 289,433 344,433 398,434 453,434 508,435 562,435 617,435 672,435 726,435 781,436 836,436 890,437 945,438 1000,439 1054,440 1109,442 1164,445 1219,447"/>
+                <TextEquiv>
+                    <Unicode>headquarters, &amp; the forms are startling -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="197,549 579,543 641,585 731,549 1180,564 1172,498 968,523 807,491 710,522 618,484 392,520 198,489"/>
+                <Baseline points="204,538 252,538 301,539 349,539 398,540 446,541 495,542 543,542 592,543 640,544 689,545 737,546 786,547 834,548 883,549 931,549 980,550 1028,550 1077,551 1125,551 1174,550"/>
+                <TextEquiv>
+                    <Unicode>yet never suggesting a specific difference</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1177,569 1194,565 1198,567 1201,564 1208,568 1235,565 1230,480 1215,482 1198,478 1173,483"/>
+                <Baseline points="1183,554 1227,552"/>
+                <TextEquiv>
+                    <Unicode>--</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="220,649 667,632 897,681 1043,633 1174,660 1175,621 1081,588 874,624 736,575 671,615 511,575 396,617 221,572"/>
+                <Baseline points="228,635 275,635 322,635 369,635 416,635 463,636 510,636 557,637 604,637 651,638 698,639 745,639 792,640 839,641 886,641 933,642 980,643 1027,643 1074,644 1121,644 1168,644"/>
+                <TextEquiv>
+                    <Unicode>to me at least.  In every case I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="187,766 1239,763 1226,694 1174,723 1127,696 1052,728 969,699 596,723 189,664"/>
+                <Baseline points="195,734 246,735 298,736 350,737 402,738 454,739 506,741 557,742 609,743 661,745 713,746 765,747 817,748 869,748 920,748 972,748 1024,748 1076,747 1128,746 1180,745 1232,743"/>
+                <TextEquiv>
+                    <Unicode>to dissect a flower under water, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="217,856 471,844 688,879 962,849 1159,890 1201,885 1202,808 1017,831 854,791 788,832 718,792 674,827 401,787 217,807"/>
+                <Baseline points="224,845 272,845 321,845 369,846 418,847 466,848 515,848 563,849 612,850 660,851 709,852 757,853 806,854 854,855 903,855 951,856 1000,856 1048,856 1097,855 1145,855 1194,854"/>
+                <TextEquiv>
+                    <Unicode>with the removal from the mounting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="203,978 398,945 1243,982 1243,936 1043,900 825,883 724,930 567,895 527,921 388,885 205,900"/>
+                <Baseline points="211,942 262,943 313,944 364,945 416,946 467,947 518,948 569,949 621,949 672,950 723,951 774,952 826,952 877,953 928,954 979,955 1031,956 1082,957 1133,958 1184,959 1236,960"/>
+                <TextEquiv>
+                    <Unicode>often takes 2 hours. I sketch every one,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="188,1050 1257,1101 1259,1026 1196,1011 938,1036 850,1004 773,1042 671,992 189,1009"/>
+                <Baseline points="195,1040 247,1043 300,1046 353,1049 406,1052 458,1054 511,1056 564,1057 617,1058 669,1059 722,1060 775,1061 828,1062 880,1063 933,1064 986,1066 1039,1067 1091,1068 1144,1070 1197,1073 1250,1075"/>
+                <TextEquiv>
+                    <Unicode>&amp; all parts on the Herb sheets &amp; keep the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="150,1150 1283,1213 1286,1158 1099,1119 759,1142 154,1087"/>
+                <Baseline points="159,1123 214,1130 270,1136 326,1141 382,1145 438,1149 494,1153 550,1156 606,1159 662,1162 718,1165 773,1167 829,1170 885,1172 941,1176 997,1178 1053,1182 1109,1186 1165,1189 1221,1194 1277,1199"/>
+                <TextEquiv>
+                    <Unicode>"preparations" gummed on slips of paper in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="202,1251 260,1241 359,1271 425,1242 798,1255 799,1202 724,1219 608,1190 552,1224 431,1191 387,1211 341,1191 203,1204"/>
+                <Baseline points="210,1235 239,1237 268,1239 297,1240 326,1241 355,1242 384,1243 413,1243 442,1243 471,1243 500,1243 529,1243 558,1243 587,1243 616,1243 645,1243 674,1243 703,1243 732,1244 761,1245 791,1246"/>
+                <TextEquiv>
+                    <Unicode>a capsule on the sheet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="287,1356 1231,1371 1232,1325 1156,1323 1108,1283 974,1336 633,1273 565,1312 289,1281"/>
+                <Baseline points="294,1343 340,1341 387,1340 433,1340 480,1340 526,1341 573,1342 619,1343 666,1344 712,1346 759,1348 805,1350 852,1352 898,1353 945,1355 991,1356 1038,1357 1084,1357 1131,1357 1177,1357 1224,1355"/>
+                <TextEquiv>
+                    <Unicode>The Madras Herbarium specimens have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="168,1449 1176,1482 1214,1478 1216,1395 1036,1432 754,1385 681,1434 539,1377 480,1412 361,1387 259,1417 170,1365"/>
+                <Baseline points="175,1441 226,1442 278,1443 329,1444 381,1444 433,1445 484,1446 536,1446 588,1447 639,1448 691,1448 743,1449 794,1450 846,1451 898,1453 949,1454 1001,1456 1053,1458 1104,1461 1156,1463 1208,1466"/>
+                <TextEquiv>
+                    <Unicode>been a heavy labor -- I very much want</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="200,1562 1300,1583 1316,1521 1176,1503 1089,1547 1013,1502 942,1531 757,1493 415,1530 202,1483"/>
+                <Baseline points="207,1542 262,1545 317,1547 372,1549 427,1551 482,1553 537,1555 592,1556 647,1557 702,1559 757,1560 812,1561 867,1562 922,1563 977,1565 1032,1566 1087,1567 1142,1568 1197,1569 1252,1571 1307,1573"/>
+                <TextEquiv>
+                    <Unicode>the drawings that Harriet has in hand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="224,1651 464,1686 717,1656 825,1689 964,1662 1086,1699 1130,1670 1240,1690 1242,1613 1095,1644 890,1604 818,1637 746,1599 395,1599 358,1626 226,1591"/>
+                <Baseline points="232,1642 282,1647 332,1651 382,1654 432,1656 482,1658 532,1659 582,1660 632,1661 682,1661 732,1662 782,1662 832,1662 882,1663 932,1663 982,1665 1032,1666 1082,1668 1132,1671 1182,1675 1233,1679"/>
+                <TextEquiv>
+                    <Unicode>Thanks for the photo of the house; it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="220,1763 437,1793 485,1770 596,1794 703,1753 1186,1774 1186,1721 1153,1715 873,1712 833,1740 547,1708 454,1746 221,1682"/>
+                <Baseline points="228,1747 275,1753 323,1756 370,1760 418,1762 465,1763 513,1764 560,1765 608,1764 655,1764 703,1763 751,1763 798,1762 846,1761 893,1761 941,1761 988,1762 1036,1763 1083,1765 1131,1768 1179,1772"/>
+                <TextEquiv>
+                    <Unicode>looks very nice &amp; will no doubt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="234,1873 281,1853 315,1870 359,1855 387,1867 407,1856 447,1868 457,1860 495,1866 497,1816 446,1824 432,1815 397,1833 355,1830 262,1782 238,1790"/>
+                <Baseline points="242,1849 269,1849 296,1850 324,1851 351,1852 378,1854 406,1856 433,1857 460,1857 488,1857"/>
+                <TextEquiv>
+                    <Unicode>prove so.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="199,1968 1256,1978 1268,1925 988,1928 917,1890 822,1922 576,1898 479,1938 200,1887"/>
+                <Baseline points="206,1945 258,1951 311,1955 364,1959 416,1962 469,1964 522,1966 574,1967 627,1967 680,1968 733,1968 785,1967 838,1967 891,1967 943,1966 996,1966 1049,1966 1101,1967 1154,1967 1207,1969 1260,1971"/>
+                <TextEquiv>
+                    <Unicode>I made an effort to see the Antarctic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="168,2061 1257,2107 1259,2034 1202,2019 1112,2046 759,1998 570,2036 170,2005"/>
+                <Baseline points="176,2046 229,2049 283,2052 337,2054 391,2056 444,2058 498,2060 552,2061 606,2062 659,2063 713,2064 767,2065 821,2066 874,2066 928,2067 982,2069 1036,2070 1089,2071 1143,2073 1197,2075 1251,2078"/>
+                <TextEquiv>
+                    <Unicode>sketches with my legs bandaged up to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>for a month: the Devon Peninsula is it's&#13;
+headquarters, &amp; the forms are startling -&#13;
+yet never suggesting a specific difference&#13;
+--&#13;
+to me at least.  In every case I have&#13;
+to dissect a flower under water, which&#13;
+with the removal from the mounting&#13;
+often takes 2 hours. I sketch every one,&#13;
+&amp; all parts on the Herb sheets &amp; keep the&#13;
+"preparations" gummed on slips of paper in&#13;
+a capsule on the sheet.&#13;
+The Madras Herbarium specimens have&#13;
+been a heavy labor -- I very much want&#13;
+the drawings that Harriet has in hand.&#13;
+Thanks for the photo of the house; it&#13;
+looks very nice &amp; will no doubt&#13;
+prove so.&#13;
+I made an effort to see the Antarctic&#13;
+sketches with my legs bandaged up to</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

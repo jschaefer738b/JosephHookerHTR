@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:47:19.899-04:00</Created>
+        <LastChange>2020-06-28T03:48:54.805+02:00</LastChange>
+        <TranskribusMetadata docId="421880" pageId="16787527" pageNr="2" tsid="32841353" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=BGWINTCQDVMVGBDGJOILRTWE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HIJKICSDIRBCZKAASPWSXNRV" imageId="12542315"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_193_003.jpg" imageWidth="1375" imageHeight="2159">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330907665" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,198 48,1025 1180,1025 1180,198"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="121,268 259,292 418,243 654,269 735,229 1154,232 1153,188 934,206 757,170 553,209 335,183 120,245"/>
+                <Baseline points="128,265 179,262 230,259 281,256 332,252 383,249 434,245 485,242 536,240 587,236 638,234 689,232 740,229 791,228 842,226 893,225 944,225 995,224 1046,225 1097,226 1148,227"/>
+                <TextEquiv>
+                    <Unicode>our friend Strachey has come down</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="533,301 540,301 546,293 556,300 576,293 583,298 593,291 600,295 613,293 609,259 587,267 566,255 556,256 546,262 536,258 528,260"/>
+                <Baseline points="539,293 572,289 605,285"/>
+                <TextEquiv>
+                    <Unicode>has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="42,379 652,340 711,367 833,332 889,363 1064,314 974,288 835,318 706,277 636,313 516,291 263,339 160,306 40,345"/>
+                <Baseline points="48,369 98,366 149,363 199,360 250,357 300,354 351,352 401,349 452,347 502,345 553,343 603,341 654,339 704,337 755,336 805,335 856,334 906,333 957,333 1007,333 1058,333"/>
+                <TextEquiv>
+                    <Unicode>in the world &amp; had to give up his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="107,459 1152,433 1114,378 875,401 742,365 679,411 441,387 359,419 288,390 218,424 106,415"/>
+                <Baseline points="114,452 165,448 217,445 268,441 320,439 372,437 423,435 475,433 526,432 578,431 630,430 681,429 733,429 784,428 836,427 888,426 939,425 991,424 1042,423 1094,422 1146,420"/>
+                <TextEquiv>
+                    <Unicode>beautiful house in Lancaster Gate &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="91,550 719,520 921,546 1046,505 1123,539 1150,480 1022,453 888,493 765,467 722,496 599,470 484,508 409,474 89,503"/>
+                <Baseline points="97,533 149,534 201,534 254,534 306,533 358,533 411,531 463,530 515,528 568,526 620,524 672,522 725,519 777,517 829,515 882,512 934,511 986,508 1039,506 1091,505 1144,503"/>
+                <TextEquiv>
+                    <Unicode>retire to Hampstead. He is just my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="111,635 302,620 414,655 808,587 904,622 1108,586 1120,534 772,575 711,534 653,586 109,591"/>
+                <Baseline points="117,621 169,622 222,623 274,622 327,621 379,620 432,617 485,615 537,612 590,608 642,605 695,602 747,598 800,595 853,591 905,589 958,586 1010,584 1063,583 1116,582"/>
+                <TextEquiv>
+                    <Unicode>age &amp; very infirm. It is very sad &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="115,729 373,701 461,703 516,729 556,708 553,656 508,645 461,666 425,651 378,682 321,649 236,679 196,649 113,690"/>
+                <Baseline points="121,716 146,714 171,712 196,709 221,707 246,705 272,704 297,703 322,702 347,700 372,700 397,699 423,698 448,697 473,697 498,696 523,696 549,696"/>
+                <TextEquiv>
+                    <Unicode>I feel it deeply.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="239,791 715,765 836,782 847,704 763,736 665,713 565,722 512,756 432,717 388,741 331,726 238,743"/>
+                <Baseline points="245,783 274,782 304,781 334,779 364,778 394,777 424,775 454,774 484,773 514,772 544,771 573,770 603,769 633,768 663,767 693,767 723,766 753,766 783,765 813,765 843,765"/>
+                <TextEquiv>
+                    <Unicode>With love to Harriet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="487,874 507,886 593,867 650,904 680,880 727,876 784,918 817,923 883,857 917,852 915,815 874,800 842,820 791,801 704,822 677,809 619,839 552,800 484,817"/>
+                <Baseline points="493,867 519,869 545,870 571,871 597,871 623,870 649,870 675,868 701,867 727,865 753,864 779,861 805,859 831,856 857,853 883,851 910,848"/>
+                <TextEquiv>
+                    <Unicode>Ev affctnly yr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="809,1040 865,1010 909,1022 1055,993 1082,1006 1110,992 1153,997 1187,984 1183,922 1165,930 1099,906 1060,919 1036,901 1003,919 928,897 878,862 832,915 801,925"/>
+                <Baseline points="813,1006 839,1005 865,1003 891,1001 917,999 944,997 970,995 996,993 1022,991 1048,990 1075,987 1101,986 1127,985 1153,983 1180,982"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>our friend Strachey has come down&#13;
+has&#13;
+in the world &amp; had to give up his&#13;
+beautiful house in Lancaster Gate &amp;&#13;
+retire to Hampstead. He is just my&#13;
+age &amp; very infirm. It is very sad &amp;&#13;
+I feel it deeply.&#13;
+With love to Harriet.&#13;
+Ev affctnly yr&#13;
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

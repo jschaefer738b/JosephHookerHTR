@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:33:17.556-04:00</Created>
+        <LastChange>2020-06-25T05:26:04.884+02:00</LastChange>
+        <TranskribusMetadata docId="419503" pageId="16700428" pageNr="2" tsid="32636482" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=UUPEVZSLLJZQPMIOALFMWXLW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KJEFMZMHTOYXGXOEPTJAPBPI" imageId="12478746"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_176_004.jpg" imageWidth="1407" imageHeight="2128">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330916862" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="42,509 42,621 76,621 76,509"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="45,559 52,557 57,551 63,552 69,550 53,474 41,477 36,475 27,477"/>
+                <Baseline points="49,543 59,541"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="36,621 45,619 49,621 54,618 58,620 65,615 73,619 84,619 80,542 71,542 48,561 33,559"/>
+                <Baseline points="42,606 76,605"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="54,86 54,238 90,238 90,86"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="47,189 54,190 62,196 98,194 102,128 87,126 79,116 71,116 63,120 59,115 52,114"/>
+                <Baseline points="54,186 90,188"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="69,102 69,1973 1337,1973 1337,102"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="126,186 1220,166 1243,109 1031,77 939,133 727,128 633,88 524,115 400,88 337,133 125,147"/>
+                <Baseline points="133,171 188,170 243,168 298,166 353,165 409,163 464,162 519,161 574,159 629,158 685,157 740,156 795,154 850,153 905,152 961,151 1016,149 1071,148 1126,146 1181,145 1237,143"/>
+                <TextEquiv>
+                    <Unicode>good collector &amp; systematist, I suppose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="124,288 333,291 386,257 1178,266 1186,206 999,231 792,201 547,239 287,205 123,242"/>
+                <Baseline points="131,262 183,263 235,264 288,264 340,264 393,264 445,263 497,263 550,262 602,261 655,261 707,259 759,258 812,258 864,256 917,255 969,254 1021,253 1074,253 1126,252 1179,251"/>
+                <TextEquiv>
+                    <Unicode>all that remains to be done is to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="122,371 1092,335 1260,367 1302,354 1302,303 122,313"/>
+                <Baseline points="129,349 187,349 245,349 303,349 362,348 420,348 478,347 537,346 595,345 653,344 712,343 770,342 828,341 886,341 945,340 1003,340 1061,340 1120,340 1178,340 1236,341 1295,342"/>
+                <TextEquiv>
+                    <Unicode>acquaint the Agent General with our</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="61,469 217,444 278,465 321,437 764,461 982,423 981,375 858,364 710,411 624,393 515,420 363,384 308,418 60,400"/>
+                <Baseline points="69,448 114,446 159,445 204,444 250,443 295,442 340,441 386,441 431,441 476,440 522,440 567,439 612,439 657,438 703,436 748,435 793,434 839,431 884,428 929,425 975,421"/>
+                <TextEquiv>
+                    <Unicode>views, Will you do so please?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="195,546 652,568 1327,522 1312,462 928,476 839,515 194,483"/>
+                <Baseline points="203,529 258,534 314,538 370,540 426,543 482,544 537,545 593,544 649,544 705,542 761,541 816,538 872,536 928,534 984,531 1040,528 1095,526 1151,523 1207,521 1263,519 1319,518"/>
+                <TextEquiv>
+                    <Unicode>This is a queer place -- miles &amp; miles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="144,667 484,606 707,650 861,606 1263,601 1261,545 1126,535 1040,581 522,550 142,602"/>
+                <Baseline points="150,627 205,625 260,623 315,621 371,619 426,618 481,616 536,615 592,613 647,611 702,610 757,608 813,606 868,605 923,603 978,601 1034,599 1089,597 1144,595 1199,592 1255,589"/>
+                <TextEquiv>
+                    <Unicode>of red brick houses of all sizes often in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="126,740 864,680 1153,677 1292,726 1341,706 1339,631 734,627 559,677 251,650 124,687"/>
+                <Baseline points="133,712 193,710 253,708 313,705 373,703 433,700 493,697 553,695 613,692 673,689 733,687 793,685 853,683 913,681 973,680 1033,679 1093,678 1153,679 1213,680 1273,681 1333,683"/>
+                <TextEquiv>
+                    <Unicode>gigantic terraces &amp; blocks 5--6 stories high</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="141,819 710,777 1270,812 1312,797 1311,731 308,727 140,762"/>
+                <Baseline points="148,792 205,790 263,788 321,787 379,785 437,783 494,781 552,780 610,779 668,777 726,777 783,776 841,776 899,776 957,776 1015,777 1072,778 1130,780 1188,782 1246,785 1304,788"/>
+                <TextEquiv>
+                    <Unicode>with hideous blank interspaces of grass &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="146,898 878,851 1287,869 1285,807 1163,799 1101,830 908,796 388,855 145,838"/>
+                <Baseline points="153,884 209,883 265,881 322,878 378,875 434,872 491,869 547,866 603,863 660,859 716,856 772,854 829,852 885,850 941,849 998,849 1054,850 1110,851 1167,854 1223,857 1280,862"/>
+                <TextEquiv>
+                    <Unicode>rubbish -- a sea without shore or ships,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="152,976 677,966 741,935 1033,955 1118,944 1117,910 957,882 919,911 390,899 233,943 149,907"/>
+                <Baseline points="159,966 206,965 254,964 301,961 349,959 397,957 444,955 492,952 539,950 587,947 635,945 682,943 730,941 777,939 825,938 873,937 920,936 968,936 1015,937 1063,938 1111,939"/>
+                <TextEquiv>
+                    <Unicode>land without trees -- architecture</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="147,1050 1346,1016 1344,973 1136,935 145,1010"/>
+                <Baseline points="153,1037 212,1034 271,1032 330,1030 389,1026 449,1024 508,1021 567,1018 626,1016 685,1014 745,1012 804,1010 863,1008 922,1007 981,1005 1041,1005 1100,1004 1159,1004 1218,1004 1277,1005 1337,1006"/>
+                <TextEquiv>
+                    <Unicode>uniformly vile -- where all the people come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="132,1144 719,1091 891,1125 1034,1079 1308,1104 1256,1037 992,1022 129,1063"/>
+                <Baseline points="139,1120 197,1117 255,1115 313,1112 371,1110 429,1106 487,1103 545,1100 603,1096 661,1094 719,1091 777,1088 835,1086 893,1083 951,1082 1009,1080 1067,1079 1125,1079 1183,1079 1241,1080 1300,1082"/>
+                <TextEquiv>
+                    <Unicode>from to inhabit the legions of big houses is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="157,1209 362,1227 638,1161 1253,1171 1251,1138 993,1099 879,1135 663,1110 583,1150 156,1166"/>
+                <Baseline points="165,1197 219,1194 273,1191 327,1188 381,1185 435,1182 489,1179 543,1176 597,1172 651,1169 705,1167 759,1165 813,1162 867,1160 921,1159 975,1158 1029,1158 1083,1158 1137,1159 1191,1160 1245,1162"/>
+                <TextEquiv>
+                    <Unicode>a mystery to me -- the whole place is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="146,1288 206,1303 249,1267 344,1309 431,1267 874,1276 953,1247 1140,1288 1223,1236 1221,1182 1130,1181 1057,1213 993,1189 948,1229 855,1192 772,1232 691,1187 145,1238"/>
+                <Baseline points="153,1268 206,1267 259,1267 312,1266 365,1265 418,1264 471,1263 524,1261 577,1260 630,1258 684,1257 737,1255 790,1254 843,1252 896,1251 949,1249 1002,1248 1055,1247 1108,1246 1161,1246 1215,1245"/>
+                <TextEquiv>
+                    <Unicode>only half baked to look at -- the shops</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="124,1363 442,1345 484,1373 573,1340 979,1330 977,1285 823,1305 745,1269 619,1304 478,1272 402,1324 259,1296 201,1330 122,1312"/>
+                <Baseline points="132,1360 176,1357 220,1355 264,1352 308,1350 352,1348 396,1346 441,1344 485,1342 529,1340 573,1338 617,1336 661,1334 706,1332 750,1331 794,1329 838,1327 882,1325 926,1323 971,1321"/>
+                <TextEquiv>
+                    <Unicode>are excellent, &amp; air splendid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="221,1450 1275,1432 1275,1368 220,1395"/>
+                <Baseline points="229,1440 283,1438 338,1436 393,1435 447,1433 502,1431 557,1430 611,1428 666,1426 721,1425 775,1424 830,1423 885,1422 939,1421 994,1420 1049,1419 1103,1419 1158,1418 1213,1418 1268,1418"/>
+                <TextEquiv>
+                    <Unicode>With best love to Frances in which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="139,1595 374,1532 500,1563 594,1531 655,1559 825,1519 1210,1513 1213,1448 871,1441 623,1505 205,1468 136,1497"/>
+                <Baseline points="145,1532 198,1533 251,1533 304,1533 357,1533 410,1532 463,1531 516,1529 569,1527 622,1525 676,1522 729,1520 782,1518 835,1515 888,1512 941,1510 994,1506 1047,1504 1100,1502 1153,1500 1207,1498"/>
+                <TextEquiv>
+                    <Unicode>Lady Hooker joins, &amp; with the requests</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="133,1660 395,1624 541,1649 693,1613 1185,1617 1163,1552 895,1592 744,1560 689,1589 131,1604"/>
+                <Baseline points="140,1640 191,1638 243,1636 295,1634 347,1632 399,1630 451,1628 502,1626 554,1624 606,1622 658,1619 710,1617 762,1615 814,1613 865,1611 917,1610 969,1608 1021,1606 1073,1605 1125,1604 1177,1603"/>
+                <TextEquiv>
+                    <Unicode>that she will let us know in a few</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="161,1739 226,1759 317,1731 456,1758 599,1705 793,1728 915,1700 913,1664 776,1629 733,1657 571,1646 408,1695 332,1671 280,1695 158,1684"/>
+                <Baseline points="168,1724 206,1724 245,1724 284,1723 323,1723 362,1721 401,1719 440,1717 479,1716 518,1714 556,1711 595,1709 634,1707 673,1705 712,1703 751,1701 790,1700 829,1698 868,1698 907,1697"/>
+                <TextEquiv>
+                    <Unicode>days how her Mother goes on.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="520,1824 538,1827 568,1800 644,1826 700,1820 746,1849 804,1844 870,1795 927,1797 925,1735 874,1732 827,1752 726,1738 639,1763 571,1732 517,1754"/>
+                <Baseline points="526,1798 552,1798 578,1798 604,1798 630,1798 657,1798 683,1798 709,1798 735,1798 761,1797 788,1796 814,1794 840,1793 866,1790 892,1786 919,1782"/>
+                <TextEquiv>
+                    <Unicode>Evr affy ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="803,1998 879,1949 927,1964 1000,1951 1092,1963 1135,1944 1236,1958 1236,1897 1174,1869 1111,1887 1079,1861 1010,1846 935,1863 893,1829 802,1863"/>
+                <Baseline points="810,1953 836,1952 862,1950 888,1948 914,1947 940,1946 967,1945 993,1944 1019,1944 1045,1944 1071,1944 1098,1944 1124,1945 1150,1946 1176,1947 1202,1949 1229,1951"/>
+                <TextEquiv>
+                    <Unicode>Jos. D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>good collector &amp; systematist, I suppose&#13;
+all that remains to be done is to&#13;
+acquaint the Agent General with our&#13;
+views, Will you do so please?&#13;
+This is a queer place -- miles &amp; miles&#13;
+of red brick houses of all sizes often in&#13;
+gigantic terraces &amp; blocks 5--6 stories high&#13;
+with hideous blank interspaces of grass &amp;&#13;
+rubbish -- a sea without shore or ships,&#13;
+land without trees -- architecture&#13;
+uniformly vile -- where all the people come&#13;
+from to inhabit the legions of big houses is&#13;
+a mystery to me -- the whole place is&#13;
+only half baked to look at -- the shops&#13;
+are excellent, &amp; air splendid.&#13;
+With best love to Frances in which&#13;
+Lady Hooker joins, &amp; with the requests&#13;
+that she will let us know in a few&#13;
+days how her Mother goes on.&#13;
+Evr affy ys&#13;
+Jos. D. Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

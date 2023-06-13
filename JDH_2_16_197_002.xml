@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:49:40.246-04:00</Created>
+        <LastChange>2023-05-16T17:24:45.496+02:00</LastChange>
+        <TranskribusMetadata docId="421883" pageId="16787532" pageNr="1" tsid="121935724" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=BCGNFMCQIVPEODHLSDVXNUGU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFCCQRKRAAKRRTGLWFHLFJHM" imageId="12542320"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_197_002.jpg" imageWidth="1394" imageHeight="2148">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330903473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="127,208 127,2047 1289,2047 1289,208"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="186,411 485,390 565,424 783,380 929,408 1169,366 1168,320 990,344 897,317 756,354 661,319 467,369 183,321"/>
+                <Baseline points="192,396 240,395 289,393 337,392 386,390 434,389 483,387 531,386 580,385 628,383 677,381 725,380 774,378 822,376 871,374 919,371 968,369 1016,367 1065,364 1113,361 1162,358"/>
+                <TextEquiv>
+                    <Unicode>the presence of Asiatic Laurineae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="158,502 298,532 343,496 529,475 619,499 804,466 868,495 1022,465 1100,491 1142,465 1140,409 966,447 893,419 828,453 628,433 156,465"/>
+                <Baseline points="164,500 212,497 261,495 309,492 358,489 406,487 455,485 503,483 552,481 600,479 649,478 698,476 746,474 795,473 843,471 892,469 940,468 989,465 1037,464 1086,462 1135,460"/>
+                <TextEquiv>
+                    <Unicode>var Canarius, which is the most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="153,606 368,621 545,576 692,615 784,570 949,563 1123,613 1119,511 846,548 801,522 471,531 404,568 233,523 151,552"/>
+                <Baseline points="159,593 206,593 254,591 302,590 350,588 397,586 445,584 493,582 541,580 588,577 636,575 684,573 732,571 779,569 827,568 875,566 923,565 970,565 1018,565 1066,565 1114,566"/>
+                <TextEquiv>
+                    <Unicode>inexplicable case of discontinuity</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="161,722 257,735 399,679 553,720 602,682 1098,683 1184,654 1182,610 1067,604 966,646 892,618 608,633 554,601 468,656 158,639"/>
+                <Baseline points="166,693 216,690 267,688 317,685 368,683 418,681 469,679 519,677 570,675 620,673 671,671 722,669 772,667 823,666 873,664 924,662 974,661 1025,659 1075,658 1126,656 1177,655"/>
+                <TextEquiv>
+                    <Unicode>known to me. If I remember aright</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="164,806 353,819 396,780 593,767 776,780 821,814 908,764 1174,762 1173,714 614,724 558,757 161,736"/>
+                <Baseline points="170,781 219,781 269,780 319,779 369,778 419,777 469,775 518,774 568,772 618,771 668,769 718,767 768,765 818,763 867,761 917,759 967,757 1017,755 1067,753 1117,752 1167,750"/>
+                <TextEquiv>
+                    <Unicode>the Canariri are congeneric with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="170,875 362,890 464,870 520,889 822,867 801,824 594,838 535,815 496,849 351,836 319,813 273,837 211,810 169,822"/>
+                <Baseline points="177,870 208,871 240,871 272,871 304,871 336,871 368,870 400,870 432,870 464,869 496,869 527,868 559,867 591,866 623,865 655,864 687,862 719,861 751,859 783,857 815,855"/>
+                <TextEquiv>
+                    <Unicode>the Indian Laurineae.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="144,1026 248,989 447,1017 562,974 1063,980 1075,896 878,936 604,908 419,952 368,926 318,969 140,931"/>
+                <Baseline points="150,989 196,989 242,988 288,987 334,985 380,983 426,982 472,980 518,978 564,976 610,974 656,972 702,969 748,967 794,965 840,963 886,961 932,960 978,958 1024,957 1070,956"/>
+                <TextEquiv>
+                    <Unicode>p12. Line 6, the whereabouts of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="211,1096 1235,1047 1233,1004 1105,977 1028,1026 898,1000 783,1035 658,1006 497,1041 208,1029"/>
+                <Baseline points="216,1073 266,1072 317,1071 367,1070 418,1069 468,1068 519,1066 569,1065 620,1063 670,1061 721,1059 772,1057 822,1055 873,1053 923,1050 974,1048 1024,1046 1075,1042 1125,1040 1176,1037 1227,1033"/>
+                <TextEquiv>
+                    <Unicode>Gondwanaland are unknown to me.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="122,1232 289,1195 537,1222 729,1176 866,1213 920,1172 1182,1184 1179,1112 1130,1093 1076,1141 899,1105 850,1151 706,1098 634,1156 576,1115 512,1163 404,1129 119,1142"/>
+                <Baseline points="127,1189 179,1191 231,1193 284,1193 336,1194 388,1193 441,1192 493,1191 545,1190 598,1188 650,1186 702,1183 755,1181 807,1178 859,1176 912,1173 964,1171 1016,1169 1069,1167 1121,1165 1174,1164"/>
+                <TextEquiv>
+                    <Unicode>p.10 6 lines from the bottom "floras" for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="282,1313 301,1321 334,1292 353,1298 414,1289 446,1296 454,1287 476,1294 476,1255 458,1255 419,1235 368,1246 350,1228 323,1224 294,1242 282,1239"/>
+                <Baseline points="289,1276 314,1280 340,1283 366,1283 391,1282 417,1281 443,1280 469,1280"/>
+                <TextEquiv>
+                    <Unicode>flora.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="186,1414 465,1452 643,1407 796,1431 1002,1402 1059,1433 1164,1404 1163,1323 1081,1358 997,1317 946,1354 746,1379 558,1346 399,1389 302,1386 226,1333 184,1356"/>
+                <Baseline points="192,1413 240,1413 288,1413 336,1412 385,1412 433,1412 481,1411 529,1410 578,1410 626,1409 674,1408 722,1407 771,1406 819,1404 867,1403 915,1401 964,1399 1012,1398 1060,1396 1108,1393 1157,1391"/>
+                <TextEquiv>
+                    <Unicode>The news of Grace is good. Lady H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="166,1539 878,1502 968,1529 1028,1495 1259,1519 1267,1451 641,1442 479,1498 353,1464 164,1488"/>
+                <Baseline points="172,1530 226,1527 281,1525 335,1522 390,1519 444,1516 499,1514 553,1511 608,1508 662,1505 717,1502 771,1500 826,1498 880,1496 935,1495 989,1494 1044,1493 1098,1493 1153,1494 1207,1495 1262,1497"/>
+                <TextEquiv>
+                    <Unicode>went to see her last Saturday &amp; reports</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="162,1630 1195,1597 1193,1556 947,1538 795,1575 621,1559 570,1594 160,1585"/>
+                <Baseline points="168,1621 219,1621 270,1620 321,1619 372,1618 423,1616 474,1613 525,1610 576,1608 627,1605 678,1602 729,1599 780,1597 831,1595 882,1593 933,1592 984,1591 1035,1591 1086,1591 1137,1593 1188,1595"/>
+                <TextEquiv>
+                    <Unicode>her health is improved. I want to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="166,1734 726,1739 819,1699 935,1728 1069,1702 1221,1753 1272,1725 1270,1663 1180,1641 1105,1668 1057,1639 1003,1678 786,1641 430,1706 365,1667 293,1700 164,1665"/>
+                <Baseline points="173,1724 227,1725 282,1724 336,1723 391,1722 445,1720 500,1717 554,1714 609,1712 663,1709 718,1705 773,1703 827,1700 882,1698 936,1696 991,1695 1045,1694 1100,1694 1154,1694 1209,1696 1264,1699"/>
+                <TextEquiv>
+                    <Unicode>know the accounts of lesions of the lung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="159,1846 388,1873 574,1816 700,1847 796,1802 1157,1806 1171,1769 1071,1736 994,1780 885,1747 559,1799 493,1768 272,1806 157,1789"/>
+                <Baseline points="165,1829 215,1829 265,1828 315,1827 365,1825 415,1823 465,1822 515,1820 565,1817 615,1815 665,1813 715,1811 765,1808 815,1806 865,1804 915,1802 965,1801 1015,1799 1065,1797 1115,1796 1165,1795"/>
+                <TextEquiv>
+                    <Unicode>which Charlie might obtain from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="164,1942 272,1924 321,1947 571,1938 645,1962 684,1930 871,1923 872,1895 762,1873 664,1900 564,1858 464,1900 208,1862 163,1878"/>
+                <Baseline points="171,1923 205,1924 240,1924 275,1925 309,1925 344,1926 379,1926 413,1926 448,1926 483,1926 518,1926 552,1926 587,1925 622,1924 656,1923 691,1922 726,1921 760,1920 795,1918 830,1915 865,1913"/>
+                <TextEquiv>
+                    <Unicode>the resident physician.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="288,2040 364,2063 415,2031 838,2012 1134,2049 1296,2031 1296,1989 1091,1948 1011,1993 432,1968 395,1998 287,1953"/>
+                <Baseline points="295,2025 344,2024 394,2023 444,2022 493,2021 543,2020 593,2019 642,2019 692,2018 742,2017 792,2017 841,2017 891,2017 941,2016 990,2016 1040,2016 1090,2017 1139,2017 1189,2017 1239,2018 1289,2018"/>
+                <TextEquiv>
+                    <Unicode>My correspondence seems to grow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>the presence of Asiatic Laurineae&#13;
+var Canarius, which is the most&#13;
+inexplicable case of discontinuity&#13;
+known to me. If I remember aright&#13;
+the Canariri are congeneric with&#13;
+the Indian Laurineae.&#13;
+p12. Line 6, the whereabouts of&#13;
+Gondwanaland are unknown to me.&#13;
+p.10 6 lines from the bottom "floras" for&#13;
+flora.&#13;
+The news of Grace is good. Lady H.&#13;
+went to see her last Saturday &amp; reports&#13;
+her health is improved. I want to&#13;
+know the accounts of lesions of the lung&#13;
+which Charlie might obtain from&#13;
+the resident physician.&#13;
+My correspondence seems to grow</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

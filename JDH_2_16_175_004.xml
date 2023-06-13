@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:30:12.878-04:00</Created>
+        <LastChange>2020-06-25T04:50:41.493+02:00</LastChange>
+        <TranskribusMetadata docId="419498" pageId="16700368" pageNr="3" tsid="32636441" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GORLUNFMTZTFXTZVRFCSPGAE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPFJCQMEOYIHEZAZNHKBWETN" imageId="12478686"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_175_004.jpg" imageWidth="1428" imageHeight="2124">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330918897" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="60,153 60,620 130,620 130,153"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="67,254 75,255 81,262 101,257 111,266 128,265 131,226 122,224 118,227 111,227 104,218 99,218 86,203 72,202"/>
+                <Baseline points="74,253 122,257"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="55,580 63,576 69,578 94,594 106,580 113,582 124,574 126,577 138,574 131,517 121,520 109,518 86,508 75,521 67,519 64,524 48,524"/>
+                <Baseline points="60,570 95,564 130,562"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="185,158 185,471 1234,471 1234,158"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="179,260 502,231 552,268 719,221 1043,228 1099,220 1096,156 704,191 661,165 587,207 444,187 407,211 266,143 175,178"/>
+                <Baseline points="185,241 230,242 275,242 320,242 366,241 411,240 456,239 502,237 547,235 592,233 638,231 683,228 728,226 773,223 819,220 864,218 909,215 955,212 1000,209 1045,207 1091,204"/>
+                <TextEquiv>
+                    <Unicode>Thanks very for information</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="191,358 382,388 946,313 1047,345 1100,313 1208,324 1218,286 869,257 787,313 188,295"/>
+                <Baseline points="197,350 247,351 298,350 349,349 400,348 450,346 501,344 552,342 603,339 653,337 704,334 755,331 806,328 856,325 907,323 958,320 1009,318 1059,316 1110,314 1161,313 1212,312"/>
+                <TextEquiv>
+                    <Unicode>about Gelsemiums -- Bot. Mag. is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="188,470 697,427 816,455 942,402 1240,410 1239,368 982,347 804,393 185,426"/>
+                <Baseline points="193,447 245,450 297,450 349,450 401,449 453,447 505,443 557,440 609,435 661,431 713,426 765,422 817,417 869,412 921,409 973,405 1025,403 1077,401 1129,401 1181,402 1234,404"/>
+                <TextEquiv>
+                    <Unicode>man-trap &amp; I feel it on both ankles.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thanks very for information&#13;
+about Gelsemiums -- Bot. Mag. is a&#13;
+man-trap &amp; I feel it on both ankles.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:41:50.175-04:00</Created>
+        <LastChange>2020-06-24T00:51:58.047+02:00</LastChange>
+        <TranskribusMetadata docId="418290" pageId="16659298" pageNr="2" tsid="32539745" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=JHFFQSJPZJXPXRLZWQZJDTZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AIIZEAQIDWLQBYIPRDWKQQXA" imageId="12444754"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_162_002.jpg" imageWidth="1345" imageHeight="2169">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330937675" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="100,188 100,340 122,340 122,188"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="94,298 115,298 122,291 129,290 124,240 114,239 113,241 108,241 101,236 88,238"/>
+                <Baseline points="100,290 122,288"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="142,243 142,2099 1301,2099 1301,243"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="135,337 592,281 1003,329 1114,288 1283,310 1282,233 1107,218 915,259 669,260 573,209 459,258 134,238"/>
+                <Baseline points="142,311 198,304 255,299 311,294 368,292 425,289 481,288 538,287 595,287 651,288 708,288 765,290 821,291 878,292 935,293 991,294 1048,294 1105,295 1161,294 1218,293 1275,291"/>
+                <TextEquiv>
+                    <Unicode>up for now three years, &amp; Gamble</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="190,447 241,463 367,406 589,432 1010,394 1134,426 1134,363 1043,346 982,380 839,335 740,381 572,336 190,375"/>
+                <Baseline points="197,406 243,406 290,406 336,406 383,406 429,406 476,406 522,406 569,406 615,406 662,406 708,406 755,406 801,406 848,406 894,405 941,405 987,404 1034,404 1080,403 1127,402"/>
+                <TextEquiv>
+                    <Unicode>only two I felt that his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="189,527 1036,530 1036,462 791,494 661,457 594,503 190,466"/>
+                <Baseline points="196,507 237,510 279,512 320,514 362,516 404,518 445,519 487,521 528,522 570,522 612,523 653,523 695,524 736,524 778,523 820,523 861,522 903,521 944,520 986,519 1028,517"/>
+                <TextEquiv>
+                    <Unicode>claims were the greatest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="198,648 466,615 919,650 1203,624 1203,594 1129,573 877,607 701,570 653,596 541,548 448,599 380,570 333,597 266,552 199,569"/>
+                <Baseline points="205,612 254,613 304,614 353,615 403,616 452,617 502,618 551,620 601,621 650,622 700,623 750,624 799,625 849,625 898,626 948,626 997,626 1047,626 1096,625 1146,624 1196,623"/>
+                <TextEquiv>
+                    <Unicode>Gambles' Bambuseae is no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="183,731 1107,744 1309,726 1309,665 1082,704 801,670 732,706 183,670"/>
+                <Baseline points="191,713 246,715 302,718 357,720 413,722 468,724 524,726 579,727 635,728 690,729 746,730 801,730 857,730 912,729 968,728 1023,727 1079,725 1134,723 1190,721 1245,718 1301,714"/>
+                <TextEquiv>
+                    <Unicode>doubt excellent -- but it is founded</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="208,835 555,820 800,854 1085,823 1214,853 1215,796 779,794 723,760 470,804 376,741 208,791"/>
+                <Baseline points="215,819 264,820 314,821 363,822 413,822 463,823 512,824 562,825 612,826 661,826 711,827 761,827 810,827 860,827 910,827 959,827 1009,827 1059,826 1108,825 1158,824 1208,823"/>
+                <TextEquiv>
+                    <Unicode>on Munro's work, which it very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="222,932 517,956 1207,910 1206,878 1075,849 1013,888 703,872 573,915 453,858 408,892 220,870"/>
+                <Baseline points="229,919 277,923 326,926 374,928 423,930 471,930 520,930 568,929 617,928 665,927 714,925 762,922 811,920 859,918 908,915 956,913 1005,911 1053,910 1102,909 1150,908 1199,908"/>
+                <TextEquiv>
+                    <Unicode>closely follows.  Perhaps his India</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="236,993 963,991 962,957 854,920 639,963 588,932 506,967 374,931 235,942"/>
+                <Baseline points="243,979 278,981 314,982 349,983 385,983 421,983 456,983 492,983 527,982 563,981 599,980 634,980 670,979 705,978 741,977 777,976 812,975 848,975 883,975 919,975 955,975"/>
+                <TextEquiv>
+                    <Unicode>Forest trees is his best claim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="268,1065 835,1070 912,1049 1059,1089 1058,1004 977,983 868,1028 744,1032 691,1004 619,1038 508,999 439,1031 322,980 267,1014"/>
+                <Baseline points="275,1051 313,1051 352,1051 391,1052 430,1052 469,1052 507,1053 546,1053 585,1053 624,1053 663,1053 701,1052 740,1052 779,1050 818,1049 857,1048 895,1046 934,1044 973,1041 1012,1039 1051,1035"/>
+                <TextEquiv>
+                    <Unicode>I have had several long</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="172,1160 443,1186 695,1153 854,1188 923,1150 1281,1161 1280,1088 994,1130 772,1069 688,1132 618,1105 468,1141 172,1130"/>
+                <Baseline points="179,1150 233,1154 288,1157 343,1159 397,1161 452,1162 507,1162 561,1161 616,1160 671,1159 726,1157 780,1155 835,1153 890,1151 944,1149 999,1148 1054,1146 1108,1145 1163,1145 1218,1145 1273,1146"/>
+                <TextEquiv>
+                    <Unicode>discussions with Stapf. about his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="179,1268 1133,1270 1133,1233 1004,1211 811,1232 767,1204 647,1238 531,1210 409,1251 251,1209 179,1224"/>
+                <Baseline points="186,1253 233,1258 280,1261 327,1263 374,1265 421,1266 468,1266 515,1266 562,1266 609,1265 656,1263 703,1262 750,1261 797,1260 844,1258 891,1258 938,1257 985,1257 1032,1257 1079,1258 1126,1259"/>
+                <TextEquiv>
+                    <Unicode>claims, &amp; hope I have done</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="181,1389 544,1406 708,1355 1108,1366 1135,1328 892,1340 654,1298 536,1338 180,1317"/>
+                <Baseline points="188,1350 237,1355 286,1360 336,1363 385,1365 435,1366 484,1366 533,1366 583,1364 632,1363 682,1361 731,1359 781,1357 830,1356 879,1355 929,1354 978,1354 1028,1355 1077,1356 1127,1359"/>
+                <TextEquiv>
+                    <Unicode>some good. The order is, in a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="204,1472 694,1464 735,1493 927,1461 1029,1496 1084,1461 1215,1468 1171,1404 978,1440 714,1414 626,1441 527,1396 422,1436 204,1422"/>
+                <Baseline points="211,1459 260,1461 310,1462 360,1463 410,1463 460,1463 509,1463 559,1462 609,1461 659,1461 709,1460 758,1459 808,1459 858,1459 908,1459 958,1460 1007,1461 1057,1463 1107,1465 1157,1469 1207,1472"/>
+                <TextEquiv>
+                    <Unicode>systematic point of view, by far</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="201,1589 408,1567 756,1613 822,1576 1028,1594 1232,1553 1232,1527 873,1502 686,1541 521,1502 382,1545 271,1508 200,1532"/>
+                <Baseline points="207,1563 260,1564 314,1564 367,1565 421,1565 475,1564 528,1564 582,1563 636,1562 689,1561 743,1560 796,1559 850,1558 904,1556 957,1555 1011,1554 1065,1553 1118,1552 1172,1551 1226,1550"/>
+                <TextEquiv>
+                    <Unicode>the most puzzling of Phanerogams --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="215,1668 472,1694 686,1656 978,1698 1212,1654 1211,1609 1124,1627 1088,1600 829,1641 215,1624"/>
+                <Baseline points="223,1658 272,1661 321,1663 370,1664 419,1665 468,1666 517,1666 566,1665 615,1665 664,1664 713,1663 762,1661 811,1660 860,1659 909,1658 958,1657 1007,1657 1056,1656 1105,1656 1154,1657 1204,1658"/>
+                <TextEquiv>
+                    <Unicode>&amp; I should not be surprised to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="208,1790 399,1773 476,1815 594,1769 1051,1781 1181,1763 1181,1729 1065,1698 661,1750 207,1722"/>
+                <Baseline points="214,1764 262,1766 310,1768 358,1769 406,1769 454,1769 502,1769 550,1768 598,1767 646,1766 694,1764 742,1763 790,1761 838,1760 886,1759 934,1758 982,1757 1030,1757 1078,1757 1126,1758 1174,1760"/>
+                <TextEquiv>
+                    <Unicode>isee startling innovations before</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="227,1882 303,1909 382,1877 988,1869 1051,1896 1214,1871 1213,1813 1140,1797 957,1794 853,1844 776,1803 689,1845 226,1821"/>
+                <Baseline points="234,1864 282,1867 331,1868 379,1869 428,1870 477,1870 525,1870 574,1869 622,1868 671,1867 720,1866 768,1864 817,1863 865,1861 914,1860 963,1859 1011,1858 1060,1857 1108,1857 1157,1857 1206,1858"/>
+                <TextEquiv>
+                    <Unicode>they are done with. Stapf. has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="180,1977 513,2008 1297,1968 1295,1906 1258,1901 669,1927 602,1964 179,1929"/>
+                <Baseline points="187,1967 242,1972 297,1977 352,1979 407,1981 462,1981 517,1981 573,1980 628,1978 683,1976 738,1974 793,1972 848,1969 903,1967 959,1964 1014,1963 1069,1962 1124,1961 1179,1961 1234,1963 1290,1965"/>
+                <TextEquiv>
+                    <Unicode>introduced great improvements in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="205,2084 419,2104 498,2072 579,2108 660,2077 1210,2072 1209,2018 936,1998 727,1998 675,2043 598,2022 556,2052 407,2026 332,2053 204,2014"/>
+                <Baseline points="211,2059 260,2064 310,2069 359,2072 409,2075 458,2076 508,2077 557,2077 607,2076 656,2075 706,2074 756,2072 805,2071 855,2069 904,2067 954,2066 1003,2065 1053,2065 1102,2065 1152,2066 1202,2067"/>
+                <TextEquiv>
+                    <Unicode>Indian clavis (of Fl.B.I) &amp; as to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>up for now three years, &amp; Gamble&#13;
+only two I felt that his&#13;
+claims were the greatest.&#13;
+Gambles' Bambuseae is no&#13;
+doubt excellent -- but it is founded&#13;
+on Munro's work, which it very&#13;
+closely follows.  Perhaps his India&#13;
+Forest trees is his best claim.&#13;
+I have had several long&#13;
+discussions with Stapf. about his&#13;
+claims, &amp; hope I have done&#13;
+some good. The order is, in a&#13;
+systematic point of view, by far&#13;
+the most puzzling of Phanerogams --&#13;
+&amp; I should not be surprised to&#13;
+isee startling innovations before&#13;
+they are done with. Stapf. has&#13;
+introduced great improvements in the&#13;
+Indian clavis (of Fl.B.I) &amp; as to</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

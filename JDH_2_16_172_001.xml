@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:28:22.837-04:00</Created>
+        <LastChange>2020-06-25T00:21:55.039+02:00</LastChange>
+        <TranskribusMetadata docId="419493" pageId="16700311" pageNr="1" tsid="32634172" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=UXQGQPXUVTAXYIUTPGJPJYQH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QTNZILDHPDVJLYPTHWZJSHPJ" imageId="12478629"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_172_001.jpg" imageWidth="1347" imageHeight="2167">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330919930" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="27,193 27,345 49,345 49,193"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="21,300 56,300 50,240 41,238 38,240 37,238 31,242 24,237 15,238"/>
+                <Baseline points="27,295 49,293"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="159,62 159,2077 1231,2077 1231,62"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="996,135 1026,136 1065,163 1118,119 1149,122 1140,16 1083,11 1049,22 1019,-2 1010,-1 999,13 985,10"/>
+                <Baseline points="1001,118 1029,114 1057,110 1085,108 1113,107 1141,105"/>
+                <TextEquiv>
+                    <Unicode>1172</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="786,233 896,207 983,216 1046,201 1106,236 1130,216 1155,225 1173,209 1219,211 1218,170 1146,145 1078,167 1044,146 946,150 854,109 785,132"/>
+                <Baseline points="792,206 818,206 844,206 870,206 897,206 923,206 949,206 975,205 1002,205 1028,205 1054,204 1080,203 1107,203 1133,202 1159,201 1185,199 1212,198"/>
+                <TextEquiv>
+                    <Unicode>Decr 13 1900</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="390,262 440,300 464,284 492,283 556,309 590,305 604,321 652,332 668,327 682,263 671,255 621,263 610,254 574,264 508,233 473,238 436,262 393,245"/>
+                <Baseline points="396,261 422,267 449,273 476,278 503,283 530,288 556,293 583,299 610,306 637,313 664,320"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="930,342 987,334 1011,335 1033,347 1079,342 1086,335 1108,346 1128,339 1140,343 1140,319 1109,303 1073,311 1032,294 1007,307 998,299 969,303 949,291 930,295"/>
+                <Baseline points="936,331 964,332 992,333 1020,333 1049,332 1077,332 1105,332 1134,333"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="432,394 443,401 456,399 469,410 475,406 484,415 516,418 525,426 594,416 602,335 586,331 543,356 527,355 518,345 500,346 454,292 442,289"/>
+                <Baseline points="439,394 468,391 498,391 528,395 558,401 588,407"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="906,420 941,403 968,419 981,410 1032,407 1049,415 1094,407 1131,416 1174,412 1174,390 1155,378 1125,383 1081,363 1045,381 1027,369 1019,376 906,375"/>
+                <Baseline points="912,399 937,400 963,401 988,402 1014,402 1040,402 1065,401 1091,401 1116,401 1142,402 1168,403"/>
+                <TextEquiv>
+                    <Unicode>SUNNINCDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="152,594 210,596 242,617 284,590 340,614 400,590 516,608 552,590 631,599 631,559 557,542 509,498 445,537 396,543 364,517 307,538 231,488 154,509"/>
+                <Baseline points="159,574 184,575 210,575 236,576 262,576 288,577 314,578 340,579 366,580 392,581 417,582 443,582 469,583 495,583 521,583 547,583 573,583 599,582 625,581"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="412,705 489,694 589,726 648,706 734,743 799,703 920,704 966,733 1033,702 1160,704 1160,669 1022,632 948,650 851,623 782,671 675,643 617,670 537,662 474,624 412,647"/>
+                <Baseline points="418,693 454,693 491,693 528,693 565,693 601,693 638,694 675,694 712,694 748,694 785,695 822,695 859,695 895,695 932,695 969,695 1006,695 1042,695 1079,694 1116,693 1153,693"/>
+                <TextEquiv>
+                    <Unicode>I was sorry to miss you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="180,811 353,835 396,811 742,834 860,811 969,849 1132,828 1132,793 924,756 881,788 843,759 390,783 252,733 180,758"/>
+                <Baseline points="186,800 235,803 284,807 334,809 383,811 433,812 482,813 531,813 581,813 630,813 680,813 729,813 779,813 828,813 877,814 927,815 976,816 1026,817 1075,819 1125,822"/>
+                <TextEquiv>
+                    <Unicode>to-day, as I wanted to tell you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="191,920 328,900 545,943 640,902 700,938 920,916 1059,945 1111,937 1112,893 688,855 502,886 406,852 356,887 192,841"/>
+                <Baseline points="198,898 243,901 288,903 334,905 379,907 424,908 470,909 515,910 560,910 606,911 651,911 696,911 742,912 787,912 832,913 878,913 923,914 968,915 1014,917 1059,919 1105,921"/>
+                <TextEquiv>
+                    <Unicode>how thorough I found your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="187,999 490,1019 546,1055 646,1012 885,1009 995,1050 1066,1012 1209,1021 1209,973 1136,956 983,993 780,943 531,995 480,957 427,989 354,954 294,986 187,968"/>
+                <Baseline points="194,996 244,1000 294,1004 345,1006 395,1008 446,1009 496,1010 546,1011 597,1011 647,1011 698,1011 748,1011 798,1010 849,1010 899,1010 950,1010 1000,1009 1050,1010 1101,1010 1151,1011 1202,1012"/>
+                <TextEquiv>
+                    <Unicode>vindication of the position of Kew</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="198,1111 617,1110 730,1165 834,1121 1162,1124 1163,1065 992,1053 844,1052 786,1101 730,1070 641,1093 528,1044 391,1092 335,1048 199,1067"/>
+                <Baseline points="205,1103 252,1104 300,1104 347,1105 395,1105 442,1106 490,1106 537,1107 585,1108 632,1108 680,1109 728,1110 775,1110 823,1111 870,1111 918,1112 965,1112 1013,1113 1060,1113 1108,1113 1156,1113"/>
+                <TextEquiv>
+                    <Unicode>to be -- &amp; how ably put together</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="207,1203 426,1232 745,1195 1231,1218 1231,1166 1184,1155 1100,1176 915,1142 747,1177 625,1145 576,1186 438,1147 207,1156"/>
+                <Baseline points="214,1192 264,1196 315,1199 365,1200 416,1202 466,1202 517,1202 567,1202 618,1201 668,1200 719,1199 769,1198 820,1197 870,1197 921,1196 971,1196 1022,1196 1072,1197 1123,1199 1173,1201 1224,1204"/>
+                <TextEquiv>
+                    <Unicode>&amp; expressed.  With such a wooden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="193,1305 482,1291 604,1330 652,1292 785,1277 854,1308 1010,1274 1179,1314 1221,1237 1035,1220 978,1261 845,1222 764,1259 518,1271 452,1227 367,1264 191,1223"/>
+                <Baseline points="199,1283 249,1285 300,1288 351,1290 402,1290 453,1290 503,1290 554,1289 605,1288 656,1287 707,1285 757,1284 808,1282 859,1280 910,1279 961,1278 1011,1277 1062,1276 1113,1276 1164,1277 1215,1278"/>
+                <TextEquiv>
+                    <Unicode>headed Treasury it is I fear hopeless</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="224,1384 1178,1371 1167,1320 835,1342 792,1315 731,1346 683,1320 589,1351 223,1325"/>
+                <Baseline points="230,1374 277,1376 324,1377 371,1377 418,1377 465,1377 512,1376 559,1375 606,1374 653,1372 700,1370 747,1369 794,1367 841,1365 888,1363 935,1362 982,1360 1029,1359 1076,1358 1123,1357 1171,1356"/>
+                <TextEquiv>
+                    <Unicode>to expect much : -- except indeed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="195,1488 1000,1448 1204,1476 1238,1469 1237,1410 992,1438 608,1410 559,1441 463,1415 399,1449 303,1421 194,1450"/>
+                <Baseline points="201,1465 252,1465 304,1465 355,1464 407,1463 458,1463 510,1462 561,1461 613,1460 664,1459 716,1458 767,1457 819,1456 870,1455 922,1454 973,1454 1025,1453 1076,1453 1128,1453 1179,1453 1231,1453"/>
+                <TextEquiv>
+                    <Unicode>a man like Chamberlain could</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="234,1562 313,1592 417,1559 1206,1562 1205,1494 1118,1528 1066,1495 537,1537 467,1497 373,1531 275,1490 234,1509"/>
+                <Baseline points="240,1553 290,1554 340,1555 391,1556 441,1557 492,1557 542,1558 593,1558 643,1558 694,1558 744,1557 795,1557 845,1556 896,1555 946,1553 997,1551 1047,1549 1098,1547 1148,1545 1199,1542"/>
+                <TextEquiv>
+                    <Unicode>be got to grasp the situation &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="222,1664 465,1644 505,1676 678,1655 728,1687 904,1649 982,1693 1154,1649 1099,1590 985,1623 531,1584 222,1629"/>
+                <Baseline points="228,1647 276,1647 324,1646 373,1646 421,1646 469,1645 518,1645 566,1645 614,1645 663,1644 711,1644 760,1644 808,1644 856,1644 905,1643 953,1643 1001,1643 1050,1643 1098,1643 1147,1642"/>
+                <TextEquiv>
+                    <Unicode>act. -- A fire proof building for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="212,1765 1102,1750 1100,1698 1010,1683 726,1728 560,1699 448,1747 210,1713"/>
+                <Baseline points="217,1749 260,1753 304,1756 348,1757 392,1759 436,1759 480,1759 524,1758 568,1757 612,1755 656,1753 699,1751 743,1749 787,1747 831,1744 875,1742 919,1740 963,1738 1007,1736 1051,1735 1095,1735"/>
+                <TextEquiv>
+                    <Unicode>our own collection should be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="211,1857 399,1857 474,1898 756,1843 1167,1831 1131,1774 763,1821 519,1792 441,1825 310,1796 210,1815"/>
+                <Baseline points="217,1844 264,1847 311,1850 358,1851 405,1852 452,1852 499,1852 547,1851 594,1850 641,1848 688,1845 735,1843 782,1841 829,1839 877,1836 924,1834 971,1832 1018,1831 1065,1830 1112,1829 1160,1829"/>
+                <TextEquiv>
+                    <Unicode>vehemently urged, whatever else</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="232,1940 328,1972 1233,1922 1231,1867 1139,1859 1077,1897 1017,1877 899,1910 785,1874 664,1913 231,1912"/>
+                <Baseline points="238,1940 287,1942 336,1943 386,1944 435,1944 485,1943 534,1942 584,1940 633,1938 683,1936 732,1933 781,1930 831,1928 880,1925 930,1923 979,1920 1029,1919 1078,1918 1128,1917 1177,1917 1227,1918"/>
+                <TextEquiv>
+                    <Unicode>is done, &amp; it would be well that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="225,2074 1168,2045 1167,2004 858,2012 671,1974 604,2022 563,1991 432,2034 370,2007 323,2033 224,2018"/>
+                <Baseline points="231,2055 277,2054 324,2053 370,2052 417,2051 463,2049 510,2048 556,2046 603,2045 649,2043 696,2041 742,2040 789,2039 835,2037 882,2036 928,2036 975,2035 1021,2035 1068,2035 1114,2036 1161,2037"/>
+                <TextEquiv>
+                    <Unicode>you should be prepared with a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1172&#13;
+Decr 13 1900&#13;
+&#13;
+THE CAMP.&#13;
+&#13;
+SUNNINCDALE.&#13;
+My dear Dyer&#13;
+I was sorry to miss you&#13;
+to-day, as I wanted to tell you&#13;
+how thorough I found your&#13;
+vindication of the position of Kew&#13;
+to be -- &amp; how ably put together&#13;
+&amp; expressed.  With such a wooden&#13;
+headed Treasury it is I fear hopeless&#13;
+to expect much : -- except indeed&#13;
+a man like Chamberlain could&#13;
+be got to grasp the situation &amp;&#13;
+act. -- A fire proof building for&#13;
+our own collection should be&#13;
+vehemently urged, whatever else&#13;
+is done, &amp; it would be well that&#13;
+you should be prepared with a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:34:30.597-04:00</Created>
+        <LastChange>2020-06-25T22:14:18.491+02:00</LastChange>
+        <TranskribusMetadata docId="419511" pageId="16700477" pageNr="1" tsid="32715189" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=VQVYLYMAHGWDJXRGWCGQOYXF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QLHYUODDPVCMTWFQOCQQQXOD" imageId="12478791"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_177_003.jpg" imageWidth="1367" imageHeight="2199">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330915787" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="73,134 73,2123 1267,2123 1267,134"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="118,230 468,191 566,237 638,188 1093,199 1199,177 1197,125 836,152 670,118 466,181 161,134 115,159"/>
+                <Baseline points="124,206 177,205 230,203 284,200 337,198 391,196 444,194 497,191 551,189 604,187 658,185 711,182 764,180 818,178 871,176 925,174 978,172 1031,171 1085,170 1138,168 1192,168"/>
+                <TextEquiv>
+                    <Unicode>The place is doing her also much good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="118,318 1186,288 1185,236 1097,226 815,266 625,237 463,275 356,241 230,286 117,264"/>
+                <Baseline points="125,309 177,308 230,307 283,305 335,303 388,301 441,299 493,297 546,295 599,294 652,291 704,290 757,288 810,286 862,285 915,284 968,283 1020,282 1073,281 1126,281 1179,281"/>
+                <TextEquiv>
+                    <Unicode>Our appetites are voracious, &amp; we get all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="92,421 324,461 433,416 670,423 680,383 584,365 473,389 429,366 341,388 233,359 186,376 130,356 90,368"/>
+                <Baseline points="99,413 127,415 156,416 185,417 213,418 242,418 271,417 299,416 328,415 357,413 386,412 414,411 443,409 472,408 500,407 529,406 558,406 586,406 615,406 644,407 673,409"/>
+                <TextEquiv>
+                    <Unicode>the fresh air we can.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="267,530 426,518 479,547 619,515 681,557 793,507 1019,501 1148,532 1148,485 835,448 509,505 428,462 374,478 266,445"/>
+                <Baseline points="274,513 317,516 360,517 404,518 447,518 490,518 534,517 577,516 620,514 664,512 707,510 750,509 794,507 837,506 880,506 924,505 967,506 1010,507 1054,509 1097,512 1141,516"/>
+                <TextEquiv>
+                    <Unicode>The town is very attractive for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="109,637 1222,619 1193,559 907,587 723,547 662,593 530,558 423,599 109,573"/>
+                <Baseline points="116,613 173,615 231,616 289,617 347,617 405,616 463,616 520,615 578,613 636,612 694,611 752,610 810,609 867,608 925,608 983,608 1041,609 1099,610 1157,612 1215,615"/>
+                <TextEquiv>
+                    <Unicode>its gardens &amp; the excellence of the private</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="96,727 1169,719 1186,643 1123,628 1012,685 442,642 234,689 95,666"/>
+                <Baseline points="102,708 155,709 209,709 263,709 317,708 371,707 425,706 479,705 533,704 587,703 641,702 694,701 748,700 802,700 856,700 910,700 964,700 1018,701 1072,703 1126,705 1180,708"/>
+                <TextEquiv>
+                    <Unicode>houses in literally all the suburbs. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="116,815 314,809 391,846 462,805 621,831 858,793 917,823 977,791 1275,834 1274,765 1154,737 1074,777 978,734 791,778 116,759"/>
+                <Baseline points="124,798 181,801 238,802 295,803 352,803 409,802 466,801 524,800 581,799 638,797 695,796 752,795 809,794 866,794 924,794 981,794 1038,795 1095,798 1152,801 1209,805 1267,811"/>
+                <TextEquiv>
+                    <Unicode>roads every where good &amp; they are timly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="131,911 972,887 1235,921 1235,870 1023,836 964,870 756,837 719,869 470,872 424,835 291,876 131,845"/>
+                <Baseline points="138,893 192,894 247,894 301,894 356,894 410,893 465,893 519,892 574,891 628,890 683,889 737,888 792,887 846,887 901,888 955,888 1010,890 1064,892 1119,894 1173,898 1228,902"/>
+                <TextEquiv>
+                    <Unicode>literally lined with flowering trees &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="334,967 398,940 671,955 766,935 883,959 1039,941 960,906 866,920 813,893 756,925 601,896 447,923 334,898"/>
+                <Baseline points="341,934 375,936 410,938 444,938 479,939 513,939 548,939 582,939 617,939 651,939 686,938 721,938 755,938 790,938 824,937 859,938 893,938 928,939 962,940 997,941 1032,943"/>
+                <TextEquiv>
+                    <Unicode>opposite the houses &amp; in their gardens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="148,1001 288,987 388,1026 483,988 913,1019 949,991 1211,1036 1238,994 1066,950 398,939 285,970 214,930 149,957"/>
+                <Baseline points="156,974 209,979 263,984 317,986 370,989 424,990 478,991 531,991 585,991 639,991 693,990 746,990 800,990 854,990 907,991 961,993 1015,995 1068,998 1122,1003 1176,1008 1230,1015"/>
+                <TextEquiv>
+                    <Unicode>shrubs to an Extent I have never seen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="131,1111 805,1084 1107,1127 1124,1057 865,1068 768,1039 733,1065 678,1027 548,1050 488,1022 415,1058 236,1059 132,1033"/>
+                <Baseline points="138,1074 186,1077 235,1080 284,1081 333,1083 382,1083 431,1083 480,1083 529,1083 578,1083 627,1083 675,1083 724,1083 773,1083 822,1084 871,1085 920,1087 969,1090 1018,1093 1067,1098 1116,1103"/>
+                <TextEquiv>
+                    <Unicode>elsewhere. For at least a mile of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="112,1185 211,1222 444,1187 515,1224 667,1171 1126,1172 1086,1136 894,1115 784,1153 661,1117 521,1157 111,1139"/>
+                <Baseline points="119,1175 169,1179 219,1182 269,1184 319,1185 369,1185 419,1185 469,1184 519,1183 569,1181 619,1179 669,1177 719,1175 769,1173 819,1171 869,1169 919,1168 969,1167 1019,1167 1069,1168 1119,1169"/>
+                <TextEquiv>
+                    <Unicode>every road out of the town there are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="829,1225 845,1232 907,1229 943,1244 950,1240 983,1247 991,1246 994,1214 945,1205 917,1183 880,1198 867,1186 833,1176"/>
+                <Baseline points="837,1223 866,1223 896,1224 925,1226 955,1229 985,1233"/>
+                <TextEquiv>
+                    <Unicode>eithers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="119,1300 1016,1306 1079,1270 1172,1297 1172,1241 737,1227 580,1259 524,1219 429,1261 379,1229 119,1248"/>
+                <Baseline points="126,1279 180,1280 235,1281 290,1282 344,1282 399,1282 454,1282 508,1282 563,1282 618,1282 672,1281 727,1281 782,1280 836,1280 891,1280 946,1280 1000,1280 1055,1280 1110,1280 1165,1281"/>
+                <TextEquiv>
+                    <Unicode>seats at every few yards, &amp; either gas or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="106,1379 324,1413 710,1380 880,1420 924,1389 1205,1391 1205,1359 1058,1324 659,1362 545,1317 486,1347 373,1317 264,1362 107,1321"/>
+                <Baseline points="114,1370 168,1372 222,1373 276,1374 330,1376 385,1376 439,1377 493,1377 547,1378 601,1378 656,1378 710,1378 764,1378 818,1378 872,1378 927,1379 981,1379 1035,1380 1089,1380 1143,1381 1198,1383"/>
+                <TextEquiv>
+                    <Unicode>electric lights. There is not a public house</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="138,1489 533,1478 623,1524 953,1477 1131,1500 1255,1477 1255,1423 1158,1414 1059,1463 986,1415 828,1455 706,1419 572,1455 138,1424"/>
+                <Baseline points="145,1471 200,1472 255,1473 310,1474 365,1474 420,1475 475,1476 531,1476 586,1476 641,1477 696,1477 751,1477 806,1477 861,1477 917,1476 972,1476 1027,1475 1082,1475 1137,1474 1192,1473 1248,1472"/>
+                <TextEquiv>
+                    <Unicode>to be seen, nor any poverty. It is in fact</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="114,1584 659,1577 805,1620 1006,1554 1191,1590 1190,1532 1041,1499 994,1538 900,1505 854,1547 738,1519 589,1554 461,1518 114,1546"/>
+                <Baseline points="121,1573 174,1573 227,1574 280,1574 333,1573 386,1573 439,1572 492,1572 545,1571 598,1570 652,1569 705,1568 758,1567 811,1566 864,1565 917,1564 970,1564 1023,1563 1076,1563 1129,1562 1183,1562"/>
+                <TextEquiv>
+                    <Unicode>a resort of the rich.  Many fine houses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="148,1673 299,1705 400,1667 1155,1683 1155,1624 1065,1634 1017,1598 938,1643 832,1614 753,1635 670,1591 610,1636 390,1613 328,1655 194,1597 148,1623"/>
+                <Baseline points="155,1671 204,1670 254,1668 303,1667 353,1666 403,1665 452,1663 502,1662 552,1661 601,1661 651,1660 701,1660 750,1660 800,1660 850,1660 899,1660 949,1661 999,1661 1048,1662 1098,1664 1148,1665"/>
+                <TextEquiv>
+                    <Unicode>belong to wealthy Leeds &amp; even London</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="669,1711 677,1711 687,1720 700,1718 707,1724 724,1721 735,1730 743,1731 744,1683 736,1685 713,1679 710,1682 699,1675 678,1684 670,1683"/>
+                <Baseline points="676,1713 706,1714 736,1715"/>
+                <TextEquiv>
+                    <Unicode>tec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="156,1793 443,1753 851,1786 915,1750 1209,1793 1209,1740 1119,1744 1072,1705 920,1734 157,1724"/>
+                <Baseline points="163,1760 217,1759 272,1759 327,1758 381,1758 436,1757 491,1757 545,1756 600,1756 655,1756 709,1756 764,1756 819,1757 873,1758 928,1759 983,1760 1037,1762 1092,1765 1147,1767 1202,1771"/>
+                <TextEquiv>
+                    <Unicode>people &amp; the architecture of the houses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="114,1892 1108,1862 1107,1826 996,1780 817,1833 698,1798 557,1841 113,1827"/>
+                <Baseline points="121,1863 170,1862 219,1861 268,1860 317,1860 366,1859 415,1858 464,1858 513,1857 562,1856 611,1856 660,1855 709,1854 758,1853 807,1852 856,1851 905,1850 954,1848 1003,1847 1052,1845 1101,1843"/>
+                <TextEquiv>
+                    <Unicode>great &amp; small is a lesson to London</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="110,1950 135,1963 194,1955 225,1969 286,1957 344,1955 367,1965 399,1957 399,1918 386,1915 366,1926 346,1915 332,1926 283,1915 252,1928 208,1905 188,1914 144,1886 111,1891"/>
+                <Baseline points="117,1946 142,1945 167,1944 192,1944 217,1944 242,1944 267,1945 292,1945 317,1946 342,1947 367,1949 392,1949"/>
+                <TextEquiv>
+                    <Unicode>Villadom.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="177,2043 911,2043 971,2010 1122,2008 1121,1971 1061,1962 529,2005 464,1977 314,2012 176,1969"/>
+                <Baseline points="184,2025 230,2026 277,2026 323,2026 370,2026 416,2026 463,2025 509,2025 556,2024 602,2023 649,2022 696,2020 742,2019 789,2018 835,2016 882,2015 928,2014 975,2012 1021,2011 1068,2010 1115,2010"/>
+                <TextEquiv>
+                    <Unicode>We are most comfortable in our</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="541,2078 551,2079 556,2076 558,2078 565,2071 569,2075 578,2075 578,2033 556,2032 548,2041 541,2041"/>
+                <Baseline points="548,2066 570,2066"/>
+                <TextEquiv>
+                    <Unicode>th</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="66,2133 1193,2113 1192,2068 1073,2044 679,2085 633,2049 583,2084 460,2052 264,2092 65,2063"/>
+                <Baseline points="73,2105 128,2107 184,2110 239,2111 295,2112 351,2113 406,2112 462,2112 517,2111 573,2109 629,2107 684,2105 740,2104 795,2101 851,2099 907,2097 962,2096 1018,2094 1073,2093 1129,2092 1185,2092"/>
+                <TextEquiv>
+                    <Unicode>quarters, facing the huge belt of meadow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The place is doing her also much good&#13;
+Our appetites are voracious, &amp; we get all&#13;
+the fresh air we can.&#13;
+The town is very attractive for&#13;
+its gardens &amp; the excellence of the private&#13;
+houses in literally all the suburbs. The&#13;
+roads every where good &amp; they are timly&#13;
+literally lined with flowering trees &amp;&#13;
+opposite the houses &amp; in their gardens&#13;
+shrubs to an Extent I have never seen&#13;
+elsewhere. For at least a mile of&#13;
+every road out of the town there are&#13;
+eithers&#13;
+seats at every few yards, &amp; either gas or&#13;
+electric lights. There is not a public house&#13;
+to be seen, nor any poverty. It is in fact&#13;
+a resort of the rich.  Many fine houses&#13;
+belong to wealthy Leeds &amp; even London&#13;
+tec&#13;
+people &amp; the architecture of the houses&#13;
+great &amp; small is a lesson to London&#13;
+Villadom.&#13;
+We are most comfortable in our&#13;
+th&#13;
+quarters, facing the huge belt of meadow</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:45:17.147-04:00</Created>
+        <LastChange>2020-06-24T05:47:12.158+02:00</LastChange>
+        <TranskribusMetadata docId="418295" pageId="16659310" pageNr="2" tsid="32542564" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ILJITLETUIVNALZFIAOFPLQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PEBGXKPBINJEYBETIETFCFFR" imageId="12444766"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_167_003.jpg" imageWidth="1428" imageHeight="2191">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330931983" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="167,194 167,864 1319,864 1319,194"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="213,260 259,258 309,292 421,252 455,269 625,249 725,259 743,252 743,196 690,205 656,180 609,215 506,214 486,229 437,208 274,223 212,201"/>
+                <Baseline points="219,254 244,254 270,253 296,253 322,253 348,252 374,252 399,252 425,251 451,251 477,251 503,251 529,250 555,250 580,250 606,250 632,250 658,250 684,250 710,250 736,250"/>
+                <TextEquiv>
+                    <Unicode>vey unequal lot.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="313,402 442,369 532,400 1180,361 1327,397 1326,321 1225,304 1107,339 1031,312 975,350 677,327 618,359 312,302"/>
+                <Baseline points="319,372 369,374 419,374 469,375 519,375 569,375 619,375 669,374 719,373 769,372 819,371 869,370 919,369 969,367 1019,366 1069,365 1119,364 1169,363 1219,362 1269,361 1319,360"/>
+                <TextEquiv>
+                    <Unicode>If ever you care to see the book of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="160,483 329,478 419,521 639,469 809,497 889,471 950,504 1226,472 1225,406 1099,444 807,447 637,402 353,453 285,408 160,450"/>
+                <Baseline points="167,474 219,474 272,474 324,474 377,474 430,473 482,472 535,471 587,470 640,470 693,468 745,467 798,466 850,465 903,464 956,463 1008,463 1061,462 1113,462 1166,461 1219,461"/>
+                <TextEquiv>
+                    <Unicode>outlines of the pictures at Yarmouth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="169,608 427,607 507,644 612,593 872,605 871,571 772,534 637,562 555,540 459,571 329,529 264,554 219,522 168,532"/>
+                <Baseline points="175,599 209,598 244,598 278,598 313,598 347,597 382,597 416,597 451,597 485,597 520,597 554,596 589,596 623,596 658,595 692,595 727,594 761,594 796,593 830,592 865,591"/>
+                <TextEquiv>
+                    <Unicode>I will bring it to Kew.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="480,731 522,737 539,720 623,731 680,768 701,759 761,783 860,710 893,719 893,660 844,655 761,679 708,650 606,703 530,637 479,657"/>
+                <Baseline points="486,716 511,716 536,715 561,715 586,716 611,717 636,718 661,718 686,720 711,720 736,720 761,720 786,718 811,716 836,713 861,709 887,703"/>
+                <TextEquiv>
+                    <Unicode>Ever affy yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="860,881 920,841 998,844 1068,823 1177,838 1200,821 1248,835 1244,764 1197,769 1134,753 1117,767 1058,744 997,748 922,702 887,732 853,735"/>
+                <Baseline points="864,836 889,835 914,834 939,833 964,830 989,828 1014,826 1039,824 1065,822 1090,820 1115,819 1140,819 1165,819 1190,820 1215,822 1241,825"/>
+                <TextEquiv>
+                    <Unicode>Jos. D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vey unequal lot.&#13;
+If ever you care to see the book of&#13;
+outlines of the pictures at Yarmouth&#13;
+I will bring it to Kew.&#13;
+Ever affy yrs&#13;
+Jos. D. Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

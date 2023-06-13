@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:42:29.402-04:00</Created>
+        <LastChange>2020-06-24T03:13:25.005+02:00</LastChange>
+        <TranskribusMetadata docId="418291" pageId="16659302" pageNr="4" tsid="32541540" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=MXXAGBVBZUXJUARBMZABUAXC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CWNAQYQXUDQPLABKICCRMCUF" imageId="12444758"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_163_006.jpg" imageWidth="1402" imageHeight="2211">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330936418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="70,122 70,2139 1308,2139 1308,122"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="135,178 1108,196 1276,173 1276,97 924,122 876,85 805,111 755,77 427,68 134,150"/>
+                <Baseline points="142,172 198,171 254,169 310,169 367,168 423,168 479,168 536,168 592,168 648,168 705,169 761,169 817,169 873,169 930,169 986,168 1042,168 1099,166 1155,165 1211,163 1268,161"/>
+                <TextEquiv>
+                    <Unicode>as a Member. As soon as I get the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="131,281 384,289 499,345 732,287 1316,296 1316,247 1200,216 1115,258 978,211 643,266 283,182 131,206"/>
+                <Baseline points="138,279 196,279 255,280 313,280 372,281 430,281 489,281 547,282 606,282 664,282 723,282 781,282 840,282 898,281 957,281 1015,280 1074,280 1132,279 1191,278 1249,277 1308,276"/>
+                <TextEquiv>
+                    <Unicode>Ceylon Flora off my hands I shall set to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="146,401 202,389 395,416 422,397 602,395 636,414 697,400 698,368 625,345 585,365 481,343 402,361 361,332 300,349 276,337 237,360 197,336 147,347"/>
+                <Baseline points="154,384 180,385 207,386 234,387 261,389 288,389 314,390 341,391 368,391 395,392 422,392 448,392 475,392 502,393 529,393 556,393 582,393 609,393 636,393 663,392 690,392"/>
+                <TextEquiv>
+                    <Unicode>work to get more.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="313,538 535,531 716,568 770,542 851,568 964,538 1256,542 1256,500 1145,439 956,482 809,436 751,489 680,458 598,487 529,458 429,476 315,416"/>
+                <Baseline points="321,502 367,504 413,506 460,508 506,509 552,510 599,510 645,511 691,511 738,511 784,511 830,511 877,512 923,512 969,513 1016,514 1062,515 1108,517 1155,520 1201,522 1248,526"/>
+                <TextEquiv>
+                    <Unicode>I went to the Levee yesterday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="97,593 303,649 469,598 943,657 1239,639 1240,574 1190,562 815,588 516,535 255,567 98,522"/>
+                <Baseline points="105,587 161,590 217,593 274,595 330,597 387,598 443,600 499,601 556,602 612,602 669,603 725,603 781,603 838,604 894,604 951,604 1007,605 1063,605 1120,606 1176,607 1233,608"/>
+                <TextEquiv>
+                    <Unicode>taken by Sir E Fanshawe as usual, &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="95,692 457,724 978,684 1178,760 1293,732 1282,635 1094,675 1026,631 761,668 96,651"/>
+                <Baseline points="102,686 161,688 220,690 279,691 338,691 398,691 457,690 516,689 575,688 634,687 694,686 753,685 812,685 871,685 930,687 990,688 1049,692 1108,696 1167,702 1226,708 1286,717"/>
+                <TextEquiv>
+                    <Unicode>spent a delightful day with him, Lot.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="94,772 242,833 617,786 732,838 1232,848 1232,770 925,730 519,769 318,727 94,743"/>
+                <Baseline points="101,774 157,778 213,782 269,784 325,786 381,786 437,787 494,786 550,785 606,785 662,784 718,783 774,782 830,781 887,781 943,781 999,782 1055,784 1111,786 1167,790 1224,795"/>
+                <TextEquiv>
+                    <Unicode>accompanying me -- leaving this morning.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="105,885 1297,913 1261,853 855,875 780,840 107,817"/>
+                <Baseline points="113,873 171,876 230,878 289,880 348,882 407,883 466,885 524,885 583,886 642,887 701,888 760,888 819,889 878,890 936,891 995,892 1054,893 1113,894 1172,896 1231,898 1290,901"/>
+                <TextEquiv>
+                    <Unicode>He had to present a Grandson, a quiet youth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="105,1000 242,964 315,1000 1226,1000 1202,939 1054,968 949,921 824,954 685,926 638,964 107,920"/>
+                <Baseline points="113,964 168,965 223,967 278,969 334,970 389,972 444,973 499,975 555,977 610,978 665,980 720,981 776,982 831,983 886,984 941,985 997,985 1052,985 1107,986 1162,986 1218,985"/>
+                <TextEquiv>
+                    <Unicode>just appointed to a Halifax Regt and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="111,1067 652,1092 709,1059 1103,1119 1194,1102 1196,1029 1064,1057 535,1007 388,1041 255,995 112,1024"/>
+                <Baseline points="119,1051 172,1052 225,1054 279,1055 332,1056 386,1057 439,1058 492,1059 546,1060 599,1061 653,1062 706,1063 759,1064 813,1065 866,1066 920,1067 973,1069 1026,1070 1080,1072 1133,1074 1187,1076"/>
+                <TextEquiv>
+                    <Unicode>smothered in military millinery, the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="106,1150 396,1195 497,1150 555,1201 622,1159 983,1144 1087,1200 1201,1170 1202,1104 1021,1088 955,1135 783,1096 632,1131 264,1120 107,1073"/>
+                <Baseline points="114,1139 168,1141 222,1142 276,1143 330,1145 384,1145 438,1146 492,1147 546,1148 600,1148 654,1149 708,1149 762,1149 816,1150 870,1150 924,1150 978,1150 1032,1150 1086,1149 1140,1149 1194,1149"/>
+                <TextEquiv>
+                    <Unicode>extravagant gaud of which is a thing to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="83,1261 363,1284 478,1236 552,1277 683,1241 1247,1241 1155,1190 1116,1218 641,1180 491,1209 445,1173 379,1211 83,1197"/>
+                <Baseline points="91,1222 148,1224 205,1226 263,1228 320,1230 378,1231 435,1232 492,1233 550,1234 607,1234 665,1234 722,1235 779,1235 837,1235 894,1235 952,1236 1009,1236 1066,1236 1124,1237 1181,1237 1239,1238"/>
+                <TextEquiv>
+                    <Unicode>dream of. -- How the Govt. can sanction it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="114,1308 463,1317 557,1371 860,1314 1277,1369 1278,1324 1133,1291 115,1278"/>
+                <Baseline points="121,1308 178,1311 235,1313 293,1314 350,1316 408,1317 465,1317 523,1318 580,1318 638,1319 695,1319 752,1320 810,1321 867,1322 925,1324 982,1325 1040,1328 1097,1332 1155,1336 1212,1341 1270,1347"/>
+                <TextEquiv>
+                    <Unicode> a marvel. The very waistcoat, worn under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="116,1408 323,1436 632,1403 767,1457 1061,1414 1281,1458 1298,1399 1165,1363 521,1382 437,1350 394,1382 117,1346"/>
+                <Baseline points="124,1395 182,1397 240,1399 298,1400 357,1401 415,1402 473,1403 532,1403 590,1404 648,1404 707,1405 765,1406 823,1407 881,1408 940,1410 998,1413 1056,1416 1115,1421 1173,1426 1231,1431 1290,1438"/>
+                <TextEquiv>
+                    <Unicode>the shell-- jacket is one mass of gold embroidery on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="122,1496 1278,1514 1279,1460 1068,1472 1022,1438 959,1471 704,1456 663,1421 123,1444"/>
+                <Baseline points="130,1479 187,1482 244,1483 301,1485 358,1486 415,1486 472,1486 529,1486 586,1486 643,1486 700,1486 757,1487 814,1487 871,1488 928,1489 985,1491 1042,1494 1099,1497 1156,1501 1213,1505 1270,1511"/>
+                <TextEquiv>
+                    <Unicode>White Satin! -- beautiful indeed. His outfit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="572,1531 601,1535 611,1526 626,1536 656,1528 793,1547 795,1504 770,1503 751,1488 736,1486 715,1502 700,1492 687,1498 663,1489 648,1498 635,1484 621,1495 574,1493"/>
+                <Baseline points="581,1518 606,1519 632,1521 658,1522 684,1523 709,1524 735,1525 761,1525 787,1526"/>
+                <TextEquiv>
+                    <Unicode>&amp; his pay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="103,1569 145,1600 626,1573 815,1605 874,1575 1197,1609 1245,1597 1247,1536 1181,1561 1045,1520 802,1561 502,1508 104,1517"/>
+                <Baseline points="111,1556 167,1560 223,1563 280,1567 336,1569 392,1570 449,1572 505,1573 561,1573 618,1574 674,1575 730,1575 787,1576 843,1576 899,1577 956,1578 1012,1580 1068,1581 1125,1584 1181,1587 1238,1590"/>
+                <TextEquiv>
+                    <Unicode>cost £500 &amp; £300 a year is the best he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="88,1657 521,1660 563,1698 1057,1674 1291,1716 1293,1648 1207,1670 1090,1614 860,1643 90,1597"/>
+                <Baseline points="96,1641 155,1646 214,1650 274,1652 333,1655 393,1656 452,1657 511,1658 571,1658 630,1659 690,1659 749,1660 808,1661 868,1663 927,1666 987,1669 1046,1673 1105,1678 1165,1685 1224,1693 1284,1702"/>
+                <TextEquiv>
+                    <Unicode>can do with in a very quiet cavalry Regiment</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="106,1730 356,1707 412,1765 623,1722 750,1737 820,1793 958,1740 1171,1794 1265,1737 931,1687 110,1659"/>
+                <Baseline points="115,1696 172,1700 229,1704 286,1707 343,1710 400,1712 457,1714 514,1716 571,1718 628,1720 685,1722 742,1724 799,1727 856,1729 913,1732 970,1736 1027,1740 1084,1745 1141,1751 1198,1757 1256,1764"/>
+                <TextEquiv>
+                    <Unicode>for which no examination is required!!! </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="454,1780 482,1783 494,1799 507,1795 529,1801 534,1807 559,1808 572,1732 554,1727 519,1752 515,1748 505,1751 492,1732 481,1726 472,1732 462,1730"/>
+                <Baseline points="464,1765 494,1772 525,1778 556,1779"/>
+                <TextEquiv>
+                    <Unicode>ra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="787,1945 845,1922 932,1946 979,1926 1087,1949 1119,1929 1260,1924 1264,1833 1158,1819 1102,1847 1055,1806 1011,1812 985,1796 947,1822 884,1809 830,1846 791,1829"/>
+                <Baseline points="796,1906 821,1908 846,1909 872,1911 897,1913 922,1914 948,1916 973,1917 999,1918 1024,1919 1049,1920 1075,1921 1100,1922 1126,1922 1151,1922 1176,1923 1202,1922 1227,1922 1253,1921"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="149,2037 942,2066 1235,2052 1236,2012 1142,2009 1073,1953 946,1993 878,1947 754,1993 654,1938 537,2005 357,2000 150,1937"/>
+                <Baseline points="157,2025 210,2028 264,2030 317,2032 371,2034 424,2035 478,2036 531,2037 585,2037 638,2037 692,2038 745,2038 799,2038 852,2038 906,2039 959,2039 1013,2040 1066,2041 1120,2043 1173,2044 1227,2047"/>
+                <TextEquiv>
+                    <Unicode>I shall go &amp; see Paget. Except Sabina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="63,2123 345,2114 434,2153 541,2124 622,2167 739,2123 875,2158 1069,2114 1070,2056 585,2095 528,2061 402,2096 63,2056"/>
+                <Baseline points="70,2107 119,2109 169,2111 218,2112 268,2113 317,2115 367,2116 416,2117 466,2117 515,2118 565,2118 615,2118 664,2119 714,2119 763,2119 813,2119 862,2119 912,2120 961,2120 1011,2120 1061,2120"/>
+                <TextEquiv>
+                    <Unicode>Smith he is quite my oldest friend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>as a Member. As soon as I get the&#13;
+Ceylon Flora off my hands I shall set to&#13;
+work to get more.&#13;
+I went to the Levee yesterday&#13;
+taken by Sir E Fanshawe as usual, &amp;&#13;
+spent a delightful day with him, Lot.&#13;
+accompanying me -- leaving this morning.&#13;
+He had to present a Grandson, a quiet youth&#13;
+just appointed to a Halifax Regt and&#13;
+smothered in military millinery, the&#13;
+extravagant gaud of which is a thing to&#13;
+dream of. -- How the Govt. can sanction it is&#13;
+ a marvel. The very waistcoat, worn under&#13;
+the shell-- jacket is one mass of gold embroidery on&#13;
+White Satin! -- beautiful indeed. His outfit&#13;
+&amp; his pay&#13;
+cost £500 &amp; £300 a year is the best he&#13;
+can do with in a very quiet cavalry Regiment&#13;
+for which no examination is required!!! &#13;
+ra&#13;
+Jos D Hooker&#13;
+I shall go &amp; see Paget. Except Sabina&#13;
+Smith he is quite my oldest friend.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

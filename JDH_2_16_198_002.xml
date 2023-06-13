@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:50:09.563-04:00</Created>
+        <LastChange>2023-05-16T17:26:57.112+02:00</LastChange>
+        <TranskribusMetadata docId="421884" pageId="16787534" pageNr="2" tsid="121935819" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=TYCXPPFNOZZEPJXJJYESRCPB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRMNQEHQCNPSNSOVERYDMWIX" imageId="12542322"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_198_002.jpg" imageWidth="1467" imageHeight="2151">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330902699" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="125,280 125,1994 1241,1994 1241,280"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="157,357 292,369 433,332 552,361 697,322 826,330 825,301 726,261 623,296 567,271 319,304 156,275"/>
+                <Baseline points="163,325 195,326 228,326 261,326 294,326 327,326 359,326 392,325 425,325 458,324 491,324 523,323 556,323 589,322 622,322 654,321 687,321 720,320 753,319 786,319 819,319"/>
+                <TextEquiv>
+                    <Unicode>lessons in elocution.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="257,443 1140,437 1138,378 1037,364 749,399 507,385 456,413 303,368 256,397"/>
+                <Baseline points="264,434 307,434 350,434 394,434 437,433 481,432 524,431 567,430 611,429 654,427 698,425 741,424 784,423 828,421 871,420 915,419 958,419 1001,418 1045,418 1088,418 1132,419"/>
+                <TextEquiv>
+                    <Unicode>I cannot but conjecture that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="119,558 454,564 589,532 690,559 880,521 969,551 1127,522 1125,457 881,505 821,474 642,512 309,516 172,473 117,503"/>
+                <Baseline points="125,535 174,537 224,538 274,539 324,539 373,539 423,538 473,537 523,536 572,534 622,532 672,530 722,528 771,525 821,523 871,521 921,519 970,517 1020,516 1070,514 1120,513"/>
+                <TextEquiv>
+                    <Unicode>there was more migration across the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="601,591 614,589 623,597 649,579 682,588 694,582 705,583 711,577 719,577 718,555 686,558 665,540 655,538 639,547 625,563 614,552 599,556"/>
+                <Baseline points="607,581 633,579 660,578 686,577 713,575"/>
+                <TextEquiv>
+                    <Unicode>after</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} textStyle {offset:14; length:6;strikethrough:true;}">
+                <Coords points="133,637 544,651 851,614 1010,641 996,577 694,604 571,574 528,605 363,612 131,571"/>
+                <Baseline points="139,627 182,628 225,630 268,631 311,631 354,631 397,630 441,630 484,628 527,627 570,625 613,623 656,622 699,620 743,618 786,616 829,614 872,612 915,611 958,610 1002,609"/>
+                <TextEquiv>
+                    <Unicode>Mediterranean before or during</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="155,738 851,703 1029,730 1093,720 1092,672 1022,645 862,684 636,663 552,701 441,657 352,702 153,681"/>
+                <Baseline points="161,716 207,718 253,720 299,720 346,720 392,720 438,719 484,718 531,716 577,714 623,712 669,710 716,708 762,706 808,704 854,702 901,701 947,699 993,699 1039,699 1086,699"/>
+                <TextEquiv>
+                    <Unicode>Miocene times than the existing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="170,814 281,809 344,847 682,790 1093,793 1106,736 670,779 575,738 326,789 226,735 168,756"/>
+                <Baseline points="177,804 223,806 269,807 315,807 361,807 407,807 453,806 500,805 546,803 592,802 638,800 684,797 730,795 776,793 823,791 869,789 915,788 961,786 1007,785 1053,785 1100,785"/>
+                <TextEquiv>
+                    <Unicode>Flora of the Atlas evidences. &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="157,918 1248,896 1247,861 1095,829 898,831 833,867 673,840 565,873 156,865"/>
+                <Baseline points="163,903 216,903 270,902 324,900 378,899 432,896 486,895 540,892 594,889 648,887 702,885 755,883 809,881 863,879 917,878 971,878 1025,878 1079,879 1133,881 1187,883 1241,887"/>
+                <TextEquiv>
+                    <Unicode>that the desication of the Saharan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="171,998 219,1018 633,963 777,987 924,950 1036,996 1141,965 1139,918 998,897 707,945 576,921 503,955 401,930 335,964 170,955"/>
+                <Baseline points="178,982 225,981 273,980 321,979 369,977 416,975 464,972 512,969 560,967 607,964 655,961 703,959 751,956 798,955 846,953 894,952 942,952 989,952 1037,953 1085,955 1133,958"/>
+                <TextEquiv>
+                    <Unicode>region has obliterated much of it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="176,1089 781,1107 840,1060 1124,1062 1122,1016 1068,1001 712,1044 174,1031"/>
+                <Baseline points="182,1074 228,1074 275,1073 322,1073 369,1072 415,1071 462,1070 509,1068 556,1067 602,1065 649,1064 696,1062 743,1060 789,1059 836,1057 883,1056 930,1054 976,1053 1023,1052 1070,1051 1117,1051"/>
+                <TextEquiv>
+                    <Unicode>but I am so ignorant of all that has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="182,1179 770,1180 844,1154 943,1191 1165,1159 1164,1105 1016,1130 709,1104 616,1140 503,1111 447,1149 370,1122 321,1153 181,1125"/>
+                <Baseline points="188,1167 236,1168 285,1168 333,1168 382,1168 430,1167 479,1165 527,1164 576,1162 624,1160 673,1158 721,1157 770,1155 818,1153 867,1152 915,1152 964,1151 1012,1151 1061,1152 1109,1154 1158,1156"/>
+                <TextEquiv>
+                    <Unicode>been done towards the geology of that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="175,1273 605,1280 809,1246 949,1274 1073,1238 1140,1262 1160,1199 677,1202 637,1233 467,1242 174,1225"/>
+                <Baseline points="182,1260 230,1260 279,1260 327,1259 376,1258 425,1257 473,1256 522,1255 570,1253 619,1252 668,1250 716,1249 765,1247 813,1245 862,1243 911,1242 959,1240 1008,1238 1056,1237 1105,1235 1154,1234"/>
+                <TextEquiv>
+                    <Unicode>vast area, during the last 1/4 century</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="163,1369 500,1354 692,1393 812,1353 1105,1360 1115,1311 852,1294 492,1334 163,1312"/>
+                <Baseline points="170,1346 216,1349 263,1351 310,1352 357,1353 404,1354 451,1353 498,1353 545,1352 592,1351 639,1350 685,1349 732,1348 779,1347 826,1345 873,1345 920,1344 967,1343 1014,1343 1061,1344 1108,1344"/>
+                <TextEquiv>
+                    <Unicode>that I have no grasp of the subject.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="174,1451 327,1471 394,1441 564,1483 677,1451 1189,1467 1205,1414 174,1404"/>
+                <Baseline points="181,1442 231,1441 282,1441 333,1441 384,1441 435,1442 486,1443 536,1444 587,1445 638,1446 689,1447 740,1448 791,1449 842,1450 892,1451 943,1452 994,1452 1045,1453 1096,1453 1147,1453 1198,1452"/>
+                <TextEquiv>
+                    <Unicode>I am enjoying what Darwin called</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="156,1554 525,1583 674,1545 771,1583 956,1557 1003,1590 1107,1554 1221,1571 1222,1514 957,1537 859,1499 676,1529 308,1502 256,1528 157,1495"/>
+                <Baseline points="163,1548 215,1547 268,1546 320,1545 373,1545 426,1546 478,1546 531,1547 583,1548 636,1549 689,1551 741,1552 794,1553 846,1554 899,1555 952,1555 1004,1556 1057,1555 1109,1555 1162,1554 1215,1552"/>
+                <TextEquiv>
+                    <Unicode>the privilege of old age, to be ignorant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="150,1639 184,1655 230,1642 269,1660 313,1644 421,1661 549,1643 577,1655 578,1592 460,1622 427,1601 352,1618 321,1596 294,1606 265,1589 230,1608 150,1612"/>
+                <Baseline points="157,1640 182,1640 208,1641 234,1641 260,1641 286,1641 312,1641 338,1641 364,1641 389,1642 415,1642 441,1642 467,1642 493,1641 519,1641 545,1641 571,1641"/>
+                <TextEquiv>
+                    <Unicode>&amp; not ashamed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="220,1743 482,1726 616,1762 759,1722 848,1758 920,1721 1225,1725 1127,1663 991,1697 906,1670 806,1693 742,1669 689,1700 219,1689"/>
+                <Baseline points="226,1727 275,1727 325,1727 374,1727 424,1727 474,1726 523,1725 573,1725 622,1724 672,1723 722,1722 771,1721 821,1720 870,1719 920,1718 970,1718 1019,1717 1069,1717 1118,1717 1168,1717 1218,1718"/>
+                <TextEquiv>
+                    <Unicode>Balsams occupy all my time. I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="134,1820 512,1836 592,1807 668,1843 723,1803 831,1840 1187,1817 1210,1776 134,1787"/>
+                <Baseline points="140,1816 193,1815 246,1813 299,1811 352,1810 405,1809 458,1808 512,1807 565,1807 618,1806 671,1806 724,1806 777,1806 830,1806 884,1806 937,1807 990,1807 1043,1808 1096,1809 1149,1810 1203,1811"/>
+                <TextEquiv>
+                    <Unicode>detailed descriptions of nearly 400 species.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="176,1891 1136,1905 1136,1862 1024,1873 976,1839 518,1864 379,1839 329,1872 176,1833"/>
+                <Baseline points="182,1889 229,1889 276,1889 324,1889 371,1889 418,1888 466,1888 513,1887 560,1886 608,1886 655,1885 702,1885 750,1885 797,1885 844,1885 892,1886 939,1887 986,1888 1034,1890 1081,1892 1129,1895"/>
+                <TextEquiv>
+                    <Unicode>Their geographical distribution is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="155,1983 315,1978 411,2016 553,1974 1131,1995 1166,1945 1013,1950 924,1912 861,1955 752,1918 648,1952 421,1920 155,1947"/>
+                <Baseline points="162,1971 211,1971 261,1971 311,1971 361,1971 411,1970 461,1970 511,1970 561,1970 611,1970 661,1970 710,1970 760,1970 810,1970 860,1970 910,1971 960,1971 1010,1972 1060,1973 1110,1974 1160,1975"/>
+                <TextEquiv>
+                    <Unicode>wonderfully interesting -- I am now</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lessons in elocution.&#13;
+I cannot but conjecture that&#13;
+there was more migration across the&#13;
+after&#13;
+Mediterranean before or during&#13;
+Miocene times than the existing&#13;
+Flora of the Atlas evidences. &amp;&#13;
+that the desication of the Saharan&#13;
+region has obliterated much of it.&#13;
+but I am so ignorant of all that has&#13;
+been done towards the geology of that&#13;
+vast area, during the last 1/4 century&#13;
+that I have no grasp of the subject.&#13;
+I am enjoying what Darwin called&#13;
+the privilege of old age, to be ignorant&#13;
+&amp; not ashamed.&#13;
+Balsams occupy all my time. I have&#13;
+detailed descriptions of nearly 400 species.&#13;
+Their geographical distribution is&#13;
+wonderfully interesting -- I am now</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

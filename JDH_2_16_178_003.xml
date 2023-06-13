@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:35:05.181-04:00</Created>
+        <LastChange>2020-06-26T05:26:15.668+02:00</LastChange>
+        <TranskribusMetadata docId="419516" pageId="16700514" pageNr="1" tsid="32728978" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=KGISFNLFFWORUCTAUEPKITAG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDGDGFAOYXXVAFXPIXPQYCWT" imageId="12478828"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_178_003.jpg" imageWidth="1387" imageHeight="2175">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330915364" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="113,36 113,1668 1284,1668 1284,36"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="375,113 425,89 472,97 502,85 554,107 593,84 710,100 744,76 787,72 785,24 746,15 703,37 620,17 605,33 562,36 529,18 493,30 468,16 444,29 372,23"/>
+                <Baseline points="381,85 407,82 434,80 460,78 487,77 514,75 540,75 567,74 593,73 620,73 647,72 673,72 700,71 726,70 753,69 780,68"/>
+                <TextEquiv>
+                    <Unicode>(literally pages of)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="112,203 1021,125 1152,161 1199,129 1177,74 109,146"/>
+                <Baseline points="118,174 171,172 225,169 278,166 332,163 386,161 439,158 493,156 547,153 600,150 654,147 708,145 761,142 815,139 869,136 922,132 976,129 1030,126 1083,122 1137,119 1191,115"/>
+                <TextEquiv>
+                    <Unicode>me no end of citation &amp; laudation to my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="122,290 180,259 536,240 614,269 749,221 807,249 932,211 1167,215 1173,167 698,174 648,209 566,184 429,224 349,192 118,233"/>
+                <Baseline points="127,259 179,257 231,255 283,252 335,248 387,246 439,242 491,239 543,235 595,232 647,228 699,225 751,221 803,218 855,214 907,211 959,208 1011,206 1063,203 1115,201 1167,199"/>
+                <TextEquiv>
+                    <Unicode>great astonishment. For my physical &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="144,366 239,325 276,348 1121,288 1119,254 819,267 781,239 533,293 453,270 377,300 140,297"/>
+                <Baseline points="149,326 197,325 245,324 293,322 341,320 390,318 438,314 486,312 534,308 582,305 631,302 679,299 727,296 775,292 823,290 872,288 920,285 968,284 1016,283 1064,282 1113,282"/>
+                <TextEquiv>
+                    <Unicode>geological observations, he concludes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1077,336 1126,327 1139,332 1153,321 1163,331 1225,323 1257,349 1292,340 1288,281 1274,282 1257,297 1215,289 1203,301 1162,302 1122,276 1103,295 1074,295"/>
+                <Baseline points="1083,325 1108,326 1133,325 1158,323 1183,321 1208,318 1233,317 1258,316 1284,318"/>
+                <TextEquiv>
+                    <Unicode>shrewd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="138,422 1287,380 1226,322 1092,343 1041,314 136,384"/>
+                <Baseline points="144,411 200,410 257,407 314,405 371,402 427,399 484,396 541,392 598,389 654,386 711,382 768,378 825,375 881,372 938,369 995,366 1052,364 1108,361 1165,360 1222,358 1279,357"/>
+                <TextEquiv>
+                    <Unicode>"The volumes abound throughout with shrew</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="141,488 1249,443 1226,388 608,423 483,463 139,452"/>
+                <Baseline points="148,484 202,485 257,484 312,483 366,481 421,479 476,476 530,473 585,470 640,466 695,462 749,459 804,455 859,451 913,448 968,445 1023,443 1077,441 1132,439 1187,439 1242,439"/>
+                <TextEquiv>
+                    <Unicode>comments on all he observes, &amp; the thorough</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="142,562 445,587 609,546 1275,525 1273,475 1119,464 953,513 799,486 746,518 142,537"/>
+                <Baseline points="150,558 205,557 261,556 317,555 373,553 429,551 485,549 541,546 597,544 653,541 709,538 764,536 820,534 876,531 932,529 988,527 1044,525 1100,523 1156,522 1212,521 1268,521"/>
+                <TextEquiv>
+                    <Unicode>character of his observations is testified to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="179,683 480,635 1238,628 1237,591 930,554 733,605 645,580 176,605"/>
+                <Baseline points="184,646 236,646 288,645 340,644 393,641 445,639 497,637 550,634 602,631 654,628 707,625 759,623 811,620 863,618 916,615 968,613 1020,612 1073,611 1125,611 1177,611 1230,612"/>
+                <TextEquiv>
+                    <Unicode>by the fact, that, since his journal was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="151,742 1136,671 1191,697 1230,684 1228,636 149,705"/>
+                <Baseline points="157,728 210,727 263,726 316,724 370,722 423,720 476,716 530,713 583,709 636,705 690,702 743,698 796,694 849,691 903,687 956,684 1009,681 1063,678 1116,675 1169,673 1223,671"/>
+                <TextEquiv>
+                    <Unicode>written, no additions to our knowledge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="154,834 966,764 1180,760 1244,793 1240,707 779,759 675,735 627,771 151,774"/>
+                <Baseline points="161,811 214,808 268,805 322,802 376,798 429,796 483,793 537,789 591,786 644,783 698,780 752,777 806,774 859,772 913,769 967,766 1021,764 1074,762 1128,760 1182,759 1236,758"/>
+                <TextEquiv>
+                    <Unicode>of any importance, have been made by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="148,892 1167,867 1271,847 1270,803 146,856"/>
+                <Baseline points="154,887 209,885 265,883 320,881 376,878 431,876 487,874 542,871 598,869 653,866 709,863 764,861 820,858 875,855 931,853 986,851 1042,849 1097,847 1153,845 1208,844 1264,842"/>
+                <TextEquiv>
+                    <Unicode>subsequent observers in the districts which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="185,959 678,938 870,967 1037,929 1162,957 1236,938 1235,880 1137,909 1070,872 1015,911 963,875 750,924 668,876 548,915 185,928"/>
+                <Baseline points="192,956 243,953 295,951 347,948 399,946 451,945 503,943 554,942 606,941 658,940 710,939 762,938 814,938 866,937 917,936 969,936 1021,935 1073,934 1125,934 1177,933 1229,932"/>
+                <TextEquiv>
+                    <Unicode>he visited." ! I am praised too for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="120,1079 428,1076 498,1042 575,1073 615,1037 767,1083 872,1039 1008,1064 1164,1029 1163,988 989,1015 886,987 813,1018 648,982 593,1028 336,1035 162,995 119,1029"/>
+                <Baseline points="126,1058 177,1057 229,1056 280,1055 332,1054 383,1052 435,1051 486,1049 538,1047 589,1046 641,1044 693,1042 744,1040 796,1038 847,1036 899,1034 950,1033 1002,1031 1053,1030 1105,1028 1157,1027"/>
+                <TextEquiv>
+                    <Unicode>the accuracy of my survey, as being right</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="369,1091 383,1091 389,1089 392,1092 403,1091 408,1095 417,1095 417,1061 410,1061 406,1065 399,1061 390,1061 382,1055 369,1055"/>
+                <Baseline points="376,1085 410,1085"/>
+                <TextEquiv>
+                    <Unicode>er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="429,1099 437,1099 439,1101 440,1099 443,1102 454,1101 454,1064 440,1065 436,1069 429,1069"/>
+                <Baseline points="436,1089 448,1089"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="307,1094 320,1095 334,1107 342,1099 360,1100 358,1054 349,1055 343,1061 331,1067 320,1058 305,1060"/>
+                <Baseline points="314,1090 352,1088"/>
+                <TextEquiv>
+                    <Unicode>la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="132,1143 1136,1123 1143,1064 131,1101"/>
+                <Baseline points="139,1131 188,1131 238,1130 288,1129 338,1128 388,1127 438,1125 488,1124 538,1122 588,1121 638,1119 687,1117 737,1116 787,1114 837,1112 887,1111 937,1109 987,1108 1037,1107 1087,1105 1137,1104"/>
+                <TextEquiv>
+                    <Unicode>where leater surveyors have challenged it. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="187,1232 536,1218 585,1247 816,1194 975,1218 1180,1195 1178,1148 857,1146 809,1179 748,1150 667,1199 585,1159 480,1197 348,1162 291,1196 228,1157 185,1192"/>
+                <Baseline points="193,1211 244,1214 296,1216 347,1217 399,1217 450,1217 502,1216 553,1214 605,1212 656,1210 708,1207 759,1205 811,1202 862,1199 914,1195 965,1193 1017,1190 1068,1187 1120,1185 1172,1183"/>
+                <TextEquiv>
+                    <Unicode>The "Tibet Messenger" has telegraphed me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="107,1350 279,1350 316,1317 1136,1313 1135,1273 1075,1253 903,1248 794,1286 619,1259 559,1292 106,1294"/>
+                <Baseline points="113,1321 163,1321 214,1320 265,1319 316,1318 366,1316 417,1315 468,1313 519,1311 569,1309 620,1307 671,1305 722,1304 772,1302 823,1301 874,1300 925,1300 975,1300 1026,1301 1077,1302 1128,1304"/>
+                <TextEquiv>
+                    <Unicode>a most handsome tribute. All this has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="137,1425 238,1437 259,1422 330,1430 405,1414 622,1421 634,1379 581,1361 526,1388 456,1377 315,1395 259,1368 201,1395 172,1382 136,1398"/>
+                <Baseline points="143,1419 168,1419 193,1419 219,1418 244,1418 270,1417 295,1416 321,1415 346,1414 372,1414 397,1412 423,1411 448,1411 474,1410 499,1409 525,1409 550,1409 576,1408 601,1409 627,1409"/>
+                <TextEquiv>
+                    <Unicode>wakened me up.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="212,1504 552,1482 661,1510 805,1476 874,1500 1116,1456 1115,1425 1057,1402 783,1450 680,1429 642,1459 428,1440 381,1472 271,1440 210,1465"/>
+                <Baseline points="219,1497 263,1494 308,1492 352,1490 397,1488 441,1486 486,1484 530,1483 575,1481 619,1480 664,1478 708,1477 753,1475 797,1473 842,1471 886,1469 931,1466 975,1463 1020,1459 1064,1455 1109,1451"/>
+                <TextEquiv>
+                    <Unicode>I hope I shall see George when he returns.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="525,1576 590,1572 606,1583 667,1564 790,1608 822,1586 846,1585 848,1506 713,1510 620,1546 571,1516 527,1524"/>
+                <Baseline points="532,1569 557,1569 583,1569 608,1568 634,1568 659,1568 685,1568 711,1569 736,1570 762,1572 787,1574 813,1576 839,1580"/>
+                <TextEquiv>
+                    <Unicode>I am affy yr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="836,1691 907,1661 983,1667 1010,1644 1037,1653 1172,1644 1168,1576 1141,1584 1094,1571 1058,1586 1025,1568 985,1577 924,1564 893,1546 830,1586"/>
+                <Baseline points="841,1649 868,1651 895,1652 922,1652 949,1650 976,1647 1003,1644 1030,1642 1057,1639 1084,1637 1111,1637 1138,1638 1165,1641"/>
+                <TextEquiv>
+                    <Unicode>Jos. D. Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(literally pages of)&#13;
+me no end of citation &amp; laudation to my&#13;
+great astonishment. For my physical &amp;&#13;
+geological observations, he concludes&#13;
+shrewd&#13;
+"The volumes abound throughout with shrew&#13;
+comments on all he observes, &amp; the thorough&#13;
+character of his observations is testified to&#13;
+by the fact, that, since his journal was&#13;
+written, no additions to our knowledge&#13;
+of any importance, have been made by&#13;
+subsequent observers in the districts which&#13;
+he visited." ! I am praised too for&#13;
+the accuracy of my survey, as being right&#13;
+er&#13;
+&#13;
+la&#13;
+where leater surveyors have challenged it. &#13;
+The "Tibet Messenger" has telegraphed me&#13;
+a most handsome tribute. All this has&#13;
+wakened me up.&#13;
+I hope I shall see George when he returns.&#13;
+I am affy yr&#13;
+Jos. D. Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

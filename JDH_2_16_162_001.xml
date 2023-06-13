@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:41:50.114-04:00</Created>
+        <LastChange>2020-06-23T22:35:43.281+02:00</LastChange>
+        <TranskribusMetadata docId="418290" pageId="16659297" pageNr="1" tsid="32535168" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=IGINDETKKQIZGEMZROXWWNXT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BFEHVLKTEXTOAJDRANSFMQDS" imageId="12444753"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_162_001.jpg" imageWidth="1387" imageHeight="2171">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330937315" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="222,55 222,2064 1306,2064 1306,55"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1080,120 1107,119 1126,106 1134,113 1156,109 1193,118 1218,132 1237,130 1249,-3 1234,-5 1218,5 1213,-2 1178,5 1166,-2 1153,7 1111,-28 1094,-31"/>
+                <Baseline points="1088,106 1116,110 1145,111 1173,112 1202,115 1231,123"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="372,137 771,143 798,126 984,156 1059,142 1060,72 1015,51 859,55 753,105 641,103 544,34 491,31 373,99"/>
+                <Baseline points="378,120 411,123 445,125 479,126 513,127 546,128 580,129 614,129 648,130 681,131 715,131 749,131 783,132 816,132 850,132 884,132 918,133 951,133 985,134 1019,135 1053,136"/>
+                <TextEquiv>
+                    <Unicode>Marine Villa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="473,244 568,264 876,249 1011,279 1267,257 1268,213 1144,235 1006,171 716,180 649,136 474,213"/>
+                <Baseline points="479,246 518,245 557,244 596,245 635,245 674,246 713,248 752,250 791,252 830,254 870,257 909,259 948,260 987,262 1026,263 1065,264 1104,264 1143,263 1182,261 1221,259 1261,255"/>
+                <TextEquiv>
+                    <Unicode>South Terrace </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="552,382 603,378 686,422 964,410 1046,456 1160,388 1273,388 1273,305 1096,311 1018,357 932,286 781,305 701,264 606,334 552,338"/>
+                <Baseline points="558,368 593,370 628,372 664,373 699,375 735,376 770,377 805,378 841,379 876,379 912,380 947,380 982,380 1018,380 1053,379 1089,379 1124,378 1159,377 1195,375 1230,374 1266,372"/>
+                <TextEquiv>
+                    <Unicode>Littlehampton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="873,565 935,607 980,584 1026,581 1042,592 1100,596 1119,613 1133,607 1140,506 1121,505 1079,463 1017,454 981,416 925,445 882,436"/>
+                <Baseline points="879,565 904,565 929,566 954,569 979,571 1004,574 1029,576 1054,577 1079,578 1104,578 1129,576"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1128,613 1137,613 1139,616 1146,617 1160,609 1168,609 1170,581 1161,580 1159,577 1157,579 1149,581 1146,577 1141,578 1139,575 1131,574"/>
+                <Baseline points="1135,606 1161,608"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="216,665 255,659 293,681 336,640 485,625 571,653 659,632 657,576 642,568 583,576 537,553 466,582 357,575 213,525"/>
+                <Baseline points="222,642 247,639 272,636 297,634 323,632 348,631 373,630 399,628 424,627 449,627 474,626 500,626 525,627 550,627 576,627 601,628 626,629 652,630"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="444,771 762,756 808,730 1001,749 1061,716 1170,753 1211,718 1313,721 1312,682 1260,686 1153,626 1094,670 1001,662 930,698 841,676 688,715 522,654 442,706"/>
+                <Baseline points="449,741 491,741 534,740 577,739 620,738 663,736 706,735 748,733 791,732 834,730 877,729 920,727 963,725 1006,723 1048,721 1091,719 1134,717 1177,715 1220,713 1263,711 1306,709"/>
+                <TextEquiv>
+                    <Unicode>Scott wrote to me a few</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="257,865 458,870 540,839 693,872 737,834 814,878 918,833 995,855 1120,823 1195,848 1227,844 1225,775 1137,812 944,771 874,799 667,778 501,828 343,794 256,827"/>
+                <Baseline points="263,851 310,851 358,851 406,850 454,849 502,847 550,845 598,843 646,840 694,838 742,835 789,833 837,830 885,828 933,826 981,825 1029,824 1077,823 1125,824 1173,824 1221,826"/>
+                <TextEquiv>
+                    <Unicode>days ago, asking my opinion of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="273,979 417,959 595,1005 664,952 781,933 1252,925 1231,867 1058,899 927,865 582,935 269,902"/>
+                <Baseline points="278,962 326,963 374,962 423,961 471,960 520,957 568,953 616,950 665,946 713,942 762,938 810,934 858,930 907,926 955,923 1004,920 1052,917 1100,916 1149,915 1197,915 1246,916"/>
+                <TextEquiv>
+                    <Unicode>the claims of the 4 botanical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="296,1068 676,1064 783,1027 859,1053 966,1007 1094,1048 1237,1029 1235,991 937,960 793,962 658,1020 472,1001 434,1025 354,997 294,1025"/>
+                <Baseline points="301,1045 347,1046 393,1046 440,1046 486,1044 533,1043 579,1041 626,1038 672,1035 719,1032 765,1029 811,1026 858,1023 904,1020 951,1018 997,1015 1044,1014 1090,1013 1137,1013 1183,1014 1230,1016"/>
+                <TextEquiv>
+                    <Unicode>candidates for F.R.S. &amp; I gave</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="295,1149 593,1149 756,1182 983,1123 1211,1146 1209,1086 1161,1072 1109,1103 988,1060 915,1101 856,1072 807,1115 504,1093 443,1126 390,1093 294,1099"/>
+                <Baseline points="301,1138 346,1141 391,1143 436,1144 481,1145 526,1144 571,1143 617,1142 662,1140 707,1138 752,1135 797,1133 842,1131 887,1128 933,1126 978,1124 1023,1122 1068,1121 1113,1121 1158,1121 1204,1121"/>
+                <TextEquiv>
+                    <Unicode>it emphatically for Seward;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="304,1271 975,1227 1098,1260 1147,1224 1284,1244 1283,1198 302,1208"/>
+                <Baseline points="309,1242 357,1244 405,1245 454,1245 502,1244 551,1244 599,1242 647,1240 696,1239 744,1237 793,1234 841,1232 889,1230 938,1229 986,1227 1035,1227 1083,1227 1131,1227 1180,1228 1228,1231 1277,1234"/>
+                <TextEquiv>
+                    <Unicode>at the same time saying all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="279,1358 639,1377 700,1343 1245,1337 1244,1306 1079,1271 955,1319 693,1288 383,1326 278,1295"/>
+                <Baseline points="285,1349 332,1348 380,1348 428,1347 475,1346 523,1345 571,1344 618,1343 666,1341 714,1340 762,1339 809,1337 857,1336 905,1334 952,1333 1000,1332 1048,1331 1095,1329 1143,1328 1191,1328 1239,1327"/>
+                <TextEquiv>
+                    <Unicode>I could for Gamble. I have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="296,1473 1019,1419 1278,1462 1249,1369 1033,1400 809,1375 710,1406 610,1376 509,1422 294,1414"/>
+                <Baseline points="301,1447 349,1446 397,1445 446,1444 494,1443 543,1441 591,1439 640,1437 688,1435 737,1433 785,1430 833,1428 882,1426 930,1424 979,1423 1027,1421 1076,1420 1124,1419 1173,1419 1221,1419 1270,1420"/>
+                <TextEquiv>
+                    <Unicode>studied Seward's work carefully</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="307,1574 1214,1530 1292,1514 1290,1470 975,1463 905,1509 786,1467 670,1524 605,1500 462,1536 304,1514"/>
+                <Baseline points="312,1549 360,1550 409,1549 458,1548 506,1547 555,1545 604,1543 652,1540 701,1538 750,1535 799,1532 847,1528 896,1525 945,1523 993,1520 1042,1517 1091,1514 1139,1513 1188,1511 1237,1510 1286,1509"/>
+                <TextEquiv>
+                    <Unicode>&amp; read his last "Fossil Plants",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="313,1669 430,1689 649,1645 732,1684 830,1626 1273,1621 1249,1571 1031,1605 930,1583 735,1615 647,1583 587,1621 513,1594 423,1619 369,1584 311,1605"/>
+                <Baseline points="319,1647 366,1646 413,1644 461,1643 508,1642 555,1640 603,1638 650,1636 697,1634 745,1632 792,1630 839,1628 887,1626 934,1624 981,1622 1029,1620 1076,1619 1123,1617 1171,1615 1218,1614 1266,1613"/>
+                <TextEquiv>
+                    <Unicode>through &amp; through, &amp; am much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="311,1744 456,1772 544,1742 793,1769 908,1737 979,1773 1038,1739 1187,1751 1185,1675 1102,1662 938,1692 748,1675 557,1716 310,1689"/>
+                <Baseline points="317,1740 360,1742 403,1744 446,1744 489,1744 532,1744 575,1743 619,1742 662,1740 705,1738 748,1736 791,1735 834,1734 877,1732 921,1731 964,1730 1007,1730 1050,1730 1093,1731 1136,1733 1180,1735"/>
+                <TextEquiv>
+                    <Unicode>struck with his grasp of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="311,1868 539,1878 979,1825 1184,1848 1300,1836 1299,1774 740,1820 660,1788 567,1824 518,1793 309,1808"/>
+                <Baseline points="316,1844 364,1845 413,1845 462,1844 511,1843 560,1841 609,1840 658,1838 707,1836 756,1834 805,1832 853,1830 902,1828 951,1827 1000,1826 1049,1825 1098,1824 1147,1823 1196,1824 1245,1824 1294,1826"/>
+                <TextEquiv>
+                    <Unicode>subject, clear views &amp; excellent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="311,1947 465,1968 653,1943 691,1968 876,1919 1018,1924 1103,1959 1160,1937 1159,1904 999,1852 912,1888 844,1877 800,1913 625,1877 466,1914 372,1887 311,1925"/>
+                <Baseline points="317,1941 358,1942 400,1942 442,1942 484,1941 526,1940 567,1938 609,1936 651,1934 693,1931 735,1929 776,1926 818,1924 860,1923 902,1921 944,1920 985,1920 1027,1920 1069,1921 1111,1922 1153,1925"/>
+                <TextEquiv>
+                    <Unicode>style, scientific &amp; literary --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="299,2051 1286,2042 1285,1998 1212,1975 1135,2013 1082,1980 749,1965 588,2010 299,2018"/>
+                <Baseline points="306,2040 354,2039 403,2038 451,2038 500,2037 549,2036 597,2035 646,2034 695,2033 743,2032 792,2031 841,2031 889,2030 938,2030 987,2029 1035,2029 1084,2030 1133,2030 1181,2031 1230,2032 1279,2034"/>
+                <TextEquiv>
+                    <Unicode>adding to this that he has been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+Marine Villa&#13;
+South Terrace &#13;
+Littlehampton&#13;
+&#13;
+&#13;
+My dear Dyer&#13;
+Scott wrote to me a few&#13;
+days ago, asking my opinion of&#13;
+the claims of the 4 botanical&#13;
+candidates for F.R.S. &amp; I gave&#13;
+it emphatically for Seward;&#13;
+at the same time saying all&#13;
+I could for Gamble. I have&#13;
+studied Seward's work carefully&#13;
+&amp; read his last "Fossil Plants",&#13;
+through &amp; through, &amp; am much&#13;
+struck with his grasp of the&#13;
+subject, clear views &amp; excellent&#13;
+style, scientific &amp; literary --&#13;
+adding to this that he has been</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

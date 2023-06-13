@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:27:46.077-04:00</Created>
+        <LastChange>2020-06-24T22:24:20.521+02:00</LastChange>
+        <TranskribusMetadata docId="419491" pageId="16700274" pageNr="1" tsid="32624969" status="GT" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=HDNNAWBDUQCEGPARPKEAAAPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGQHISKEWKMXLPTPFXRMNFJV" imageId="12478592"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_171_003.jpg" imageWidth="1383" imageHeight="2171">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330920596" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="105,135 105,2059 1268,2059 1268,135"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="124,192 287,214 433,172 1137,175 1135,122 1054,104 844,147 802,122 123,138"/>
+                <Baseline points="131,178 180,178 230,178 280,177 330,177 380,176 430,175 480,173 530,172 580,171 630,169 679,167 729,166 779,164 829,163 879,161 929,160 979,158 1029,157 1079,156 1129,155"/>
+                <TextEquiv>
+                    <Unicode>Brewery at Halesworth which he was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="382,230 430,229 446,214 490,225 514,211 566,224 592,212 628,224 689,218 688,171 562,187 540,177 480,175 466,184 431,173 381,186"/>
+                <Baseline points="389,217 415,212 442,209 468,207 495,207 521,208 548,209 574,209 601,209 627,208 654,205 681,199"/>
+                <TextEquiv>
+                    <Unicode>(&amp; disinclined!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="130,301 630,244 777,288 976,246 1165,255 1137,188 1073,222 904,201 288,250 128,224"/>
+                <Baseline points="136,276 187,273 238,271 289,268 340,265 391,262 442,260 493,257 544,255 595,253 646,251 697,249 748,248 799,246 850,245 901,244 952,242 1003,241 1054,240 1105,240 1157,239"/>
+                <TextEquiv>
+                    <Unicode>totally unfitted to manage, led to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="413,319 462,338 516,309 568,321 640,311 677,332 706,316 705,270 656,272 625,291 595,271 570,271 547,250 494,291 445,277 412,283"/>
+                <Baseline points="420,308 445,307 470,307 495,307 521,308 546,308 571,308 596,307 622,307 647,306 672,305 698,302"/>
+                <TextEquiv>
+                    <Unicode>a great part of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="149,401 289,374 419,397 468,364 549,402 1098,348 1156,375 1200,358 1199,313 758,301 655,334 519,309 461,340 224,319 147,348"/>
+                <Baseline points="155,363 206,367 258,370 310,373 362,375 414,375 466,375 518,373 570,372 622,370 674,367 725,364 777,362 829,358 881,356 933,353 985,350 1037,348 1089,347 1141,346 1193,346"/>
+                <TextEquiv>
+                    <Unicode>dissipation of the fine property which he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="148,487 1130,478 1171,469 1171,430 147,443"/>
+                <Baseline points="155,475 205,476 255,476 306,476 356,476 407,475 457,473 508,472 558,470 609,468 659,466 709,464 760,463 810,461 861,460 911,459 962,458 1012,458 1063,458 1113,460 1164,462"/>
+                <TextEquiv>
+                    <Unicode>inherited; to which must be added a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="114,590 417,613 962,571 1081,608 1101,524 113,541"/>
+                <Baseline points="120,578 168,579 217,579 266,580 314,579 363,579 412,579 460,578 509,577 558,577 607,575 655,574 704,573 753,572 801,571 850,570 899,568 947,567 996,566 1045,565 1094,565"/>
+                <TextEquiv>
+                    <Unicode>rather reckless expenditure in travelling,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="101,699 313,679 426,710 553,669 833,666 959,697 1192,660 1192,633 1093,608 251,652 160,614 100,646"/>
+                <Baseline points="108,673 161,675 215,676 269,677 323,677 377,677 431,676 484,676 538,674 592,673 646,671 700,669 754,667 808,665 861,664 915,662 969,660 1023,658 1077,656 1131,655 1185,653"/>
+                <TextEquiv>
+                    <Unicode>London society, &amp; the purchase of books on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="114,781 338,808 519,777 636,813 733,769 1216,781 1275,764 1274,715 113,736"/>
+                <Baseline points="120,770 177,772 234,773 292,773 349,774 407,773 464,773 521,772 579,771 636,770 694,768 751,767 808,765 866,763 923,761 981,759 1038,757 1095,756 1153,755 1210,753 1268,752"/>
+                <TextEquiv>
+                    <Unicode>Ornithology, Entomology, Botany &amp;c. &amp;c. &amp;c &amp; on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="122,895 325,862 523,892 779,846 1159,878 1175,814 121,836"/>
+                <Baseline points="129,868 183,867 238,865 293,864 347,862 402,860 457,858 511,856 566,855 621,853 675,852 730,850 785,849 839,848 894,848 949,847 1003,847 1058,847 1113,847 1168,848"/>
+                <TextEquiv>
+                    <Unicode>the British Jungermanniae, Muscologia, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="231,967 938,946 1146,977 1203,973 1202,904 947,925 896,897 714,938 637,893 483,939 229,896"/>
+                <Baseline points="238,953 285,956 333,957 381,958 429,959 477,958 525,958 573,957 621,956 669,954 717,953 764,951 812,949 860,948 908,946 956,945 1004,944 1052,944 1100,944 1148,944 1196,945"/>
+                <TextEquiv>
+                    <Unicode>With love to Harriet &amp; the children if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="141,1059 319,1103 420,1077 528,1102 653,1053 736,1078 824,1046 960,1070 959,997 717,1027 471,1025 415,994 341,1028 141,1023"/>
+                <Baseline points="149,1047 189,1050 229,1051 269,1052 309,1053 350,1054 390,1054 430,1055 470,1054 510,1054 551,1054 591,1053 631,1052 671,1051 711,1050 752,1049 792,1048 832,1046 872,1045 912,1043 953,1041"/>
+                <TextEquiv>
+                    <Unicode>with you (though no longer childs)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="610,1193 660,1166 749,1194 788,1182 824,1195 842,1182 913,1219 986,1171 1026,1169 1025,1102 943,1105 916,1122 843,1112 789,1129 740,1128 663,1090 609,1107"/>
+                <Baseline points="616,1159 641,1160 666,1161 691,1162 716,1163 741,1163 766,1164 791,1164 817,1163 842,1163 867,1162 892,1161 917,1160 942,1158 967,1157 992,1155 1018,1152"/>
+                <TextEquiv>
+                    <Unicode>Ev affey y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="769,1353 837,1336 874,1355 912,1342 1089,1342 1088,1270 1024,1255 983,1267 917,1227 860,1225 844,1209 806,1239 767,1247"/>
+                <Baseline points="776,1332 801,1332 826,1331 852,1330 877,1329 903,1328 928,1327 953,1327 979,1326 1004,1326 1030,1327 1055,1328 1081,1329"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="157,1532 215,1500 411,1526 724,1502 838,1523 990,1491 1058,1511 1057,1455 1012,1450 747,1479 414,1444 342,1463 157,1417"/>
+                <Baseline points="164,1493 208,1494 252,1495 297,1496 341,1496 385,1497 430,1498 474,1499 518,1499 563,1499 607,1500 651,1500 696,1500 740,1499 784,1499 829,1498 873,1497 917,1495 962,1493 1006,1490 1051,1488"/>
+                <TextEquiv>
+                    <Unicode>I should be glad of some hardy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="98,1606 718,1606 768,1580 921,1605 1086,1591 1100,1559 842,1521 761,1567 574,1535 193,1567 97,1538"/>
+                <Baseline points="105,1592 154,1591 203,1590 253,1589 302,1589 352,1588 401,1587 450,1587 500,1586 549,1586 599,1585 648,1584 697,1583 747,1583 796,1582 846,1581 895,1580 944,1579 994,1578 1043,1577 1093,1575"/>
+                <TextEquiv>
+                    <Unicode>perennials, Asters &amp;c when the beds are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="140,1692 223,1727 482,1686 653,1716 722,1687 1206,1701 1206,1651 1150,1644 554,1632 310,1669 140,1627"/>
+                <Baseline points="148,1686 200,1686 253,1687 305,1687 358,1687 410,1687 463,1687 515,1686 568,1685 620,1685 673,1684 726,1683 778,1682 831,1682 883,1681 936,1681 988,1680 1041,1680 1093,1679 1146,1679 1199,1680"/>
+                <TextEquiv>
+                    <Unicode>being sorted -- do not trouble about Nama-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="123,1817 1195,1819 1169,1752 886,1783 389,1747 288,1781 123,1739"/>
+                <Baseline points="131,1796 183,1797 236,1798 289,1798 342,1799 395,1799 448,1800 500,1800 553,1800 606,1801 659,1801 712,1801 765,1801 818,1801 870,1801 923,1802 976,1802 1029,1802 1082,1802 1135,1802 1188,1802"/>
+                <TextEquiv>
+                    <Unicode>I cannot keep them, my soil is so light -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="150,1908 778,1909 778,1870 664,1843 591,1872 465,1874 415,1846 373,1866 303,1845 245,1865 183,1831 151,1851"/>
+                <Baseline points="157,1891 187,1891 218,1891 248,1891 279,1891 310,1891 340,1892 371,1892 402,1893 432,1893 463,1894 494,1895 524,1896 555,1896 586,1897 616,1897 647,1897 678,1898 708,1898 739,1898 770,1897"/>
+                <TextEquiv>
+                    <Unicode>that they have no hold.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="123,2044 403,2027 510,2068 818,2032 874,2072 944,2074 945,1991 765,1974 698,2007 638,1980 579,2002 410,1965 279,1997 124,1964"/>
+                <Baseline points="130,2017 170,2020 210,2022 251,2024 291,2025 332,2025 372,2026 412,2026 453,2026 493,2026 534,2026 574,2026 614,2026 655,2027 695,2027 736,2028 776,2029 816,2030 857,2032 897,2035 938,2038"/>
+                <TextEquiv>
+                    <Unicode>We return to the Camp on Monday.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Brewery at Halesworth which he was&#13;
+(&amp; disinclined!)&#13;
+totally unfitted to manage, led to the&#13;
+a great part of&#13;
+dissipation of the fine property which he&#13;
+inherited; to which must be added a&#13;
+rather reckless expenditure in travelling,&#13;
+London society, &amp; the purchase of books on&#13;
+Ornithology, Entomology, Botany &amp;c. &amp;c. &amp;c &amp; on&#13;
+the British Jungermanniae, Muscologia, &amp;c.&#13;
+With love to Harriet &amp; the children if&#13;
+with you (though no longer childs)&#13;
+Ev affey y&#13;
+Jos D Hooker&#13;
+I should be glad of some hardy&#13;
+perennials, Asters &amp;c when the beds are&#13;
+being sorted -- do not trouble about Nama-&#13;
+I cannot keep them, my soil is so light -&#13;
+that they have no hold.&#13;
+We return to the Camp on Monday.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

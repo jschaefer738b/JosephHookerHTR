@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T18:50:09.522-04:00</Created>
+        <LastChange>2023-05-16T17:25:18.354+02:00</LastChange>
+        <TranskribusMetadata docId="421884" pageId="16787533" pageNr="1" tsid="121935748" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ZYGWNXPHXBNZZFIQQVGZQRXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWRXMRJJJDYSPXUCKSJTXGRH" imageId="12542321"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_198_001.jpg" imageWidth="1305" imageHeight="2163">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330902509" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="111,47 111,2033 1250,2033 1250,47"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="814,198 897,205 925,185 978,182 1047,191 1085,166 1183,201 1238,182 1236,137 1154,124 1105,120 1081,137 1005,123 948,140 869,99 812,123"/>
+                <Baseline points="821,177 846,177 872,176 897,176 923,175 948,175 974,175 999,174 1025,174 1051,173 1076,172 1102,171 1127,170 1153,168 1178,167 1204,164 1230,161"/>
+                <TextEquiv>
+                    <Unicode>Feb 2 8 1909</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="818,269 853,269 871,277 887,270 892,276 907,272 927,279 954,273 998,289 1010,286 1010,241 989,234 974,244 944,230 922,235 915,229 898,244 862,244 846,233 818,233"/>
+                <Baseline points="825,264 850,266 876,266 901,266 927,266 952,265 978,266 1004,267"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="723,341 834,339 884,353 901,341 961,342 998,357 1034,343 1104,343 1105,298 972,300 940,316 853,290 813,312 762,302 723,312"/>
+                <Baseline points="729,334 755,335 781,335 808,336 834,336 860,336 887,337 913,337 939,337 966,338 992,338 1018,339 1045,339 1071,340 1098,341"/>
+                <TextEquiv>
+                    <Unicode>NEAR SUNNINCDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="217,656 254,639 285,668 311,668 371,633 467,639 500,626 562,650 665,628 665,601 624,600 540,549 354,593 265,545 216,540"/>
+                <Baseline points="223,628 248,628 274,627 299,627 325,627 351,628 376,628 402,628 428,629 453,629 479,629 505,629 530,628 556,628 582,627 607,625 633,623 659,620"/>
+                <TextEquiv>
+                    <Unicode>My dea Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="404,752 489,733 662,759 698,739 894,734 919,755 1021,739 1043,704 687,686 564,708 487,671 403,687"/>
+                <Baseline points="410,736 441,735 472,734 503,732 535,732 566,732 597,731 629,731 660,731 691,731 723,731 754,731 785,731 816,731 848,731 879,731 910,730 942,730 973,729 1004,727 1036,726"/>
+                <TextEquiv>
+                    <Unicode>I have re-read your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="164,876 249,881 356,827 471,868 645,825 729,855 910,819 1114,831 1113,794 1037,767 722,813 609,782 482,809 162,774"/>
+                <Baseline points="170,834 216,833 263,832 310,831 357,830 404,830 451,829 497,828 544,828 591,827 638,827 685,826 732,826 779,825 825,824 872,824 919,823 966,823 1013,822 1060,821 1107,821"/>
+                <TextEquiv>
+                    <Unicode>essay &amp; enjoyed it even more than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="165,961 232,935 484,953 858,908 1049,919 1048,873 977,868 891,894 823,872 790,898 663,896 639,873 426,900 390,873 164,903"/>
+                <Baseline points="171,933 214,932 258,931 301,930 345,929 388,927 432,926 475,925 519,924 562,922 606,921 650,920 693,919 737,917 780,916 824,916 867,914 911,914 954,913 998,912 1042,912"/>
+                <TextEquiv>
+                    <Unicode>I did the first perusal. I do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="162,1035 797,1004 1104,1028 1112,949 1017,981 782,954 642,993 581,963 532,1002 161,998"/>
+                <Baseline points="168,1019 214,1020 261,1021 308,1021 355,1020 402,1020 449,1019 496,1017 543,1016 590,1014 637,1013 683,1011 730,1009 777,1007 824,1005 871,1003 918,1001 965,999 1012,998 1059,996 1106,994"/>
+                <TextEquiv>
+                    <Unicode>not see how it could be improved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="170,1131 340,1153 445,1130 686,1172 759,1116 1075,1115 1074,1058 971,1049 912,1090 701,1089 637,1058 565,1099 169,1083"/>
+                <Baseline points="176,1117 220,1117 265,1117 309,1118 354,1118 399,1118 443,1118 488,1117 533,1117 577,1117 622,1116 667,1116 711,1115 756,1114 801,1113 845,1111 890,1110 935,1108 979,1106 1024,1104 1069,1102"/>
+                <TextEquiv>
+                    <Unicode>except by saying less of me. I am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="190,1243 684,1212 784,1241 1111,1199 1110,1161 969,1171 875,1137 538,1199 188,1192"/>
+                <Baseline points="196,1224 241,1223 286,1222 332,1221 377,1220 423,1219 468,1218 514,1217 559,1216 605,1215 650,1214 695,1212 741,1211 786,1209 832,1207 877,1205 923,1202 968,1200 1014,1197 1059,1193 1105,1190"/>
+                <TextEquiv>
+                    <Unicode>much interested in Gondwana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="186,1330 1021,1283 1017,1220 871,1263 817,1234 769,1262 694,1239 604,1270 463,1246 366,1287 324,1261 276,1281 182,1261"/>
+                <Baseline points="192,1320 233,1317 274,1314 315,1310 356,1307 397,1304 438,1302 479,1300 520,1296 561,1294 603,1292 644,1290 685,1287 726,1285 767,1283 808,1281 849,1280 890,1278 931,1277 972,1276 1014,1274"/>
+                <TextEquiv>
+                    <Unicode>land. I attended several</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="196,1404 489,1459 583,1396 689,1416 789,1381 993,1380 1021,1371 1020,1325 961,1315 810,1363 562,1338 515,1372 350,1345 265,1376 194,1363"/>
+                <Baseline points="202,1395 242,1395 283,1394 323,1394 364,1394 405,1393 445,1393 486,1392 526,1391 567,1390 608,1389 648,1388 689,1387 729,1385 770,1383 811,1381 851,1379 892,1377 932,1374 973,1372 1014,1369"/>
+                <TextEquiv>
+                    <Unicode>discourses on it's plants at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="188,1491 498,1483 572,1522 637,1475 848,1502 981,1465 1033,1495 1066,1439 956,1406 906,1449 837,1427 620,1460 566,1430 295,1468 235,1430 186,1444"/>
+                <Baseline points="194,1485 237,1485 280,1485 323,1484 367,1484 410,1483 453,1482 497,1481 540,1480 583,1479 627,1478 670,1476 713,1474 756,1473 800,1470 843,1468 886,1466 930,1463 973,1460 1016,1457 1060,1453"/>
+                <TextEquiv>
+                    <Unicode>Linnean meeting, but owing to my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="962,1535 1017,1526 1035,1533 1113,1514 1140,1523 1161,1511 1193,1512 1231,1544 1259,1527 1254,1457 1203,1487 1078,1469 1056,1473 1034,1495 1000,1476 958,1477"/>
+                <Baseline points="968,1521 993,1520 1019,1519 1044,1517 1070,1515 1096,1513 1121,1511 1147,1509 1173,1507 1198,1506 1224,1505 1250,1504"/>
+                <TextEquiv>
+                    <Unicode>it is hideously</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="183,1583 957,1570 1026,1610 1190,1582 1190,1541 836,1550 808,1524 398,1560 360,1531 182,1531"/>
+                <Baseline points="189,1570 238,1572 288,1574 338,1575 388,1576 437,1576 487,1576 537,1575 587,1574 636,1573 686,1572 736,1571 786,1570 835,1569 885,1568 935,1567 985,1567 1034,1567 1084,1567 1134,1568 1184,1570"/>
+                <TextEquiv>
+                    <Unicode>deafness &amp; his wretched delivery (with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="171,1667 718,1662 792,1702 867,1656 1137,1661 1137,1605 827,1634 688,1598 614,1646 417,1643 330,1602 285,1641 171,1629"/>
+                <Baseline points="177,1654 224,1656 272,1658 320,1659 367,1660 415,1661 463,1661 510,1661 558,1660 606,1659 654,1659 701,1658 749,1657 797,1655 844,1654 892,1653 940,1652 987,1650 1035,1649 1083,1648 1131,1647"/>
+                <TextEquiv>
+                    <Unicode>carried away very little of it -- &amp; this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="114,1714 228,1699 266,1718 315,1701 458,1718 490,1701 548,1709 602,1697 602,1665 574,1680 411,1661 319,1680 218,1665 113,1675"/>
+                <Baseline points="120,1703 145,1702 170,1701 195,1700 220,1699 245,1699 270,1698 295,1698 320,1697 345,1697 370,1697 395,1697 420,1696 445,1696 470,1696 495,1696 520,1696 545,1696 570,1696 596,1696"/>
+                <TextEquiv>
+                    <Unicode>this reminds me that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="104,1767 418,1751 523,1801 590,1754 842,1775 1031,1739 1084,1773 1176,1748 1176,1708 103,1715"/>
+                <Baseline points="111,1748 163,1749 216,1749 269,1750 322,1749 375,1749 428,1748 481,1748 534,1747 587,1746 640,1745 692,1743 745,1742 798,1741 851,1739 904,1738 957,1737 1010,1736 1063,1735 1116,1733 1169,1732"/>
+                <TextEquiv>
+                    <Unicode>delivery of the successive addresses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="159,1852 243,1837 333,1898 382,1860 529,1835 697,1861 817,1829 874,1852 1067,1830 1066,1793 947,1770 734,1811 410,1782 158,1814"/>
+                <Baseline points="165,1835 209,1836 254,1837 299,1838 344,1838 388,1838 433,1837 478,1836 523,1835 567,1834 612,1833 657,1831 702,1829 746,1827 791,1825 836,1823 881,1821 925,1818 970,1816 1015,1813 1060,1811"/>
+                <TextEquiv>
+                    <Unicode>at the Jubilee meeting convinced me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="150,1959 252,1932 691,1945 1038,1913 1060,1852 783,1891 729,1868 676,1903 634,1875 594,1906 147,1893"/>
+                <Baseline points="155,1930 200,1931 245,1931 290,1932 335,1932 380,1932 425,1931 470,1930 515,1929 560,1928 605,1926 650,1924 695,1922 740,1919 785,1917 830,1914 875,1911 920,1907 965,1904 1010,1900 1055,1896"/>
+                <TextEquiv>
+                    <Unicode>that no one should be allowed to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="139,2028 892,2031 955,2000 1104,2006 1114,1978 998,1948 848,1981 790,1945 702,1992 587,1965 138,1979"/>
+                <Baseline points="145,2014 193,2014 241,2014 289,2014 337,2014 385,2014 433,2013 481,2013 529,2012 577,2012 626,2011 674,2010 722,2009 770,2008 818,2006 866,2005 914,2004 962,2002 1010,2000 1058,1998 1107,1996"/>
+                <TextEquiv>
+                    <Unicode>speak or lecture that had not taken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Feb 2 8 1909&#13;
+THE CAMP,&#13;
+NEAR SUNNINCDALE.&#13;
+My dea Dyer&#13;
+I have re-read your&#13;
+essay &amp; enjoyed it even more than&#13;
+I did the first perusal. I do&#13;
+not see how it could be improved&#13;
+except by saying less of me. I am&#13;
+much interested in Gondwana&#13;
+land. I attended several&#13;
+discourses on it's plants at the&#13;
+Linnean meeting, but owing to my&#13;
+it is hideously&#13;
+deafness &amp; his wretched delivery (with&#13;
+carried away very little of it -- &amp; this&#13;
+this reminds me that&#13;
+delivery of the successive addresses&#13;
+at the Jubilee meeting convinced me&#13;
+that no one should be allowed to&#13;
+speak or lecture that had not taken</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

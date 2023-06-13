@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:46:17.388-04:00</Created>
+        <LastChange>2020-06-24T05:50:45.413+02:00</LastChange>
+        <TranskribusMetadata docId="418300" pageId="16659315" pageNr="1" tsid="32542633" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=HMLBSJDFGUQXQJXKTMMOHKTI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBPNMQEWDXAIRXFKFDQTGVAP" imageId="12444767"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_168_003.jpg" imageWidth="1407" imageHeight="2167">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330921246" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="1.5707964" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1304,542 1304,580 1406,580 1406,542"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1407,585 1407,537 1398,537 1398,542 1396,544 1398,549 1398,585"/>
+                <Baseline points="1404,580 1404,542"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="145,201 145,608 1390,608 1390,201"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="312,262 1266,262 1265,207 1197,190 685,191 622,220 312,191"/>
+                <Baseline points="318,252 365,253 412,254 459,255 506,255 553,256 600,256 647,255 694,255 741,255 789,254 836,254 883,253 930,253 977,252 1024,252 1071,252 1118,252 1165,252 1212,253 1260,254"/>
+                <TextEquiv>
+                    <Unicode> With best love to Harriet &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="138,359 159,353 170,362 187,352 194,359 218,354 242,362 280,356 344,370 346,320 295,326 274,313 251,320 228,299 215,302 193,284 141,298"/>
+                <Baseline points="145,348 172,351 200,353 228,354 255,354 283,355 311,356 339,359"/>
+                <TextEquiv>
+                    <Unicode>Frances</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="482,404 596,423 650,409 708,435 773,425 861,470 947,417 1000,417 1000,366 942,350 847,376 794,344 735,372 682,352 588,383 521,336 482,347"/>
+                <Baseline points="488,396 513,399 538,401 563,403 589,404 614,406 639,407 665,408 690,409 715,410 741,410 766,410 791,410 816,409 842,409 867,408 892,407 918,405 943,404 968,402 994,400"/>
+                <TextEquiv>
+                    <Unicode>Ever affectionately your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="921,617 995,579 1059,591 1090,575 1136,593 1296,578 1324,597 1396,583 1396,531 1318,487 1281,506 1223,505 1205,488 1140,494 1103,471 1057,487 994,427 945,464 921,461"/>
+                <Baseline points="927,576 952,575 978,574 1004,574 1029,574 1055,574 1081,574 1107,574 1132,574 1158,574 1184,574 1209,574 1235,575 1261,575 1287,575 1312,575 1338,575 1364,575 1390,574"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> With best love to Harriet &amp;&#13;
+Frances&#13;
+Ever affectionately your&#13;
+Jos D Hooker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

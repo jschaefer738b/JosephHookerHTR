@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:42:29.330-04:00</Created>
+        <LastChange>2020-06-24T02:18:58.343+02:00</LastChange>
+        <TranskribusMetadata docId="418291" pageId="16659300" pageNr="2" tsid="32541059" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=FPSOYXKZXRIUVNRHVZSQTKKC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRRSPEYRFSGXMJSUIUJZEJMF" imageId="12444756"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_163_002.jpg" imageWidth="1389" imageHeight="2148">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330935958" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="115,215 115,2067 1324,2067 1324,215"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="150,265 809,268 904,317 1107,271 1298,296 1300,236 1127,247 1031,204 850,244 690,195 573,241 453,199 151,229"/>
+                <Baseline points="157,262 213,260 270,259 327,258 384,258 440,259 497,260 554,261 611,263 667,265 724,266 781,269 838,271 894,272 951,274 1008,275 1065,276 1121,276 1178,276 1235,276 1292,275"/>
+                <TextEquiv>
+                    <Unicode>not necessary in the case of the walls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="138,382 1211,404 1212,325 1172,314 1018,358 139,319"/>
+                <Baseline points="145,374 197,375 250,376 303,377 356,378 409,379 462,380 515,381 568,382 621,383 674,383 726,384 779,384 832,385 885,385 938,385 991,385 1044,385 1097,385 1150,385 1203,384"/>
+                <TextEquiv>
+                    <Unicode>that were to be lined with book</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="108,492 404,533 467,499 1024,509 1155,547 1188,451 908,481 855,445 786,479 194,434 108,465"/>
+                <Baseline points="115,488 168,490 221,492 274,493 327,494 381,495 434,496 487,497 540,497 593,498 647,499 700,499 753,500 806,501 859,502 913,503 966,504 1019,506 1072,508 1125,510 1179,512"/>
+                <TextEquiv>
+                    <Unicode>--shelves &amp; plant cabinets, which of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="135,590 689,604 765,644 1079,613 1275,658 1277,569 1132,588 943,536 857,584 524,540 289,576 136,540"/>
+                <Baseline points="142,590 198,592 254,594 311,596 367,598 423,599 480,601 536,602 592,603 649,604 705,606 761,607 818,608 874,609 930,610 987,611 1043,612 1099,613 1156,614 1212,616 1269,617"/>
+                <TextEquiv>
+                    <Unicode>course he put up &amp; painted himself.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="194,717 481,716 557,770 657,717 1210,734 1246,693 949,663 871,689 752,652 615,674 528,620 392,676 254,627 195,643"/>
+                <Baseline points="202,692 253,696 305,700 357,703 409,706 461,708 512,710 564,711 616,712 668,713 720,713 771,713 823,713 875,713 927,713 979,713 1030,713 1082,713 1134,713 1186,713 1238,713"/>
+                <TextEquiv>
+                    <Unicode>The Works dept at Kew never even</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="126,821 590,850 1012,819 1103,864 1183,820 1285,840 1304,783 666,759 487,792 421,744 127,772"/>
+                <Baseline points="134,797 192,801 250,806 308,809 366,812 424,815 482,817 540,819 598,820 656,821 715,822 773,822 831,822 889,821 947,821 1005,820 1063,820 1121,818 1179,817 1237,816 1296,815"/>
+                <TextEquiv>
+                    <Unicode>saw the house (the inside that is) nor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="146,924 445,959 566,930 720,977 781,938 1252,969 1331,959 1332,910 1223,880 1164,913 1094,870 708,922 601,871 473,911 147,867"/>
+                <Baseline points="154,913 212,919 271,923 329,927 388,930 446,933 505,934 563,936 622,936 680,937 739,937 797,938 856,938 914,938 973,938 1031,939 1090,939 1148,941 1207,942 1265,945 1324,947"/>
+                <TextEquiv>
+                    <Unicode>did a single thing to it &amp; he employed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="123,984 158,990 208,968 297,992 337,975 361,1000 470,980 597,995 614,991 615,969 544,952 402,956 380,937 333,961 243,938 217,954 160,924 124,936"/>
+                <Baseline points="131,970 156,970 181,971 206,972 231,972 256,973 281,974 306,975 331,976 356,976 381,977 406,978 431,979 456,980 481,981 506,982 531,983 556,984 581,985 607,986"/>
+                <TextEquiv>
+                    <Unicode>his own gardener.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="231,1028 589,1066 662,1040 765,1083 828,1053 1090,1092 1296,1076 1297,1044 1232,1031 768,1020 650,973 596,1008 465,981 405,1013 234,973"/>
+                <Baseline points="239,1023 291,1025 344,1028 396,1030 449,1033 501,1035 554,1037 606,1040 659,1043 711,1045 764,1048 816,1050 869,1052 921,1055 974,1057 1026,1060 1079,1062 1131,1064 1184,1066 1236,1068 1289,1070"/>
+                <TextEquiv>
+                    <Unicode>When he left it, 14 rooms were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="118,1151 233,1142 273,1175 326,1133 509,1131 573,1173 690,1146 1115,1180 1194,1171 1196,1124 999,1131 920,1090 821,1129 385,1078 281,1110 121,1072"/>
+                <Baseline points="127,1121 180,1124 233,1127 286,1130 339,1132 392,1135 445,1137 498,1139 551,1141 604,1143 657,1145 710,1147 763,1148 816,1150 869,1152 922,1154 975,1155 1028,1157 1081,1159 1134,1160 1187,1162"/>
+                <TextEquiv>
+                    <Unicode>full of books &amp; plants. The Ferns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="288,1233 326,1229 373,1196 515,1214 541,1198 653,1248 704,1245 704,1175 509,1172 470,1148 416,1142 288,1166"/>
+                <Baseline points="296,1202 321,1200 346,1198 371,1197 396,1196 421,1196 446,1196 471,1196 496,1197 521,1197 546,1198 571,1198 596,1199 621,1199 646,1199 671,1199 697,1197"/>
+                <TextEquiv>
+                    <Unicode>(of the Herbarium)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="144,1255 901,1298 992,1273 1096,1305 1149,1289 1152,1225 868,1251 790,1213 660,1247 146,1202"/>
+                <Baseline points="152,1237 201,1240 251,1244 300,1247 350,1249 399,1252 449,1254 498,1257 548,1259 597,1260 647,1262 697,1264 746,1266 796,1267 845,1268 895,1269 944,1270 994,1271 1043,1272 1093,1273 1143,1273"/>
+                <TextEquiv>
+                    <Unicode>alone were accommodated at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="113,1358 1216,1407 1280,1352 1163,1312 1027,1354 905,1324 755,1350 652,1306 523,1343 115,1283"/>
+                <Baseline points="121,1349 178,1351 236,1353 293,1356 351,1358 408,1360 466,1362 523,1365 581,1367 638,1369 696,1370 754,1372 811,1374 869,1376 926,1377 984,1378 1041,1379 1099,1379 1156,1380 1214,1380 1272,1380"/>
+                <TextEquiv>
+                    <Unicode>Director's House in Kew when he went there.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="200,1490 1197,1512 1197,1469 975,1419 909,1466 839,1438 341,1444 269,1389 201,1413"/>
+                <Baseline points="208,1471 257,1473 306,1475 355,1476 404,1477 453,1478 502,1478 551,1479 600,1480 649,1480 699,1481 748,1481 797,1482 846,1482 895,1483 944,1483 993,1484 1042,1485 1091,1486 1140,1487 1190,1488"/>
+                <TextEquiv>
+                    <Unicode>I do not suppose I ever told you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="123,1592 730,1589 822,1626 869,1589 1163,1600 1164,1540 820,1539 752,1572 663,1531 585,1555 123,1515"/>
+                <Baseline points="130,1576 181,1580 232,1583 283,1586 335,1588 386,1590 437,1591 489,1591 540,1591 591,1591 643,1591 694,1590 745,1589 796,1589 848,1588 899,1587 950,1587 1002,1587 1053,1587 1104,1588 1156,1589"/>
+                <TextEquiv>
+                    <Unicode>that from 1810 or before it, till his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="140,1685 315,1727 751,1688 868,1717 904,1689 1167,1704 1197,1647 1087,1667 1008,1617 927,1669 842,1639 769,1664 721,1628 560,1669 469,1626 428,1662 365,1627 226,1658 140,1633"/>
+                <Baseline points="147,1678 199,1682 251,1686 303,1688 355,1690 407,1692 459,1692 511,1693 563,1693 615,1693 668,1693 720,1692 772,1691 824,1691 876,1690 928,1690 980,1690 1032,1690 1084,1690 1136,1691 1189,1693"/>
+                <TextEquiv>
+                    <Unicode>death, he purchased every botanical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="135,1802 552,1804 638,1845 722,1800 1043,1792 1262,1845 1244,1742 1027,1784 755,1739 466,1778 136,1741"/>
+                <Baseline points="143,1788 198,1792 254,1795 309,1797 365,1798 421,1799 476,1800 532,1801 587,1801 643,1801 699,1801 754,1801 810,1801 865,1801 921,1801 977,1802 1032,1803 1088,1804 1143,1806 1199,1808 1255,1811"/>
+                <TextEquiv>
+                    <Unicode>book he could lay hands on; chiefly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="134,1911 1120,1950 1223,1944 1225,1889 885,1874 827,1902 767,1866 713,1894 663,1850 556,1898 137,1825"/>
+                <Baseline points="142,1898 195,1902 249,1905 302,1908 356,1910 410,1912 463,1914 517,1915 571,1916 624,1918 678,1919 732,1920 785,1921 839,1923 893,1924 946,1925 1000,1927 1054,1930 1107,1932 1161,1935 1215,1938"/>
+                <TextEquiv>
+                    <Unicode>though agents in London; and when in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="147,2034 738,2032 1043,2092 1249,2055 1251,1983 976,2011 769,1960 625,2003 418,1965 298,1997 192,1941 149,1960"/>
+                <Baseline points="155,2008 209,2012 263,2016 318,2019 372,2021 426,2024 481,2026 535,2027 589,2028 644,2030 698,2031 752,2031 807,2032 861,2033 915,2034 970,2035 1024,2037 1078,2038 1133,2040 1187,2042 1242,2046"/>
+                <TextEquiv>
+                    <Unicode>Glasgow the trouble &amp; expense of this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>not necessary in the case of the walls&#13;
+that were to be lined with book&#13;
+--shelves &amp; plant cabinets, which of&#13;
+course he put up &amp; painted himself.&#13;
+The Works dept at Kew never even&#13;
+saw the house (the inside that is) nor&#13;
+did a single thing to it &amp; he employed&#13;
+his own gardener.&#13;
+When he left it, 14 rooms were&#13;
+full of books &amp; plants. The Ferns&#13;
+(of the Herbarium)&#13;
+alone were accommodated at the&#13;
+Director's House in Kew when he went there.&#13;
+I do not suppose I ever told you&#13;
+that from 1810 or before it, till his&#13;
+death, he purchased every botanical&#13;
+book he could lay hands on; chiefly&#13;
+though agents in London; and when in&#13;
+Glasgow the trouble &amp; expense of this</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

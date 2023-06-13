@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-24T14:33:17.516-04:00</Created>
+        <LastChange>2020-06-25T05:10:40.973+02:00</LastChange>
+        <TranskribusMetadata docId="419503" pageId="16700425" pageNr="1" tsid="32636459" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=PQWMOLBFJPEDDIZJDSHMNYDF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUZFUVBKPMAGRUOEMJTXEIMR" imageId="12478743"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_176_001.jpg" imageWidth="1387" imageHeight="2175">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330916613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="117,137 117,305 193,305 193,137"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="112,266 141,263 147,254 154,255 158,248 170,254 178,245 191,246 201,240 188,190 179,197 168,196 162,204 151,202 140,211 118,212 112,219 101,221"/>
+                <Baseline points="117,255 142,251 167,243 193,237"/>
+                <TextEquiv>
+                    <Unicode>an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>an</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="139,94 139,2060 1283,2060 1283,94"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1083,135 1096,135 1126,156 1153,151 1168,138 1227,131 1223,33 1166,51 1131,44 1090,90 1081,91"/>
+                <Baseline points="1089,117 1115,120 1141,119 1167,116 1193,114 1219,115"/>
+                <TextEquiv>
+                    <Unicode>176</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="717,197 767,180 810,204 886,170 919,170 964,199 1063,144 1101,141 1101,129 916,131 870,96 828,102 802,88 715,139"/>
+                <Baseline points="724,173 750,171 777,170 803,169 830,168 856,166 883,165 909,164 936,163 962,162 989,161 1015,160 1042,159 1068,158 1095,157"/>
+                <TextEquiv>
+                    <Unicode>Ospringe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="278,267 284,266 297,253 307,255 311,251 316,254 325,245 330,248 342,245 321,155 301,161 294,167 284,165 273,174 257,176"/>
+                <Baseline points="281,249 307,241 333,237"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="823,270 918,267 942,282 976,263 1170,253 1270,271 1269,222 1094,195 1055,229 982,191 924,211 878,188 821,194"/>
+                <Baseline points="829,253 854,254 880,254 905,255 931,255 956,254 982,254 1007,253 1033,253 1058,252 1084,252 1109,251 1135,250 1160,250 1186,249 1211,248 1237,247 1263,247"/>
+                <TextEquiv>
+                    <Unicode>Bedford Avenue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="651,356 734,374 836,352 925,371 976,352 1132,366 1132,322 1058,280 966,332 932,310 860,320 825,293 762,320 697,283 651,313"/>
+                <Baseline points="658,349 683,349 709,349 735,350 761,350 787,351 813,351 839,351 865,351 891,352 917,352 943,352 969,352 995,351 1021,351 1047,350 1073,349 1099,348 1125,347"/>
+                <TextEquiv>
+                    <Unicode>Bexhill on Sea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="805,468 1027,487 1056,464 1123,482 1162,465 1231,464 1231,439 1211,426 1178,435 1048,403 1016,421 981,407 947,435 867,388 805,417"/>
+                <Baseline points="812,460 837,463 863,464 889,465 915,466 940,466 966,466 992,466 1018,466 1043,466 1069,465 1095,465 1121,464 1146,463 1172,463 1198,463 1224,462"/>
+                <TextEquiv>
+                    <Unicode>Dec 26 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="166,568 252,575 277,558 296,571 366,572 432,560 464,576 555,562 555,534 449,477 428,476 358,526 318,508 278,525 212,475 166,481"/>
+                <Baseline points="174,556 200,556 227,556 254,556 280,556 307,556 334,555 361,555 387,555 414,554 441,554 467,554 494,554 521,554 548,554"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="399,657 605,688 717,658 770,690 1259,627 1257,563 1159,606 1020,590 973,632 837,598 763,628 589,601 516,619 397,580"/>
+                <Baseline points="405,650 447,653 489,656 532,657 574,659 616,660 659,661 701,661 743,661 786,660 828,659 870,658 913,656 955,654 997,651 1040,648 1082,646 1124,642 1167,638 1209,634 1252,630"/>
+                <TextEquiv>
+                    <Unicode>Thank you for your letter -- I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="186,776 397,793 546,760 675,818 813,774 957,794 1169,761 1169,706 1063,688 865,748 531,710 486,742 411,717 323,739 186,704"/>
+                <Baseline points="192,762 240,761 289,760 337,760 386,761 434,762 483,763 531,765 580,766 628,768 677,769 726,770 774,771 823,771 871,770 920,769 968,767 1017,764 1065,759 1114,754 1163,747"/>
+                <TextEquiv>
+                    <Unicode>heard from Willy of your return in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="166,899 348,864 733,901 884,863 1172,867 1192,810 979,803 904,846 817,817 575,847 487,814 165,843"/>
+                <Baseline points="173,873 223,871 274,870 324,869 375,868 426,867 476,866 527,866 577,866 628,865 679,865 729,865 780,864 830,864 881,862 932,861 982,860 1033,858 1083,856 1134,854 1185,850"/>
+                <TextEquiv>
+                    <Unicode>good health.  Also of poor Harriet's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="171,984 1281,935 1271,881 1146,909 907,882 614,938 564,909 169,927"/>
+                <Baseline points="177,958 231,959 286,960 341,960 396,960 451,958 506,957 560,954 615,952 670,949 725,947 780,943 835,941 890,938 944,936 999,934 1054,932 1109,931 1164,931 1219,931 1274,932"/>
+                <TextEquiv>
+                    <Unicode>influenza, which must be a trial to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="213,1085 287,1044 859,1058 1236,1020 1234,958 1116,1004 1039,971 773,1011 211,1007"/>
+                <Baseline points="219,1051 269,1048 319,1045 370,1042 420,1040 471,1038 521,1036 572,1035 622,1034 673,1032 723,1032 773,1031 824,1030 874,1029 925,1029 975,1028 1026,1027 1076,1026 1127,1025 1177,1023 1228,1021"/>
+                <TextEquiv>
+                    <Unicode>you in which we do sympathise -- I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="190,1154 1276,1135 1275,1091 1190,1053 1103,1087 539,1072 458,1108 236,1088 190,1117"/>
+                <Baseline points="197,1141 250,1139 304,1136 357,1133 411,1131 464,1129 518,1128 571,1127 625,1125 678,1124 732,1123 786,1122 839,1121 893,1120 946,1120 1000,1119 1053,1118 1107,1117 1160,1115 1214,1114 1268,1113"/>
+                <TextEquiv>
+                    <Unicode>wrote her my Xmas greetings. If you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="194,1243 1261,1237 1260,1185 924,1167 884,1201 649,1195 596,1162 503,1207 392,1169 323,1212 194,1211"/>
+                <Baseline points="201,1229 253,1228 306,1227 358,1226 411,1225 464,1224 516,1223 569,1222 621,1222 674,1221 727,1220 779,1220 832,1219 884,1219 937,1218 990,1218 1042,1217 1095,1217 1147,1216 1200,1216 1253,1216"/>
+                <TextEquiv>
+                    <Unicode>were late in taking your holiday we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="193,1327 1254,1306 1253,1278 1048,1238 899,1270 639,1240 488,1295 417,1259 193,1299"/>
+                <Baseline points="200,1314 252,1314 304,1314 357,1313 409,1311 461,1310 514,1308 566,1306 618,1304 671,1302 723,1300 775,1298 828,1296 880,1294 932,1293 985,1292 1037,1292 1089,1292 1142,1293 1194,1294 1247,1297"/>
+                <TextEquiv>
+                    <Unicode>are later -- &amp; it remains to be seen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="179,1409 1262,1404 1261,1367 1183,1345 954,1332 701,1372 429,1368 377,1325 292,1377 178,1349"/>
+                <Baseline points="185,1396 238,1396 292,1395 345,1395 399,1394 452,1394 506,1393 559,1392 613,1392 666,1391 720,1391 773,1390 827,1390 880,1390 934,1389 987,1389 1041,1389 1094,1389 1148,1390 1201,1390 1255,1391"/>
+                <TextEquiv>
+                    <Unicode>how the weather able will favour us.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="186,1501 1269,1500 1269,1461 1107,1434 1005,1472 744,1475 548,1434 387,1471 327,1433 289,1463 186,1439"/>
+                <Baseline points="193,1482 246,1484 299,1486 353,1488 406,1489 460,1490 513,1491 567,1491 620,1491 674,1492 727,1491 780,1491 834,1491 887,1491 941,1490 994,1490 1048,1489 1101,1489 1155,1489 1208,1489 1262,1488"/>
+                <TextEquiv>
+                    <Unicode>Matte had been a good deal pulled</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="175,1580 1290,1619 1273,1538 1197,1561 1132,1526 815,1559 726,1516 606,1546 536,1516 358,1552 176,1532"/>
+                <Baseline points="182,1569 237,1571 292,1572 347,1573 402,1573 457,1574 512,1574 567,1574 622,1574 677,1574 732,1574 787,1574 842,1574 897,1575 952,1575 1007,1576 1062,1577 1117,1579 1172,1581 1227,1583 1283,1586"/>
+                <TextEquiv>
+                    <Unicode>down &amp; heard of this air being bracing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="167,1684 905,1667 949,1705 1010,1679 1143,1719 1260,1694 1260,1654 1153,1611 1094,1644 943,1610 739,1650 615,1615 535,1648 412,1613 363,1651 168,1622"/>
+                <Baseline points="174,1658 230,1662 287,1666 344,1668 401,1669 457,1670 514,1671 571,1671 628,1670 685,1670 741,1670 798,1669 855,1669 912,1670 969,1671 1025,1672 1082,1674 1139,1677 1196,1681 1253,1686"/>
+                <TextEquiv>
+                    <Unicode>so we have determined to try it for a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="175,1783 394,1769 648,1806 807,1767 851,1802 1202,1802 1221,1753 895,1749 816,1707 716,1743 489,1705 296,1740 176,1714"/>
+                <Baseline points="182,1756 233,1759 285,1762 336,1764 388,1766 439,1767 491,1768 542,1768 594,1769 645,1769 697,1769 749,1769 800,1770 852,1770 903,1771 955,1772 1006,1773 1058,1776 1109,1778 1161,1782 1213,1785"/>
+                <TextEquiv>
+                    <Unicode>month. Except for 6 days when we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="168,1862 552,1895 742,1855 1058,1855 1188,1885 1188,1845 1009,1814 654,1810 553,1840 485,1806 389,1831 168,1809"/>
+                <Baseline points="174,1846 224,1852 274,1857 325,1860 375,1862 425,1863 476,1863 526,1863 576,1862 627,1861 677,1860 727,1859 778,1858 828,1857 878,1856 929,1856 979,1857 1029,1859 1080,1861 1130,1866 1181,1871"/>
+                <TextEquiv>
+                    <Unicode>went to Hereford &amp; Oakwood we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="132,1959 1219,1958 1241,1921 1153,1888 1026,1921 865,1870 657,1923 548,1890 414,1925 131,1904"/>
+                <Baseline points="139,1935 193,1939 248,1943 303,1945 358,1946 412,1947 467,1947 522,1946 577,1946 631,1944 686,1943 741,1941 796,1940 850,1939 905,1937 960,1937 1015,1937 1069,1937 1124,1938 1179,1941 1234,1944"/>
+                <TextEquiv>
+                    <Unicode>have been at home all the year. When</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="468,2009 483,2014 519,1996 540,2001 581,1994 599,2004 619,2000 618,1975 598,1971 584,1961 572,1971 562,1965 554,1969 541,1958 524,1960 515,1951 507,1953 480,1982 467,1981"/>
+                <Baseline points="475,1993 502,1994 529,1993 557,1991 584,1990 612,1992"/>
+                <TextEquiv>
+                    <Unicode>place</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="155,2042 408,2035 525,2074 670,2038 771,2070 977,2032 1277,2059 1286,2011 1023,1972 525,2011 290,1967 155,1990"/>
+                <Baseline points="162,2026 217,2029 273,2030 329,2031 385,2032 441,2033 497,2033 552,2032 608,2032 664,2032 720,2031 776,2031 832,2031 888,2032 943,2032 999,2034 1055,2035 1111,2038 1167,2041 1223,2045 1279,2050"/>
+                <TextEquiv>
+                    <Unicode>at the latter we drove over to see your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>176&#13;
+Ospringe&#13;
+&#13;
+Bedford Avenue&#13;
+Bexhill on Sea&#13;
+Dec 26 1902&#13;
+My dear Dyer&#13;
+Thank you for your letter -- I&#13;
+heard from Willy of your return in&#13;
+good health.  Also of poor Harriet's&#13;
+influenza, which must be a trial to&#13;
+you in which we do sympathise -- I&#13;
+wrote her my Xmas greetings. If you&#13;
+were late in taking your holiday we&#13;
+are later -- &amp; it remains to be seen&#13;
+how the weather able will favour us.&#13;
+Matte had been a good deal pulled&#13;
+down &amp; heard of this air being bracing&#13;
+so we have determined to try it for a&#13;
+month. Except for 6 days when we&#13;
+went to Hereford &amp; Oakwood we&#13;
+have been at home all the year. When&#13;
+place&#13;
+at the latter we drove over to see your</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

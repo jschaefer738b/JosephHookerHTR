@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-27T13:51:08.949-04:00</Created>
+        <LastChange>2020-06-27T23:24:51.082+02:00</LastChange>
+        <TranskribusMetadata docId="421804" pageId="16781689" pageNr="1" tsid="32837223" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=ZPXODRNVSXKONBFSJUSPLOYS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGWYHYSQVXLDIWUFBNFHKYBF" imageId="12536530"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_186_001 (1).jpg" imageWidth="1395" imageHeight="2130">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330911139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="212,46 212,2030 1315,2030 1315,46"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1137,117 1152,111 1163,116 1172,113 1190,95 1200,98 1214,88 1224,87 1246,96 1259,93 1257,29 1223,35 1191,8 1164,22 1135,26"/>
+                <Baseline points="1143,90 1170,89 1197,88 1224,87 1252,88"/>
+                <TextEquiv>
+                    <Unicode>186</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="734,172 768,154 858,138 905,157 949,133 985,148 1068,144 1069,66 1035,60 1006,76 925,56 879,83 852,77 798,92 755,66 735,70"/>
+                <Baseline points="741,126 767,126 794,126 821,127 847,127 874,128 901,128 927,128 954,129 981,129 1007,128 1034,128 1061,126"/>
+                <TextEquiv>
+                    <Unicode>Oct. 16.05</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="947,280 970,278 983,264 1010,264 1019,272 1038,259 1083,280 1127,263 1166,268 1166,228 1127,233 1065,221 1041,239 947,218"/>
+                <Baseline points="953,256 978,258 1004,259 1030,260 1056,260 1081,259 1107,259 1133,258 1159,257"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="928,367 986,341 1006,354 1033,339 1045,349 1061,338 1117,343 1156,331 1175,344 1200,343 1200,294 1151,308 1112,295 1045,307 948,297 928,306"/>
+                <Baseline points="935,326 960,328 986,329 1012,330 1038,329 1064,329 1089,328 1115,328 1141,327 1167,327 1193,328"/>
+                <TextEquiv>
+                    <Unicode>SUNNINCDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="205,616 227,614 295,653 368,611 423,605 453,622 590,597 604,590 604,566 567,568 510,521 482,521 427,563 323,542 267,504 244,525 203,523"/>
+                <Baseline points="212,602 237,602 263,603 289,603 314,603 340,604 366,604 391,605 417,604 443,604 468,603 494,602 520,600 545,597 571,594 597,590"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="449,727 549,741 647,715 728,768 785,713 869,751 923,703 1144,686 1141,635 1050,643 1004,677 844,661 657,674 621,702 517,630 444,655"/>
+                <Baseline points="456,725 490,723 524,722 558,720 592,718 626,716 660,715 694,713 728,711 762,709 796,706 830,705 864,702 898,700 932,698 966,695 1000,693 1034,691 1068,689 1102,686 1137,683"/>
+                <TextEquiv>
+                    <Unicode>I am very sorry indeed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="212,841 474,860 529,823 693,841 855,796 917,821 1157,783 1155,748 1048,766 970,733 769,784 619,752 395,800 273,761 209,795"/>
+                <Baseline points="218,826 264,825 311,824 357,823 404,821 451,820 497,818 544,816 590,815 637,812 684,810 730,807 777,804 823,800 870,797 917,793 963,789 1010,785 1056,781 1103,776 1150,771"/>
+                <TextEquiv>
+                    <Unicode>to hear of Stapf's intentions, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="239,942 1159,855 1213,879 1248,875 1245,829 1112,818 966,857 828,829 787,862 671,843 632,881 518,853 417,894 321,864 235,889"/>
+                <Baseline points="244,921 293,919 343,917 393,913 443,911 492,908 542,904 592,901 642,898 691,894 741,890 791,886 841,882 890,879 940,875 990,871 1040,867 1089,863 1139,860 1189,856 1239,852"/>
+                <TextEquiv>
+                    <Unicode>which I hope that he will not be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="235,1022 423,1027 600,982 809,1005 915,979 990,1012 1184,973 1182,921 758,964 591,924 465,968 233,976"/>
+                <Baseline points="242,1008 288,1003 335,999 382,996 428,992 475,990 522,988 568,986 615,984 662,983 709,982 755,981 802,980 849,978 895,977 942,976 989,974 1035,972 1082,969 1129,966 1176,962"/>
+                <TextEquiv>
+                    <Unicode>successful. Rendle is a very good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="212,1127 752,1063 1277,1069 1275,1027 1178,1013 208,1043"/>
+                <Baseline points="218,1100 270,1098 323,1095 375,1091 428,1088 480,1086 533,1083 585,1080 638,1077 690,1073 743,1070 796,1067 848,1065 901,1063 953,1060 1006,1057 1058,1055 1111,1054 1163,1052 1216,1051 1269,1049"/>
+                <TextEquiv>
+                    <Unicode>Systematic Botanist; has been 17 years</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="238,1193 850,1187 924,1159 977,1196 1183,1137 1271,1150 1269,1115 1086,1085 779,1139 669,1110 595,1152 338,1122 236,1166"/>
+                <Baseline points="244,1183 295,1182 346,1181 397,1178 448,1176 499,1174 550,1172 601,1169 652,1167 703,1164 754,1161 805,1158 856,1155 907,1153 958,1150 1009,1148 1060,1146 1111,1144 1162,1143 1213,1141 1264,1140"/>
+                <TextEquiv>
+                    <Unicode>on the Museum Staff, is greatly liked &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="233,1276 412,1269 516,1305 730,1254 1052,1259 1173,1244 1171,1195 950,1220 897,1196 852,1235 744,1201 618,1245 477,1213 358,1258 277,1212 231,1237"/>
+                <Baseline points="240,1272 286,1272 332,1272 378,1271 425,1269 471,1268 517,1266 564,1263 610,1261 656,1259 703,1257 749,1254 795,1251 841,1249 888,1245 934,1243 980,1240 1027,1238 1073,1236 1119,1234 1166,1232"/>
+                <TextEquiv>
+                    <Unicode>it is only fair that he should</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="227,1381 383,1350 1216,1341 1252,1334 1250,1273 763,1322 657,1289 541,1321 405,1296 225,1342"/>
+                <Baseline points="233,1363 283,1359 334,1356 384,1353 435,1350 486,1348 536,1346 587,1344 637,1342 688,1340 739,1339 789,1337 840,1335 890,1334 941,1332 992,1329 1042,1327 1093,1324 1143,1322 1194,1319 1245,1315"/>
+                <TextEquiv>
+                    <Unicode>get the post. He is good enough for it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="348,1459 1000,1453 1259,1418 1259,1378 1068,1359 1003,1401 848,1380 796,1414 650,1376 486,1430 394,1376 345,1389"/>
+                <Baseline points="354,1446 401,1445 448,1443 495,1442 543,1440 590,1438 637,1436 685,1435 732,1433 779,1431 827,1429 874,1426 921,1424 969,1422 1016,1420 1063,1417 1111,1415 1158,1412 1205,1409 1253,1407"/>
+                <TextEquiv>
+                    <Unicode>Thanks for what you tell me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="270,1554 1129,1491 1226,1514 1222,1459 1115,1444 905,1488 720,1464 585,1503 520,1470 448,1507 268,1511"/>
+                <Baseline points="276,1539 323,1537 370,1535 417,1532 464,1531 511,1528 558,1525 605,1523 652,1519 699,1516 747,1513 794,1510 841,1507 888,1504 935,1501 982,1498 1029,1496 1076,1494 1123,1492 1170,1489 1218,1487"/>
+                <TextEquiv>
+                    <Unicode>about Brian, I agree with every</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="287,1634 433,1650 648,1609 794,1633 950,1590 1191,1590 1204,1561 1082,1568 1007,1532 966,1561 844,1541 746,1583 682,1547 588,1591 408,1556 353,1592 284,1580"/>
+                <Baseline points="293,1617 338,1618 383,1618 428,1617 474,1616 519,1615 564,1613 610,1610 655,1608 700,1605 746,1602 791,1599 836,1597 881,1594 927,1591 972,1588 1017,1585 1063,1584 1108,1582 1153,1581 1199,1580"/>
+                <TextEquiv>
+                    <Unicode>word of it. I have put him on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="252,1708 931,1680 1104,1705 1303,1666 1302,1634 1218,1614 1086,1657 825,1625 607,1677 543,1635 492,1673 251,1666"/>
+                <Baseline points="259,1697 310,1697 362,1697 414,1697 466,1696 518,1695 570,1693 621,1691 673,1689 725,1687 777,1684 829,1681 881,1679 933,1676 984,1674 1036,1672 1088,1670 1140,1667 1192,1666 1244,1665 1296,1664"/>
+                <TextEquiv>
+                    <Unicode>a mere existence allowance, (a little</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="265,1784 529,1803 605,1767 832,1784 934,1745 1234,1776 1232,1717 1196,1708 264,1745"/>
+                <Baseline points="272,1772 319,1773 367,1773 415,1772 462,1771 510,1770 558,1768 605,1766 653,1764 701,1762 749,1760 796,1758 844,1756 892,1753 939,1752 987,1751 1035,1749 1082,1748 1130,1748 1178,1748 1226,1749"/>
+                <TextEquiv>
+                    <Unicode>over £250 for self wife &amp; clothing for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="243,1861 845,1834 1013,1867 1176,1825 1308,1853 1320,1788 739,1793 392,1840 299,1804 242,1839"/>
+                <Baseline points="250,1857 303,1857 356,1856 409,1855 463,1854 516,1852 569,1850 622,1848 676,1845 729,1843 782,1841 835,1838 889,1836 942,1834 995,1833 1048,1832 1102,1832 1155,1832 1208,1833 1261,1834 1315,1837"/>
+                <TextEquiv>
+                    <Unicode>themselves &amp; children &amp; keep of the latter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="240,1935 356,1965 412,1933 590,1951 795,1909 1281,1924 1280,1871 239,1904"/>
+                <Baseline points="246,1930 297,1930 348,1929 400,1927 451,1926 503,1924 554,1923 605,1920 657,1919 708,1917 760,1915 811,1914 862,1913 914,1912 965,1911 1017,1911 1068,1911 1119,1912 1171,1913 1222,1916 1274,1919"/>
+                <TextEquiv>
+                    <Unicode>during holidays -- Also I have the school</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="225,2015 436,2044 621,1997 823,2019 1002,1985 1313,2014 1311,1922 1280,1918 1117,1962 835,1930 630,1974 224,1964"/>
+                <Baseline points="231,2009 284,2011 338,2012 392,2011 446,2010 499,2007 553,2004 607,2001 661,1998 714,1994 768,1991 822,1988 876,1986 929,1984 983,1983 1037,1983 1091,1985 1144,1987 1198,1992 1252,1998 1306,2006"/>
+                <TextEquiv>
+                    <Unicode>bills sent to me to be paid &amp; keep &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>186&#13;
+Oct. 16.05&#13;
+THE CAMP.&#13;
+SUNNINCDALE.&#13;
+My dear Dyer&#13;
+I am very sorry indeed&#13;
+to hear of Stapf's intentions, in&#13;
+which I hope that he will not be&#13;
+successful. Rendle is a very good&#13;
+Systematic Botanist; has been 17 years&#13;
+on the Museum Staff, is greatly liked &amp;&#13;
+it is only fair that he should&#13;
+get the post. He is good enough for it.&#13;
+Thanks for what you tell me&#13;
+about Brian, I agree with every&#13;
+word of it. I have put him on&#13;
+a mere existence allowance, (a little&#13;
+over £250 for self wife &amp; clothing for&#13;
+themselves &amp; children &amp; keep of the latter&#13;
+during holidays -- Also I have the school&#13;
+bills sent to me to be paid &amp; keep &amp;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English writing M2(htr_id=19809)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-23T15:43:39.264-04:00</Created>
+        <LastChange>2020-06-24T05:23:58.518+02:00</LastChange>
+        <TranskribusMetadata docId="418292" pageId="16659303" pageNr="1" tsid="32542322" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=AWJEDEJQBTHMHKUDHFXMGFMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ECDMOKLPZSVXFMQHSIIRXTAP" imageId="12444759"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_165_001.jpg" imageWidth="1432" imageHeight="2178">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330933959" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="233,29 233,2115 1349,2115 1349,29"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1114,96 1126,95 1158,110 1204,97 1238,100 1277,65 1288,64 1288,0 1266,-1 1258,5 1217,-1 1199,4 1177,-1 1168,5 1154,-1 1114,2"/>
+                <Baseline points="1120,81 1146,83 1173,84 1200,85 1227,84 1254,83 1281,80"/>
+                <TextEquiv>
+                    <Unicode>165</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="933,214 1008,201 1069,209 1089,199 1201,217 1223,208 1223,159 1184,147 1150,155 1098,137 1062,139 1018,98 969,128 932,129"/>
+                <Baseline points="939,199 964,197 989,195 1014,194 1040,194 1065,194 1090,195 1115,195 1141,196 1166,195 1191,195 1217,193"/>
+                <TextEquiv>
+                    <Unicode>Marchh 24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1258,239 1286,246 1306,231 1325,247 1356,241 1357,166 1342,170 1331,162 1318,168 1303,163 1265,197 1259,197"/>
+                <Baseline points="1264,231 1292,233 1320,234 1349,232"/>
+                <TextEquiv>
+                    <Unicode>99</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="570,262 596,272 632,271 642,282 653,277 689,303 726,299 763,337 779,340 797,232 711,256 659,231 640,235 629,221 608,227 591,217 577,220"/>
+                <Baseline points="577,259 602,262 628,268 653,274 679,280 705,285 730,288 756,289 782,287"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1040,331 1073,340 1100,325 1179,326 1187,333 1222,325 1237,331 1245,330 1246,306 1209,292 1183,296 1151,285 1133,285 1111,300 1086,284 1042,278"/>
+                <Baseline points="1047,313 1074,316 1101,318 1129,320 1156,321 1184,321 1211,321 1239,321"/>
+                <TextEquiv>
+                    <Unicode>THE CAMP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="596,401 678,425 694,412 742,401 736,325 717,330 705,342 697,338 653,346 615,323 589,316"/>
+                <Baseline points="602,393 628,392 654,392 681,392 707,388 734,378"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1008,405 1043,394 1091,397 1149,434 1197,414 1270,414 1271,368 1150,371 1130,360 1112,371 1060,369 1009,353"/>
+                <Baseline points="1015,386 1040,387 1065,388 1090,389 1115,390 1140,391 1165,392 1190,392 1215,393 1240,392 1265,392"/>
+                <TextEquiv>
+                    <Unicode>SUNNINGDALE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="258,605 291,605 307,621 355,588 514,579 578,604 691,572 691,540 678,534 605,547 531,505 473,505 415,528 315,487 259,514"/>
+                <Baseline points="265,565 291,567 317,568 343,570 369,571 395,572 422,573 448,574 474,575 500,575 526,575 553,575 579,575 605,574 631,574 657,572 684,571"/>
+                <TextEquiv>
+                    <Unicode>My dear Dyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="456,701 1269,700 1345,688 1344,634 1251,624 1133,665 991,629 906,673 793,651 730,679 613,676 454,613"/>
+                <Baseline points="462,687 505,690 549,692 593,693 637,694 681,694 724,694 768,693 812,692 856,691 900,690 943,688 987,686 1031,685 1075,683 1119,682 1162,680 1206,679 1250,679 1294,679 1338,680"/>
+                <TextEquiv>
+                    <Unicode>I received your letter dated</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="226,815 360,828 407,854 449,826 471,840 553,812 644,818 693,843 729,820 770,823 771,797 597,758 540,781 460,760 338,783 302,757 228,758"/>
+                <Baseline points="233,805 259,804 286,804 312,804 339,804 365,804 392,805 418,805 445,806 471,807 498,808 525,808 551,809 578,811 604,811 631,812 657,813 684,813 710,814 737,814 764,815"/>
+                <TextEquiv>
+                    <Unicode>21 only yesterday.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="383,928 971,938 1280,911 1268,872 1133,884 1062,847 1017,880 874,872 839,901 554,873 498,894 433,855 383,863"/>
+                <Baseline points="390,917 434,917 478,917 522,916 566,916 611,916 655,916 699,915 743,915 787,915 832,914 876,914 920,913 964,913 1008,912 1053,912 1097,911 1141,910 1185,910 1229,909 1274,908"/>
+                <TextEquiv>
+                    <Unicode>By all means send Harriets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="231,1031 385,1064 451,1015 1217,1020 1216,957 1117,1003 1028,960 881,979 725,949 600,996 361,1003 308,957 231,999"/>
+                <Baseline points="238,1018 286,1019 335,1019 383,1019 432,1018 481,1018 529,1017 578,1016 626,1016 675,1015 724,1014 772,1013 821,1013 869,1012 918,1012 967,1012 1015,1012 1064,1012 1112,1012 1161,1013 1210,1015"/>
+                <TextEquiv>
+                    <Unicode>drawings over to the Herb., where I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="292,1151 741,1111 946,1152 1298,1116 1278,1069 903,1089 803,1045 719,1082 488,1057 392,1087 291,1062"/>
+                <Baseline points="298,1118 347,1119 397,1120 447,1120 496,1120 546,1120 596,1119 645,1118 695,1117 745,1116 795,1114 844,1114 894,1112 944,1112 993,1111 1043,1111 1093,1111 1142,1111 1192,1112 1242,1114 1292,1116"/>
+                <TextEquiv>
+                    <Unicode>hope to be on Monday, &amp; I will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="279,1273 358,1226 592,1257 1256,1240 1256,1203 1096,1214 1047,1181 973,1217 846,1170 791,1216 617,1174 569,1207 531,1179 280,1176"/>
+                <Baseline points="286,1223 334,1224 382,1225 430,1227 478,1228 526,1229 574,1230 623,1230 671,1231 719,1232 767,1232 815,1233 863,1233 911,1234 960,1234 1008,1235 1056,1235 1104,1236 1152,1236 1200,1236 1249,1237"/>
+                <TextEquiv>
+                    <Unicode>get them published as soon as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="284,1334 1325,1357 1326,1312 1266,1278 995,1311 806,1270 722,1293 676,1260 541,1302 429,1249 286,1269"/>
+                <Baseline points="291,1315 342,1316 393,1317 445,1318 496,1320 548,1320 599,1321 650,1322 702,1323 753,1324 805,1325 856,1326 907,1327 959,1328 1010,1329 1062,1331 1113,1332 1164,1334 1216,1336 1267,1339 1319,1342"/>
+                <TextEquiv>
+                    <Unicode>possible : I fear it cannot be before</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="280,1448 450,1421 909,1439 1039,1486 1188,1433 1312,1449 1312,1411 1078,1366 850,1415 774,1381 521,1397 464,1361 281,1386"/>
+                <Baseline points="287,1417 337,1417 388,1419 439,1419 490,1421 541,1422 592,1423 643,1424 694,1426 745,1427 796,1428 846,1429 897,1430 948,1431 999,1432 1050,1433 1101,1433 1152,1434 1203,1434 1254,1434 1305,1433"/>
+                <TextEquiv>
+                    <Unicode>July Number at earliest : to get all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="262,1536 353,1531 372,1545 500,1528 546,1546 639,1524 687,1550 765,1532 765,1505 673,1477 585,1499 531,1469 440,1495 408,1473 263,1490"/>
+                <Baseline points="269,1513 294,1513 320,1512 346,1512 371,1512 397,1512 423,1512 449,1513 474,1513 500,1514 526,1514 552,1515 577,1516 603,1517 629,1518 655,1518 680,1519 706,1520 732,1520 758,1521"/>
+                <TextEquiv>
+                    <Unicode>in one Number.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="340,1647 658,1638 759,1672 819,1640 949,1680 1026,1623 1082,1653 1277,1634 1277,1577 1239,1560 1134,1583 1081,1553 964,1605 856,1579 810,1610 667,1575 549,1575 504,1606 403,1552 340,1577"/>
+                <Baseline points="346,1619 392,1622 438,1625 484,1628 530,1630 577,1631 623,1632 669,1632 715,1633 761,1633 808,1632 854,1632 900,1631 946,1630 992,1630 1039,1629 1085,1628 1131,1627 1177,1627 1223,1626 1270,1626"/>
+                <TextEquiv>
+                    <Unicode>I am extremely sorry that the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="296,1765 450,1731 610,1769 708,1739 857,1772 1197,1739 1130,1698 1070,1726 815,1691 581,1720 494,1666 427,1702 297,1670"/>
+                <Baseline points="303,1724 347,1727 391,1729 436,1732 480,1734 525,1736 569,1737 613,1738 658,1739 702,1740 747,1740 791,1740 835,1740 880,1740 924,1739 969,1739 1013,1738 1057,1737 1102,1736 1146,1734 1191,1733"/>
+                <TextEquiv>
+                    <Unicode>Ceylon flora is causing you so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="316,1841 622,1841 721,1882 835,1842 1074,1875 1261,1850 1193,1791 1034,1814 807,1763 734,1820 543,1781 316,1793"/>
+                <Baseline points="322,1825 368,1829 415,1832 461,1834 508,1836 555,1837 601,1838 648,1838 695,1838 741,1838 788,1837 835,1837 881,1836 928,1836 975,1836 1021,1836 1068,1837 1115,1838 1161,1839 1208,1841 1255,1845"/>
+                <TextEquiv>
+                    <Unicode>much trouble. Dulau's conduct is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="294,1956 344,1952 403,1981 445,1962 475,1970 530,1957 609,1978 687,1969 688,1933 647,1935 613,1914 564,1931 519,1897 468,1918 449,1908 395,1922 337,1896 297,1909"/>
+                <Baseline points="302,1942 327,1943 352,1944 377,1946 403,1947 428,1948 453,1950 478,1951 504,1952 529,1954 554,1956 579,1956 605,1957 630,1958 655,1958 681,1959"/>
+                <TextEquiv>
+                    <Unicode>inexplicable.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="356,2077 612,2067 730,2096 833,2061 1179,2071 1179,2024 1044,2018 944,2049 774,2009 710,2036 647,2004 356,1996"/>
+                <Baseline points="363,2056 403,2058 444,2059 484,2060 525,2061 565,2061 606,2062 646,2062 687,2062 727,2062 768,2062 808,2062 849,2062 889,2061 930,2062 970,2062 1011,2062 1051,2063 1092,2063 1132,2065 1173,2066"/>
+                <TextEquiv>
+                    <Unicode>The Ceylon grasses are nearly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="1190,2087 1198,2088 1207,2102 1221,2107 1234,2058 1227,2056 1220,2059 1215,2056 1213,2057 1212,2055 1204,2059 1198,2057"/>
+                <Baseline points="1198,2085 1219,2090"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>165&#13;
+Marchh 24&#13;
+99&#13;
+&#13;
+THE CAMP.&#13;
+&#13;
+SUNNINGDALE.&#13;
+My dear Dyer&#13;
+I received your letter dated&#13;
+21 only yesterday.&#13;
+By all means send Harriets&#13;
+drawings over to the Herb., where I&#13;
+hope to be on Monday, &amp; I will&#13;
+get them published as soon as&#13;
+possible : I fear it cannot be before&#13;
+July Number at earliest : to get all&#13;
+in one Number.&#13;
+I am extremely sorry that the&#13;
+Ceylon flora is causing you so&#13;
+much trouble. Dulau's conduct is&#13;
+inexplicable.&#13;
+The Ceylon grasses are nearly&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
