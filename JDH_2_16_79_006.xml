@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=none:date=08_03_2023_15:50</Creator>
+        <Created>2023-03-08T13:51:29.768+01:00</Created>
+        <LastChange>2023-04-05T15:28:23.113+02:00</LastChange>
+        <TranskribusMetadata docId="1357284" pageId="53155023" pageNr="6" tsid="118061861" status="DONE" userId="151145" imgUrl="https://files.transkribus.eu/Get?id=ENOGFZYOLBWPKKHDJLVIRCEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HIVTMJZDKEBKXFWXDPNZJISE" imageId="43157157"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_79_006.jpg" imageWidth="1531" imageHeight="2421">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330778580" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="48,430 1254,430 1254,798 48,798"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="118,496 305,483 349,499 385,486 457,514 525,489 575,508 588,462 527,466 413,436 385,459 352,454 187,361 116,383"/>
+                <Baseline points="126,484 156,480 186,480 216,480 246,482 276,482 306,482 336,484 366,482 396,486 426,486 456,486 486,488 516,488 546,488 576,490 592,490"/>
+                <TextEquiv>
+                    <Unicode>breaking down</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="306,582 336,582 366,582 396,584 426,586 456,586 486,588 516,588 546,586 576,584 606,584 636,586 666,586 696,588 726,588 756,590 786,588 816,588 846,588 876,586 906,584 912,586 1032,588 1062,588 1092,592 1122,588 1150,590 1151,575 1122,573 1092,577 1063,573 1032,573 915,571 908,569 875,571 846,573 816,573 786,573 756,575 726,573 696,573 666,571 636,571 606,569 576,569 545,571 516,573 486,573 456,571 426,571 397,569 366,567 336,567 306,567"/>
+                <Baseline points="306,582 336,582 366,582 396,584 426,586 456,586 486,588 516,588 546,586 576,584 606,584 636,586 666,586 696,588 726,588 756,590 786,588 816,588 846,588 876,586 906,584 912,586 1032,588 1062,588 1092,592 1122,588 1150,590"/>
+                <TextEquiv>
+                    <Unicode>Now I must break off as </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="39,689 525,689 596,736 919,680 1252,729 1222,610 985,631 911,587 709,646 557,587 471,655 39,628"/>
+                <Baseline points="48,682 54,680 84,682 114,682 144,680 174,680 204,682 234,684 264,682 294,682 324,684 354,684 384,684 414,686 444,686 474,686 504,686 534,686 564,686 594,686 624,688 654,686 684,686 714,688 744,686 774,682 804,680 834,680 864,682 894,682 924,680 954,678 984,680 1014,680 1044,680 1074,678 1104,678 1134,676 1164,676 1194,676 1224,672 1254,664"/>
+                <TextEquiv>
+                    <Unicode>Bentham is calling out for a list of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="69,795 124,828 166,804 201,825 282,804 349,828 563,813 614,831 613,730 412,727 379,747 335,712 255,705 143,754 68,741"/>
+                <Baseline points="78,778 108,782 138,782 168,782 198,786 228,784 258,786 288,788 318,788 348,786 378,786 408,784 438,786 468,786 498,786 528,786 558,784 588,784 618,782"/>
+                <TextEquiv>
+                    <Unicode>my Palm flowers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="520,846 1104,846 1104,1114 520,1114"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="511,929 643,960 754,934 819,967 837,954 858,973 917,964 916,827 858,833 815,863 771,833 703,836 629,780 510,827"/>
+                <Baseline points="520,896 550,900 580,900 610,900 640,900 670,900 700,904 730,904 760,906 790,908 820,906 850,902 880,902 910,904 920,906"/>
+                <TextEquiv>
+                    <Unicode>Ever affy yours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="563,1141 614,1162 724,1107 821,1142 1100,1123 1107,985 1038,996 955,958 863,987 733,944 573,972"/>
+                <Baseline points="574,1104 590,1100 620,1100 650,1100 681,1097 681,1097 684,1100 714,1094 744,1092 774,1088 804,1086 834,1084 864,1082 894,1080 924,1078 954,1076 984,1076 1014,1074 1044,1076 1074,1076 1104,1082"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_4" custom="readingOrder {index:2;}">
+            <Coords points="156,1390 1410,1390 1410,1656 156,1656"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="321,1450 661,1479 774,1445 1154,1504 1240,1453 1406,1467 1405,1396 1288,1365 320,1376"/>
+                <Baseline points="330,1440 360,1440 390,1440 420,1440 450,1444 480,1444 510,1446 540,1446 570,1448 600,1448 630,1450 660,1450 690,1450 720,1450 750,1452 780,1450 810,1450 840,1450 870,1452 900,1454 930,1454 960,1456 990,1458 1020,1456 1050,1458 1080,1458 1110,1460 1140,1458 1170,1458 1200,1456 1230,1456 1260,1454 1290,1454 1320,1454 1350,1454 1380,1456 1410,1458"/>
+                <TextEquiv>
+                    <Unicode>he dined with us yesterday, &amp; was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="148,1539 638,1583 837,1549 949,1589 1343,1557 1245,1485 1159,1522 777,1448 667,1485 146,1430"/>
+                <Baseline points="156,1528 186,1528 216,1532 246,1532 276,1532 306,1534 336,1536 366,1538 396,1540 426,1538 456,1538 486,1538 516,1542 546,1544 576,1544 606,1546 636,1546 666,1546 696,1550 726,1552 756,1552 786,1550 816,1550 846,1548 876,1548 906,1548 936,1542 966,1546 996,1548 1026,1548 1056,1546 1086,1546 1116,1548 1146,1548 1176,1548 1206,1550 1236,1550 1266,1550 1296,1550 1326,1550 1346,1552"/>
+                <TextEquiv>
+                    <Unicode>in great force, but I find him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="207,1708 267,1709 299,1688 400,1711 665,1711 667,1578 537,1554 483,1577 436,1549 374,1560 333,1536 250,1559 208,1534"/>
+                <Baseline points="216,1644 248,1644 278,1646 308,1646 338,1646 368,1646 398,1646 428,1644 458,1646 488,1644 518,1644 548,1644 578,1646 608,1646 638,1646 668,1642 670,1642"/>
+                <TextEquiv>
+                    <Unicode>poorly to day.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

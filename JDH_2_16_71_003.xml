@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=none:date=08_03_2023_15:43</Creator>
+        <Created>2023-03-08T13:45:33.617+01:00</Created>
+        <LastChange>2023-05-17T14:45:53.556+02:00</LastChange>
+        <TranskribusMetadata docId="1357272" pageId="53154838" pageNr="3" tsid="121979273" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=GITMTONZUMYORXHZQOFHSBGM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UESLDNBUSZOQRXZGSTPSQOTY" imageId="43156972"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_71_003.jpg" imageWidth="1550" imageHeight="2426">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330798245" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_4"/>
+                <RegionRefIndexed index="3" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="132,122 1462,122 1462,516 132,516"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="125,212 1308,191 1308,112 1138,94 910,104 831,150 127,98"/>
+                <Baseline points="134,190 142,190 172,192 202,192 232,190 262,190 292,190 322,190 352,190 382,190 412,188 442,186 472,184 502,182 532,180 562,178 592,176 622,176 652,174 682,174 712,174 742,174 772,176 802,176 832,176 862,176 892,176 922,178 952,178 982,180 1012,180 1042,180 1072,178 1102,180 1132,180 1162,180 1192,178 1222,176 1252,174 1282,178 1312,172"/>
+                <TextEquiv>
+                    <Unicode>the latter complains of the small</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="151,301 1314,290 1458,349 1458,217 1000,239 865,187 770,235 151,246"/>
+                <Baseline points="160,284 190,282 220,282 250,282 280,284 310,284 340,284 370,284 400,282 430,282 460,280 490,278 520,278 550,278 580,276 610,276 640,274 670,274 700,276 730,274 760,274 790,276 820,276 850,274 880,272 910,272 940,272 970,274 1000,274 1030,276 1060,276 1090,278 1120,278 1150,278 1180,276 1210,276 1240,276 1270,276 1300,274 1330,276 1360,276 1390,278 1420,280 1450,278 1462,276"/>
+                <TextEquiv>
+                    <Unicode>volume in Science that all his teaching</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="124,425 318,386 498,394 498,331 430,306 360,344 296,314 222,329 124,309"/>
+                <Baseline points="132,386 162,386 192,384 222,384 252,382 282,382 312,382 342,382 372,384 402,384 432,386 462,388 492,386 502,388"/>
+                <TextEquiv>
+                    <Unicode>leads to.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="204,507 314,482 393,528 754,472 1424,520 1422,450 1301,466 1068,389 744,445 202,412"/>
+                <Baseline points="212,478 242,474 272,474 302,474 332,474 362,474 392,474 422,474 452,474 482,474 512,474 542,474 572,474 602,474 632,474 662,474 692,474 722,472 752,472 782,474 812,474 842,476 872,478 902,480 932,482 962,480 992,484 1022,482 1052,482 1082,482 1112,480 1142,480 1172,480 1202,482 1232,486 1262,490 1292,492 1322,496 1352,500 1382,502 1412,506 1426,506"/>
+                <TextEquiv>
+                    <Unicode>Yesterday we dined at Lavalier's in a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="132,508 1408,508 1408,970 132,970"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="124,583 1363,599 1363,534 1117,494 945,503 893,551 788,489 625,529 122,503"/>
+                <Baseline points="132,562 162,560 192,560 222,558 252,558 282,558 312,560 342,560 372,560 402,562 432,564 462,564 492,564 522,562 552,562 582,564 612,562 642,562 672,560 702,562 732,564 762,562 792,562 822,562 852,562 882,562 912,566 942,568 972,568 1002,568 1032,566 1062,566 1092,566 1122,566 1152,566 1182,568 1212,570 1242,570 1272,574 1302,576 1332,576 1362,576 1368,576"/>
+                <TextEquiv>
+                    <Unicode>beautiful House, quite palatial. We</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="135,658 1210,648 1334,691 1334,612 1165,580 375,572 135,611"/>
+                <Baseline points="144,648 174,644 204,644 234,644 264,646 294,646 324,644 354,646 384,648 414,648 444,646 474,646 504,646 534,644 564,644 594,644 624,644 654,644 684,644 714,644 744,646 774,646 804,640 834,640 864,640 894,640 924,640 954,644 984,642 1014,644 1044,648 1074,646 1104,646 1134,646 1164,646 1194,648 1224,648 1254,650 1284,652 1314,652 1338,654"/>
+                <TextEquiv>
+                    <Unicode>met Duchartre &amp; Chatin, both very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="129,785 274,739 360,780 645,749 809,806 1000,741 1406,774 1406,710 1169,673 1047,710 588,666 129,691"/>
+                <Baseline points="138,736 168,738 198,736 228,736 258,736 288,738 318,738 348,740 378,742 408,742 438,742 468,742 498,742 528,742 558,744 588,744 618,744 648,746 678,748 708,748 738,746 768,746 798,746 828,746 858,744 888,744 918,744 948,744 978,744 1008,740 1038,740 1068,738 1098,738 1128,740 1158,740 1188,740 1218,742 1248,742 1278,744 1308,746 1338,750 1368,754 1398,758 1408,758"/>
+                <TextEquiv>
+                    <Unicode>agreeable - &amp; today we have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="138,863 1380,855 1371,756 1081,814 938,766 823,808 741,767 140,796"/>
+                <Baseline points="148,848 178,848 208,846 238,846 268,846 298,846 328,846 358,846 388,846 418,844 448,842 478,842 508,840 538,840 568,838 598,838 628,838 658,838 688,836 718,838 748,836 778,836 808,836 838,836 868,836 898,838 928,836 958,834 988,834 1018,836 1048,834 1078,834 1108,836 1138,838 1168,838 1198,840 1228,840 1258,844 1288,844 1318,846 1348,846 1378,848 1384,848"/>
+                <TextEquiv>
+                    <Unicode>to St Denis &amp; we leave tomorrow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:4;}">
+                <Coords points="198,938 206,936 236,938 266,940 296,940 326,940 356,942 386,944 416,946 446,946 476,944 506,942 536,940 566,938 596,936 626,934 674,936 704,936 734,938 764,938 794,940 824,938 854,936 884,934 914,936 944,938 974,938 1004,938 1034,940 1064,940 1094,942 1124,944 1154,946 1184,946 1214,948 1244,948 1274,954 1304,956 1334,958 1364,958 1388,960 1389,945 1365,943 1334,943 1305,941 1276,939 1245,933 1214,933 1184,931 1154,931 1125,929 1095,927 1064,925 1034,925 1004,923 974,923 944,923 915,921 884,919 853,921 823,923 794,925 764,923 734,923 704,921 674,921 626,919 595,921 565,923 535,925 505,927 475,929 446,931 416,931 387,929 357,927 326,925 296,925 266,925 237,923 205,921 194,923"/>
+                <Baseline points="198,938 206,936 236,938 266,940 296,940 326,940 356,942 386,944 416,946 446,946 476,944 506,942 536,940 566,938 596,936 626,934 674,936 704,936 734,938 764,938 794,940 824,938 854,936 884,934 914,936 944,938 974,938 1004,938 1034,940 1064,940 1094,942 1124,944 1154,946 1184,946 1214,948 1244,948 1274,954 1304,956 1334,958 1364,958 1388,960"/>
+                <TextEquiv>
+                    <Unicode>for Chambery. -- then Turin. Then</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_4" custom="readingOrder {index:2;}">
+            <Coords points="166,1008 1438,1008 1438,1290 166,1290"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="195,1086 669,1060 1008,1065 1191,1127 1433,1103 1433,1041 1275,992 857,1026 529,982 309,1031 195,982"/>
+                <Baseline points="204,1068 234,1068 264,1066 294,1064 324,1064 354,1066 384,1066 414,1066 444,1066 474,1068 504,1068 534,1068 564,1068 594,1064 624,1062 654,1060 684,1060 714,1058 744,1060 774,1060 804,1060 834,1060 864,1060 894,1062 924,1062 954,1060 984,1062 1014,1064 1044,1064 1074,1064 1104,1064 1134,1064 1164,1064 1194,1066 1224,1068 1254,1070 1284,1072 1314,1074 1344,1082 1374,1086 1404,1090 1434,1092 1438,1090"/>
+                <TextEquiv>
+                    <Unicode>Genoa, Pisa &amp; so to Rome (for one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="156,1171 305,1202 415,1174 503,1199 963,1184 961,1099 920,1085 723,1112 642,1090 526,1129 318,1078 156,1106"/>
+                <Baseline points="166,1150 196,1150 226,1152 256,1152 286,1154 316,1156 346,1158 376,1158 406,1166 436,1168 466,1170 496,1172 526,1174 556,1174 586,1172 616,1172 646,1170 676,1168 706,1166 736,1164 766,1162 796,1162 826,1160 856,1160 886,1162 916,1164 946,1164 964,1164"/>
+                <TextEquiv>
+                    <Unicode>night) &amp; on to Naples.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="257,1293 1029,1285 1062,1279 1065,1176 933,1222 686,1191 604,1230 410,1176 259,1186"/>
+                <Baseline points="266,1278 286,1278 316,1276 346,1278 376,1278 406,1278 436,1280 466,1280 496,1278 526,1278 556,1278 586,1278 616,1278 646,1276 676,1276 706,1274 736,1272 766,1272 796,1272 826,1268 856,1268 886,1268 916,1268 946,1266 976,1264 1006,1264 1036,1262 1066,1258"/>
+                <TextEquiv>
+                    <Unicode>with love to Harriet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:3;}">
+            <Coords points="702,1346 1208,1346 1208,1600 702,1600"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="702,1404 732,1404 762,1402 792,1402 822,1402 852,1400 882,1400 1103,1409 1103,1394 882,1385 852,1385 822,1387 792,1387 762,1387 732,1389 702,1389"/>
+                <Baseline points="702,1404 732,1404 762,1402 792,1402 822,1402 852,1400 882,1400 1103,1409"/>
+                <TextEquiv>
+                    <Unicode>I am aff ys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="865,1617 909,1598 1018,1586 1064,1611 1093,1590 1202,1593 1207,1498 1077,1505 1042,1471 985,1474 963,1458 871,1481"/>
+                <Baseline points="876,1590 878,1590 908,1590 938,1586 968,1582 998,1578 1028,1578 1058,1576 1088,1574 1118,1574 1148,1576 1178,1576 1208,1580"/>
+                <TextEquiv>
+                    <Unicode>JDHooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

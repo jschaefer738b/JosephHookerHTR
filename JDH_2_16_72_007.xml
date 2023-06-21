@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=none:date=08_03_2023_16:45</Creator>
+        <Created>2023-03-08T13:46:10.733+01:00</Created>
+        <LastChange>2023-04-06T01:43:04.152+02:00</LastChange>
+        <TranskribusMetadata docId="1357273" pageId="53154870" pageNr="7" tsid="118092638" status="DONE" userId="43461" imgUrl="https://files.transkribus.eu/Get?id=XSRSSKTGHJZOKRMSOBELSEFW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCIIYUCCODOVWJNBQTRNMIOA" imageId="43157004"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_72_007.jpg" imageWidth="1556" imageHeight="2426">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330797142" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="138,112 1404,112 1404,546 138,546"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="156,304 874,338 940,305 1171,388 1392,331 1390,257 1312,274 1221,210 154,203"/>
+                <Baseline points="164,286 194,290 224,292 254,290 284,292 314,292 344,294 374,294 404,296 434,296 464,298 494,298 524,300 554,298 584,298 614,298 644,298 674,300 704,302 734,300 764,304 794,302 824,302 854,304 884,302 914,302 944,304 974,304 1004,304 1034,304 1064,304 1094,306 1124,306 1154,306 1184,308 1214,310 1244,310 1274,310 1304,314 1334,316 1364,310 1394,304 1396,304"/>
+                <TextEquiv>
+                    <Unicode>Mr Beccari has written wishing to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="131,424 408,461 678,413 805,470 1299,496 1296,373 980,396 620,319 421,370 128,356"/>
+                <Baseline points="138,394 168,396 198,398 228,400 258,402 288,406 318,404 348,406 378,408 408,408 438,408 468,410 498,412 528,412 558,412 588,414 618,412 648,412 678,414 708,416 738,420 768,422 798,424 828,430 858,432 888,436 918,430 920,428 920,428 950,426 980,424 1010,422 1040,424 1070,426 1100,426 1130,426 1160,428 1190,432 1220,432 1250,432 1280,430 1302,432"/>
+                <TextEquiv>
+                    <Unicode>meet us at Rome -- if you see Mr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="176,504 206,506 236,508 266,510 296,508 326,512 356,514 386,512 416,516 446,518 476,518 506,520 536,520 566,522 596,522 626,524 656,522 686,522 716,524 746,524 776,526 806,526 836,528 866,528 896,530 926,532 938,534 954,528 982,528 1012,530 1042,528 1072,530 1102,534 1132,536 1162,536 1172,536 1172,521 1162,521 1132,521 1103,519 1073,515 1042,513 1012,515 982,513 951,513 937,519 928,517 897,515 866,513 836,513 806,511 776,511 746,509 716,509 686,507 656,507 626,509 596,507 566,507 536,505 506,505 476,503 446,503 417,501 386,497 356,499 327,497 296,493 266,495 237,493 207,491 177,489"/>
+                <Baseline points="176,504 206,506 236,508 266,510 296,508 326,512 356,514 386,512 416,516 446,518 476,518 506,520 536,520 566,522 596,522 626,524 656,522 686,522 716,524 746,524 776,526 806,526 836,528 866,528 896,530 926,532 938,534 954,528 982,528 1012,530 1042,528 1072,530 1102,534 1132,536 1162,536 1172,536"/>
+                <TextEquiv>
+                    <Unicode>Ball please tell him    this.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

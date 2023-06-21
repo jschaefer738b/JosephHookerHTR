@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=none:date=08_03_2023_15:45</Creator>
+        <Created>2023-03-08T13:50:45.580+01:00</Created>
+        <LastChange>2023-04-05T15:13:16.124+02:00</LastChange>
+        <TranskribusMetadata docId="1357283" pageId="53154991" pageNr="3" tsid="118061291" status="DONE" userId="151145" imgUrl="https://files.transkribus.eu/Get?id=MJSKZTQAOZJXGFOCRBNYKCGI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBASMVUKDFRQDXQMNGEKJFPC" imageId="43157125"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_78_003.jpg" imageWidth="1539" imageHeight="2426">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330779948" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_4"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_5"/>
+                <RegionRefIndexed index="3" regionRef="tr_3"/>
+                <RegionRefIndexed index="4" regionRef="tr_6"/>
+                <RegionRefIndexed index="5" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_4" custom="readingOrder {index:0;}">
+            <Coords points="1324,122 1450,122 1450,190 1324,190"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1316,205 1338,199 1349,203 1366,194 1393,206 1430,186 1447,188 1442,99 1393,89 1383,101 1354,97 1348,106 1309,96"/>
+                <Baseline points="1324,174 1354,172 1384,174 1414,178 1444,180 1450,178"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="92,176 1442,176 1442,744 92,744"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="107,267 386,246 558,280 805,238 868,273 930,228 1100,238 1093,159 910,184 620,148 533,191 111,196"/>
+                <Baseline points="118,256 146,256 176,254 206,254 236,254 266,254 296,252 326,254 356,252 386,248 416,248 446,248 476,244 506,244 536,242 566,240 596,240 626,238 656,236 686,234 716,232 746,232 776,232 806,230 836,228 866,228 896,226 926,226 956,226 986,228 1016,228 1046,228 1076,228 1106,228"/>
+                <TextEquiv>
+                    <Unicode>each to the two youngsters.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;} textStyle {offset:29; length:8;underlined:true;}">
+                <Coords points="82,424 1321,377 1383,312 743,303 614,347 521,310 255,369 171,302 85,318"/>
+                <Baseline points="92,396 96,396 126,390 156,388 186,388 216,388 246,388 276,386 306,388 336,388 366,388 396,386 426,382 456,380 486,378 516,378 546,376 576,376 606,374 636,374 666,374 696,374 726,370 756,368 786,366 816,364 846,364 876,362 906,362 936,362 966,362 996,364 1026,364 1056,364 1086,366 1116,366 1146,366 1176,362 1206,362 1236,360 1266,360 1296,360 1326,360 1356,356 1386,356"/>
+                <TextEquiv>
+                    <Unicode>King's cases have arrived in wretched</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="174,520 1318,464 1297,394 178,441"/>
+                <Baseline points="184,506 212,500 242,500 272,496 302,494 332,492 362,494 392,494 422,496 452,492 482,488 512,484 542,482 572,482 602,482 632,482 662,480 692,476 722,474 752,474 782,472 812,472 842,470 872,468 902,468 932,468 962,468 992,468 1022,468 1052,464 1082,466 1112,462 1142,458 1172,454 1202,454 1232,454 1262,454 1292,456 1322,460"/>
+                <TextEquiv>
+                    <Unicode>state. I find but one plant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="176,585 481,580 563,625 669,577 786,610 1123,567 1396,612 1425,521 1069,491 840,536 697,496 575,546 464,508 176,548"/>
+                <Baseline points="186,584 196,584 226,584 256,582 286,580 316,578 346,578 376,576 406,574 436,574 466,572 496,572 526,570 556,570 586,570 616,572 646,572 676,572 706,570 736,570 766,570 796,566 826,568 856,568 886,568 916,566 946,566 976,566 1006,566 1036,564 1066,564 1096,564 1126,564 1156,564 1186,564 1216,564 1246,564 1276,566 1306,566 1336,568 1366,572 1396,576 1426,574"/>
+                <TextEquiv>
+                    <Unicode>worth having, Magnolia sphenocarpa:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="92,726 1135,694 1440,738 1440,667 1245,634 796,655 743,617 645,672 92,629"/>
+                <Baseline points="102,704 132,704 162,704 192,704 222,704 252,704 282,704 312,702 342,700 372,700 402,698 432,696 462,696 492,694 522,694 552,694 582,696 612,698 642,696 672,698 702,696 732,694 762,692 792,690 822,688 852,688 882,690 912,692 942,692 972,692 1002,694 1032,692 1062,694 1092,692 1122,692 1152,690 1182,690 1212,690 1242,690 1272,692 1302,694 1332,700 1362,706 1392,720 1422,726 1442,734"/>
+                <TextEquiv>
+                    <Unicode>Espeut sends a long yarn &amp; is sending in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_5" custom="readingOrder {index:2;}">
+            <Coords points="130,740 1470,740 1470,1246 130,1246"/>
+            <TextLine id="tr_5_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="189,848 342,823 432,868 598,813 1101,795 1450,838 1452,769 1304,722 872,763 783,719 719,773 451,778 342,733 191,766"/>
+                <Baseline points="198,824 224,820 254,818 284,816 314,812 344,812 374,812 404,812 434,812 464,810 494,808 524,808 554,810 584,808 614,808 644,806 674,808 704,806 734,804 764,804 794,800 824,800 854,796 884,796 914,794 944,792 974,794 1004,794 1034,796 1064,794 1094,796 1124,794 1154,792 1184,790 1214,790 1244,790 1274,790 1304,790 1334,794 1364,798 1394,804 1424,806 1454,808"/>
+                <TextEquiv>
+                    <Unicode>50 lbs of dried Bananas wanting us</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="196,912 397,940 697,898 875,912 957,895 959,863 781,826 677,877 505,852 411,882 322,841 198,850"/>
+                <Baseline points="206,904 210,904 240,908 270,906 300,906 330,906 360,906 390,906 420,906 450,906 480,906 510,906 540,904 570,902 600,902 630,902 660,900 690,898 720,898 750,898 780,898 810,894 840,892 870,890 900,890 930,888 960,890"/>
+                <TextEquiv>
+                    <Unicode>to recommend them!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="119,1039 1428,1017 1450,937 1029,974 758,920 290,987 122,915"/>
+                <Baseline points="130,1024 132,1024 162,1022 192,1022 222,1020 252,1022 282,1022 312,1020 342,1022 372,1020 402,1022 432,1020 462,1020 492,1020 522,1018 552,1020 582,1020 612,1020 642,1020 672,1018 702,1014 732,1012 762,1012 792,1010 822,1008 852,1006 882,1004 912,1002 942,1000 972,998 1002,1000 1032,1000 1062,998 1092,998 1122,998 1152,994 1182,992 1212,992 1242,992 1272,990 1302,992 1332,992 1362,992 1392,990 1422,992 1452,996"/>
+                <TextEquiv>
+                    <Unicode>Trimen sends 12 pages of a screed, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="131,1138 629,1163 696,1116 1323,1115 1366,1041 857,1036 672,1091 548,1044 297,1106 213,1054 132,1073"/>
+                <Baseline points="140,1124 168,1124 198,1124 228,1124 258,1126 288,1128 318,1128 348,1128 378,1126 408,1124 438,1124 468,1124 498,1122 528,1120 558,1120 588,1120 618,1118 648,1120 678,1118 708,1116 738,1116 768,1114 798,1110 828,1110 858,1108 888,1102 918,1102 948,1104 978,1100 1008,1100 1038,1098 1068,1096 1098,1096 1128,1096 1158,1092 1188,1094 1218,1092 1248,1092 1278,1090 1308,1092 1338,1092 1368,1094"/>
+                <TextEquiv>
+                    <Unicode>there is little in it beyond a wail</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="784,1178 813,1182 831,1177 848,1183 885,1173 915,1188 947,1173 950,1118 917,1123 905,1116 875,1138 867,1133 857,1140 833,1115 818,1120 811,1111 788,1110"/>
+                <Baseline points="794,1168 802,1170 832,1170 862,1168 892,1166 922,1166 952,1164"/>
+                <TextEquiv>
+                    <Unicode>Clarke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_6" custom="readingOrder {index:5;} textStyle {offset:15; length:7;strikethrough:true;}">
+                <Coords points="154,1254 1056,1205 1116,1252 1232,1192 1463,1259 1467,1172 1336,1120 1188,1177 1051,1125 915,1187 396,1148 156,1200"/>
+                <Baseline points="164,1234 180,1236 210,1234 240,1232 270,1232 300,1232 330,1230 360,1228 390,1228 420,1226 450,1224 480,1224 510,1222 540,1222 570,1218 600,1216 630,1216 660,1214 690,1214 720,1214 750,1214 780,1212 810,1210 840,1210 870,1210 900,1210 930,1208 960,1206 990,1206 1020,1202 1050,1200 1080,1196 1110,1196 1140,1194 1170,1192 1200,1192 1230,1192 1260,1192 1290,1194 1320,1196 1350,1198 1380,1202 1410,1206 1440,1206 1470,1204"/>
+                <TextEquiv>
+                    <Unicode>over Haggalle, Cameron being extremely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:3;}">
+            <Coords points="100,1234 1430,1234 1430,1696 100,1696"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="144,1341 922,1309 1066,1356 1234,1287 1408,1311 1432,1212 1153,1257 1049,1222 771,1294 548,1249 456,1301 148,1264"/>
+                <Baseline points="154,1330 170,1328 200,1326 230,1326 260,1326 290,1328 320,1330 350,1328 380,1328 410,1328 440,1324 470,1324 500,1326 530,1326 560,1322 590,1324 620,1324 650,1322 680,1322 710,1320 740,1318 770,1316 800,1316 830,1314 860,1310 890,1308 920,1308 950,1304 980,1302 1010,1300 1040,1296 1070,1294 1100,1290 1130,1288 1160,1286 1190,1286 1220,1284 1250,1286 1280,1286 1310,1288 1340,1290 1370,1290 1400,1292 1430,1292"/>
+                <TextEquiv>
+                    <Unicode>ill with Typhus, as is a Cingalase sent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="191,1401 292,1413 332,1385 453,1376 674,1380 706,1403 882,1364 878,1331 774,1321 665,1344 608,1324 577,1353 505,1324 372,1356 334,1333 193,1368"/>
+                <Baseline points="200,1396 228,1396 258,1394 288,1392 318,1386 348,1384 378,1380 408,1380 438,1376 468,1378 498,1378 528,1380 558,1380 588,1380 618,1382 648,1380 678,1378 708,1376 738,1376 768,1372 798,1370 828,1366 858,1364 888,1360"/>
+                <TextEquiv>
+                    <Unicode>up to take his place</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="89,1489 478,1440 900,1470 1172,1416 1380,1465 1385,1354 295,1413 94,1363"/>
+                <Baseline points="100,1464 126,1462 156,1458 186,1454 216,1450 246,1448 276,1446 306,1448 336,1446 366,1444 396,1444 426,1440 456,1440 486,1440 516,1440 546,1440 576,1440 606,1440 636,1440 666,1442 696,1440 726,1438 756,1436 786,1436 816,1432 846,1430 876,1428 906,1426 936,1424 966,1422 996,1422 1026,1422 1056,1420 1086,1418 1116,1418 1146,1416 1176,1414 1206,1414 1236,1414 1266,1412 1296,1416 1326,1420 1356,1420 1386,1426"/>
+                <TextEquiv>
+                    <Unicode>Horne's book is out, he has sent you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="223,1554 261,1547 298,1554 307,1546 374,1577 401,1559 427,1557 427,1480 334,1505 308,1500 287,1509 253,1492 235,1509 223,1507"/>
+                <Baseline points="232,1542 262,1544 292,1542 322,1542 352,1546 382,1544 412,1542 432,1542"/>
+                <TextEquiv>
+                    <Unicode>a copy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="109,1693 443,1715 612,1661 1363,1634 1368,1557 1321,1542 1096,1601 670,1592 595,1643 342,1584 114,1618"/>
+                <Baseline points="118,1686 138,1684 168,1682 198,1680 228,1676 258,1674 288,1672 318,1668 348,1668 378,1666 408,1664 438,1662 468,1662 498,1660 528,1662 558,1662 588,1660 618,1658 648,1656 678,1654 708,1650 738,1648 768,1646 798,1644 828,1642 858,1642 888,1640 918,1638 948,1638 978,1638 1008,1636 1038,1634 1068,1634 1098,1632 1128,1632 1158,1628 1188,1626 1218,1624 1248,1620 1278,1618 1308,1618 1338,1614 1368,1612"/>
+                <TextEquiv>
+                    <Unicode>Poor Currey is dead, &amp; was buried</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_6" custom="readingOrder {index:4;}">
+            <Coords points="206,1660 1364,1660 1364,2014 206,2014"/>
+            <TextLine id="tr_6_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="221,1795 412,1819 510,1760 992,1730 1235,1767 1359,1723 1341,1633 872,1703 669,1673 555,1727 226,1722"/>
+                <Baseline points="232,1778 254,1774 284,1770 314,1768 344,1766 374,1764 404,1764 434,1762 464,1760 494,1758 524,1758 554,1756 584,1754 614,1752 644,1750 674,1748 704,1744 734,1742 764,1740 794,1738 824,1736 854,1734 884,1734 914,1730 944,1730 974,1728 1004,1726 1034,1724 1064,1722 1094,1720 1124,1718 1154,1716 1184,1714 1214,1712 1244,1710 1274,1710 1304,1710 1334,1712 1364,1716"/>
+                <TextEquiv>
+                    <Unicode>yesterday -- he died suddenly &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="196,1909 676,1852 749,1896 900,1854 967,1898 1254,1864 1256,1804 1073,1760 865,1822 657,1775 602,1817 198,1812"/>
+                <Baseline points="206,1878 208,1876 238,1876 268,1874 298,1874 328,1872 358,1872 388,1870 418,1870 448,1866 478,1864 508,1860 538,1860 568,1858 598,1856 628,1856 658,1854 688,1852 718,1852 748,1850 778,1848 808,1850 838,1852 868,1850 898,1850 928,1850 958,1850 988,1846 1018,1850 1048,1852 1078,1850 1108,1850 1138,1850 1168,1852 1198,1854 1228,1858 1258,1864"/>
+                <TextEquiv>
+                    <Unicode>has left his Fungi to Kew.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="345,2022 852,1993 1038,2018 1210,1998 1234,1933 1108,1951 833,1899 712,1951 632,1918 347,1949"/>
+                <Baseline points="354,2000 366,2004 396,2004 426,2002 456,2000 486,1998 516,1998 546,1998 576,1996 606,1996 636,1996 666,1994 696,1994 726,1994 756,1992 786,1994 816,1992 846,1992 876,1994 906,1992 936,1990 966,1988 996,1988 1026,1986 1056,1986 1086,1984 1116,1984 1146,1984 1176,1984 1206,1984 1236,1984"/>
+                <TextEquiv>
+                    <Unicode>With love to Harriet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:5;}">
+            <Coords points="668,2048 1194,2048 1194,2344 668,2344"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="811,2336 1068,2330 1098,2326 1128,2326 1158,2326 1188,2328 1189,2313 1158,2311 1128,2311 1097,2311 1067,2315 811,2321"/>
+                <Baseline points="811,2336 1068,2330 1098,2326 1128,2326 1158,2326 1188,2328"/>
+                <TextEquiv>
+                    <Unicode>Jos Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_741" custom="readingOrder {index:1;}">
+                <Coords points="668,2116 694,2118 724,2118 754,2118 784,2120 814,2120 844,2116 874,2116 904,2116 935,2114 1076,2112 1106,2108 1136,2112 1138,2114 1142,2108 1164,2106 1194,2098 1190,2084 1161,2091 1133,2093 1136,2093 1143,2099 1106,2093 1075,2097 934,2099 904,2101 874,2101 843,2101 813,2105 784,2105 754,2103 724,2103 695,2103 669,2101"/>
+                <Baseline points="668,2116 694,2118 724,2118 754,2118 784,2120 814,2120 844,2116 874,2116 904,2116 935,2114 1076,2112 1106,2108 1136,2112 1138,2114 1142,2108 1164,2106 1194,2098"/>
+                <TextEquiv>
+                    <Unicode>Ever Affy Yrs  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

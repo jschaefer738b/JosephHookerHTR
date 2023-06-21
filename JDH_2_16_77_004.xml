@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=1.6.0:model_id=50597:lm=none:date=08_03_2023_16:45</Creator>
+        <Created>2023-03-08T13:50:14.924+01:00</Created>
+        <LastChange>2023-04-05T15:07:27.923+02:00</LastChange>
+        <TranskribusMetadata docId="1357281" pageId="53154980" pageNr="4" tsid="118060420" status="DONE" userId="151145" imgUrl="https://files.transkribus.eu/Get?id=IAHAKBWXKIGEKJUATKKCUZBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EBCJPFZQIKEAJHXYHOXRWQRC" imageId="43157114"/>
+    </Metadata>
+    <Page imageFilename="JDH_2_16_77_004.jpg" imageWidth="1470" imageHeight="2163">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684330781915" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="133,93 1277,93 1277,455 133,455"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} textStyle {offset:0; length:5;strikethrough:true;}">
+                <Coords points="125,189 275,219 567,157 892,175 1275,126 969,60 703,110 614,72 283,100 129,60"/>
+                <Baseline points="133,183 137,183 167,181 197,179 227,177 257,171 287,169 317,167 347,167 377,167 407,163 437,161 467,161 497,157 527,155 557,155 587,155 617,157 647,157 677,157 707,157 737,155 767,155 797,155 827,153 857,151 887,151 917,151 947,151 977,151 1007,151 1037,147 1067,147 1097,145 1127,145 1157,143 1187,143 1217,145 1247,145 1277,147"/>
+                <TextEquiv>
+                    <Unicode>hardy hardly charitable in tone.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="159,283 1162,256 1239,239 1242,175 683,228 522,169 323,235 162,206"/>
+                <Baseline points="167,269 193,265 223,263 253,263 283,263 313,263 343,261 373,259 403,257 433,257 463,255 493,255 523,255 553,255 583,253 613,253 643,253 673,255 703,251 733,249 763,247 793,245 823,245 853,245 883,243 913,243 943,241 973,241 1003,239 1033,237 1063,235 1093,237 1123,235 1153,235 1183,235 1213,237 1243,237"/>
+                <TextEquiv>
+                    <Unicode>Reynolds lecture on rain &amp; hail</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="198,366 836,342 919,375 1041,332 1142,345 1145,282 694,272 560,321 511,288 200,281"/>
+                <Baseline points="205,359 213,359 243,357 273,355 303,355 333,355 363,353 393,353 423,353 453,353 483,351 513,351 543,347 573,345 603,341 633,339 663,339 693,337 723,337 753,337 783,335 813,331 843,327 873,325 903,323 933,323 963,323 993,319 1023,323 1053,325 1083,325 1113,327 1144,330"/>
+                <TextEquiv>
+                    <Unicode>I thought wretched -- &amp; by no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="163,461 1139,424 1154,351 711,398 641,369 351,428 166,386"/>
+                <Baseline points="171,443 195,445 225,443 255,443 285,441 315,443 345,441 375,441 405,439 435,439 465,437 495,437 525,435 555,433 585,433 615,433 645,431 675,431 705,429 735,429 765,429 795,427 825,425 855,423 885,421 915,417 945,417 975,415 1005,413 1035,411 1065,411 1095,411 1125,411 1155,413"/>
+                <TextEquiv>
+                    <Unicode>means correct as to statements</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="173,473 1313,473 1313,805 173,805"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="165,557 608,581 743,554 836,587 1048,544 1051,468 899,451 733,508 637,478 166,521"/>
+                <Baseline points="173,557 183,557 213,555 243,557 273,557 303,557 333,555 363,555 393,555 423,555 453,553 483,551 513,549 543,549 573,549 603,547 633,547 663,545 693,541 723,543 753,541 783,539 813,537 843,531 873,531 903,529 933,527 963,525 993,523 1023,523 1053,527"/>
+                <TextEquiv>
+                    <Unicode>or conclusions as to fact.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="291,667 1310,676 1282,595 1072,567 939,621 862,572 691,621 617,585 451,624 351,585 291,633"/>
+                <Baseline points="299,665 323,661 353,659 383,659 413,657 443,655 473,653 503,651 533,651 563,651 593,651 623,651 653,651 683,651 713,653 743,653 773,651 803,651 833,651 863,649 893,649 923,651 953,653 983,653 1013,653 1043,653 1073,653 1103,653 1133,655 1163,653 1193,653 1223,655 1253,655 1283,657 1313,661"/>
+                <TextEquiv>
+                    <Unicode>I must break off with love</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="170,812 252,790 356,794 398,776 419,787 472,766 558,783 567,698 454,733 435,716 388,726 329,698 173,783"/>
+                <Baseline points="179,795 203,793 233,793 263,789 293,787 323,783 353,777 383,773 413,771 443,765 473,763 503,761 533,761 563,761"/>
+                <TextEquiv>
+                    <Unicode>to Harrriet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="623,773 1133,773 1133,1035 623,1035"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="614,872 684,879 746,847 872,874 910,909 953,887 992,905 1038,874 1096,870 1102,776 995,771 930,791 879,777 844,804 794,803 621,757"/>
+                <Baseline points="623,847 653,847 683,849 713,847 743,847 773,847 803,845 833,847 863,843 893,841 923,837 953,833 983,829 1013,827 1043,829 1073,823 1103,829"/>
+                <TextEquiv>
+                    <Unicode>Ever affy yrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="676,1049 834,1022 1109,1018 1128,1009 1131,962 1022,929 970,955 932,920 896,933 844,907 790,919 740,897 683,927"/>
+                <Baseline points="685,1023 713,1025 743,1025 773,1023 803,1019 833,1017 863,1015 893,1015 923,1011 953,1007 983,1009 1013,1007 1043,1007 1073,1005 1103,1005 1133,1001"/>
+                <TextEquiv>
+                    <Unicode>Jos D Hooker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
